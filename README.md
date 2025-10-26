@@ -46,37 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)**
-  *<p>Article URL: <a href="https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of">https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of</a></p>
-<p...*
-  📅 Sun, 26 Oct 2025 11:18:41 +0000
+- **[Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)**
+  *<p>Hi HN — I built FlashRecord, a tiny (≈2MB) Python-native CLI tool for screenshots and GIF recordings aimed at developers who want automation-friendly, scriptable screen capture without a GUI.<p>###...*
+  📅 Sun, 26 Oct 2025 17:12:37 +0000
 
-- **[You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)**
-  *<p>Article URL: <a href="https://maurycyz.com/misc/easy_git/">https://maurycyz.com/misc/easy_git/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45710721">https://news.ycombina...*
-  📅 Sun, 26 Oct 2025 10:53:37 +0000
+- **[Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)**
+  *<p>Article URL: <a href="https://booksbypeople.org/">https://booksbypeople.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45713367">https://news.ycombinator.com/item?id=45...*
+  📅 Sun, 26 Oct 2025 16:57:44 +0000
 
-- **[Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)**
-  *<p>Article URL: <a href="https://www.southernamis.com/ataribbsconnect">https://www.southernamis.com/ataribbsconnect</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45710366">htt...*
-  📅 Sun, 26 Oct 2025 09:31:47 +0000
+- **[Movie Posters from Africa That Are So Bad, They're Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)**
+  *<p>Article URL: <a href="https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good">https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-afri...*
+  📅 Sun, 26 Oct 2025 15:47:29 +0000
 
-- **[Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)**
-  *<p>Article URL: <a href="https://diamondgeezer.blogspot.com/2025/10/asbestosis.html">https://diamondgeezer.blogspot.com/2025/10/asbestosis.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 26 Oct 2025 08:34:38 +0000
+- **[Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)**
+  *<p>Article URL: <a href="https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da">https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0ef...*
+  📅 Sun, 26 Oct 2025 15:11:51 +0000
 
-- **[What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)**
-  *<p>Article URL: <a href="https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html">https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sun, 26 Oct 2025 08:23:48 +0000
+- **[The FSF considers large language models](https://lwn.net/Articles/1040888/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1040888/">https://lwn.net/Articles/1040888/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45711786">https://news.ycombinator....*
+  📅 Sun, 26 Oct 2025 13:38:30 +0000
 
-- **[Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)**
-  *<p>Article URL: <a href="https://adventofcode.com/2025/about#faq_num_days">https://adventofcode.com/2025/about#faq_num_days</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45710...*
-  📅 Sun, 26 Oct 2025 08:19:48 +0000
+- **[Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)**
+  *<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html">https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 26 Oct 2025 12:34:36 +0000
 
 ### 📑 TechCrunch
+
+- **[Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/)**
+  *The United States and China are ready to move forward on a TikTok deal, according to Treasury Secretary Scott Bessent....*
+  📅 Sun, 26 Oct 2025 17:29:27 +0000
+
+- **[TechCrunch Mobility: The ‘robot army’ argument](https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 26 Oct 2025 16:05:00 +0000
+
+- **[Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/)**
+  *The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San...*
+  📅 Sun, 26 Oct 2025 14:00:00 +0000
 
 - **[OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)**
   *Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said....*
@@ -90,27 +99,33 @@
   *OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best....*
   📅 Sat, 25 Oct 2025 16:51:36 +0000
 
-- **[TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/)**
-  *About a week ago, I woke to a dizzying DM on Instagram — Rizzbot flipping me off. This sent me down a rabbit hole  about humanoids in society....*
-  📅 Sat, 25 Oct 2025 15:00:00 +0000
-
-- **[India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/)**
-  *BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year....*
-  📅 Sat, 25 Oct 2025 14:00:00 +0000
-
-- **[The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)**
-  *New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks....*
-  📅 Sat, 25 Oct 2025 12:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2heo)**
-  *<p>Danny Maude pins the top five reasons 90% of golfers can’t strike their irons and hybrids solidly: a mis-positioned sternum, unaligned forearms at address (the biggest culprit), wonky posture, poor...*
-  📅 Sun, 26 Oct 2025 12:05:13 +0000
+- **[NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)**
+  *<h3>
+  
+  
+  NaViL: A Smarter AI That Learns to See and Talk Together
+</h3>
 
-- **[Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1b99)**
-  *<p><strong>Jeff Su’s CORE Workflow</strong> turns chaos into clarity by teaching you to Capture every idea ASAP, Organize with zero friction, Review on a set schedule, and Engage by blocking dedicated...*
-  📅 Sun, 26 Oct 2025 12:04:58 +0000
+<p>Ever wondered how a robot could look at a photo and describe it as naturally as a friend? <strong>Scientists have discov...*
+  📅 Sun, 26 Oct 2025 18:10:41 +0000
+
+- **[How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)**
+  *<h1>
+  
+  
+  <strong>How to Write Clean DTO &amp; Entity Mappers in Java (with Spring Boot)</strong>
+</h1>
+
+<h2>
+  
+  
+  <strong>Introduction</strong>
+</h2>
+
+<p>When building a Spring Boot application...*
+  📅 Sun, 26 Oct 2025 18:08:17 +0000
 
 </details>
 
@@ -121,6 +136,18 @@
 - **[vasiliy809/shadow-rs](https://github.com/vasiliy809/shadow-rs)** ⭐ 64
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Windows Kernel Rootkit in Rust
+
+- **[ChetanChoudhary1/ZeroCrumb](https://github.com/ChetanChoudhary1/ZeroCrumb)** ⭐ 61
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dumping App Bound Protected Credentials & Cookies Without Privileges.
+
+- **[freee-for-lifetime111/kmsiii](https://github.com/freee-for-lifetime111/kmsiii)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[freely-gett/shampi](https://github.com/freely-gett/shampi)** ⭐ 50
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[yourfriend0432/KMS-system38-ver.3.4.2-BUILD5](https://github.com/yourfriend0432/KMS-system38-ver.3.4.2-BUILD5)** ⭐ 49
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -138,41 +165,33 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Corbeau01/powersub-demo-2394](https://github.com/Corbeau01/powersub-demo-2394)** ⭐ 48
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[Corbeau01/powersub-demo-4843](https://github.com/Corbeau01/powersub-demo-4843)** ⭐ 48
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[Corbeau01/powersub-demo-7911](https://github.com/Corbeau01/powersub-demo-7911)** ⭐ 48
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,764
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,790
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,095
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,106
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 908
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 939
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
 
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 635
+- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 701
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 656
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
-- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 584
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 630
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
 
-- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 575
+- **[Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** ⭐ 586
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -180,41 +199,37 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 546
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Curate, Annotate, and Manage Your Data in LightlyStudio.
-
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,656
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,289
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,398
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,172
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,182
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,803
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,827
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,253
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,267
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,668
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,673
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,226
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,229
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,807
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,809
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -484,19 +499,19 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
@@ -504,39 +519,39 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
