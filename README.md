@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[We're in the wrong moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)**
-  *<p>Article URL: <a href="https://ezrichards.github.io/posts/were-in-the-wrong-moment/">https://ezrichards.github.io/posts/were-in-the-wrong-moment/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 27 Oct 2025 03:46:44 +0000
+- **[Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719996">https://news.ycombinator.com/item?id=45719996</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Mon, 27 Oct 2025 12:00:30 +0000
 
-- **[ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)**
-  *<p>Article URL: <a href="https://jacobin.com/2025/10/ice-zignal-surveillance-social-media">https://jacobin.com/2025/10/ice-zignal-surveillance-social-media</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Mon, 27 Oct 2025 00:43:32 +0000
+- **[You Are How You Act](https://boz.com/articles/you-are-how-you-act)**
+  *<p>Article URL: <a href="https://boz.com/articles/you-are-how-you-act">https://boz.com/articles/you-are-how-you-act</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719788">htt...*
+  📅 Mon, 27 Oct 2025 11:35:58 +0000
 
-- **[How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)**
-  *<p>Article URL: <a href="https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html">https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Mon, 27 Oct 2025 00:01:17 +0000
+- **[Microsoft's folds losses from OpenAI into $4.7B expense line – "other"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)**
+  *<p>Article URL: <a href="https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai">https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai</a></p>
+<p>Comments URL:...*
+  📅 Mon, 27 Oct 2025 11:19:27 +0000
 
-- **[Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)**
-  *<p>Article URL: <a href="https://github.com/rochus-keller/Are-we-fast-yet">https://github.com/rochus-keller/Are-we-fast-yet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45715...*
-  📅 Sun, 26 Oct 2025 23:08:09 +0000
+- **[Don't forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)**
+  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/">https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Mon, 27 Oct 2025 10:01:12 +0000
 
-- **[Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)**
-  *<p><a href="https://web.archive.org/web/20251023095538/https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/" rel="nofollow">https://web.archive.org/w...*
-  📅 Sun, 26 Oct 2025 22:58:31 +0000
+- **[Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)**
+  *<p>Article URL: <a href="https://github.com/longbridge/gpui-component">https://github.com/longbridge/gpui-component</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45719004">htt...*
+  📅 Mon, 27 Oct 2025 09:44:18 +0000
 
-- **[Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)**
-  *<p>Been working on an experimental Chromium-based browser that brings 2 major features to your phone/tablet:<p>1. desktop-style extensions: natively install any extensions (like uBO) from the chrome w...*
-  📅 Sun, 26 Oct 2025 22:41:02 +0000
+- **[WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)**
+  *<p>Article URL: <a href="https://github.com/world-grow/WorldGrow">https://github.com/world-grow/WorldGrow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45718908">https://news....*
+  📅 Mon, 27 Oct 2025 09:31:29 +0000
 
 ### 📑 TechCrunch
+
+- **[Workout app Ladder launches  nutrition-tracking experience](https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/)**
+  *Fitness app Ladder is debuting a new nutrition tracking feature that lets you snap a photo to input macros....*
+  📅 Mon, 27 Oct 2025 11:30:00 +0000
 
 - **[Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/)**
   *Prosus will match Accel's investment in Indian startups under this partnership....*
@@ -96,131 +103,19 @@
   *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
   📅 Sun, 26 Oct 2025 16:05:00 +0000
 
-- **[OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)**
-  *Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said....*
-  📅 Sat, 25 Oct 2025 19:48:54 +0000
-
 ### 📑 Dev.to
 
-- **[No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-209)**
-  *<h1>
-  
-  
-  The Booth Vol.23 | Trap Draw, Ep 365
-</h1>
+- **[They grow up so fast: donating your open source project to a foundation (or: the CloudNativePG story)](https://dev.to/floord/they-grow-up-so-fast-donating-your-open-source-project-to-a-foundation-or-the-cloudnativepg-1999)**
+  *<p>The first commit to the <a href="https://cloudnative-pg.io/" rel="noopener noreferrer">CloudNativePG</a> project was made in February 2020. Just two years later, <a href="https://www.enterprisedb.c...*
+  📅 Mon, 27 Oct 2025 12:16:17 +0000
 
-<p>Cody and Neil kick things off by dishing out Mea Culpas (and asking the audience to fess up, too), then dive into Neil’s big move to the bur...*
-  📅 Mon, 27 Oct 2025 06:07:30 +0000
-
-- **[Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ed9)**
-  *<p>Ever needed a rock-solid productivity hack? Jeff Su’s CORE workflow – Capture, Organize, Review, Engage – is a four-step system he taught to over 6,600 Googlers, and it handles all your workplace i...*
-  📅 Mon, 27 Oct 2025 06:06:23 +0000
+- **[How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)**
+  *<p>A well-designed portfolio transforms early effort into visible opportunity. For an early-career applicant, a fresher developer portfolio acts as a professional resume of work. It will demonstrate a...*
+  📅 Mon, 27 Oct 2025 12:11:05 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[CarlWayne555/Discord-Twitch-Bot](https://github.com/CarlWayne555/Discord-Twitch-Bot)** ⭐ 72
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Discord Twitch Bot
-
-- **[saravanan444/Roblox-Injector](https://github.com/saravanan444/Roblox-Injector)** ⭐ 64
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A simple lua injector made specifically for roblox. (Windows Only)
-
-- **[harvestmusic/Twitch-Farmer](https://github.com/harvestmusic/Twitch-Farmer)** ⭐ 62
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A bot that helps you to get more followers on Twitch
-
-- **[destaandreas2002/TwitchFollowers](https://github.com/destaandreas2002/TwitchFollowers)** ⭐ 55
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🟣 Twitch followers discord bot. (TwitchFarmer)
-
-- **[chagowa/Basic-Injecting-code-to-roblox-process](https://github.com/chagowa/Basic-Injecting-code-to-roblox-process)** ⭐ 44
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  You inject a function into the Roblox process and execute a piece of Lua code like using the print function.
-
-- **[amit-viom/OxidizeBot](https://github.com/amit-viom/OxidizeBot)** ⭐ 43
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  High performance Twitch bot in Rust
-
-- **[AnshRPatel/twitch-account-creator](https://github.com/AnshRPatel/twitch-account-creator)** ⭐ 35
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A bot to create Twitch accounts and Follow using NodeJS
-
-- **[tuttu-codes/tuttu](https://github.com/tuttu-codes/tuttu)** ⭐ 12
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-### 📈 Weekly Trending
-
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 1,009
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A quick vibe coded app for deepseek OCR
-
-- **[apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)** ⭐ 907
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 788
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
-
-- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 727
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
-
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 689
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Workflow DevKit: Build durable, resilient, and observable workflows
-
-- **[Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** ⭐ 682
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 587
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?"
-
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 581
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
-
-### 📈 Monthly Trending
-
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 33,203
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best ChatGPT that $100 can buy.
-
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,611
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Contexts Optical Compression
-
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,199
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,862
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Code superpowers: core skills library
-
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,305
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,676
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  On-device TTS model by Neuphonic
-
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,233
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Baby Dragon Hatchling (BDH) – Architecture and Code
-
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,817
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  Contenido y ejercicios del JSCamp InfoJobs
 
 ## 🚀 Latest Releases
 
@@ -488,18 +383,18 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
@@ -508,39 +403,39 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
