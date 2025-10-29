@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,75 +46,181 @@
 
 ### 📑 Hacker News
 
-- **[AWS to bare metal two years later: Answering your questions about leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)**
-  *<p>Article URL: <a href="https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view">https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view</a></p>
-<p...*
-  📅 Wed, 29 Oct 2025 11:14:38 +0000
+- **[OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)**
+  *<p><a href="https://archive.ph/NCZhi" rel="nofollow">https://archive.ph/NCZhi</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45750425">https://news.ycombinator.com/item?...*
+  📅 Wed, 29 Oct 2025 17:44:34 +0000
 
-- **[YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/">https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_dow...*
-  📅 Wed, 29 Oct 2025 09:26:09 +0000
+- **[Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces">https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces</a></p...*
+  📅 Wed, 29 Oct 2025 17:37:08 +0000
 
-- **[SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)**
-  *<p>Article URL: <a href="https://firefox-source-docs.mozilla.org/js/gc.html">https://firefox-source-docs.mozilla.org/js/gc.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Wed, 29 Oct 2025 09:06:36 +0000
+- **[ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)**
+  *<p>Article URL: <a href="https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/">https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-fac...*
+  📅 Wed, 29 Oct 2025 17:05:24 +0000
 
-- **[Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)**
-  *<p>Article URL: <a href="https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html">https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Wed, 29 Oct 2025 05:17:49 +0000
+- **[A Year of Fast Apply – Our Path to 10k Tokens per Second](https://www.relace.ai/blog/relace-apply-3)**
+  *<p>Article URL: <a href="https://www.relace.ai/blog/relace-apply-3">https://www.relace.ai/blog/relace-apply-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45749763">https://n...*
+  📅 Wed, 29 Oct 2025 17:04:48 +0000
 
-- **[Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)**
-  *<p>Article URL: <a href="https://github.com/ecky-l/wacl">https://github.com/ecky-l/wacl</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45742616">https://news.ycombinator.com/it...*
-  📅 Wed, 29 Oct 2025 04:25:24 +0000
+- **[Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)**
+  *<p>Article URL: <a href="https://www.upwave.com/job/8228849002/">https://www.upwave.com/job/8228849002/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45749690">https://news.yc...*
+  📅 Wed, 29 Oct 2025 17:00:15 +0000
 
-- **[Keep Android Open](http://keepandroidopen.org/)**
-  *<p>Article URL: <a href="http://keepandroidopen.org/">http://keepandroidopen.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45742488">https://news.ycombinator.com/item?id=...*
-  📅 Wed, 29 Oct 2025 04:03:41 +0000
+- **[AOL to be sold to Bending Spoons for roughly $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)**
+  *<p>Article URL: <a href="https://www.axios.com/2025/10/29/aol-bending-spoons-deal">https://www.axios.com/2025/10/29/aol-bending-spoons-deal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Wed, 29 Oct 2025 16:28:56 +0000
 
 ### 📑 TechCrunch
 
-- **[MoviePass opens fantasy league game Mogul to the public](https://techcrunch.com/2025/10/29/moviepass-opens-fantasy-league-game-mogul-to-the-public/)**
-  *Mogul is a film studio fantasy platform where players draft a team of actors, directors, and movies to earn points....*
-  📅 Wed, 29 Oct 2025 12:00:00 +0000
+- **[Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others](https://techcrunch.com/2025/10/29/microsoft-azure-is-down-affecting-365-xbox-minecraft-and-others/)**
+  *Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft....*
+  📅 Wed, 29 Oct 2025 18:07:41 +0000
 
-- **[Uber to launch a premium robotaxi service in Waymo’s turf of San Francisco](https://techcrunch.com/2025/10/29/uber-to-launch-a-premium-robotaxi-service-in-waymos-turf-of-san-francisco/)**
-  *The move puts Uber in direct competitor with Waymo, which has dominated the metro area....*
-  📅 Wed, 29 Oct 2025 12:00:00 +0000
+- **[GM cuts thousands of EV and battery factory workers](https://techcrunch.com/2025/10/29/gm-cuts-thousands-of-ev-and-battery-factory-workers/)**
+  *The automaker has been on a tear of cuts to its workforce, and will idle two battery factories for the first half of 2026....*
+  📅 Wed, 29 Oct 2025 18:05:48 +0000
 
-- **[Flipkart’s Super.money teams up with Kotak811 to make India’s free UPI payments pay](https://techcrunch.com/2025/10/29/flipkarts-super-money-teams-up-with-kotak-bank-to-make-indias-free-upi-payments-pay/)**
-  *The partnership aims to issue about 2 million fixed-deposit-backed credit cards in the next 12 months....*
-  📅 Wed, 29 Oct 2025 07:30:00 +0000
+- **[Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker](https://techcrunch.com/2025/10/29/former-l3harris-trenchant-boss-pleads-guilty-to-selling-zero-day-exploits-to-russian-broker/)**
+  *Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hac...*
+  📅 Wed, 29 Oct 2025 17:40:19 +0000
 
-- **[CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)**
-  *Security researchers found a government hacking campaign that relies on Windows spyware developed by surveillance tech maker Memento Labs. When reached by TechCrunch, the spyware maker's chief executi...*
-  📅 Wed, 29 Oct 2025 05:00:00 +0000
+- **[Google to bring shuttered nuclear power plant back from the dead](https://techcrunch.com/2025/10/29/google-to-bring-shuttered-nuclear-power-plant-back-from-the-dead/)**
+  *Google is working with NextEra to reopen the Duane Arnold Energy Center in Iowa to power the tech companies data centers....*
+  📅 Wed, 29 Oct 2025 17:23:05 +0000
 
-- **[LG Uplus is latest South Korean telco to confirm cybersecurity incident](https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/)**
-  *Korean telecom giant LG Uplus is the third major phone provider in the past six months to report a cybersecurity incident....*
-  📅 Wed, 29 Oct 2025 03:55:08 +0000
+- **[Bending Spoons to acquire AOL](https://techcrunch.com/2025/10/29/bending-spoons-to-acquire-aol/)**
+  *Wednesday's news marks a new chapter for AOL, which was once one of the most recognized brands on the internet, known for its email service and "You've Got Mail" notification....*
+  📅 Wed, 29 Oct 2025 17:13:07 +0000
 
-- **[Tata Motors confirms it fixed security flaws, which exposed company and customer data](https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/)**
-  *A security researcher found the Indian automotive giant exposing personal information of its customers, internal company reports, and dealers’ data. Tata confirmed it fixed the issues....*
-  📅 Wed, 29 Oct 2025 01:30:00 +0000
+- **[ElevenLabs CEO says AI audio models will be ‘commoditized’ over time](https://techcrunch.com/2025/10/29/elevenlabs-ceo-says-ai-audio-models-will-be-commoditized-over-time/)**
+  *ElevenLabs' founder Mati Staniszewski said that, in the short term, AI audio models were still the "biggest advantage and the biggest step change you can have today."...*
+  📅 Wed, 29 Oct 2025 16:59:14 +0000
 
 ### 📑 Dev.to
 
-- **[How to Design a Spiral Spring Toy using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-spring-toy-using-3d-cad-software-15jo)**
-  *<p>How to Design a Spiral Spring Toy using 3D CAD Software<br />
-Creating a spiral spring toy is a great way to explore 3D design while having some fun at the same time. Using SelfCAD, an easy-to-use ...*
-  📅 Wed, 29 Oct 2025 12:18:04 +0000
+- **[Como ajudar as pessoas a contribuirem com seu projeto Open Source](https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm)**
+  *<p><em>Essa é uma submissão para o <a href="https://dev.to/challenges/hacktoberfest">Desafio de escrita do Hacktoberfest 2025</a>: Reflexões sobre Open Source.</em></p>
 
-- **[The Odyssey of an E-Commerce Order](https://dev.to/bias/the-odyssey-of-an-e-commerce-order-o09)**
-  *<p>Recently, after an exhausting 30-kilometer cycling sprint, I made a terrifying discovery: a chain link was suffering from a critical integrity breach! Thankfully, I'd managed to bootstrap my way ho...*
-  📅 Wed, 29 Oct 2025 12:14:06 +0000
+<h2>
+  
+  
+  Tenha um <code>RE...*
+  📅 Wed, 29 Oct 2025 18:16:25 +0000
+
+- **[How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)**
+  *<p>Recently, I’ve been travelling around the country to help engineers learn how to build MCP Servers and AI Agents serverlessly on Cloud Run in our <a href="https://goo.gle/accelerate-ai">Accelerate ...*
+  📅 Wed, 29 Oct 2025 18:09:55 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[VuNguyenDevMobile/roblox-dll-injector](https://github.com/VuNguyenDevMobile/roblox-dll-injector)** ⭐ 74
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  a roblox dll injector in csharp bringing back the og days
+
+- **[yasguy44/rustransomware](https://github.com/yasguy44/rustransomware)** ⭐ 73
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
+
+- **[faizur12900/LummaC2-Stealer](https://github.com/faizur12900/LummaC2-Stealer)** ⭐ 60
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  LummaC2 extracted binaries by reversing & LummaC2 Stealer Analysis
+
+- **[pepaas/Panther-Stealer](https://github.com/pepaas/Panther-Stealer)** ⭐ 57
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Gasteuly/AIMi](https://github.com/Gasteuly/AIMi)** ⭐ 49
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AIMi its an AI aimbot, it work by real-time object detection with neural networks, and recognizes the patterns similar to human movements and human formation it will identify the head as a target . It's an improved version of a very old version of YOLOv3
+
+- **[Jalcarazdev/nimrod-stealer](https://github.com/Jalcarazdev/nimrod-stealer)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Powerful Token Stealer! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer
+
+- **[khaolaa/CS2_DMA_Radar](https://github.com/khaolaa/CS2_DMA_Radar)** ⭐ 43
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  CS2 DMA 雷达
+
+- **[adilm6826/DiscordRAT](https://github.com/adilm6826/DiscordRAT)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Discord Remote Administration Tool fully written in Python3
+
+### 📈 Weekly Trending
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 4,374
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,396
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
+
+- **[pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** ⭐ 1,188
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 897
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Workflow DevKit: Build durable, resilient, and observable workflows
+
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 808
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MiniMax-M2, a Mini model built for Max coding & agentic workflows.
+
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 790
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 766
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 592
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Bring Microsoft Recall to Linux!
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,211
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,499
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,272
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,123
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code superpowers: core skills library
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 4,374
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 3,995
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,723
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  On-device TTS model by Neuphonic
+
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,248
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Baby Dragon Hatchling (BDH) – Architecture and Code
 
 ## 🚀 Latest Releases
 
@@ -151,14 +257,9 @@ Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2)
 
 ### 📦 angular/angular
 
-**[20.3.7](https://github.com/angular/angular/releases/tag/20.3.7)** `20.3.7`
+**[20.3.9](https://github.com/angular/angular/releases/tag/20.3.9)** `20.3.9`
 
-📅 Released: October 22, 2025
-
-### animations
-| Commit | Description |
-| -- | -- |
-| [![fix - bd38cd45a5](https://img.shields.io/badge/bd38cd45a5-fix-green)](https://github.com/angular/angular/commit/bd38cd45a5fb81e92b91e582d7b13aa...
+📅 Released: October 29, 2025
 
 ---
 
@@ -386,10 +487,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
@@ -397,7 +498,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
@@ -405,39 +506,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
