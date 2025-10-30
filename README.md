@@ -46,14 +46,20 @@
 
 ### 📑 Hacker News
 
-- **[Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/">https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/<...*
-  📅 Thu, 30 Oct 2025 04:29:45 +0000
+- **[Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)**
+  *<p>Article URL: <a href="https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html">https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 30 Oct 2025 11:33:55 +0000
 
-- **[One year with Next.js App Router and why we're moving on](https://paperclover.net/blog/webdev/one-year-next-app-router)**
-  *<p>Article URL: <a href="https://paperclover.net/blog/webdev/one-year-next-app-router">https://paperclover.net/blog/webdev/one-year-next-app-router</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 30 Oct 2025 02:48:21 +0000
+- **[Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)**
+  *<p>Article URL: <a href="https://roberdam.com/en/dinversiones.html">https://roberdam.com/en/dinversiones.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45758421">https://n...*
+  📅 Thu, 30 Oct 2025 10:39:21 +0000
+
+- **[Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2510.15511">https://arxiv.org/abs/2510.15511</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45758093">https://news.ycombinator.co...*
+  📅 Thu, 30 Oct 2025 09:47:24 +0000
 
 - **[Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)**
   *<p>Article URL: <a href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31">https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31</a></p>
@@ -69,11 +75,6 @@
   *<p>Article URL: <a href="https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/">https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/</a></p>
 <p>Comments URL: <a href="https:...*
   📅 Wed, 29 Oct 2025 23:52:09 +0000
-
-- **[Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)**
-  *<p>Article URL: <a href="https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/">https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/</a></p>
-<p>Comments ...*
-  📅 Wed, 29 Oct 2025 23:31:24 +0000
 
 ### 📑 TechCrunch
 
@@ -103,14 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)**
-  *<p><strong>The Productivity System I Taught to 6,642 Googlers</strong><br /><br />
-Over nine years, Jeff Su distilled every bit of workplace info into a four-step CORE workflow—Capture, Organize, Revi...*
-  📅 Thu, 30 Oct 2025 06:05:40 +0000
+- **[HappyTravel 🌍 — Helping Tourists Find Their Way Comfortably](https://dev.to/d399def9/happytravel-helping-tourists-find-their-way-comfortably-4kb0)**
+  *<h2>
+  
+  
+  ✨ My Goal
+</h2>
 
-- **[Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b)**
-  *<p>Bill Simmons, Chris Ryan, and Van Lathan reunite to rewatch 1981’s Halloween II, debating whether Michael Myers truly earns GOAT status, sharing their most rewatchable moments, and hashing out fun ...*
-  📅 Thu, 30 Oct 2025 06:00:37 +0000
+<p>I built <strong>HappyTravel</strong> because I wanted to make sure tourists never feel lost or uncomfortable when trying to find roads, directions, or attractions in a...*
+  📅 Thu, 30 Oct 2025 12:22:42 +0000
+
+- **[Merge K Sorted Lists](https://dev.to/we_are_broken_compilers/merge-k-sorted-lists-3ah7)**
+  *<p>If you’ve ever wondered “how the heck do we merge multiple sorted linked lists efficiently?” — this post is for you.</p>
+
+<p>We’ll break down the Merge K Sorted Lists problem step-by-step, explain ...*
+  📅 Thu, 30 Oct 2025 12:21:29 +0000
 
 </details>
 
@@ -118,103 +126,103 @@ Over nine years, Jeff Su distilled every bit of workplace info into a four-step 
 
 ### 📈 Daily Trending
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 49
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 289
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** ⭐ 29
+- **[xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** ⭐ 65
   ![Python](https://img.shields.io/badge/-Python-blue)
   一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事
 
-- **[Yupsecous/powersub-demo-5568](https://github.com/Yupsecous/powersub-demo-5568)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[xenitV1/cursor-dynamic-rules-system](https://github.com/xenitV1/cursor-dynamic-rules-system)** ⭐ 37
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Yupsecous/powersub-demo-7510](https://github.com/Yupsecous/powersub-demo-7510)** ⭐ 22
+- **[stevelsono/Arcania](https://github.com/stevelsono/Arcania)** ⭐ 30
   ![Java](https://img.shields.io/badge/-Java-orange)
+  RPG Minecraft modpack featuring exclusive bosses, custom classes, and companion progerssion. Availabie exclusively on Github.
+
+- **[teddynote-lab/langgraph-v1-tutorial](https://github.com/teddynote-lab/langgraph-v1-tutorial)** ⭐ 22
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  LangGraph V1 Tutorial in Korean
+
+- **[bootbillytim6/fl-klarasatie6399f](https://github.com/bootbillytim6/fl-klarasatie6399f)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Yupsecous/powersub-demo-3316](https://github.com/Yupsecous/powersub-demo-3316)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[sexyboydimasamp8/fatimafioref1127](https://github.com/sexyboydimasamp8/fatimafioref1127)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Yupsecous/powersub-demo-9232](https://github.com/Yupsecous/powersub-demo-9232)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Yupsecous/powersub-demo-1633](https://github.com/Yupsecous/powersub-demo-1633)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Yupsecous/powersub-demo-9239](https://github.com/Yupsecous/powersub-demo-9239)** ⭐ 22
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[jianyun8023/soulx-tts-metal](https://github.com/jianyun8023/soulx-tts-metal)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  SoulX Podcast TTS Metal Test
 
 ### 📈 Weekly Trending
 
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,436
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
-
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 1,255
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 1,666
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 853
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,472
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
+
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 888
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiniMax-M2, a Mini model built for Max coding & agentic workflows.
 
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 796
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 808
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 643
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 705
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 601
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 606
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Bring Microsoft Recall to Linux!
 
-- **[terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)** ⭐ 532
+- **[terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)** ⭐ 548
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades
 
-- **[AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** ⭐ 470
+- **[AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** ⭐ 473
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,350
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,456
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,594
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,659
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 5,380
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 6,100
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,292
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,295
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,175
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,207
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 4,588
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 5,054
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,729
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,737
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,847
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,885
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -317,14 +325,14 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2)** `v2.40.2`
+**[v2.40.3](https://github.com/docker/compose/releases/tag/v2.40.3)** `v2.40.3`
 
-📅 Released: October 22, 2025
+📅 Released: October 30, 2025
 
 ## What's Changed
 ### 🐛 Fixes
-* Compose can't create a tar with adequate uid:gid ownership by @ndeloof in https://github.com/docker/compose/pull/13299
-* Test digest or canonical reference, not only...
+* Fix OCI compose override support by @ndeloof https://github.com/docker/compose/pull/13311
+* Fix help output for "exec --no-tty" option by @tonyo https://github.com/d...
 
 ---
 
@@ -482,59 +490,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
