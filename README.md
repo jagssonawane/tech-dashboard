@@ -46,70 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[After delays, Egypt set for lavish opening of grand museum](https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html)**
-  *<p>Article URL: <a href="https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html">https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 31 Oct 2025 11:41:25 +0000
+- **[Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)**
+  *<p>Article URL: <a href="https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate">https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate</a></p>
+<p>Comments URL: <a href...*
+  📅 Fri, 31 Oct 2025 17:42:55 +0000
 
-- **[Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2510.22371">https://arxiv.org/abs/2510.22371</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45769971">https://news.ycombinator.co...*
-  📅 Fri, 31 Oct 2025 09:23:41 +0000
+- **[Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)**
+  *<p>Article URL: <a href="https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html">https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10...*
+  📅 Fri, 31 Oct 2025 17:08:39 +0000
 
-- **[AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)**
-  *<p>Article URL: <a href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/">https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built...*
-  📅 Fri, 31 Oct 2025 03:07:48 +0000
+- **[Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)**
+  *<p>Article URL: <a href="https://docs.pangolin.net/careers/software-engineer-full-stack">https://docs.pangolin.net/careers/software-engineer-full-stack</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 31 Oct 2025 17:00:37 +0000
 
-- **[John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)**
-  *<p>Article URL: <a href="https://twitter.com/id_aa_carmack/status/1983593511703474196">https://twitter.com/id_aa_carmack/status/1983593511703474196</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Fri, 31 Oct 2025 02:34:36 +0000
+- **[Just Use a Button](https://gomakethings.com/just-use-a-button/)**
+  *<p>Article URL: <a href="https://gomakethings.com/just-use-a-button/">https://gomakethings.com/just-use-a-button/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45774182">https...*
+  📅 Fri, 31 Oct 2025 16:59:22 +0000
 
-- **[Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)**
-  *<p>Article URL: <a href="https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952">https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952</a></p>
-<p>Comments URL: <a hr...*
-  📅 Fri, 31 Oct 2025 01:00:45 +0000
+- **[Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)**
+  *<p>Article URL: <a href="https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/">https://www.zdnet.com/article/another-european-agency-ditc...*
+  📅 Fri, 31 Oct 2025 16:39:22 +0000
 
-- **[Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)**
-  *<p>Article URL: <a href="https://github.com/fulcrumresearch/quibbler">https://github.com/fulcrumresearch/quibbler</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45767162">https...*
-  📅 Fri, 31 Oct 2025 00:43:57 +0000
+- **[AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)**
+  *<p>Article URL: <a href="https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/">https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Fri, 31 Oct 2025 15:44:19 +0000
 
 ### 📑 TechCrunch
 
-- **[Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/)**
-  *Thanks to everyone who made this year's San Francisco event what it was -- and to the 10,000 of you who filled the halls, made the connections, and left with more than you came with. Couldn't make it?...*
-  📅 Fri, 31 Oct 2025 04:02:33 +0000
+- **[ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/)**
+  *A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year....*
+  📅 Fri, 31 Oct 2025 17:36:20 +0000
 
-- **[Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/)**
-  *Navan finished its first day trading at an approximate valuation of $4.7 billion, which is about half of its last private valuation of $9.2 billion....*
-  📅 Thu, 30 Oct 2025 21:41:40 +0000
+- **[Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/)**
+  *Tattd, a marketplace for tattoo-seekers and artists, set up a mini tattoo parlor in the Expo Hall at TechCrunch Disrupt 2025....*
+  📅 Fri, 31 Oct 2025 17:32:09 +0000
 
-- **[Nvidia is reportedly investing up to $1B in Poolside](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/)**
-  *Nvidia is an existing investor in the AI company and participated in its $500 million Series A round in 2024....*
-  📅 Thu, 30 Oct 2025 21:10:17 +0000
+- **[Hackers threaten to leak data after breaching University of Pennsylvania to send mass emails](https://techcrunch.com/2025/10/31/hackers-threaten-to-leak-data-after-breaching-university-of-pennsylvania-to-send-mass-emails/)**
+  *The hackers sent out mass-emails using official University of Pennsylvania email accounts, and threatened to leak university data....*
+  📅 Fri, 31 Oct 2025 17:30:02 +0000
 
-- **[Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/)**
-  *Canva is launching new features like Forms and email design, and it makes Affinity free for all users....*
-  📅 Thu, 30 Oct 2025 17:00:00 +0000
+- **[AWS exceeds Wall Street’s expectations as demand for cloud infra remains high](https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/)**
+  *AWS continues to see strong demand as companies gobble up its cloud infrastructure services in the age of AI....*
+  📅 Fri, 31 Oct 2025 16:59:18 +0000
 
-- **[Bevel raises $10M Series A from General Catalyst for its AI health companion](https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/)**
-  *Bevel's AI health companion unifies data from wearables and daily habits across sleep, fitness, and nutrition into personalized insights....*
-  📅 Thu, 30 Oct 2025 16:05:00 +0000
+- **[Government hackers breached telecom giant Ribbon for months before getting caught](https://techcrunch.com/2025/10/31/government-hackers-breached-telecom-giant-ribbon-for-months-before-getting-caught/)**
+  *Ribbon, which provides software and technology to phone and internet giants, said nation-state hackers were in its systems since at least December 2024....*
+  📅 Fri, 31 Oct 2025 16:45:38 +0000
 
-- **[Threads now lets you approve and filter your replies](https://techcrunch.com/2025/10/30/threads-now-lets-you-approve-and-filter-your-replies/)**
-  *While Threads already offers tools that let you limit replies to people you follow, your followers, or people you mention, the new feature allows you to keep your replies open to all without the negat...*
-  📅 Thu, 30 Oct 2025 15:45:00 +0000
+- **[Perplexity strikes multi-year licensing deal with Getty Images](https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/)**
+  *Perplexity’s agreement with Getty appears to legitimize some of the startup’s previous use of Getty’s stock photos. Perplexity came under fire last year for a series of plagiarism accusations from sev...*
+  📅 Fri, 31 Oct 2025 15:46:14 +0000
 
 ### 📑 Dev.to
 
-- **[Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency](https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Fri, 31 Oct 2025 12:20:43 +0000
+- **[CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)**
+  *<p>Everything Wrong With Frankenweenie In 14 Minutes Or Less is a new CinemaSins video where the team lovingly roasts Tim Burton’s Frankenweenie, tallying every “sin” while celebrating the film’s char...*
+  📅 Fri, 31 Oct 2025 18:12:21 +0000
 
-- **[A Dashboard About Scammers, Telemarketers, My Cellphone, and Who Annoys Me Most](https://dev.to/caldas/a-dashboard-about-scammers-telemarketers-my-cellphone-and-who-annoys-me-most-2dml)**
-  *<p>Not sure how things go in other countries, but here in Brazil, dodging unwanted calls has become a national sport — if only there were medals for it. Every day, we’re bombarded by scammers, telemar...*
-  📅 Fri, 31 Oct 2025 12:17:24 +0000
+- **[Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? (International Series)](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)**
+  *<h1>
+  
+  
+  Can We Make the Cut in Our Return to Pro Golf?
+</h1>
+
+<p>The Bryan Bros are back on the course, teeing off in an Asian Tour International Series event and wondering if they can survive th...*
+  📅 Fri, 31 Oct 2025 18:08:13 +0000
 
 </details>
 
@@ -121,99 +126,99 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Game enhancement tool
 
+- **[MicroAbtin/Nihon-Executor](https://github.com/MicroAbtin/Nihon-Executor)** ⭐ 59
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Nihon Executor — Japanese-Styled Roblox Injector with Stability (2025)
+
 - **[m33rcy/Powerfull-Token-Stealer](https://github.com/m33rcy/Powerfull-Token-Stealer)** ⭐ 38
   ![Python](https://img.shields.io/badge/-Python-blue)
   🐲 Powerfull Discord Token Stealer made in python
 
-- **[patrickomp/Taunahi-Minecraft](https://github.com/patrickomp/Taunahi-Minecraft)** ⭐ 35
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Collection of useful features and tools designed for Minecraft players who value comfort and personalization.
-
-- **[thvv-qaq/Mercurial-Grabber](https://github.com/thvv-qaq/Mercurial-Grabber)** ⭐ 33
+- **[thvv-qaq/Mercurial-Grabber](https://github.com/thvv-qaq/Mercurial-Grabber)** ⭐ 34
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   Grab Discord tokens, Chrome passwords and cookies, and more
 
-- **[ZiyuGuo99/MME-CoF](https://github.com/ZiyuGuo99/MME-CoF)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Are Video Models Ready as Zero-shot Reasoners?
+- **[deepaudiovz/ClockMaster](https://github.com/deepaudiovz/ClockMaster)** ⭐ 20
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Material clock app for android 🕛⏰
 
-- **[MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents.
-
-- **[chelw97/nofx-better-prompt](https://github.com/chelw97/nofx-better-prompt)** ⭐ 11
+- **[chelw97/nofx-better-prompt](https://github.com/chelw97/nofx-better-prompt)** ⭐ 19
   ![Go](https://img.shields.io/badge/-Go-cyan)
   better prompt fot nofx project
 
-- **[Narutare/1](https://github.com/Narutare/1)** ⭐ 10
+- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 17
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
+
+- **[ZiyuGuo99/MME-CoF](https://github.com/ZiyuGuo99/MME-CoF)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Are Video Models Ready as Zero-shot Reasoners?
 
 ### 📈 Weekly Trending
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 2,593
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,000
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,540
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 1,547
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 
-- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 981
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiniMax-M2, a model built for Max coding & agentic workflows.
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 976
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,082
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 842
+- **[MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** ⭐ 1,007
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MiniMax-M2, a model built for Max coding & agentic workflows.
+
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 847
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 784
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 803
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 709
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 749
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native Multimodal Models are World Learners
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 633
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 650
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Bring Microsoft Recall to Linux!
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,687
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,724
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,850
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,892
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 7,936
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,002
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 6,329
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 6,635
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & reference implementation.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,409
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,434
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,318
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,321
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,746
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,751
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 2,983
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,007
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -483,8 +488,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
 | Go | 🔴 Beginner |
 
@@ -492,18 +497,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
@@ -512,29 +517,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
