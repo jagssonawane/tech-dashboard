@@ -46,26 +46,10 @@
 
 ### 📑 Hacker News
 
-- **[Intent to Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)**
-  *<p>Article URL: <a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ">https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ</a></p>
-<p...*
-  📅 Sat, 01 Nov 2025 04:31:52 +0000
-
-- **[Precise and scalable analogue matrix equation solving using resistive RAM chips](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)**
-  *<p>Study Paper: <a href="https://www.nature.com/articles/s41928-025-01477-0" rel="nofollow">https://www.nature.com/articles/s41928-025-01477-0</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sat, 01 Nov 2025 04:09:20 +0000
-
 - **[The profitable startup](https://linear.app/now/the-profitable-startup)**
   *<p>Article URL: <a href="https://linear.app/now/the-profitable-startup">https://linear.app/now/the-profitable-startup</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45778984">h...*
   📅 Sat, 01 Nov 2025 03:18:04 +0000
-
-- **[Fungus: The Befunge CPU (2015)](https://www.bedroomlan.org/hardware/fungus/)**
-  *<p>Article URL: <a href="https://www.bedroomlan.org/hardware/fungus/">https://www.bedroomlan.org/hardware/fungus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45778566">https...*
-  📅 Sat, 01 Nov 2025 01:38:24 +0000
 
 - **[Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)**
   *<p>I went down the rabbit hole on a side project and ended up building this: Strange Attractors(<a href="https://blog.shashanktomar.com/posts/strange-attractors" rel="nofollow">https://blog.shashankto...*
@@ -74,6 +58,21 @@
 - **[Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)**
   *<p>Article URL: <a href="https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town">https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-...*
   📅 Fri, 31 Oct 2025 23:03:56 +0000
+
+- **[S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)**
+  *<p>Article URL: <a href="https://github.com/vindar/SARCASM">https://github.com/vindar/SARCASM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45777682">https://news.ycombinator....*
+  📅 Fri, 31 Oct 2025 23:03:18 +0000
+
+- **[A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)**
+  *<p>Article URL: <a href="https://enaix.github.io/2025/10/30/developer-verification.html">https://enaix.github.io/2025/10/30/developer-verification.html</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 31 Oct 2025 20:20:42 +0000
+
+- **[Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)**
+  *<p>Article URL: <a href="https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate">https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate</a></p>
+<p>Comments URL: <a href...*
+  📅 Fri, 31 Oct 2025 17:42:55 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +102,20 @@
 
 ### 📑 Dev.to
 
-- **[Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)**
-  *<p>Learn how Tetrix connects code, infrastructure, and operations to your AI, enabling it to reason across your full software system.</p>
+- **[Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)**
+  *<p>When I started building Alexandrie, I just wanted a fast, offline Markdown note-taking app I could rely on daily.<br />
+But as the project grew — with nested categories, shared workspaces, and acce...*
+  📅 Sat, 01 Nov 2025 12:17:22 +0000
 
-<p><a href="https://deskree.com/how-it-works" rel="noopener n...*
-  📅 Sat, 01 Nov 2025 06:07:44 +0000
+- **[Build a Telegram Bot with ESP32-CAM for Remote Image & Video Capture](https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949)**
+  *<h2>
+  
+  
+  <strong>Introduction</strong>
+</h2>
 
-- **[How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a)**
-  *<p>Hi everyone! Hope you’re all doing great.</p>
-
-<p>It’s been quite a while since my last post (on other platforms too 😅), and I’m excited to finally share something new with you all.</p>
-
-<p>Lately,...*
-  📅 Sat, 01 Nov 2025 06:06:39 +0000
+<p>In this post, I’ll walk you through how to build a wireless image/video capture system using the ESP32‑CAM (AI-Thinker version) and the Telegram Bo...*
+  📅 Sat, 01 Nov 2025 12:15:56 +0000
 
 </details>
 
@@ -123,7 +123,7 @@
 
 ### 📈 Daily Trending
 
-- **[Jonathansobrino/Sora2-Watermark-Remover](https://github.com/Jonathansobrino/Sora2-Watermark-Remover)** ⭐ 57
+- **[Jonathansobrino/Sora2-Watermark-Remover](https://github.com/Jonathansobrino/Sora2-Watermark-Remover)** ⭐ 143
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI watermark remover and media cleaner by Claude + GPT-5 hybrid model. Clean and retouch your own videos and images with realistic, artifact-free results.
 
@@ -157,31 +157,31 @@
 
 ### 📈 Weekly Trending
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,457
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,786
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,177
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,254
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 829
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 850
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 800
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 826
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native Multimodal Models are World Learners
 
-- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 686
+- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 735
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 670
+- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 677
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Bring Microsoft Recall to Linux!
 
-- **[HannesStark/boltzgen](https://github.com/HannesStark/boltzgen)** ⭐ 496
+- **[HannesStark/boltzgen](https://github.com/HannesStark/boltzgen)** ⭐ 498
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   None
 
@@ -191,35 +191,35 @@
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,800
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,845
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,933
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,958
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,069
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,099
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 6,940
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 7,160
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & reference implementation.
+  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,504
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,527
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,337
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,340
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,457
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 3,786
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,039
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,051
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -488,40 +488,40 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -530,8 +530,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
