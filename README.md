@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 01, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 02, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,33 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Stack based Prolog. Cool thing you can do with DCGs](https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/">https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_...*
-  📅 Sat, 01 Nov 2025 17:58:22 +0000
+- **[Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/private-rate-limiting/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/private-rate-limiting/">https://blog.cloudflare.com/private-rate-limiting/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 02 Nov 2025 00:45:13 +0000
 
-- **[Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)**
-  *<p>Article URL: <a href="https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/">https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-tho...*
-  📅 Sat, 01 Nov 2025 17:50:38 +0000
+- **[Pomelli](https://labs.google.com/pomelli/about/)**
+  *<p>Article URL: <a href="https://labs.google.com/pomelli/about/">https://labs.google.com/pomelli/about/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45786324">https://news.yc...*
+  📅 Sat, 01 Nov 2025 23:09:25 +0000
 
-- **[Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)**
-  *<p>I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to an LLM with three tools: database (SQLite), webR...*
-  📅 Sat, 01 Nov 2025 17:45:18 +0000
+- **[Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)**
+  *<p>I built this after seeing multiple teams accidentally ship API keys in their frontend code.<p>The problem: Modern web development moves fast. You're vibe-coding, shipping features, and suddenly you...*
+  📅 Sat, 01 Nov 2025 22:52:22 +0000
 
-- **[OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)**
-  *<p>Article URL: <a href="https://thezvi.substack.com/p/openai-moves-to-complete-potentially">https://thezvi.substack.com/p/openai-moves-to-complete-potentially</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sat, 01 Nov 2025 17:25:12 +0000
+- **[OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)**
+  *<p>Article URL: <a href="https://www.opendesk.eu/en/product">https://www.opendesk.eu/en/product</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45785986">https://news.ycombinato...*
+  📅 Sat, 01 Nov 2025 22:26:03 +0000
 
-- **[The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)**
-  *<p>Article URL: <a href="https://www.noahpinion.blog/p/the-giant-basket-case-countries">https://www.noahpinion.blog/p/the-giant-basket-case-countries</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Sat, 01 Nov 2025 17:24:57 +0000
+- **[OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)**
+  *<p>Article URL: <a href="https://visopsys.org/">https://visopsys.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45785858">https://news.ycombinator.com/item?id=45785858</a>...*
+  📅 Sat, 01 Nov 2025 22:07:49 +0000
 
-- **[How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)**
-  *<p>Article URL: <a href="https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/">https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/</a></p...*
-  📅 Sat, 01 Nov 2025 17:21:08 +0000
+- **[SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)**
+  *<p>Article URL: <a href="https://sailfishos.org/info/">https://sailfishos.org/info/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45785840">https://news.ycombinator.com/item?i...*
+  📅 Sat, 01 Nov 2025 22:05:00 +0000
 
 ### 📑 TechCrunch
+
+- **[Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/)**
+  *Elon Musk and Sam Altman are still taking swipes at each other on Musk’s social media platform X....*
+  📅 Sat, 01 Nov 2025 20:01:10 +0000
 
 - **[Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)**
   *While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....*
@@ -94,28 +101,27 @@
   *As users "dislike" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings....*
   📅 Fri, 31 Oct 2025 20:14:06 +0000
 
-- **[Meta bought 1 GW of solar this week](https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/)**
-  *The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint....*
-  📅 Fri, 31 Oct 2025 19:26:30 +0000
-
 ### 📑 Dev.to
 
-- **[Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/jay_sheth">
-    <div class="ltag__link__pic">
-      <img alt="jay_sheth" src="https://media2.dev.to/dynamic/image/width=800%...*
-  📅 Sat, 01 Nov 2025 18:06:17 +0000
+- **[AndesVL Technical Report: An Efficient Mobile-side Multimodal Large LanguageModel](https://dev.to/paperium/andesvl-technical-report-an-efficient-mobile-side-multimodal-large-languagemodel-3n1c)**
+  *<h3>
+  
+  
+  AndesVL: AI That Fits Right Inside Your Pocket
+</h3>
 
-- **[Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)**
+<p>Ever imagined your phone could <em>see</em> and <em>think</em> like a mini‑computer brain? <strong>Scientists have created</strong...*
+  📅 Sun, 02 Nov 2025 00:40:49 +0000
+
+- **[life is a meme!](https://dev.to/bibimbop123/life-is-a-meme-43fm)**
   *<h1>
   
   
-  3 Golf Swing Tips That I Wish I'd Told You Sooner
+  MemeExplorer Sinatra App — Developer Takeaways
 </h1>
 
-<p>In this quick, 6-minute practice plan, Danny Maude debunks the “8–10 hours a day” myth and shows how just a few simple drills e...*
-  📅 Sat, 01 Nov 2025 18:06:10 +0000
+<p>This file summarizes my major learnings and insights while building the <code>MemeExplorer</code> Sinatra app. It reflects both te...*
+  📅 Sun, 02 Nov 2025 00:24:50 +0000
 
 </details>
 
@@ -123,103 +129,103 @@
 
 ### 📈 Daily Trending
 
-- **[Jonathansobrino/Sora2-Watermark-Remover](https://github.com/Jonathansobrino/Sora2-Watermark-Remover)** ⭐ 143
+- **[yeimerjose/Twitch-Farmer](https://github.com/yeimerjose/Twitch-Farmer)** ⭐ 50
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A bot that helps you to get more followers on Twitch
+
+- **[HackerUmair/Portiofile_Web](https://github.com/HackerUmair/Portiofile_Web)** ⭐ 2
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[Gilgamesh25/Website-Kartu-Keluarga-dan-Pencatatan-Warga](https://github.com/Gilgamesh25/Website-Kartu-Keluarga-dan-Pencatatan-Warga)** ⭐ 1
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  None
+
+- **[fulldev1031/winui-services](https://github.com/fulldev1031/winui-services)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A modern WinUI 3 replacement for Windows Services Manager with dark mode, service grouping, and improved UX
+
+- **[mohraflifawaid-ship-it/rafli-](https://github.com/mohraflifawaid-ship-it/rafli-)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI watermark remover and media cleaner by Claude + GPT-5 hybrid model. Clean and retouch your own videos and images with realistic, artifact-free results.
+  None
 
-- **[fafido/Nullpoint-Stealer](https://github.com/fafido/Nullpoint-Stealer)** ⭐ 75
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
+- **[shaurya0702-droid/Linear_Reg_Scratch](https://github.com/shaurya0702-droid/Linear_Reg_Scratch)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud](https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud)** ⭐ 75
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  With unwavering precision, Google Chrome safeguards user data within an unyielding fortress of security. Hence, for the Mercuria
-
-- **[tasammie/rustransomware](https://github.com/tasammie/rustransomware)** ⭐ 73
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
-
-- **[DevJorgeMh/Creal-Stealer](https://github.com/DevJorgeMh/Creal-Stealer)** ⭐ 71
+- **[JordanAllen101/AioProx](https://github.com/JordanAllen101/AioProx)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A Powerfull Token Stealer!!!! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
+  aioprox – Asynchronous proxy manager for Python. Fetch, test, and filter HTTP/SOCKS proxies with optional latency measurement and custom sources.
 
-- **[ofirsharon/ZeroCrumb](https://github.com/ofirsharon/ZeroCrumb)** ⭐ 71
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Game enhancement tool
-
-- **[rushiopenInfotech/Vare-Stealer](https://github.com/rushiopenInfotech/Vare-Stealer)** ⭐ 69
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  The Best Stealer, Fully Undetected Discord, Browser, Roblox Stealer, Cookie Password Token Stealer
-
-- **[tmcmurat/Exela-V2.0](https://github.com/tmcmurat/Exela-V2.0)** ⭐ 69
+- **[tushaar82/disha-lms](https://github.com/tushaar82/disha-lms)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Game enhancement tool
+  None
 
 ### 📈 Weekly Trending
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,083
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,246
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,533
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 1,719
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 864
+- **[Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** ⭐ 869
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 852
+- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 863
   ![Python](https://img.shields.io/badge/-Python-blue)
   Native Multimodal Models are World Learners
 
-- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 771
+- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 780
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux)** ⭐ 679
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Bring Microsoft Recall to Linux!
+- **[oyokki/sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover)** ⭐ 402
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sora 2 AI generated videos gentle watermark remover
 
-- **[HannesStark/boltzgen](https://github.com/HannesStark/boltzgen)** ⭐ 499
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+- **[jun6ry/sora2-api](https://github.com/jun6ry/sora2-api)** ⭐ 359
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A tool for generating videos using the Sora 2 API.
 
-- **[numman-ali/openskills](https://github.com/numman-ali/openskills)** ⭐ 471
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Universal skills loader for AI coding agents - npm i -g openskills
+- **[kirodaki/eth-python-utils](https://github.com/kirodaki/eth-python-utils)** ⭐ 326
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Ethereum utilities and protocol library for interacting with the network
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,889
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 34,931
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 18,989
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,014
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,140
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,163
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 7,385
+- **[johannschopplich/toon](https://github.com/johannschopplich/toon)** ⭐ 7,460
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,551
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,575
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code superpowers: core skills library
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,343
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,347
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,083
+- **[tinkle-community/nofx](https://github.com/tinkle-community/nofx)** ⭐ 4,246
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,072
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,079
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -488,28 +494,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
@@ -519,10 +525,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
@@ -531,16 +537,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -558,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 01, 2025
+**Last Updated:** November 02, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
