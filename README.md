@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,178 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)**
-  *<p>Article URL: <a href="https://ladybird.org/newsletter/2025-10-31/">https://ladybird.org/newsletter/2025-10-31/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45809897">https...*
-  📅 Tue, 04 Nov 2025 11:52:02 +0000
+- **[Michael Burry a.k.a. "Big Short",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)**
+  *<p>Article URL: <a href="https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/">https://sherwood.news/markets/michael-burry-big-short-di...*
+  📅 Tue, 04 Nov 2025 17:44:12 +0000
 
-- **[What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/what-is-a-manifold-20251103/">https://www.quantamagazine.org/what-is-a-manifold-20251103/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Tue, 04 Nov 2025 09:58:14 +0000
+- **[The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)**
+  *<p>Article URL: <a href="https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/">https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/</a></p>
+<p...*
+  📅 Tue, 04 Nov 2025 17:15:55 +0000
 
-- **[Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)**
-  *<p>Article URL: <a href="https://notpeerreviewed.com/blog/bloom-filters/">https://notpeerreviewed.com/blog/bloom-filters/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4580899...*
-  📅 Tue, 04 Nov 2025 09:25:31 +0000
+- **[Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)**
+  *<p>Hey HN! We're Vaibhav and Marcello, founders of Plexe (<a href="https://www.plexe.ai">https://www.plexe.ai</a>). We create production-ready ML models from natural language descriptions. Tell Plexe ...*
+  📅 Tue, 04 Nov 2025 17:07:47 +0000
 
-- **[Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)**
-  *<p>A crowdsourced map for ranking Boulder gym stinkiness and difficulty. Get a detailed view of the gym. “Is there toprope in the gym?” “Any training boards?”</p>
-<hr />
-<p>Comments URL: <a href="http...*
-  📅 Tue, 04 Nov 2025 09:11:27 +0000
+- **[Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)**
+  *<p>Article URL: <a href="https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/">https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure...*
+  📅 Tue, 04 Nov 2025 17:04:47 +0000
 
-- **[Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)**
-  *<p>Article URL: <a href="https://mmc.vc/research/state-of-agentic-ai-founders-edition/">https://mmc.vc/research/state-of-agentic-ai-founders-edition/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 04 Nov 2025 07:26:45 +0000
+- **[US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)**
+  *<p>Article URL: <a href="https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst">https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-...*
+  📅 Tue, 04 Nov 2025 16:59:05 +0000
 
-- **[Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)**
-  *<p>Article URL: <a href="https://quamserena.com/2025-11-03/pain-points-of-ocaml">https://quamserena.com/2025-11-03/pain-points-of-ocaml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 04 Nov 2025 05:41:51 +0000
+- **[Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)**
+  *<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/">https://www.bleepingcomputer.com/news/security/data-breach-a...*
+  📅 Tue, 04 Nov 2025 16:54:27 +0000
 
 ### 📑 TechCrunch
 
-- **[iOS 26.1 lets you turn down liquid glass’ transparency](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/)**
-  *Apple's latest iOS update doesn't introduce major features, but it does bring one highly-requested tweak: the ability to change the transparency of the translucent liquid glass design....*
-  📅 Tue, 04 Nov 2025 12:03:11 +0000
+- **[Netflix in talks to license video podcasts from iHeartMedia, report says](https://techcrunch.com/2025/11/04/netflix-in-talks-to-license-video-podcasts-from-iheartmedia-report-says/)**
+  *Netflix is looking for exclusivity, which means that video podcasts that it licenses could no longer be uploaded to YouTube....*
+  📅 Tue, 04 Nov 2025 18:03:31 +0000
 
-- **[Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)**
-  *Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29....*
-  📅 Tue, 04 Nov 2025 04:05:24 +0000
+- **[Phone location data of top EU officials for sale, report finds](https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/)**
+  *Journalists in Europe found it was "easy" to spy on top European Union officials using commercially obtained location data sold by data brokers, despite the continent having some of the strongest data...*
+  📅 Tue, 04 Nov 2025 17:19:26 +0000
 
-- **[a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)**
-  *Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources....*
-  📅 Tue, 04 Nov 2025 00:07:31 +0000
+- **[Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/)**
+  *The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s bu...*
+  📅 Tue, 04 Nov 2025 16:48:54 +0000
 
-- **[Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/)**
-  *Over the last year, certain AI markets appear to be nearly sewn up by startup market leaders. But beyond these areas, a vast swath of AI remains anyone’s game....*
-  📅 Mon, 03 Nov 2025 23:13:50 +0000
+- **[Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/)**
+  *Despite its imprecision, the fourth "Master Plan" is a centerpiece of Tesla's case for giving CEO Elon Musk $1 trillion in company shares....*
+  📅 Tue, 04 Nov 2025 16:48:42 +0000
 
-- **[Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/)**
-  *Flock said around 3% of its law enforcement customers do not use multi-factor authentication, potentially leaving dozens of law enforcement agency accounts open to compromise and improper access....*
-  📅 Mon, 03 Nov 2025 22:53:50 +0000
+- **[Spotify now has half a million video podcasts, which nearly 400M users have watched](https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/)**
+  *Spotify says that users' time spent with video content on Spotify has more than doubled year-over-year, largely driven by video podcasts....*
+  📅 Tue, 04 Nov 2025 16:21:40 +0000
 
-- **[Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/)**
-  *OpenAI's approach to working with copyrighted content is to ask forgiveness, not permission....*
-  📅 Mon, 03 Nov 2025 22:43:03 +0000
+- **[WhatsApp launches long-awaited Apple Watch app](https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/)**
+  *For the first time, WhatsApp users will be able to use their Apple Watch to get call notifications, read full messages, record and send voice messages, and view media content more clearly....*
+  📅 Tue, 04 Nov 2025 15:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Building Scalable Online Gaming Platforms: A Developer’s Look into Turnkey Tech Stacks](https://dev.to/bob_packer_7c9018a4d1a1f1/building-scalable-online-gaming-platforms-a-developers-look-into-turnkey-tech-stacks-3gi2)**
-  *<p>The online gaming and casino industry has evolved from niche entertainment to one of the most technically demanding sectors on the web. High concurrency, real-time updates, secure financial transac...*
-  📅 Tue, 04 Nov 2025 12:09:55 +0000
+- **[Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)**
+  *<p><em>Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week.</em></p>
 
-- **[Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)**
-  *<p><strong><a href="https://pitertrade.ru" rel="noopener noreferrer">PiterTrade.ru</a></strong> — это проект, в котором я объединяю технологии, автоматизацию и современный подход к электронной коммерц...*
-  📅 Tue, 04 Nov 2025 12:09:27 +0000
+<p>Congrats to all the authors that made it onto the list 👏</p>
+
+
+<di...*
+  📅 Tue, 04 Nov 2025 18:14:13 +0000
+
+- **[CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c)**
+  *<p>Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest deep-dive into Nicolas Cage’s wild turn in Longlegs, teasing out every over-the-top moment and storytelling hiccup in true...*
+  📅 Tue, 04 Nov 2025 18:00:50 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[crypto-casino-bonus-2025/crypto-casino-bonus](https://github.com/crypto-casino-bonus-2025/crypto-casino-bonus)** ⭐ 247
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claim your Crypto Casino Bonus 2025 at NexusRoll! 🪙 Get a $100 casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today!
-
-- **[casino-bonus-2025-no-deposit/casino-bonus](https://github.com/casino-bonus-2025-no-deposit/casino-bonus)** ⭐ 176
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Claim the best Casino Bonus 2025, get a $100 casino deposit bonus with code 2025 and explore the world of crypto casino gaming. Enjoy instant rewards, stake bonuses, and no KYC signup for privacy and speed. Start playing and winning today!
-
-- **[mathis652/subVerison_GTAV_Hack](https://github.com/mathis652/subVerison_GTAV_Hack)** ⭐ 78
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  subVerison重置版——GTA5外置修改器
-
-- **[djzetta/Exela-V2.0](https://github.com/djzetta/Exela-V2.0)** ⭐ 76
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Game enhancement tool
-
-- **[jacksonmmartins/CS2_External](https://github.com/jacksonmmartins/CS2_External)** ⭐ 73
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  CS2 external cheat.
-
-- **[shrawanfv/Cheat-Loader-Base](https://github.com/shrawanfv/Cheat-Loader-Base)** ⭐ 67
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A basic cheat loader with login and injector. Works for csgo, tf2 and gtav.
-
-- **[Joshanihub/subVerison_GTAV_Hack](https://github.com/Joshanihub/subVerison_GTAV_Hack)** ⭐ 67
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  subVerison重置版——GTA5外置修改器
-
-- **[bsolis11/AmongUsMenu](https://github.com/bsolis11/AmongUsMenu)** ⭐ 57
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  AmongUsMenu is a Cheat Menu for the popular Game Among Us.
-
-### 📈 Weekly Trending
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,694
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 1,632
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
-
-- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 1,211
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  App Store web version
-
-- **[baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)** ⭐ 1,078
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Native Multimodal Models are World Learners
-
-- **[MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** ⭐ 995
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 676
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
-
-- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 568
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
-
-- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 473
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  WebAssembly (Wasm) arch support for the Linux kernel
-
-### 📈 Monthly Trending
-
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,529
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best ChatGPT that $100 can buy.
-
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,441
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Contexts Optical Compression
-
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 9,575
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,618
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?" Live Trading: https://ai4trade.ai
-
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,344
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
-
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 5,924
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code superpowers: core skills library
-
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,409
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,694
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
 ## 🚀 Latest Releases
 
@@ -484,10 +381,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -496,46 +393,46 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | ⚪ Planned |
 
 </details>
