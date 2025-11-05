@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,76 +46,174 @@
 
 ### 📑 Hacker News
 
-- **[Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45821921">https://news.ycombinator.com/item?id=45821921</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Wed, 05 Nov 2025 12:00:17 +0000
+- **[Ex-FTC chair Lina Khan joins Mamdani's transition team](https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-11)**
+  *<p>Article URL: <a href="https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-11">https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-1...*
+  📅 Wed, 05 Nov 2025 18:01:30 +0000
 
-- **[The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)**
-  *<p>Article URL: <a href="https://phrack.org/issues/7/3">https://phrack.org/issues/7/3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45820715">https://news.ycombinator.com/item...*
-  📅 Wed, 05 Nov 2025 08:28:04 +0000
+- **[Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)**
+  *<p>Article URL: <a href="https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/">https://scandasia.com/norway-reviews-cybersecurity-after-hidden-...*
+  📅 Wed, 05 Nov 2025 16:18:01 +0000
 
-- **[Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)**
-  *<p>Article URL: <a href="https://hypothesis.readthedocs.io/en/latest/">https://hypothesis.readthedocs.io/en/latest/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45818562">htt...*
-  📅 Wed, 05 Nov 2025 03:15:37 +0000
+- **[Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)**
+  *<p>Article URL: <a href="https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/">https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Wed, 05 Nov 2025 15:24:35 +0000
 
-- **[Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)**
-  *<p>Article URL: <a href="https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/">https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-t...*
-  📅 Wed, 05 Nov 2025 03:04:58 +0000
+- **[Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2511.02824">https://arxiv.org/abs/2511.02824</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45823358">https://news.ycombinator.co...*
+  📅 Wed, 05 Nov 2025 14:43:26 +0000
 
-- **[The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758">https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Wed, 05 Nov 2025 02:58:25 +0000
+- **[Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?](https://news.ycombinator.com/item?id=45823234)**
+  *<p>Is anybody still using TUI applications for business?<p>My family company is a wholesale distribution firm (with lightweight manufacturing) and has been using the same TUI application (on prem unix...*
+  📅 Wed, 05 Nov 2025 14:29:49 +0000
 
-- **[Direct File won't happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)**
-  *<p>Article URL: <a href="https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/">https://www.nextgov.com/digital-government/2025/11/direct-file-wont-h...*
-  📅 Wed, 05 Nov 2025 02:30:38 +0000
+- **[Carice TC2 – A non-digital electric car](https://www.caricecars.com/)**
+  *<p>Article URL: <a href="https://www.caricecars.com/">https://www.caricecars.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45823186">https://news.ycombinator.com/item?id=...*
+  📅 Wed, 05 Nov 2025 14:25:36 +0000
 
 ### 📑 TechCrunch
 
-- **[Former Meta employees launch a ring to take voice notes and control music](https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/)**
-  *A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from Plaud and Pocket; pendants from Friend, Limitless,...*
-  📅 Wed, 05 Nov 2025 11:00:00 +0000
+- **[Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/)**
+  *Wabi, a startup from the founder of Replika, has just raised a $20 million pre-seed round. Wabi is like "YouTube for apps" -- a social platform where anyone can use prompts to instantly create mini ap...*
+  📅 Wed, 05 Nov 2025 17:01:17 +0000
 
-- **[Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)**
-  *MoEngage already has customers across 75 countries, with North America being its biggest business driver....*
-  📅 Wed, 05 Nov 2025 05:20:00 +0000
+- **[Google makes it easier to access AI Mode in Chrome on iOS and Android](https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/)**
+  *Users will now be able to access AI Mode via a new dedicated shortcut button under the search bar when opening a "New Tab" page in Chrome....*
+  📅 Wed, 05 Nov 2025 17:00:00 +0000
 
-- **[NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/)**
-  *Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem....*
-  📅 Wed, 05 Nov 2025 03:30:00 +0000
+- **[Microsoft built a fake marketplace to test AI agents — they failed in surprising ways](https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/)**
+  *The research raises new questions about how well AI agents will perform when working unsupervised — and how quickly AI companies can make good on promises of an agentic future....*
+  📅 Wed, 05 Nov 2025 17:00:00 +0000
 
-- **[Trump flips and re-nominates Jared Isaacman to lead NASA](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/)**
-  *The reversal comes after weeks of pressure from people like Elon Musk, who accused Transportation Secretary Sean Duffy of being ill-equipped for the job....*
-  📅 Wed, 05 Nov 2025 01:23:06 +0000
+- **[Motion Picture Association hits Meta with cease-and-desist over use of ‘PG-13’ label](https://techcrunch.com/2025/11/05/motion-picture-association-hits-meta-with-cease-and-desist-over-use-of-pg-13-label/)**
+  *The MPA states that its movie-rating system can't be compared to Meta's content restrictions, which it says "appear to rely heavily on artificial intelligence."...*
+  📅 Wed, 05 Nov 2025 15:46:58 +0000
 
-- **[Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)**
-  *Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased....*
-  📅 Tue, 04 Nov 2025 23:05:04 +0000
+- **[University of Pennsylvania confirms hacker stole data during cyberattack](https://techcrunch.com/2025/11/05/university-of-pennsylvania-confirms-hacker-stole-data-during-cyberattack/)**
+  *Penn experienced a data breach on Friday as hackers sent messages boasting of the hack to the university community....*
+  📅 Wed, 05 Nov 2025 15:25:49 +0000
 
-- **[People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)**
-  *People Inc. signs an AI licensing deal with Microsoft, which will use its media content in Copilot....*
-  📅 Tue, 04 Nov 2025 22:30:28 +0000
+- **[This startup’s metal stacks could help solve AI’s massive heat problem](https://techcrunch.com/2025/11/05/this-startups-metal-stacks-could-help-solve-ais-massive-heat-problem/)**
+  *Alloy Enterprises has developed a new additive manufacturing technique that can improve liquid cooling performance while bringing it to new parts of the server rack....*
+  📅 Wed, 05 Nov 2025 15:15:00 +0000
 
 ### 📑 Dev.to
 
-- **[Building Domain-Driven Design (DDD) Applications with PHP](https://dev.to/patoliyainfotech/building-domain-driven-design-ddd-applications-with-php-3hp4)**
-  *<p>If you've ever worked on an expanding PHP project, you've undoubtedly experienced the agony of features becoming tangled, logic dispersing among levels, and a once-clean codebase gradually becoming...*
-  📅 Wed, 05 Nov 2025 12:10:35 +0000
+- **[CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)**
+  *<p>CinemaSins just dropped “Everything Wrong With Longlegs In 24 Minutes Or Less,” ripping into Nicolas Cage’s wildly over-the-top horror flick and hyping Osgood Perkins’ upcoming Keeper. They marvel ...*
+  📅 Wed, 05 Nov 2025 18:02:43 +0000
 
-- **[🧠 How We Built an AI Code Reviewer That Understands Intent — Not Just Syntax](https://dev.to/anitha_subramanian_4d83c2/how-we-built-an-ai-code-reviewer-that-understands-intent-not-just-syntax-44d2)**
-  *<p><strong>The Problem</strong></p>
-
-<p>Every developer knows the feeling: a pull request sits idle for days, reviewers juggling multiple branches, and small changes creating unexpected regressions.<b...*
-  📅 Wed, 05 Nov 2025 12:08:17 +0000
+- **[CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)**
+  *<p>Everything Wrong With Sinners In 15 Minutes Or Less is a playful, Halloween-themed roast of one of the year’s best genre movies—celebrating its greatness while piling on the classic CinemaSins jabs...*
+  📅 Wed, 05 Nov 2025 18:02:30 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[adysec/docx_compressor](https://github.com/adysec/docx_compressor)** ⭐ 148
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。
+
+- **[lshung/readable-rust-code](https://github.com/lshung/readable-rust-code)** ⭐ 83
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  100 Techniques for Writing Readable Rust Code
+
+- **[Frontrunx/Aviator-Predictor](https://github.com/Frontrunx/Aviator-Predictor)** ⭐ 72
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Our downloadable SHA256 analysis tool powers the Aviator predictor, Aviator predictor app, and aviator crash predictor. Available for desktop and as an Aviator predictor APK, it’s designed for research, fairness verification, and safe demo testing
+
+- **[steipete/mcporter](https://github.com/steipete/mcporter)** ⭐ 52
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+
+- **[keusuanl-sec/Ciphey](https://github.com/keusuanl-sec/Ciphey)** ⭐ 44
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
+
+- **[tri2820/unblink](https://github.com/tri2820/unblink)** ⭐ 32
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run VLM models on your camera streams
+
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 22
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An open-source framework for provably private AI inference
+
+- **[jwangkun/BayMax-Trader](https://github.com/jwangkun/BayMax-Trader)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  nof0 of AI-Trader
+
+### 📈 Weekly Trending
+
+- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 8,276
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  App Store web version
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 3,870
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 1,942
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  React Native Godot - Embed Godot Engine in React Native apps
+
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 817
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  pg_lake: Postgres with Iceberg and data lake access
+
+- **[skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** ⭐ 746
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
+
+- **[joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)** ⭐ 710
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  WebAssembly (Wasm) arch support for the Linux kernel
+
+- **[knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** ⭐ 633
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
+
+- **[liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)** ⭐ 544
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 35,759
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,588
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 10,541
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
+
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 8,866
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
+
+- **[rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)** ⭐ 8,276
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  App Store web version
+
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 6,683
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 6,063
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code superpowers: core skills library
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,429
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -382,59 +480,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
+| AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
