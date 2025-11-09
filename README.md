@@ -46,37 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)**
-  *<p>As a tech parent I think one of the best things I did for both my son and daughter was for their first computer to help them to build and setup their own Linux computer (It was Ubuntu back then but...*
-  📅 Sun, 09 Nov 2025 11:12:02 +0000
+- **[Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)**
+  *<p>I'm a junior. Truth be told, I don't really care if professionals/adults see my code or pick it apart/mock it/fork it or whatever. All my repos are private just because I worry about other students...*
+  📅 Sun, 09 Nov 2025 17:17:20 +0000
 
-- **[I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)**
-  *<p>Article URL: <a href="https://iammarkzuckerberg.com/">https://iammarkzuckerberg.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45863360">https://news.ycombinator.com/it...*
-  📅 Sun, 09 Nov 2025 06:13:05 +0000
+- **[Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)**
+  *<p>Article URL: <a href="https://github.com/samcervantes/bumble-berry-pi">https://github.com/samcervantes/bumble-berry-pi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4586677...*
+  📅 Sun, 09 Nov 2025 16:34:44 +0000
 
-- **[Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)**
-  *<p>Study: <a href="https://www.neurology.org/doi/10.1212/WNL.0000000000214226" rel="nofollow">https://www.neurology.org/doi/10.1212/WNL.0000000000214226</a></p>
-<hr />
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 09 Nov 2025 05:05:20 +0000
+- **[Marble Fountain](https://willmorrison.net/posts/marble-fountain/)**
+  *<p>Article URL: <a href="https://willmorrison.net/posts/marble-fountain/">https://willmorrison.net/posts/marble-fountain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4586669...*
+  📅 Sun, 09 Nov 2025 16:26:09 +0000
 
-- **[Forth – is it still relevant?](https://github.com/chochain/eforth)**
-  *<p>Article URL: <a href="https://github.com/chochain/eforth">https://github.com/chochain/eforth</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45863024">https://news.ycombinato...*
-  📅 Sun, 09 Nov 2025 04:59:19 +0000
+- **[Bull markets make you feel smarter than you are](https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/)**
+  *<p>Article URL: <a href="https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/">https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 09 Nov 2025 16:25:05 +0000
 
-- **[Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)**
-  *<p>Article URL: <a href="https://docs.x.ai/docs/models">https://docs.x.ai/docs/models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45862833">https://news.ycombinator.com/item...*
-  📅 Sun, 09 Nov 2025 04:10:06 +0000
+- **[The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2510.21890">https://arxiv.org/abs/2510.21890</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45866572">https://news.ycombinator.co...*
+  📅 Sun, 09 Nov 2025 16:10:23 +0000
 
-- **[Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/">https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 09 Nov 2025 04:02:47 +0000
+- **[AI isn't replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)**
+  *<p>Article URL: <a href="https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon">https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Sun, 09 Nov 2025 15:30:23 +0000
 
 ### 📑 TechCrunch
+
+- **[Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)**
+  *While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company may have many more satellite-powered features in t...*
+  📅 Sun, 09 Nov 2025 17:42:00 +0000
+
+- **[TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)**
+  *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
+  📅 Sun, 09 Nov 2025 17:00:00 +0000
 
 - **[Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)**
   *A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence....*
@@ -94,30 +101,21 @@
   *Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows....*
   📅 Sat, 08 Nov 2025 14:00:00 +0000
 
-- **[Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)**
-  *The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met....*
-  📅 Fri, 07 Nov 2025 21:02:22 +0000
-
-- **[Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/)**
-  *In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours....*
-  📅 Fri, 07 Nov 2025 20:56:18 +0000
-
 ### 📑 Dev.to
 
-- **[How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c)**
-  *<h2>
+- **[CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-25l1)**
+  *<p>CinemaSins just unleashed their “Everything Wrong With Thunderbolts (The New Avengers) In 20 Minutes Or Less” romp, gleefully counting every on-screen hiccup—even while admitting they might secretl...*
+  📅 Sun, 09 Nov 2025 18:00:20 +0000
+
+- **[Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77)**
+  *<h1>
   
   
-  Prologue: The Quest for IaC Experience
-</h2>
+  Predators – Caravan of Garbage Review
+</h1>
 
-<p>I decided to prepare for an SRE/DevOps internship and learn Infrastructure as Code.<br /><br />
-The challenge: build a portfolio project d...*
-  📅 Sun, 09 Nov 2025 12:11:17 +0000
-
-- **[How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Sun, 09 Nov 2025 12:07:19 +0000
+<p>Mr Sunday Movies dives into 2010’s Predators, applauding its return to the franchise’s roots with a rag-tag squad, a muddy jungle battlegro...*
+  📅 Sun, 09 Nov 2025 18:00:08 +0000
 
 </details>
 
@@ -125,49 +123,49 @@ The challenge: build a portfolio project d...*
 
 ### 📈 Daily Trending
 
-- **[rit3zh/expo-apple-maps-sheet](https://github.com/rit3zh/expo-apple-maps-sheet)** ⭐ 22
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🗺️ Apple Maps–style bottom sheet for React Native
-
-- **[princepainter/ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** ⭐ 15
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v).
-
-- **[jhleons2/windows-activator](https://github.com/jhleons2/windows-activator)** ⭐ 12
+- **[specialagent07-art/Pharos-Network-Airdrop-bot](https://github.com/specialagent07-art/Pharos-Network-Airdrop-bot)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft Windows Activator 2025 is a fast, reliable utility that enables users to activate and verify their Windows license with a single click, supporting all modern Windows versions for full system performance and authenticity.
+  A comprehensive automation bot for the Pharos Testnet and its growing ecosystem — designed to simplify daily tasks and interactions.
 
-- **[Edge18/ledger-live-staking-bot](https://github.com/Edge18/ledger-live-staking-bot)** ⭐ 12
+- **[specialagent07-art/Trailblazers-Taiko-Airdrop-bot](https://github.com/specialagent07-art/Trailblazers-Taiko-Airdrop-bot)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ledger Live Staking Bot automates crypto staking and rewards, supports multiple coins
+  A loyalty program for everyone to learn and get rewarded (Airdrop) just for exploring every corner of our ecosystem and completing different on-chain activities.
 
-- **[atishayjain21/albiononline-cheat](https://github.com/atishayjain21/albiononline-cheat)** ⭐ 12
+- **[specialagent07-art/RISE-Chain-Airdrop-Bot](https://github.com/specialagent07-art/RISE-Chain-Airdrop-Bot)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Albion Online Cheat � enjoy auto farming, looting, and combat help, plus unlimited resources and fast travel. Easy to use, regularly updated, and helps you dominate the game.
+  An automated tool for interacting with the Rise Testnet, providing functionalities such as random asset transfers, Gas Pump operations, and Inari Bank services.
 
-- **[cgyellow45/fisch-script](https://github.com/cgyellow45/fisch-script)** ⭐ 12
+- **[specialagent07-art/Monad-Testnet-bot](https://github.com/specialagent07-art/Monad-Testnet-bot)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Roblox Fisch Script 2025 offers stable, customizable automation for Roblox developers.
+  This JavaScript bot script is designed to interact with the Monad testnet, enabling automated operations and seamless communication with the network. It provides functionalities for transaction processing, smart contract interactions, and data retrieval to support various blockchain-related tasks.
 
-- **[EasyAMedia/delta-force-cheat](https://github.com/EasyAMedia/delta-force-cheat)** ⭐ 12
+- **[specialagent07-art/airdrop-checker](https://github.com/specialagent07-art/airdrop-checker)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Delta Force Cheat 2025 is a powerful tool that enhances your gaming experience with features like ESP, aimbots, no recoil, and wallhacks. Compatible with the latest updates, it ensures full functionality and performance. Use it to activate cheats, modify settings, and access exclusive features for a competitive edge. Key highlights include a secure
+  🪂 Airdrop Finder - A read-only on-chain dashboard to check wallet eligibility for crypto airdrops. Built with Next.js 15, WalletConnect, Prisma, and GoldRush API. Features 105+ components including wallet comparison, activity timeline, and personalized recommendations.
 
-- **[azimkhan0/minecraft-account-checker](https://github.com/azimkhan0/minecraft-account-checker)** ⭐ 12
+- **[specialagent07-art/Kite-AI-Airdrop-bot](https://github.com/specialagent07-art/Kite-AI-Airdrop-bot)** ⭐ 78
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Easily and securely verify multiple Minecraft accounts
+  Enterprise-grade automation bot for Kite AI, GoKite, Pharos, and Interlink. Automates XP farming, daily rewards, and AI interactions — fully autonomous and multi-wallet ready.
+
+- **[specialagent07-art/Huddle01-Testnet-Airdrop-bot](https://github.com/specialagent07-art/Huddle01-Testnet-Airdrop-bot)** ⭐ 78
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Node.js-based automation script that helps you join Huddle01 rooms with multiple wallet accounts at once to earn testnet participation points efficiently.
+
+- **[specialagent07-art/Units-Network-Airdrop-bot](https://github.com/specialagent07-art/Units-Network-Airdrop-bot)** ⭐ 78
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Units-Network-Airdrop-bot
 
 ### 📈 Weekly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 3,023
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 3,437
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,110
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,118
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 744
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 751
   ![Go](https://img.shields.io/badge/-Go-cyan)
   An open-source framework for provably private AI inference
 
@@ -175,7 +173,7 @@ The challenge: build a portfolio project d...*
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
 
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 505
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 538
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   自动登录netlib.re网站保活域名
 
@@ -183,45 +181,45 @@ The challenge: build a portfolio project d...*
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
-- **[stake-com-casino-bonus/casino-bonus](https://github.com/stake-com-casino-bonus/casino-bonus)** ⭐ 292
+- **[stake-com-casino-bonus/casino-bonus](https://github.com/stake-com-casino-bonus/casino-bonus)** ⭐ 295
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claim your Crypto Casino Bonus 2025, get a casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today!
 
-- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 279
+- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 284
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个将ACE(Augment Context Engine) 做成MCP的项目
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,173
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,193
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,955
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,987
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 12,014
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 12,093
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,141
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,158
   ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
+  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,183
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,214
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,318
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,901
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,627
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,641
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,502
+- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,519
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Privacy First PDF Toolkit
 
@@ -496,8 +494,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
@@ -506,39 +504,39 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -547,7 +545,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
