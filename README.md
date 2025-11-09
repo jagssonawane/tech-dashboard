@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 08, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 09, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,35 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)**
-  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago">https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago<...*
-  📅 Sat, 08 Nov 2025 17:34:39 +0000
+- **[Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.ady9545">https://www.science.org/doi/10.1126/sciadv.ady9545</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 09 Nov 2025 00:14:50 +0000
 
-- **[Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)**
-  *<p>Article URL: <a href="https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/">https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domain...*
-  📅 Sat, 08 Nov 2025 16:25:41 +0000
+- **[OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0)**
+  *<p>Article URL: <a href="https://github.com/openai/codex/releases/tag/rust-v0.56.0">https://github.com/openai/codex/releases/tag/rust-v0.56.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 08 Nov 2025 23:48:58 +0000
 
-- **[52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/">https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/</a></p>
-<p>Comment...*
-  📅 Sat, 08 Nov 2025 16:12:14 +0000
+- **[Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)**
+  *<p>Article URL: <a href="https://ironclad-os.org/">https://ironclad-os.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45860843">https://news.ycombinator.com/item?id=458608...*
+  📅 Sat, 08 Nov 2025 23:03:10 +0000
 
-- **[Ticker: Don't Die of Heart Disease](https://myticker.com/)**
-  *<p>Article URL: <a href="https://myticker.com/">https://myticker.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45857053">https://news.ycombinator.com/item?id=45857053</a>...*
-  📅 Sat, 08 Nov 2025 14:59:05 +0000
+- **[IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)**
+  *<p>Article URL: <a href="https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/">https://prestonbyrne.com/2025/11/06/the-ofco...*
+  📅 Sat, 08 Nov 2025 22:33:56 +0000
 
-- **[An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)**
-  *<p>Article URL: <a href="https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf">https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf</a></p>
-<p>Comments URL: <a href="...*
-  📅 Sat, 08 Nov 2025 14:58:03 +0000
+- **[Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)**
+  *<p>Article URL: <a href="https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/">https://www.downtowndougbrown.com/2025/11/debugging-...*
+  📅 Sat, 08 Nov 2025 22:30:58 +0000
 
-- **[Zig is so cool, C is cooler](https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md)**
-  *<p>Article URL: <a href="https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md">https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md</a></p>
-<p...*
-  📅 Sat, 08 Nov 2025 14:54:38 +0000
+- **[How to declutter, quiet down, and take the AI out of Windows 11 25H2](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)**
+  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/">https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-cle...*
+  📅 Sat, 08 Nov 2025 21:36:39 +0000
 
 ### 📑 TechCrunch
+
+- **[Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)**
+  *A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence....*
+  📅 Sat, 08 Nov 2025 20:53:00 +0000
+
+- **[‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/)**
+  *If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”...*
+  📅 Sat, 08 Nov 2025 19:31:07 +0000
 
 - **[OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/)**
   *A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction....*
@@ -92,30 +99,21 @@
   *In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours....*
   📅 Fri, 07 Nov 2025 20:56:18 +0000
 
-- **[GoWish’s shopping and wish list app is having its biggest year yet](https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/)**
-  *GoWish, an app for making wish lists, is having a record year, and has doubled its users....*
-  📅 Fri, 07 Nov 2025 20:16:32 +0000
-
-- **[Washington Post confirms data breach linked to Oracle hacks](https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/)**
-  *The Washington Post is the latest victim of a hacking campaign by the notorious Clop ransomware gang, which relied on vulnerabilities in Oracle software used by many corporations....*
-  📅 Fri, 07 Nov 2025 19:22:35 +0000
-
 ### 📑 Dev.to
 
-- **[Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)**
-  *<p>Hey everyone,<br />
-I've recently built <a href="https://www.reddit.com/r/investorean/comments/1o5jez6/stock_blitz_guess_tickers_rule_wall_street/" rel="noopener noreferrer">the simple quiz game</a...*
-  📅 Sat, 08 Nov 2025 18:05:54 +0000
-
-- **[CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5e0h)**
+- **[Understanding Async Functions: Why You Don't Need `Promise.resolve()` in `async` Functions](https://dev.to/cathylai/understanding-async-functions-why-you-dont-need-promiseresolve-in-async-functions-210f)**
   *<h2>
   
   
-  Everything Wrong With Sinners In 15 Minutes Or Less
+  Introduction
 </h2>
 
-<p>CinemaSins is back with their signature “Everything Wrong With…” roast, squeezing one of the year’s best genre flicks into a ...*
-  📅 Sat, 08 Nov 2025 18:00:38 +0000
+<p>If you've worked with <code>async/await</code> in JavaScript or TypeScript, you might have encountered a common question: <strong>Why can you return a plain value f...*
+  📅 Sun, 09 Nov 2025 00:49:51 +0000
+
+- **[Meet bestax-bulma: Modern React Components for Bulma CSS v1](https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2)**
+  *<p>Hey React developers! 👋 Are you looking for a modern, actively maintained component library for Bulma CSS? Let me introduce you to <strong>bestax-bulma</strong> (pronounced "bee-stacks"), a TypeScr...*
+  📅 Sun, 09 Nov 2025 00:48:00 +0000
 
 </details>
 
@@ -123,103 +121,103 @@ I've recently built <a href="https://www.reddit.com/r/investorean/comments/1o5je
 
 ### 📈 Daily Trending
 
-- **[steipete/agent-scripts](https://github.com/steipete/agent-scripts)** ⭐ 86
+- **[lalalune/farcaster-social-airdrop](https://github.com/lalalune/farcaster-social-airdrop)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[JosephMattHall/mysite](https://github.com/JosephMattHall/mysite)** ⭐ 1
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Scripts for agents, shared between my repositories.
-
-- **[megacraft3127jm/minecraft-vape-capes](https://github.com/megacraft3127jm/minecraft-vape-capes)** ⭐ 82
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[soldier-100hot/vape-command-system](https://github.com/soldier-100hot/vape-command-system)** ⭐ 81
+- **[adelmonsouza/30DiasJava-Day08-Observability](https://github.com/adelmonsouza/30DiasJava-Day08-Observability)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Prometheus, Alertmanager, Grafana stack for #30DiasJava Day 08
+
+- **[Maestro-loyic/Portfolio-](https://github.com/Maestro-loyic/Portfolio-)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Mon portfolio designer et développeur
+
+- **[astevko/TophatClanBot](https://github.com/astevko/TophatClanBot)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  discord bot for the Tophat Clan
+
+- **[MoamenAbouhaty95/MyCalculatorApp](https://github.com/MoamenAbouhaty95/MyCalculatorApp)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[smokker-100cba/valorant-gunbuddy-manager](https://github.com/smokker-100cba/valorant-gunbuddy-manager)** ⭐ 81
+- **[5771323ykwkp/727oRTcDP8](https://github.com/5771323ykwkp/727oRTcDP8)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  【Java计算机毕业设计分享】自媒体社区平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】选题定题、开题报告、任务书、程序开发、文档编写和辅导、文档降重、程序讲解、答辩辅导等
 
-- **[mulhala74iqy/vape-macros-autoclicker](https://github.com/mulhala74iqy/vape-macros-autoclicker)** ⭐ 80
+- **[Cesareyeserrano/-WOLFMEN-FPL](https://github.com/Cesareyeserrano/-WOLFMEN-FPL)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[imlegendary5rme/valorant-map-helper](https://github.com/imlegendary5rme/valorant-map-helper)** ⭐ 80
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[mulhala74iqy/vape-backup-restore](https://github.com/mulhala74iqy/vape-backup-restore)** ⭐ 80
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[absolutezero38bray4px/valorant-skin-viewer](https://github.com/absolutezero38bray4px/valorant-skin-viewer)** ⭐ 80
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Strategy Dashboard Control
 
 ### 📈 Weekly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 1,648
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 2,168
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,085
+- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,092
   ![C](https://img.shields.io/badge/-C-lightgrey)
   pg_lake: Postgres with Iceberg and data lake access
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 719
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 732
   ![Go](https://img.shields.io/badge/-Go-cyan)
   An open-source framework for provably private AI inference
 
-- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 674
+- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 691
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
 
-- **[codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** ⭐ 615
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
-
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 417
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 434
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   自动登录netlib.re网站保活域名
 
-- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 397
+- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 391
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sora 2 AI generated videos gentle watermark remover
 
-- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 261
+- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 263
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个将ACE(Augment Context Engine) 做成MCP的项目
 
+- **[Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)** ⭐ 257
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,120
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,138
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,898
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 19,913
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,844
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 11,903
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,117
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,120
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,105
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,125
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,154
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 4,166
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,592
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,599
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,464
+- **[alam00000/bentopdf](https://github.com/alam00000/bentopdf)** ⭐ 3,480
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A Privacy First PDF Toolkit
 
@@ -494,58 +492,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟢 Proficient |
+| Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -563,7 +561,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 08, 2025
+**Last Updated:** November 09, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
