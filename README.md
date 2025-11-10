@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[LLM policy?](https://github.com/opencontainers/runc/issues/4990)**
-  *<p>Article URL: <a href="https://github.com/opencontainers/runc/issues/4990">https://github.com/opencontainers/runc/issues/4990</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Mon, 10 Nov 2025 02:10:59 +0000
+- **[DNS Provider Quad9 Sees Piracy Blocking Orders as "Existential Threat"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)**
+  *<p>Article URL: <a href="https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/">https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-exis...*
+  📅 Mon, 10 Nov 2025 11:21:47 +0000
 
-- **[My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)**
-  *<p>Article URL: <a href="https://github.com/f/git-rewrite-commits">https://github.com/f/git-rewrite-commits</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45871084">https://new...*
-  📅 Mon, 10 Nov 2025 01:17:53 +0000
+- **[Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/11/09/europe_to_decide_if_6/">https://www.theregister.com/2025/11/09/europe_to_decide_if_6/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Mon, 10 Nov 2025 10:53:35 +0000
 
-- **[Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)**
-  *<p>Hi HN,<p>I’m Rajiv, a software engineer turned Math teacher living in the mountains, where I like to slow down life while still building useful software.<p>I recently built DroidDock, a lightweight...*
-  📅 Mon, 10 Nov 2025 00:51:33 +0000
+- **[Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)**
+  *<p>Article URL: <a href="https://thejpster.org.uk/blog/blog-2025-11-08/">https://thejpster.org.uk/blog/blog-2025-11-08/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45873904"...*
+  📅 Mon, 10 Nov 2025 08:48:14 +0000
 
-- **[Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)**
-  *<p>Article URL: <a href="https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/">https://urlahmed.com/2025/11/05/work-after-work-notes-from-an...*
-  📅 Mon, 10 Nov 2025 00:43:59 +0000
+- **[Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/">https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Mon, 10 Nov 2025 08:44:52 +0000
 
-- **[Sued by Nintendo](https://www.suedbynintendo.com/)**
-  *<p>Article URL: <a href="https://www.suedbynintendo.com/">https://www.suedbynintendo.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45870675">https://news.ycombinator.com/...*
-  📅 Mon, 10 Nov 2025 00:13:11 +0000
+- **[EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)**
+  *<p>Article URL: <a href="https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html">https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html</a></p>
+<p>Com...*
+  📅 Mon, 10 Nov 2025 08:27:27 +0000
 
-- **[Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)**
-  *<p>Study: <a href="https://www.biorxiv.org/content/10.1101/2024.08.19.608601v1.full" rel="nofollow">https://www.biorxiv.org/content/10.1101/2024.08.19.608601v1....</a></p>
-<hr />
-<p>Comments URL: <a h...*
-  📅 Sun, 09 Nov 2025 21:56:29 +0000
+- **[The Linux Kernel Looks to "Bite the Bullet" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext">https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 10 Nov 2025 08:09:31 +0000
 
 ### 📑 TechCrunch
+
+- **[Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/)**
+  *Lenskart's public listing stirred debate over the nearly $8 billion valuation set in its IPO....*
+  📅 Mon, 10 Nov 2025 12:06:40 +0000
 
 - **[Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)**
   *It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payloads....*
@@ -97,133 +101,29 @@
   *While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company may have many more satellite-powered features in t...*
   📅 Sun, 09 Nov 2025 17:42:00 +0000
 
-- **[TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)**
-  *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
-  📅 Sun, 09 Nov 2025 17:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)**
+- **[Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)**
+  *<blockquote>
+<p>I'm writing this blog as a participant in Cloud Run Hackathon by Google Cloud</p>
+</blockquote>
+
+<p>For the past several years, I’ve been self-funding my startup ideas by participating...*
+  📅 Mon, 10 Nov 2025 12:19:19 +0000
+
+- **[The Next Frontier in NLP: Smarter Agents, Not Just Bigger Models](https://dev.to/capestart/the-next-frontier-in-nlp-smarter-agents-not-just-bigger-models-5ddc)**
   *<h1>
   
   
-  How I Approach Building Component Systems
+  Introduction: Beyond the Limits of Supervised Learning
 </h1>
 
-<blockquote>
-<p>“A component library is not about buttons. It’s about language—a shared grammar between design and engineering.”</p>
-</blo...*
-  📅 Mon, 10 Nov 2025 06:11:48 +0000
-
-- **[Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3)**
-  *<p>Writing unit tests is an essential practice for ensuring code quality, reliability, and maintainability. This week, I wrote test cases for <a href="https://github.com/DenisC96/Repo-Context-Packager...*
-  📅 Mon, 10 Nov 2025 06:10:04 +0000
+<p>Imagine a world where AI not only mimics human summaries but also exceeds them in quality. For years, Natural Language Pro...*
+  📅 Mon, 10 Nov 2025 12:15:01 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 119
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[grasdamager-2000me6/helper-for-fortnite-speedhack](https://github.com/grasdamager-2000me6/helper-for-fortnite-speedhack)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[breadmaker20orhidkum/tool-for-fortnite-sensitivity-calculator](https://github.com/breadmaker20orhidkum/tool-for-fortnite-sensitivity-calculator)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[wor-jays/fortnite-visual-assistant](https://github.com/wor-jays/fortnite-visual-assistant)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[kaktus3914a3/assistant-for-fortnite-skin-injector](https://github.com/kaktus3914a3/assistant-for-fortnite-skin-injector)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[bipatootieq6f/helper-for-fortnite-xp-bot](https://github.com/bipatootieq6f/helper-for-fortnite-xp-bot)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[howard57hobgoblinl9s/utility-for-fortnite-exclusive-skins](https://github.com/howard57hobgoblinl9s/utility-for-fortnite-exclusive-skins)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[taurus328/utility-for-fortnite-material-bot](https://github.com/taurus328/utility-for-fortnite-material-bot)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-### 📈 Weekly Trending
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 4,009
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-- **[Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)** ⭐ 1,138
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  pg_lake: Postgres with Iceberg and data lake access
-
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 761
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  An open-source framework for provably private AI inference
-
-- **[SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** ⭐ 699
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
-
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 567
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  自动登录netlib.re网站保活域名
-
-- **[rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)** ⭐ 381
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sora 2 AI generated videos gentle watermark remover
-
-- **[gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)** ⭐ 307
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your Self-Hosted Knowledge Base
-
-- **[qy527145/acemcp](https://github.com/qy527145/acemcp)** ⭐ 303
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个将ACE(Augment Context Engine) 做成MCP的项目
-
-### 📈 Monthly Trending
-
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,236
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The best ChatGPT that $100 can buy.
-
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,043
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Contexts Optical Compression
-
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 12,258
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,177
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
-
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,255
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 5,442
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 4,009
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,662
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 ## 🚀 Latest Releases
 
@@ -495,49 +395,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
@@ -545,9 +445,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
