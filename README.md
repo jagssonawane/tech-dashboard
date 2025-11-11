@@ -46,69 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer">https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer</a></p>
-<p>Comme...*
-  📅 Tue, 11 Nov 2025 12:00:42 +0000
+- **[Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)**
+  *<p>Article URL: <a href="https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty">https://www.joshbeckman.org/blog/practicing/contributing-to-opensourc...*
+  📅 Tue, 11 Nov 2025 17:41:45 +0000
 
-- **[OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/">https://www.reuters.com/world/german-court-sides-with-plaintiff-copy...*
-  📅 Tue, 11 Nov 2025 11:20:55 +0000
+- **[We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)**
+  *<p>Article URL: <a href="https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/">https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/</a></p>
+<p>Comment...*
+  📅 Tue, 11 Nov 2025 17:26:54 +0000
 
-- **[Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)**
-  *<p>Article URL: <a href="https://markusstrasser.org/creative-work-landscapes.html">https://markusstrasser.org/creative-work-landscapes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 11 Nov 2025 08:29:23 +0000
+- **[Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)**
+  *<p>Article URL: <a href="https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/">https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Tue, 11 Nov 2025 17:08:00 +0000
 
-- **[Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)**
-  *<p>Article URL: <a href="https://tuple.app/blog/zig-cpp-interop">https://tuple.app/blog/zig-cpp-interop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45885135">https://news.yc...*
-  📅 Tue, 11 Nov 2025 08:09:05 +0000
+- **[Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)**
+  *<p>Article URL: <a href="https://cactoide.org/">https://cactoide.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45889793">https://news.ycombinator.com/item?id=45889793</a>...*
+  📅 Tue, 11 Nov 2025 17:01:07 +0000
 
-- **[The "Dependency Cutout" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)**
-  *<p>Article URL: <a href="https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html">https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html</a></p>
-<p>Comments URL: <a href="...*
-  📅 Tue, 11 Nov 2025 07:34:10 +0000
+- **[Weave (YC W25) is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer">https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer</a></p>
+<p>Com...*
+  📅 Tue, 11 Nov 2025 17:00:23 +0000
 
-- **[SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)**
-  *<p>Article URL: <a href="https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html">https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-...*
-  📅 Tue, 11 Nov 2025 07:32:06 +0000
+- **[iPod Socks](https://en.wikipedia.org/wiki/IPod_Socks)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/IPod_Socks">https://en.wikipedia.org/wiki/IPod_Socks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45889602">https://new...*
+  📅 Tue, 11 Nov 2025 16:52:30 +0000
 
 ### 📑 TechCrunch
 
-- **[Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)**
-  *The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to "supercharge creativity," according to Osika, who insisted retention remains strong....*
-  📅 Mon, 10 Nov 2025 23:53:01 +0000
+- **[Threads targets podcasters with new features, aiming to become the home for show discussions](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/)**
+  *Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed....*
+  📅 Tue, 11 Nov 2025 18:00:00 +0000
 
-- **[The circular money problem at the heart of AI’s biggest deals](https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/)**
-  *SoftBank and OpenAI announced&#160;a new 50-50 joint venture&#160;this week to sell enterprise AI tools in Japan under the brand &#8220;Crystal Intelligence.&#8221; On paper,&#160;it&#8217;s&#160;a st...*
-  📅 Mon, 10 Nov 2025 23:32:36 +0000
+- **[Immortality startup Eternos pivots to a personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/)**
+  *Uare.ai raised $10.3 million in seed funding led by Mayfield and Boldstart Ventures....*
+  📅 Tue, 11 Nov 2025 17:29:58 +0000
 
-- **[VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/)**
-  *January Ventures co-founder Jennifer Neundorfer discussed this AI-driven funding market on the Equity podcast during TechCrunch Disrupt....*
-  📅 Mon, 10 Nov 2025 23:30:00 +0000
+- **[How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/)**
+  *Two experienced investors share their tips for founders and operators hoping to nail product-market fit at their AI startups....*
+  📅 Tue, 11 Nov 2025 17:15:00 +0000
 
-- **[A better way of thinking about the AI bubble](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/)**
-  *AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them....*
-  📅 Mon, 10 Nov 2025 21:16:41 +0000
+- **[Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/)**
+  *Google Photos is getting an image edit feature powered by the Nano Banana model....*
+  📅 Tue, 11 Nov 2025 17:00:00 +0000
 
-- **[Rad Power Bikes faces shutdown in January without new funding](https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/)**
-  *Seattle-based Rad Power has gone through multiple rounds of layoffs over the last few years coming out of the pandemic. However, the company is "still fighting to find ways to continue" according to a...*
-  📅 Mon, 10 Nov 2025 21:14:56 +0000
+- **[Wonderful raised $100M Series A to put AI agents on the front lines of customer service](https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/)**
+  *Israeli&#160;AI agent&#160;startup&#160;Wonderful&#160;has raised $100 million in a Series A round led by Index Ventures, with participation from Insight Partners, IVP, Bessemer, and Vine Ventures. Th...*
+  📅 Tue, 11 Nov 2025 16:08:47 +0000
 
-- **[Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/)**
-  *Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools....*
-  📅 Mon, 10 Nov 2025 21:05:00 +0000
+- **[How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/)**
+  *Startups should start forging connections with late-stage investors while they are still at the early stages....*
+  📅 Tue, 11 Nov 2025 16:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[Next.js 16: What's New? Turbopack, React Compiler & Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4)**
-  *<p>The Vercel team has kept its annual October tradition alive and just dropped <strong>Next.js 16</strong>. While previous versions (like 13 and 14) were about introducing the new App Router and Serv...*
-  📅 Tue, 11 Nov 2025 12:19:17 +0000
+- **[Static Website Deployment on AWS Amplify via GitHub (Entry-Level Guide)](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)**
+  *<p>There are many ways to deploy a website using different technology, but doing it with AWS services takes your skills and game to the next level. One a beginner developer can gauge their learnings o...*
+  📅 Tue, 11 Nov 2025 18:10:34 +0000
 
-- **[NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)**
-  *<p>Nova Twins storm into the Tiny Desk with a face-melting combo of hip-hop beats, mega-distorted bass and raspy yowls. London duo Georgia South and Amy Love kick off with the defiant “Cleopatra,” shr...*
-  📅 Tue, 11 Nov 2025 12:08:31 +0000
+- **[From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)**
+  *<blockquote>
+<p><strong>Part 2 of the Laravel Factory Patterns series</strong>  </p>
+
+<ul>
+<li><a href="https://dev.to/fbarrento/stop-writing-arrays-in-your-tests-laravel-factories-for-data-objects-xx...*
+  📅 Tue, 11 Nov 2025 18:06:01 +0000
 
 </details>
 
@@ -116,53 +121,53 @@
 
 ### 📈 Daily Trending
 
-- **[RIPTIDE-z/BF6_Portal](https://github.com/RIPTIDE-z/BF6_Portal)** ⭐ 74
+- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 349
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  crypto-trading-open
+
+- **[RIPTIDE-z/BF6_Portal](https://github.com/RIPTIDE-z/BF6_Portal)** ⭐ 82
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[princepainter/ComfyUI-PainterLongVideo](https://github.com/princepainter/ComfyUI-PainterLongVideo)** ⭐ 23
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A powerful node for generating long-form videos with consistent motion, global scene coherence, and slow-motion correction in Wan 2.2-based workflows.
-
-- **[benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)** ⭐ 21
+- **[benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)** ⭐ 46
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Build systems handling concurrency, distributed transactions, and high-throughput ingestion. Learn by doing, not watching tutorials.
 
-- **[openwit-oss/openwit](https://github.com/openwit-oss/openwit)** ⭐ 16
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Open-source observability database for Metrics, Logs and Traces. Alternative of Elastic Search, Loki, Tempo and Datadog.
+- **[vgrong/ai-video](https://github.com/vgrong/ai-video)** ⭐ 36
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  https://tinyurl.com/best-free-ai-video  Directory of NSFW AI Video and Image Generators.
 
-- **[max-ap-1/ai-video](https://github.com/max-ap-1/ai-video)** ⭐ 11
+- **[rik-python/QWEN-AI-Compositing](https://github.com/rik-python/QWEN-AI-Compositing)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AI compositing workflow built on Qwen Image Edit 2509 with Fusion LoRA. Import BG and subject, remove background, composite and mask areas (including shadows), then prompt the model to auto-match lighting, color, and shadows for a seamless, realistic result. Credits to the Qwen model and LoRA creators.
+
+- **[princepainter/ComfyUI-PainterLongVideo](https://github.com/princepainter/ComfyUI-PainterLongVideo)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A powerful node for generating long-form videos with consistent motion, global scene coherence, and slow-motion correction in Wan 2.2-based workflows.
+
+- **[max-ap-1/ai-video](https://github.com/max-ap-1/ai-video)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
   https://tinyurl.com/best-ai-video   this is all you need
 
-- **[apizesaj233/ai-video](https://github.com/apizesaj233/ai-video)** ⭐ 10
+- **[maxim-ist/elixir-architect](https://github.com/maxim-ist/elixir-architect)** ⭐ 22
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  https://proreviews.short.gy/pd. Top Quality NSFW AI Image And Video Generator So Far. 
-
-- **[sinyalee/rqyhzn](https://github.com/sinyalee/rqyhzn)** ⭐ 9
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  《人妻约会指南》电子书及LaTeX源代码
-
-- **[imashno/kms-phuda](https://github.com/imashno/kms-phuda)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Download Here > https://kntn.ly/ad08ff65
+  Elixir Architect skills for Claude Code
 
 ### 📈 Weekly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,251
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,567
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 791
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  An open-source framework for verifiably private AI inference
-
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 758
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 944
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
-- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 690
+- **[openpcc/openpcc](https://github.com/openpcc/openpcc)** ⭐ 793
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  An open-source framework for verifiably private AI inference
+
+- **[eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** ⭐ 765
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   自动登录netlib.re网站保活域名
 
@@ -170,49 +175,49 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
 
-- **[gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)** ⭐ 471
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Your Self-Hosted Knowledge Base
-
-- **[YuvDwi/Steve](https://github.com/YuvDwi/Steve)** ⭐ 425
+- **[YuvDwi/Steve](https://github.com/YuvDwi/Steve)** ⭐ 494
   ![Java](https://img.shields.io/badge/-Java-orange)
   Cursor for Minecraft
 
-- **[sheepbox8646/ChatTutor](https://github.com/sheepbox8646/ChatTutor)** ⭐ 418
+- **[gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)** ⭐ 488
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Your Self-Hosted Knowledge Base
+
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 474
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  👨‍🏫 ChatTutor: Visual and Interactive AI Tutor
+  AI-powered git commit message rewriter using GPT
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,373
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 36,392
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,195
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,209
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,068
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,227
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,240
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,249
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,369
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,380
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,251
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 6,567
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,148
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,202
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,740
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,757
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -485,57 +490,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🟡 Learning |
 
 </details>
