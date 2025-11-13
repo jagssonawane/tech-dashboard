@@ -46,68 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer">https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engin...*
-  📅 Thu, 13 Nov 2025 04:26:56 +0000
+- **[Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)**
+  *<p>Article URL: <a href="https://kys.llc/blog/my-hackclub-story">https://kys.llc/blog/my-hackclub-story</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45913663">https://news.yc...*
+  📅 Thu, 13 Nov 2025 11:31:23 +0000
+
+- **[Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)**
+  *<p>Article URL: <a href="https://seed.line.me/index_en.html">https://seed.line.me/index_en.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45912785">https://news.ycombinato...*
+  📅 Thu, 13 Nov 2025 09:36:51 +0000
+
+- **[Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)**
+  *<p>Article URL: <a href="https://hi.telli.com/eng">https://hi.telli.com/eng</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45912744">https://news.ycombinator.com/item?id=459127...*
+  📅 Thu, 13 Nov 2025 09:30:53 +0000
+
+- **[Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)**
+  *<p>Article URL: <a href="https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion">https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion</a></p>
+<p>Com...*
+  📅 Thu, 13 Nov 2025 09:23:30 +0000
+
+- **[Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)**
+  *<p>Article URL: <a href="https://landaire.net/reversing-yaesu-firmware-encryption/">https://landaire.net/reversing-yaesu-firmware-encryption/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Thu, 13 Nov 2025 07:12:01 +0000
 
 - **[Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)**
   *<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/115533432439509433">https://grapheneos.social/@GrapheneOS/115533432439509433</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.c...*
   📅 Thu, 13 Nov 2025 03:49:23 +0000
 
-- **[Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)**
-  *<p>Article URL: <a href="https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/">https://www.windowslatest.com/2025/11/...*
-  📅 Thu, 13 Nov 2025 03:44:37 +0000
-
-- **[Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)**
-  *<p>Article URL: <a href="https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/">https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/</a><...*
-  📅 Thu, 13 Nov 2025 03:39:56 +0000
-
-- **[Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)**
-  *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/11506">https://github.com/anthropics/claude-code/issues/11506</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Thu, 13 Nov 2025 03:34:02 +0000
-
-- **[On USB HID, Keyboard LEDs, and device emulation (2024)](https://epsilon537.github.io/boxlambda/usb-hid/)**
-  *<p>Article URL: <a href="https://epsilon537.github.io/boxlambda/usb-hid/">https://epsilon537.github.io/boxlambda/usb-hid/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4591024...*
-  📅 Thu, 13 Nov 2025 03:32:24 +0000
-
 ### 📑 TechCrunch
+
+- **[Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)**
+  *Microsoft is taking a page from OpenAI's playbook, literally....*
+  📅 Thu, 13 Nov 2025 12:01:20 +0000
+
+- **[Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/)**
+  *Israeli startup Milestone raised a $10 million seed funding round to correlate AI tool usage with engineering metrics, including code quality....*
+  📅 Thu, 13 Nov 2025 12:00:00 +0000
+
+- **[Cash App debuts a new AI assistant that answers questions about your finances](https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/)**
+  *Cash App is adding a map to its app to let users discover places that accept bitcoin...*
+  📅 Thu, 13 Nov 2025 11:00:00 +0000
+
+- **[Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said](https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/)**
+  *Willow's iOS keyboard lets you type or use your voice to dictate and input text....*
+  📅 Thu, 13 Nov 2025 07:21:00 +0000
 
 - **[Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)**
   *Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project....*
   📅 Thu, 13 Nov 2025 05:30:00 +0000
 
 - **[Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)**
-  *Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of 6-second, looping videos....*
+  *Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to more than 100,000 archived Vine videos, restored f...*
   📅 Thu, 13 Nov 2025 02:00:00 +0000
-
-- **[‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)**
-  *Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games....*
-  📅 Thu, 13 Nov 2025 00:05:30 +0000
-
-- **[Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)**
-  *Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”...*
-  📅 Wed, 12 Nov 2025 20:05:35 +0000
-
-- **[ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/)**
-  *ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices....*
-  📅 Wed, 12 Nov 2025 20:00:00 +0000
-
-- **[Elon Musk’s X botched its security key switchover, locking users out](https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/)**
-  *As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish....*
-  📅 Wed, 12 Nov 2025 19:40:08 +0000
 
 ### 📑 Dev.to
 
-- **[Efficient S3 File Uploads: Speed & Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)**
-  *<p>Uploading files efficiently to S3 isn't just about getting data from point A to point B but it's about doing it fast, reliably, and at scale. Whether you're handling 5MB images or 5GB videos, the r...*
-  📅 Thu, 13 Nov 2025 06:19:14 +0000
+- **[Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)**
+  *<p>FastAPI is one of the fastest-growing Python frameworks for building modern APIs. It is fast, easy to use, and comes with built-in data validation using Pydantic.</p>
 
-- **[Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln)**
-  *<p>This blog post is a TIL (Today I Learned) about using <strong>Markdownlint</strong> as part of your documentation workflow on GitHub lifted from <a href="https://jonasbn.github.io/til/" rel="noopen...*
-  📅 Thu, 13 Nov 2025 06:13:59 +0000
+<p><strong>🚀 What We Will Bui...*
+  📅 Thu, 13 Nov 2025 12:13:55 +0000
+
+- **[[Boost]](https://dev.to/mohitrajput987/-3afh)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/mohitrajput987">
+    <div class="ltag__link__pic">
+      <img alt="mohitrajput987" src="https://media2.dev.to/dynamic/image/...*
+  📅 Thu, 13 Nov 2025 12:13:17 +0000
 
 </details>
 
@@ -115,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[luongdev/fsagent](https://github.com/luongdev/fsagent)** ⭐ 19
+- **[luongdev/fsagent](https://github.com/luongdev/fsagent)** ⭐ 20
   ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
-- **[linden713/BabyLocoFormer](https://github.com/linden713/BabyLocoFormer)** ⭐ 9
+- **[shi-yx/URaG](https://github.com/shi-yx/URaG)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).
+
+- **[martianovdev/Defold-BRDF-Deferred-Rendering-V2](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering-V2)** ⭐ 17
+  ![GLSL](https://img.shields.io/badge/-GLSL-lightgrey)
+  None
+
+- **[MaryBoone5289386/xiaohongshu-pgy-api](https://github.com/MaryBoone5289386/xiaohongshu-pgy-api)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  小红书蒲公英接口,蒲公英接口,小红书蒲公英API,蒲公英API,xiaohongshu pgy api,pugongying api,xiaohongshu pgy,pugongying,pgy
+
+- **[dragosroua/claude-assess-decide-do-mega-prompt](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Supercharging Claude with the Assess-Decide-Do life management framework. Complete guide.
+
+- **[moistrr/TGbot](https://github.com/moistrr/TGbot)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+   * Telegram 双向机器人 Cloudflare Worker  * 实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复  
+
+- **[SebLague/Smoke-Simulation](https://github.com/SebLague/Smoke-Simulation)** ⭐ 12
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
+
+- **[linden713/BabyLocoFormer](https://github.com/linden713/BabyLocoFormer)** ⭐ 11
   ![Python](https://img.shields.io/badge/-Python-blue)
   BabyLocoFormer is an open-source unofficial baby version of LocoFormer.
 
-- **[voidsnare105/kms-tools](https://github.com/voidsnare105/kms-tools)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[filcylcin097/flfreeproduction](https://github.com/filcylcin097/flfreeproduction)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DOWNLOAD  >>  https://psee.io/8c6d9g
-
-- **[encylnder0997/kmswin](https://github.com/encylnder0997/kmswin)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DOWNLOAD  >>  https://psee.io/8c6ddw
-
-- **[clonzyl0192/tuneupavg](https://github.com/clonzyl0192/tuneupavg)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DOWNLOAD  >>  https://gadgetpilot.site/
-
-- **[qychen2001/iclr-score](https://github.com/qychen2001/iclr-score)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[oficcejo/ai-ding-stock](https://github.com/oficcejo/ai-ding-stock)** ⭐ 5
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  基于DeepSeek/Qwen/openai兼容大模型的智能股票分析系统，实时监控、AI分析、自动通知（钉钉、飞书），目前只支持A股，适合上班族没时间盯盘小散。
-
 ### 📈 Weekly Trending
 
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 934
+- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 975
   ![Python](https://img.shields.io/badge/-Python-blue)
   crypto-trading-open
 
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 606
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 642
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered git commit message rewriter using GPT
 
-- **[crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** ⭐ 448
+- **[crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** ⭐ 447
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)** ⭐ 428
+- **[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)** ⭐ 431
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning
 
-- **[wesbos/sticker-dream](https://github.com/wesbos/sticker-dream)** ⭐ 394
+- **[wesbos/sticker-dream](https://github.com/wesbos/sticker-dream)** ⭐ 408
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   voice activated sticker dreamer and printer. 
 
-- **[daodao97/code-switch](https://github.com/daodao97/code-switch)** ⭐ 351
+- **[daodao97/code-switch](https://github.com/daodao97/code-switch)** ⭐ 357
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   Claude Code & Codex 多供应商代理与管理工具
 
-- **[boku7/venom](https://github.com/boku7/venom)** ⭐ 307
+- **[boku7/venom](https://github.com/boku7/venom)** ⭐ 314
   ![Python](https://img.shields.io/badge/-Python-blue)
   Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence
 
-- **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 253
+- **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 255
   ![Ren'Py](https://img.shields.io/badge/-Ren'Py-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,344
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,360
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,845
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 13,965
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,302
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 7,995
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 8,196
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,462
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,488
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,369
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,394
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,890
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,915
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ⭐ 2,984
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ⭐ 3,085
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
@@ -482,59 +490,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
