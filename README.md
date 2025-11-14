@@ -46,10 +46,20 @@
 
 ### 📑 Hacker News
 
-- **[The emergence and diversification of dog morphology](https://www.science.org/doi/10.1126/science.adt0995)**
-  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.adt0995">https://www.science.org/doi/10.1126/science.adt0995</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Thu, 13 Nov 2025 23:01:21 +0000
+- **[How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)**
+  *<p>Article URL: <a href="https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/">https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 14 Nov 2025 01:30:50 +0000
+
+- **[Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)**
+  *<p>Article URL: <a href="https://developer.apple.com/programs/mini-apps-partner/">https://developer.apple.com/programs/mini-apps-partner/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 14 Nov 2025 00:41:08 +0000
+
+- **[Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)**
+  *<p>Article URL: <a href="https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/">https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 13 Nov 2025 22:20:57 +0000
 
 - **[650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)**
   *<p>Article URL: <a href="https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars">https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars</a></p...*
@@ -63,14 +73,6 @@
   *<p>Article URL: <a href="https://openmanet.net/">https://openmanet.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45920677">https://news.ycombinator.com/item?id=45920677</...*
   📅 Thu, 13 Nov 2025 21:18:14 +0000
-
-- **[Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface">https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer...*
-  📅 Thu, 13 Nov 2025 21:00:27 +0000
-
-- **[Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)**
-  *<p>Hi HN - I’m Peter, here with Harry (devhawk), and we’re building DBOS Java, an open-source Java library for durable workflows, backed by Postgres.<p><a href="https://github.com/dbos-inc/dbos-transa...*
-  📅 Thu, 13 Nov 2025 20:33:43 +0000
 
 ### 📑 TechCrunch
 
@@ -100,27 +102,20 @@
 
 ### 📑 Dev.to
 
-- **[Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92)**
-  *<p><strong>Introduction</strong></p>
+- **[Rekichizu: A Modern Take on Japan's Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)**
+  *<p><a href="https://rekichizu.jp/en" rel="noopener noreferrer">Rekichizu</a> is a website where you can view <strong>historical maps with modern map design</strong>.</p>
 
-<p>In this guide, we’ll walk through how to launch a free t2.micro EC2 instance running Amazon Linux, and use the user data section to run a bash script that upda...*
-  📅 Fri, 14 Nov 2025 00:36:14 +0000
+<p>Currently, maps from the <...*
+  📅 Fri, 14 Nov 2025 06:15:35 +0000
 
-- **[Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j)**
-  *<h2>
-  
-  
-  🤖 Building an Enhanced PPO Trading Bot: Real-Time Sync, Deep Learning &amp; IBKR
-</h2>
+- **[📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)**
+  *<p><em>A practical, real-world guide to loaders, actions, fetchers, nested routes, revalidation &amp; more.</em></p>
 
-<h2>
-  
-  
-  🚀 Overview
-</h2>
 
-<p>Welcome to the next generation of algorithmic trading! This guide...*
-  📅 Fri, 14 Nov 2025 00:33:09 +0000
+
+
+<p>Modern React applications need more than just routing—they need <strong>data...*
+  📅 Fri, 14 Nov 2025 06:10:42 +0000
 
 </details>
 
@@ -128,45 +123,45 @@
 
 ### 📈 Daily Trending
 
-- **[zacnpainter2-cloud/OHM-GROWN](https://github.com/zacnpainter2-cloud/OHM-GROWN)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[xtradingfx2025-commits/mainapp](https://github.com/xtradingfx2025-commits/mainapp)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Wassim17Labdi/nitro-pandas](https://github.com/Wassim17Labdi/nitro-pandas)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A lightweight pandas-compatible DataFrame API built on top of Polars for speed and simplicity
-
-- **[JuliaEAA/Companion.APP](https://github.com/JuliaEAA/Companion.APP)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[carolinajusto2382/desafio-cypress-QA](https://github.com/carolinajusto2382/desafio-cypress-QA)** ⭐ 1
+- **[moistrr/TGbot-D1](https://github.com/moistrr/TGbot-D1)** ⭐ 35
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。
+
+- **[careunix/PyTorch-HighSierra-CUDA-Revival](https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Revives the last functional CUDA deep-learning stack on macOS High Sierra. NVIDIA CUDA 10.2 + cuDNN 7.6.5 + PyTorch 1.7.0 fully working on GTX Pascal GPUs — a discontinued ecosystem resurrected.
+
+- **[townportalscrol479/damarikohen](https://github.com/townportalscrol479/damarikohen)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[k-rolina/brainup-play-learn](https://github.com/k-rolina/brainup-play-learn)** ⭐ 1
+- **[hitmanos/Token-Grabber](https://github.com/hitmanos/Token-Grabber)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Aeastr/AdaptiveDimensions](https://github.com/Aeastr/AdaptiveDimensions)** ⭐ 4
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  SwiftUI modifiers that adapt layout dimensions to system text size settings
+
+- **[lenhattung/DeepLearningHT1B](https://github.com/lenhattung/DeepLearningHT1B)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[platformrocks/awesome-platformengineering](https://github.com/platformrocks/awesome-platformengineering)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[yfmeii/weapp-dev-mcp](https://github.com/yfmeii/weapp-dev-mcp)** ⭐ 3
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[maximKAw/Starsinema](https://github.com/maximKAw/Starsinema)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Kraptor123/domainListesi](https://github.com/Kraptor123/domainListesi)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  FastMCP server for automating WeChat Mini Program developer tooling
 
 ### 📈 Weekly Trending
 
-- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 1,010
+- **[cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** ⭐ 1,047
   ![Python](https://img.shields.io/badge/-Python-blue)
   crypto-trading-open
 
-- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 684
+- **[f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)** ⭐ 689
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI-powered git commit message rewriter using GPT
 
@@ -174,57 +169,57 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)** ⭐ 437
+- **[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)** ⭐ 438
   ![Python](https://img.shields.io/badge/-Python-blue)
   AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning
 
-- **[daodao97/code-switch](https://github.com/daodao97/code-switch)** ⭐ 368
+- **[daodao97/code-switch](https://github.com/daodao97/code-switch)** ⭐ 378
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Claude Code & Codex 多供应商代理与管理工具
 
-- **[rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)** ⭐ 270
+- **[rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)** ⭐ 298
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[princepainter/ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** ⭐ 259
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v).
 
 - **[screwtape34bell/windows-key-gen](https://github.com/screwtape34bell/windows-key-gen)** ⭐ 259
   ![Python](https://img.shields.io/badge/-Python-blue)
   🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key generator 🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key generator 🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key e
 
-- **[Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** ⭐ 256
-  ![Ren'Py](https://img.shields.io/badge/-Ren'Py-lightgrey)
-  None
-
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,388
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 20,401
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 14,277
+- **[toon-format/toon](https://github.com/toon-format/toon)** ⭐ 14,486
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,332
+- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** ⭐ 9,341
   ![Python](https://img.shields.io/badge/-Python-blue)
   "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 8,467
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 8,560
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,509
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,527
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,460
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,497
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,945
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 3,962
   ![Python](https://img.shields.io/badge/-Python-blue)
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ⭐ 3,200
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ⭐ 3,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
@@ -495,59 +490,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
