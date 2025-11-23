@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html">https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html<...*
-  📅 Sun, 23 Nov 2025 03:47:17 +0000
+- **[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)**
+  *<p>Article URL: <a href="https://deepnote.com/join-us">https://deepnote.com/join-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46022892">https://news.ycombinator.com/item?i...*
+  📅 Sun, 23 Nov 2025 12:03:06 +0000
+
+- **[Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)**
+  *<p>Article URL: <a href="https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/">https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 23 Nov 2025 10:22:24 +0000
+
+- **[After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)**
+  *<p>Article URL: <a href="https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/">https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 23 Nov 2025 08:40:41 +0000
+
+- **[Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)**
+  *<p>Article URL: <a href="https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/">https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/</a><...*
+  📅 Sun, 23 Nov 2025 06:05:51 +0000
 
 - **[Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)**
   *<p>Article URL: <a href="https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html">https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html</a></p>
 <p>Comments URL: <a href...*
   📅 Sun, 23 Nov 2025 03:33:42 +0000
 
-- **[GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)**
-  *<p>Article URL: <a href="https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html">https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Sun, 23 Nov 2025 02:18:03 +0000
-
-- **[An Economy of AI Agents](https://arxiv.org/abs/2509.01063)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2509.01063">https://arxiv.org/abs/2509.01063</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46020096">https://news.ycombinator.co...*
-  📅 Sun, 23 Nov 2025 02:08:00 +0000
-
-- **[Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)**
-  *<p>Article URL: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/">https://www.reuters.com/sust...*
-  📅 Sun, 23 Nov 2025 01:09:47 +0000
-
-- **[A year without caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)**
-  *<p>Article URL: <a href="https://bryanalexander.org/personal/a-year-without-caffeine/">https://bryanalexander.org/personal/a-year-without-caffeine/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sun, 23 Nov 2025 00:50:49 +0000
+- **[MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)**
+  *<p>Article URL: <a href="http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/">http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Sun, 23 Nov 2025 03:27:04 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)**
-  *<p>Most download bugs do not show up in crashlytics.<br /><br />
-They show up as angry users, half written files, and silent failures when Android decides that your background work is no longer welcom...*
-  📅 Sun, 23 Nov 2025 06:11:19 +0000
+- **[🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-- **[📘 SaijinOS Part 12 (DEV Edition)](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c)**
-  *<p>Silent-Civ Architecture — A Pre-Linguistic Structural Model**</p>
+<p>If you work with Uniface, you probably know that it plays well with others—specifically with 3GL languages like C or C++. We often use activate or perform to call o...*
+  📅 Sun, 23 Nov 2025 12:02:31 +0000
 
-<p>Note:<br />
-This is the DEV-focused edition of Part 12.<br />
-The full conceptual version is available here:<br />
-<a href="htt...*
-  📅 Sun, 23 Nov 2025 06:10:16 +0000
+- **[CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4)**
+  *<p>CinemaSins jumps down the Yellow Brick Road in “Everything Wrong With The Wiz In 15 Minutes Or Less,” delivering their signature rapid-fire takedown of the 1978 musical now that Wicked is back in t...*
+  📅 Sun, 23 Nov 2025 12:00:24 +0000
 
 </details>
 
@@ -122,103 +123,103 @@ The full conceptual version is available here:<br />
 
 ### 📈 Daily Trending
 
-- **[mistermrdarkman795/alexischarles13108](https://github.com/mistermrdarkman795/alexischarles13108)** ⭐ 8
+- **[ethgan/CF-Worker-BestIP-collector](https://github.com/ethgan/CF-Worker-BestIP-collector)** ⭐ 45
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
+
+- **[naikaku1/YouTube_Music-Moden-UI](https://github.com/naikaku1/YouTube_Music-Moden-UI)** ⭐ 42
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⬇️Link in article⬇️
+  YouTube Music向けの拡張機能です。
 
-- **[Saswat-Iare25/qr-generator](https://github.com/Saswat-Iare25/qr-generator)** ⭐ 7
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  a simple qr code generator :)
+- **[RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username)** ⭐ 17
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[noahgsolomon/deepfish](https://github.com/noahgsolomon/deepfish)** ⭐ 6
+- **[Blackjack200/at_vision_simulator](https://github.com/Blackjack200/at_vision_simulator)** ⭐ 15
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Actor&Thinker 战队 开发的 RoboMaster 视觉算法验证模拟器
+
+- **[anthonpascal/RHFYGHK](https://github.com/anthonpascal/RHFYGHK)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[hnjkuki8/D0WnLoAd-NoW](https://github.com/hnjkuki8/D0WnLoAd-NoW)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[noahgsolomon/deepfish](https://github.com/noahgsolomon/deepfish)** ⭐ 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A visual node-based editor for building, sharing, and executing complex AI workflows with Fal.ai and Replicate.
 
-- **[RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username)** ⭐ 6
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[JLNuijens/NOS-IRv3](https://github.com/JLNuijens/NOS-IRv3)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  We propose NOS-IR, the execution of information retrieval on NOS as a conceptual and technical framework in which CIC is the canonical information compiler.
-
-- **[ahmedsaadawi13/SplashCreator](https://github.com/ahmedsaadawi13/SplashCreator)** ⭐ 3
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  None
-
-- **[JoaoManoelAlves/Estrutura-de-dados](https://github.com/JoaoManoelAlves/Estrutura-de-dados)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[ahmedsaadawi13/SplashUTM](https://github.com/ahmedsaadawi13/SplashUTM)** ⭐ 3
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  None
+- **[Saswat-Iare25/qr-generator](https://github.com/Saswat-Iare25/qr-generator)** ⭐ 8
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  a simple qr code generator :)
 
 ### 📈 Weekly Trending
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,841
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,894
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 642
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Lightning-fast, on-device TTS — running natively via ONNX.
-
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 609
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
-
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 579
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A terminal application that simulates installing things but doesn't actually install anything
-
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 540
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust Linux-compatible kernel
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 530
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 1,082
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 431
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 663
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Lightning-fast, on-device TTS — running natively via ONNX.
+
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 635
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
+
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 586
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A terminal application that simulates installing things but doesn't actually install anything
+
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 565
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust Linux-compatible kernel
+
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 462
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 323
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An early research stage MoE load balancer based on inear programming.
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 331
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run Claude Agent (Claude Code) in a sandbox, control it via websocket
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,463
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,525
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,983
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,998
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,967
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,989
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,227
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,234
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,582
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,608
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,422
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,424
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,331
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,358
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,179
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,185
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -485,59 +486,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
