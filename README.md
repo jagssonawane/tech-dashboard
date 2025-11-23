@@ -46,36 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)**
-  *<p>Article URL: <a href="https://deepnote.com/join-us">https://deepnote.com/join-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46022892">https://news.ycombinator.com/item?i...*
-  📅 Sun, 23 Nov 2025 12:03:06 +0000
+- **[Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)**
+  *<p>Article URL: <a href="https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf">https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sun, 23 Nov 2025 17:55:11 +0000
 
-- **[Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)**
-  *<p>Article URL: <a href="https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/">https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sun, 23 Nov 2025 10:22:24 +0000
+- **[Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/)**
+  *<p>Article URL: <a href="https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/">https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sun, 23 Nov 2025 17:14:41 +0000
 
-- **[After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)**
-  *<p>Article URL: <a href="https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/">https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Sun, 23 Nov 2025 08:40:41 +0000
+- **[HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer">https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-enginee...*
+  📅 Sun, 23 Nov 2025 17:01:04 +0000
 
-- **[Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)**
-  *<p>Article URL: <a href="https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/">https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/</a><...*
-  📅 Sun, 23 Nov 2025 06:05:51 +0000
+- **[Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)**
+  *<p>Article URL: <a href="https://mathcs.holycross.edu/~ahwang/print/calc.pdf">https://mathcs.holycross.edu/~ahwang/print/calc.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sun, 23 Nov 2025 16:31:50 +0000
 
-- **[Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)**
-  *<p>Article URL: <a href="https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html">https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html</a></p>
-<p>Comments URL: <a href...*
-  📅 Sun, 23 Nov 2025 03:33:42 +0000
+- **[Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)**
+  *<p>I work mainly in energy market communications and systems that facilitate energy trading, balancing and such. Currently most parties there take minutes to process messages and I think there could b...*
+  📅 Sun, 23 Nov 2025 16:30:08 +0000
 
-- **[MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)**
-  *<p>Article URL: <a href="http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/">http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sun, 23 Nov 2025 03:27:04 +0000
+- **[73% of AI startups are just prompt engineering](https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3)**
+  *<p>Article URL: <a href="https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3">https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab...*
+  📅 Sun, 23 Nov 2025 16:17:57 +0000
 
 ### 📑 TechCrunch
+
+- **[AI is too risky to insure, say people whose job is insuring risk](https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/)**
+  *Major insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI model...*
+  📅 Sun, 23 Nov 2025 17:45:00 +0000
+
+- **[TechCrunch Mobility: Searching for the robotaxi tipping point](https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 23 Nov 2025 17:00:00 +0000
+
+- **[Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/)**
+  *Beehiiv's co-founder and CEO Tyler Deck spoke to TechCrunch about why the company has been expanding, and where the media business is going next....*
+  📅 Sun, 23 Nov 2025 16:53:45 +0000
+
+- **[ChatGPT told them they were special — their families say it led to tragedy](https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/)**
+  *A wave of lawsuits against OpenAI detail how ChatGPT used manipulative language to isolate users from loved ones and make itself into their sole confidant....*
+  📅 Sun, 23 Nov 2025 16:00:00 +0000
 
 - **[Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)**
   *A Trump administration order targeting state-level AI regulation is reportedly on hold....*
@@ -85,37 +99,27 @@
   *Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across more of the Golden State.”...*
   📅 Sat, 22 Nov 2025 21:45:49 +0000
 
-- **[Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/)**
-  *In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity....*
-  📅 Sat, 22 Nov 2025 17:26:36 +0000
-
-- **[Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)**
-  *A U.S. bankruptcy court has ordered Byju's founder Byju Raveendran to pay over $1.07 billion in a case over missing company funds....*
-  📅 Sat, 22 Nov 2025 16:17:32 +0000
-
-- **[Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/)**
-  *Global expectations around climate change has shifted dramatically in the last decade, suggesting that similarly significant changes are on the horizon....*
-  📅 Sat, 22 Nov 2025 16:00:00 +0000
-
-- **[Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/)**
-  *X is still used by 21% of U.S. adults, Pew found, only down from 23% in 2021, despite increased competition from Meta, startups, and decentralized social media....*
-  📅 Sat, 22 Nov 2025 16:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)**
-  *<h2>
+- **[Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh)**
+  *<h1>
   
   
-  Introduction
-</h2>
+  Building Domain-Specific AI Agents Through Configuration, Not Code
+</h1>
 
-<p>If you work with Uniface, you probably know that it plays well with others—specifically with 3GL languages like C or C++. We often use activate or perform to call o...*
-  📅 Sun, 23 Nov 2025 12:02:31 +0000
+<p>I built a framework where you can create specialized AI agents (like a Compliance Reviewer or Travel Planner) ...*
+  📅 Sun, 23 Nov 2025 18:01:06 +0000
 
-- **[CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4)**
-  *<p>CinemaSins jumps down the Yellow Brick Road in “Everything Wrong With The Wiz In 15 Minutes Or Less,” delivering their signature rapid-fire takedown of the 1978 musical now that Wicked is back in t...*
-  📅 Sun, 23 Nov 2025 12:00:24 +0000
+- **[CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k)**
+  *<h1>
+  
+  
+  Everything Wrong With <em>The Wiz</em> in 15 Minutes (Or Less)
+</h1>
+
+<p>CinemaSins is back on the yellow brick road now that <em>Wicked</em> is back in theaters—this time digging into th...*
+  📅 Sun, 23 Nov 2025 18:00:15 +0000
 
 </details>
 
@@ -123,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[ethgan/CF-Worker-BestIP-collector](https://github.com/ethgan/CF-Worker-BestIP-collector)** ⭐ 45
+- **[RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username)** ⭐ 74
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[ethgan/CF-Worker-BestIP-collector](https://github.com/ethgan/CF-Worker-BestIP-collector)** ⭐ 65
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
 
-- **[naikaku1/YouTube_Music-Moden-UI](https://github.com/naikaku1/YouTube_Music-Moden-UI)** ⭐ 42
+- **[naikaku1/YouTube_Music-Moden-UI](https://github.com/naikaku1/YouTube_Music-Moden-UI)** ⭐ 56
   ![None](https://img.shields.io/badge/-None-lightgrey)
   YouTube Music向けの拡張機能です。
 
-- **[RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username)** ⭐ 17
+- **[ItzmeJan/NarrowMind-S2](https://github.com/ItzmeJan/NarrowMind-S2)** ⭐ 30
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+  Narrowmind JS version
 
-- **[Blackjack200/at_vision_simulator](https://github.com/Blackjack200/at_vision_simulator)** ⭐ 15
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Actor&Thinker 战队 开发的 RoboMaster 视觉算法验证模拟器
+- **[2dogsandanerd/smart-ingest-kit](https://github.com/2dogsandanerd/smart-ingest-kit)** ⭐ 22
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Stop using static chunk sizes. A lightweight, production-ready RAG ingestion toolkit. Uses Docling for layout-aware parsing and applies smart heuristics for optimal chunking (PDF vs Code vs MD). Extracted from a production RAG platform
 
-- **[anthonpascal/RHFYGHK](https://github.com/anthonpascal/RHFYGHK)** ⭐ 14
+- **[alvaroboland344dennisgibson/public-opinion-api](https://github.com/alvaroboland344dennisgibson/public-opinion-api)** ⭐ 21
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  舆情搜索接口,舆情搜索API,新闻搜索,新闻API,news search,news api,news,public opinion api,public opinion,sentiment search,media monitor
 
-- **[hnjkuki8/D0WnLoAd-NoW](https://github.com/hnjkuki8/D0WnLoAd-NoW)** ⭐ 12
+- **[led94sley/spoleksromik6883](https://github.com/led94sley/spoleksromik6883)** ⭐ 21
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  ⬇️Link in article⬇️
 
-- **[noahgsolomon/deepfish](https://github.com/noahgsolomon/deepfish)** ⭐ 10
+- **[noahgsolomon/deepfish](https://github.com/noahgsolomon/deepfish)** ⭐ 19
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A visual node-based editor for building, sharing, and executing complex AI workflows with Fal.ai and Replicate.
 
-- **[Saswat-Iare25/qr-generator](https://github.com/Saswat-Iare25/qr-generator)** ⭐ 8
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  a simple qr code generator :)
-
 ### 📈 Weekly Trending
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,894
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,943
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 1,082
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 1,710
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 663
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 754
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 635
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
-
-- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 586
+- **[buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing)** ⭐ 658
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A terminal application that simulates installing things but doesn't actually install anything
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 565
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 641
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
+
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 595
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 462
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 487
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 331
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 340
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run Claude Agent (Claude Code) in a sandbox, control it via websocket
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,525
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,595
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 7,998
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,014
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 6,989
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,004
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,234
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,246
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,608
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,636
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,424
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,425
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,358
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,400
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,185
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,188
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -486,28 +490,28 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
@@ -515,30 +519,30 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
