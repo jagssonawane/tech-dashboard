@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **['Invisible' microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)**
-  *<p>Article URL: <a href="https://www.asahi.com/ajw/articles/16137995">https://www.asahi.com/ajw/articles/16137995</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46028827">https...*
-  📅 Mon, 24 Nov 2025 00:18:21 +0000
+- **[Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62)**
+  *<p>Article URL: <a href="https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62">https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Mon, 24 Nov 2025 04:22:12 +0000
 
-- **[Doge 'doesn't exist' with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/">https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-it...*
-  📅 Mon, 24 Nov 2025 00:05:14 +0000
+- **[RuBee](https://computer.rip/2025-11-22-RuBee.html)**
+  *<p>Article URL: <a href="https://computer.rip/2025-11-22-RuBee.html">https://computer.rip/2025-11-22-RuBee.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46029932">https:/...*
+  📅 Mon, 24 Nov 2025 03:08:10 +0000
 
-- **[ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/">https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/</a></p>
-<p>Comments URL: <a href...*
-  📅 Sun, 23 Nov 2025 23:53:06 +0000
+- **[Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c8676qpxgnqo">https://www.bbc.com/news/articles/c8676qpxgnqo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46029929"...*
+  📅 Mon, 24 Nov 2025 03:07:07 +0000
 
-- **[X's new country-of-origin feature reveals many 'US' accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)**
-  *<p>Article URL: <a href="https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-1017638571042...*
-  📅 Sun, 23 Nov 2025 23:25:03 +0000
+- **[The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)**
+  *<p>Article URL: <a href="https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048">https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Mon, 24 Nov 2025 03:04:10 +0000
 
-- **[Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern">https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 23 Nov 2025 22:36:07 +0000
+- **[A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com)**
+  *<p>Article URL: <a href="https://gibberifier.com">https://gibberifier.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46029889">https://news.ycombinator.com/item?id=46029889...*
+  📅 Mon, 24 Nov 2025 03:00:31 +0000
 
-- **[Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)**
-  *<p>Article URL: <a href="https://supermaven.com/blog/sunsetting-supermaven">https://supermaven.com/blog/sunsetting-supermaven</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460...*
-  📅 Sun, 23 Nov 2025 22:33:34 +0000
+- **[We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)**
+  *<p>Article URL: <a href="https://lalitm.com/fixits-are-good-for-the-soul/">https://lalitm.com/fixits-are-good-for-the-soul/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46029...*
+  📅 Mon, 24 Nov 2025 02:36:54 +0000
 
 ### 📑 TechCrunch
 
@@ -102,20 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[When Heaven Comes at Midnight: A Deep Journey Through John Chapter 3](https://dev.to/douglasvandergraph/when-heaven-comes-at-midnight-a-deep-journey-through-john-chapter-3-1dib)**
-  *<p>Some chapters of Scripture open like a door you walk through.<br />
-John Chapter 3 opens like a veil being lifted.</p>
+- **[Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)**
+  *<p>Accurately tracking employee attendance is pivotal for any business striving to maintain productivity and compliance. Attendance management software offers a practical solution, automating the reco...*
+  📅 Mon, 24 Nov 2025 06:09:51 +0000
 
-<p>It is quiet.<br />
-It is dark.<br />
-It is the middle of the night in Jeru...*
-  📅 Mon, 24 Nov 2025 00:13:23 +0000
-
-- **[Speed up your Laravel development using CRUD Templates](https://dev.to/jcsoriano/speed-up-your-laravel-development-using-crud-templates-2k0g)**
-  *<p>Hi Laravel developers! </p>
-
-<p>I've recently created a new package designed to radically speed up your Laravel application development by generating routes, controllers, models, migrations, factor...*
-  📅 Mon, 24 Nov 2025 00:13:04 +0000
+- **[Build in Public: Week 3. First Survive Discovery, Then Enjoy Analysis](https://dev.to/olgabraginskaya/build-in-public-week-3-first-survive-discovery-then-enjoy-analysis-29kb)**
+  *<p>Last week I noticed something annoying: the engagement on my Week 1 and Week 2 posts dropped, even though the content was objectively good. So I asked Perplexity when developers actually read dev.t...*
+  📅 Mon, 24 Nov 2025 06:03:12 +0000
 
 </details>
 
@@ -123,105 +118,105 @@ It is the middle of the night in Jeru...*
 
 ### 📈 Daily Trending
 
-- **[KarabaTheLoupeznik/prehrajto-violentmonkey](https://github.com/KarabaTheLoupeznik/prehrajto-violentmonkey)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[hernanacostamoreno-uy/patasfelicesveterinaria](https://github.com/hernanacostamoreno-uy/patasfelicesveterinaria)** ⭐ 1
+- **[milan-gavric/crm-marketing-automation-platform](https://github.com/milan-gavric/crm-marketing-automation-platform)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Sistema de uso interno para veterinaria
-
-- **[Jinlz0428/CC-SubD](https://github.com/Jinlz0428/CC-SubD)** ⭐ 1
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-lightgrey)
   None
 
-- **[aminumuhammadlawan28-del/Zauran-hada-aure-](https://github.com/aminumuhammadlawan28-del/Zauran-hada-aure-)** ⭐ 1
+- **[godistimebray912/Prison-Life-Script](https://github.com/godistimebray912/Prison-Life-Script)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Dan hada aure ciki sauki da Wanda yadade da kai/ke
+  Script For Prison Life is the classic Roblox prison escape game with over 3 billion visits. Break out of jail, rob the bank or become a cop — the legendary experience that started the whole prison genre and still gets massive updates in 2025.
 
-- **[hamooda8832-cloud/FlutterProject](https://github.com/hamooda8832-cloud/FlutterProject)** ⭐ 1
+- **[rinderminekill654/Hypershot-Script](https://github.com/rinderminekill654/Hypershot-Script)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  Script For TURKEY HUNT - Hypershot is a limited-time Thanksgiving 2025 event game packed with crazy weapons, turkey bosses and chaotic multiplayer battles. Perfect seasonal fun that blows up every November with new maps and rewards.
 
-- **[Dev-Rafilsk/Tech-Explore](https://github.com/Dev-Rafilsk/Tech-Explore)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Catálogo interativo de tecnologias web desenvolvido com HTML5, CSS3 (Glassmorphism) e JavaScript. Inclui um gerador de base de conhecimento automatizado via Node.js e integração com a Google Gemini API.
-
-- **[kpse/kid_allowance_ios](https://github.com/kpse/kid_allowance_ios)** ⭐ 1
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  None
-
-- **[paragaskenneth773/ransomware-4.0](https://github.com/paragaskenneth773/ransomware-4.0)** ⭐ 1
+- **[chieftainbeck/Brainrot-Roleplay-Game-Script](https://github.com/chieftainbeck/Brainrot-Roleplay-Game-Script)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Well you guys asked for it link in comment
+  Script for Brainrot Roleplay Game is currently the most viral meme roleplay experience on Roblox. Create your own skibidi character, use Ohio auras, mog everyone in the lobby and live the ultimate brainrot life with friends. The game is constantly updated with new memes, auras and locations straight from TikTok trends.
+
+- **[rinderminekill654/HEAD-OF-THE-HEI---Jujutsu-Shenanigans-Script](https://github.com/rinderminekill654/HEAD-OF-THE-HEI---Jujutsu-Shenanigans-Script)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Script For HEAD OF THE HEI - Jujutsu Shenanigans is one of the top Jujutsu Kaisen battleground games in 2025. Play as Gojo, Sukuna, Mahoraga and all the new characters from the latest season with smooth combat, huge maps and epic domain expansions.
+
+- **[chieftainbeck/2x-Pixel-Blade-Script](https://github.com/chieftainbeck/2x-Pixel-Blade-Script)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  2x Pixel Blade Script
+
+- **[liveevilxevilx780/Forsaken-Script](https://github.com/liveevilxevilx780/Forsaken-Script)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  script for Forsaken is a new horror survival game that exploded in popularity this year. Survive waves of terrifying monsters, collect souls and try to escape the cursed map together with friends in this intense atmospheric experience.
+
+- **[godistimebray912/Pickaxe-Simulator-Script](https://github.com/godistimebray912/Pickaxe-Simulator-Script)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Script for Pickaxe Simulator
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 2,337
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 2,795
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 1,983
+- **[karpathy/reader3](https://github.com/karpathy/reader3)** ⭐ 2,016
   ![Python](https://img.shields.io/badge/-Python-blue)
   Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 805
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** ⭐ 849
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Lightning-fast, on-device TTS — running natively via ONNX.
 
-- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 645
+- **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** ⭐ 687
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 612
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 642
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 502
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 536
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 349
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 359
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run Claude Agent (Claude Code) in a sandbox, control it via websocket
 
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 332
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 345
   ![Python](https://img.shields.io/badge/-Python-blue)
   An early research stage MoE load balancer based on inear programming.
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,649
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 12,763
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,021
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,042
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,010
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,033
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,252
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** ⭐ 3,256
   ![C](https://img.shields.io/badge/-C-lightgrey)
   🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,646
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 2,795
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,665
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,439
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,467
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,425
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,426
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 2,337
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
 
 ## 🚀 Latest Releases
 
@@ -486,59 +481,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
 | Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
