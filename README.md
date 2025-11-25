@@ -46,78 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)**
-  *<p>Article URL: <a href="https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/">https://austinsnerdythings.com/2025/11/24/worlds-most-stable-...*
-  📅 Tue, 25 Nov 2025 06:35:59 +0000
+- **[Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)**
+  *<p>Hi HN! For the past bit we’ve been building Flowglad (<a href="https://flowglad.com">https://flowglad.com</a>) and can now feel it’s just gotten good enough to share with you all:<p>Repo: <a href="...*
+  📅 Tue, 25 Nov 2025 17:33:50 +0000
 
-- **[Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)**
-  *<p>Article URL: <a href="https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/">https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 25 Nov 2025 06:31:31 +0000
+- **[It Is OK to Say "CSS Variables" Instead of "Custom Properties"](https://blog.kizu.dev/css-variables/)**
+  *<p>Article URL: <a href="https://blog.kizu.dev/css-variables/">https://blog.kizu.dev/css-variables/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46048229">https://news.ycombi...*
+  📅 Tue, 25 Nov 2025 17:31:47 +0000
 
-- **[AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)**
-  *<p>Article URL: <a href="https://github.com/ocaml/ocaml/pull/14369">https://github.com/ocaml/ocaml/pull/14369</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46039274">https://n...*
-  📅 Mon, 24 Nov 2025 21:03:22 +0000
+- **[Python is not a great language for data science. Part 1: The experience](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)**
+  *<p>Article URL: <a href="https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for">https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for</a></p>
+<p>Comments URL: <a ...*
+  📅 Tue, 25 Nov 2025 16:38:57 +0000
 
-- **[PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shor...*
-  📅 Mon, 24 Nov 2025 19:29:12 +0000
+- **[Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)**
+  *<p>Article URL: <a href="https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds">https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-find...*
+  📅 Tue, 25 Nov 2025 16:34:08 +0000
 
-- **[Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)**
-  *<p>Article URL: <a href="https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/">https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/</a></p>
-<p>Comment...*
-  📅 Mon, 24 Nov 2025 19:25:25 +0000
+- **[Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)**
+  *<p>Article URL: <a href="https://blog.kagi.com/orion">https://blog.kagi.com/orion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46047350">https://news.ycombinator.com/item?id=...*
+  📅 Tue, 25 Nov 2025 16:21:24 +0000
 
-- **[Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)**
-  *<p>Article URL: <a href="https://www.anthropic.com/engineering/advanced-tool-use">https://www.anthropic.com/engineering/advanced-tool-use</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Mon, 24 Nov 2025 19:21:35 +0000
+- **[FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)**
+  *<p>Article URL: <a href="https://bfl.ai/blog/flux-2">https://bfl.ai/blog/flux-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46046916">https://news.ycombinator.com/item?id=46...*
+  📅 Tue, 25 Nov 2025 15:47:14 +0000
 
 ### 📑 TechCrunch
+
+- **[Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15](https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/)**
+  *WhatsApp's new platform policies ban general-purpose AI chatbots like Copilot from using its service....*
+  📅 Tue, 25 Nov 2025 17:11:55 +0000
+
+- **[China’s Pony AI plans to triple global robotaxi fleet by the end of 2026](https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/)**
+  *The Chinese autonomous vehicle company Pony.ai has global ambitions and plans to build a 3,000-strong robotaxi fleet to meet them....*
+  📅 Tue, 25 Nov 2025 16:54:57 +0000
+
+- **[Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/)**
+  *The discovery suggests that a region in Quebec might hold even more lithium than originally suspected....*
+  📅 Tue, 25 Nov 2025 16:14:33 +0000
+
+- **[Speechify adds voice typing and voice assistant to its Chrome extension](https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/)**
+  *In the last 12 months, there has been a proliferation of voice detection tools, thanks to overall quality improvement in speech recognition models. Speechify is hitching its wagon to this train and la...*
+  📅 Tue, 25 Nov 2025 16:00:00 +0000
+
+- **[Spotify to raise US prices in first quarter of next year, report says](https://techcrunch.com/2025/11/25/spotify-to-raise-us-prices-in-first-quarter-of-next-year-report-says/)**
+  *Major record labels have been urging Spotify and other music streaming platforms to raise subscription prices, arguing that fees have not kept pace with inflation and remain low when compared to servi...*
+  📅 Tue, 25 Nov 2025 15:15:49 +0000
 
 - **[India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)**
   *India is restructuring its gig economy with a new labor law, but much more is needed before gig workers see real benefits....*
   📅 Tue, 25 Nov 2025 04:42:01 +0000
 
-- **[Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/)**
-  *Google and Accel will jointly invest up to $2 million in each startup through their new partnership....*
-  📅 Tue, 25 Nov 2025 00:30:00 +0000
-
-- **[Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/)**
-  *Altman and Ive tease a simple AI device aimed at calm, distraction-free computing, launching within two years....*
-  📅 Mon, 24 Nov 2025 22:59:46 +0000
-
-- **[OpenAI learned the hard way that Cameo trademarked the word ‘cameo’](https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/)**
-  *OpenAI might have to rename the "cameo" feature in the Sora app....*
-  📅 Mon, 24 Nov 2025 22:27:10 +0000
-
-- **[Rad Power Bikes’ batteries receive major fire risk warning](https://techcrunch.com/2025/11/24/rad-power-bikes-batteries-receive-major-fire-risk-warning/)**
-  *The U.S Consumer Product Safety Commission claims Rad Power "refused to agree to an acceptable recall." Rad Power says the CPSC's solution would bankrupt the company....*
-  📅 Mon, 24 Nov 2025 21:28:27 +0000
-
-- **[Tesla FSD software may not be approved by EU regulator after all](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)**
-  *Tesla claimed in a weekend social media post that a Dutch regulator was set to approve its Full Self-Driving mode. It seems the regulator isn't quite in line with Tesla....*
-  📅 Mon, 24 Nov 2025 21:10:37 +0000
-
 ### 📑 Dev.to
 
-- **[Dynamic Log file for each spiders: Scrapy Logging](https://dev.to/ajitkumar/dynamic-log-file-for-each-spiders-scrapy-logging-11a0)**
-  *<p>To dynamically assign a log file without modifying the settings directly, you need to set up logging outside the immutable settings object. Here's how to fix this:</p>
-
-
-
-
-<h3>
+- **[Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3ngf)**
+  *<h1>
   
   
-  Updated Solu...*
-  📅 Tue, 25 Nov 2025 12:20:06 +0000
+  ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal
+</h1>
 
-- **[Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)**
-  *<p>When a Django project starts small, model relationships are easy to understand.<br />
-But as the project grows — new apps, foreign keys everywhere, business logic stacked across modules — suddenly:...*
-  📅 Tue, 25 Nov 2025 12:14:28 +0000
+<p>Bill Simmons, Chris Ryan and Cousin Sal dive into the 2005 sports-betting drama <em>Two for the Money</em> (sta...*
+  📅 Tue, 25 Nov 2025 18:00:25 +0000
+
+- **[CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-681)**
+  *<h1>
+  
+  
+  Everything Wrong With The Wiz In 15 Minutes Or Less
+</h1>
+
+<p>CinemaSins is back on the yellow brick road, whipping up a snappy 15-minute rundown of every nitpick and plot hiccup in The W...*
+  📅 Tue, 25 Nov 2025 18:00:17 +0000
 
 </details>
 
@@ -125,103 +128,103 @@ But as the project grows — new apps, foreign keys everywhere, business logic s
 
 ### 📈 Daily Trending
 
-- **[jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java)** ⭐ 135
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  java+vue3+uniapp全栈开发Prompt
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 64
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 237
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
 
-- **[xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links)** ⭐ 36
+- **[jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java)** ⭐ 171
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  java+vue3+uniapp全栈开发Prompt
+
+- **[xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links)** ⭐ 44
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A curated list of the best AI Chatbots, Image Generators, and Coding Tools. Fast, secure, and organized.
 
-- **[alibaba/PyFlightProfiler](https://github.com/alibaba/PyFlightProfiler)** ⭐ 18
+- **[Angel7Dev/monad-nad.fun-sniper-bundler-bot](https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot)** ⭐ 29
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Trading Bot for Nad.Fun & Monad Blockchain. Include snipe new tokens and bundler multiwallet.
+
+- **[022122/academic-doc-generator](https://github.com/022122/academic-doc-generator)** ⭐ 29
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A realistic academic document simulator for testing and       verification flows. React + HeroUI.
+
+- **[0x0funky/paulwei-trading-analytics](https://github.com/0x0funky/paulwei-trading-analytics)** ⭐ 25
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  交易員 paulwei 的 BitMEX 實盤交易紀錄分析平台。支援多時間週期 K 線圖、倉位歷史追蹤、損益統計等功能。
+
+- **[alibaba/PyFlightProfiler](https://github.com/alibaba/PyFlightProfiler)** ⭐ 20
   ![Python](https://img.shields.io/badge/-Python-blue)
   A diagnostic toolbox for Python applications that provides non-intrusive, low-overhead capabilities for online analysis.
 
-- **[verl-project/verl-recipe](https://github.com/verl-project/verl-recipe)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A set of examples based on verl for end-to-end RL training recipes.
-
-- **[alibaba/Z-Image](https://github.com/alibaba/Z-Image)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[AsaFarley/ummr-khn](https://github.com/AsaFarley/ummr-khn)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[howlux8396/iraiadariast6076](https://github.com/howlux8396/iraiadariast6076)** ⭐ 10
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⬇️Link in article⬇️
+- **[blurfx/unegg](https://github.com/blurfx/unegg)** ⭐ 17
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Application to extract files from .egg archive
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,325
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,642
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 740
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 754
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 648
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 658
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 498
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 531
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
+  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [目前商店版本 1.1.0 存在严重 bug，推荐先本地安装]
 
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 490
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 498
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Semantic Search for your AI Agent
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 394
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run Claude Agent (Claude Code) in a sandbox, control it via websocket
-
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 370
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An early research stage MoE load balancer based on inear programming.
-
-- **[mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)** ⭐ 344
+- **[mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)** ⭐ 457
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 400
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Run Claude Agent (Claude Code) in a sandbox, control it via websocket
+
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 374
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An early research stage MoE load balancer based on inear programming.
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,327
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,407
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,077
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,084
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,115
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,130
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,325
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,642
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,784
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,801
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,569
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,580
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,430
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,432
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,252
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,256
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -488,20 +491,20 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
@@ -510,27 +513,27 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
@@ -538,9 +541,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
