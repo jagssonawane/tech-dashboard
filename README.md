@@ -78,6 +78,14 @@
 
 ### 📑 TechCrunch
 
+- **[India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)**
+  *India is restructuring its gig economy with a new labor law, but much more is needed before gig workers see real benefits....*
+  📅 Tue, 25 Nov 2025 04:42:01 +0000
+
+- **[Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/)**
+  *Google and Accel will jointly invest up to $2 million in each startup through their new partnership....*
+  📅 Tue, 25 Nov 2025 00:30:00 +0000
+
 - **[Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/)**
   *Altman and Ive tease a simple AI device aimed at calm, distraction-free computing, launching within two years....*
   📅 Mon, 24 Nov 2025 22:59:46 +0000
@@ -94,29 +102,28 @@
   *Tesla claimed in a weekend social media post that a Dutch regulator was set to approve its Full Self-Driving mode. It seems the regulator isn't quite in line with Tesla....*
   📅 Mon, 24 Nov 2025 21:10:37 +0000
 
-- **[Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/)**
-  *Stickerbox turns kids’ ideas into printable stickers, blending AI magic with hands-on coloring for a surprisingly creative, "screen-light" play experience....*
-  📅 Mon, 24 Nov 2025 20:25:20 +0000
-
-- **[AWS is spending $50B to build AI infrastructure for the US government](https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/)**
-  *AWS has been working with the U.S. government since 2011 and is now building AI infrastructure specifically for the entity....*
-  📅 Mon, 24 Nov 2025 19:10:41 +0000
-
 ### 📑 Dev.to
 
-- **[Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71)**
-  *<p>
+- **[7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control](https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0)**
+  *<p>Most people think running AI coding models locally is confusing, slow, and not worth it—here's the simple playbook for private, fast dev that works ↓<br />
+You don't need the cloud to ship faster.<...*
+  📅 Tue, 25 Nov 2025 06:04:51 +0000
 
-</p>
+- **[Construyendo tu Propio C2 con Nim (Porque Python ya es muy Mainstream)](https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj)**
+  *<h6>
+  
+  
+  # Disclaimer: Úsalo solo en entornos que controles o tengas permiso explícito. Ya sabes, ética y esas cosas aburridas pero necesarias.
+</h6>
 
-<p>App URL: <a href="https://webfoundry.app/" rel="noopener noreferrer">https://webfoundry.app/</a> (no account creation necessary)</p>
 
-<p>So this is my visual app builder Webfoundry, I us...*
-  📅 Tue, 25 Nov 2025 00:49:09 +0000
 
-- **[While We're Measuring Developer Productivity, Won't Someone Think of the Data Engineers?](https://dev.to/aronchick/while-were-measuring-developer-productivity-wont-someone-think-of-the-data-engineers-1e13)**
-  *<p><a href="https://www.linkedin.com/in/nicolefv/?ref=distributedthoughts.org" rel="noreferrer noopener">Nicole Forsgren</a> just dropped a new book, and I absolutely CONSUMED it. It's called <a href=...*
-  📅 Tue, 25 Nov 2025 00:31:02 +0000
+
+<h2>
+  
+  
+  ¿Por Qué Nim? (Y Por Qué Debe...*
+  📅 Tue, 25 Nov 2025 06:04:00 +0000
 
 </details>
 
@@ -124,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[KaykMurphy/paymentflow](https://github.com/KaykMurphy/paymentflow)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  💳 API de fluxo de pagamentos | Spring Boot + PostgreSQL | Controle de estoque, saldo e pedidos com HATEOAS
+- **[Hiraethsoul/Algorithm-Lib](https://github.com/Hiraethsoul/Algorithm-Lib)** ⭐ 8
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  这是一个退役acmer的算法竞赛模板仓库
 
-- **[nehalp159/Product-Inventory-Analytics-Pipeline](https://github.com/nehalp159/Product-Inventory-Analytics-Pipeline)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[lqs22yeah/DRAM-based-PIM-Survey](https://github.com/lqs22yeah/DRAM-based-PIM-Survey)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Breaking the Memory Wall: A Survey of DRAM-based Processing-In-Memory Architectures and Systems
 
-- **[4GeeksAcademy/andymms-Contact-List-App-Using-React-Context](https://github.com/4GeeksAcademy/andymms-Contact-List-App-Using-React-Context)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[joaomelo89/Agente-fraude-streamlit2](https://github.com/joaomelo89/Agente-fraude-streamlit2)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Agente de Análise de Fraude de Cartão de Crédito com Streamlit.
-
-- **[lukeae2001/Terrarium](https://github.com/lukeae2001/Terrarium)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[Xhiro-satria/calculator-js-app](https://github.com/Xhiro-satria/calculator-js-app)** ⭐ 1
+- **[kent010341/bno-random-walk](https://github.com/kent010341/bno-random-walk)** ⭐ 5
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[imransikder-cyber/Moudubi-Government-High-School](https://github.com/imransikder-cyber/Moudubi-Government-High-School)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[HeftyKoo/retro-camera](https://github.com/HeftyKoo/retro-camera)** ⭐ 5
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  uni-app version of  https://x.com/ann_nnng/status/1991079810882265254
 
-- **[oyakov/shorts-factory](https://github.com/oyakov/shorts-factory)** ⭐ 1
+- **[bystart/scan-my-subnet](https://github.com/bystart/scan-my-subnet)** ⭐ 3
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  一个基于Python3 + Vue3 打造的IP地址资源扫描器，通过添加指定网段扫描该网段内的IP占用情况。按照不同IP段进行分组扫描和展示。
+
+- **[Anemll/mlx-rdma](https://github.com/Anemll/mlx-rdma)** ⭐ 3
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  experiments with MLX
+
+- **[93won/360_visual_inertial_odometry](https://github.com/93won/360_visual_inertial_odometry)** ⭐ 3
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Visual-Inertial Odometry using 360 Camera
+
+- **[Knexyce/kdph](https://github.com/Knexyce/kdph)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  A lightweight and versatile software manager. KDPH is efficient for language-agnostic OS-agnostic secure encrypted code management utilizing GitHub. KDPH's author is Knexyce.
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,603
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,966
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 709
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 725
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 595
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 617
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 473
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 484
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open Source Semantic Search for your AI Agent
 
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 413
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 469
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 385
+- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 391
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run Claude Agent (Claude Code) in a sandbox, control it via websocket
 
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 357
+- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 363
   ![Python](https://img.shields.io/badge/-Python-blue)
   An early research stage MoE load balancer based on inear programming.
 
-- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 311
+- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 329
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A self hosted dashboard and organizer for Excalidraw with live collaboration.
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,044
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,182
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,061
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,071
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,074
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,088
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,603
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 4,966
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,739
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,758
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,531
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,547
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,429
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,430
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,236
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,244
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -489,57 +496,57 @@ for a semver-minor rele...
 |-------|--------|
 | Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
