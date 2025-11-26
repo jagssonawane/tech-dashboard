@@ -46,36 +46,42 @@
 
 ### 📑 Hacker News
 
-- **[The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)**
-  *<p>Article URL: <a href="https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/">https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/</a></p>
-<p>Comments UR...*
-  📅 Wed, 26 Nov 2025 03:05:29 +0000
+- **[Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us">https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engine...*
+  📅 Wed, 26 Nov 2025 12:01:24 +0000
+
+- **[EU council reaches position on Chat Control](https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/)**
+  *<p>Article URL: <a href="https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/">https://www.consi...*
+  📅 Wed, 26 Nov 2025 11:31:42 +0000
+
+- **[Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)**
+  *<p>Article URL: <a href="https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks">https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-...*
+  📅 Wed, 26 Nov 2025 11:00:49 +0000
+
+- **[Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)**
+  *<p>Article URL: <a href="https://timothyfraser.com/sigma/statistical-process-control-in-python.html">https://timothyfraser.com/sigma/statistical-process-control-in-python.html</a></p>
+<p>Comments URL:...*
+  📅 Wed, 26 Nov 2025 08:40:29 +0000
+
+- **[Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2511.19936">https://arxiv.org/abs/2511.19936</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46055177">https://news.ycombinator.co...*
+  📅 Wed, 26 Nov 2025 07:55:49 +0000
 
 - **[Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)**
   *<p>Article URL: <a href="https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/">https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/</a></p>
 <p>Comments URL: <a ...*
   📅 Wed, 26 Nov 2025 02:31:41 +0000
 
-- **[Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)**
-  *<p>Hi HN,<p>I built a WordPress plugin called Bandwidth Saver. It takes the images your site already has and serves them through Cloudflare R2 and Workers, which means zero egress fees and extremely l...*
-  📅 Wed, 26 Nov 2025 02:05:36 +0000
-
-- **[BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)**
-  *<p>Article URL: <a href="https://franke.ms/git/bebbo/bebbossh">https://franke.ms/git/bebbo/bebbossh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46053262">https://news.ycombi...*
-  📅 Wed, 26 Nov 2025 01:51:26 +0000
-
-- **[Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)**
-  *<p>Article URL: <a href="https://catacombs.space1999.net/main/pguide/upsfx.html">https://catacombs.space1999.net/main/pguide/upsfx.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 26 Nov 2025 01:19:17 +0000
-
-- **[CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)**
-  *<p>Article URL: <a href="https://web.stanford.edu/class/cs234/">https://web.stanford.edu/class/cs234/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46052685">https://news.ycom...*
-  📅 Wed, 26 Nov 2025 00:33:29 +0000
-
 ### 📑 TechCrunch
+
+- **[Onton raises $7.5M to expand its AI-powered shopping site beyond furniture](https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/)**
+  *Onton, which change its name from Deft, is giving users an infinite canvas with AI-powered image generation to nudge them towards making quicker purchase decisions...*
+  📅 Wed, 26 Nov 2025 12:00:00 +0000
+
+- **[Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/)**
+  *The commercial robotaxi service launched last year. Now, the human safety operator is gone....*
+  📅 Wed, 26 Nov 2025 07:00:00 +0000
 
 - **[Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/)**
   *An investor explains the "buy, fix, and hold" model employed by Bending Spoons and similar companies that buy distressed startups....*
@@ -93,31 +99,17 @@
   *ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time....*
   📅 Tue, 25 Nov 2025 20:04:52 +0000
 
-- **[Warner Music signs deal with AI music startup Suno, settles lawsuit](https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/)**
-  *WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices, and compositions are used in new AI-generated music....*
-  📅 Tue, 25 Nov 2025 19:57:31 +0000
-
-- **[OpenAI and Perplexity are launching AI shopping assistants, but competing startups aren’t sweating it](https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/)**
-  *Startup founders building AI shopping tools think general-purpose models are too broad to deliver truly personalized shopping experiences....*
-  📅 Tue, 25 Nov 2025 19:35:06 +0000
-
 ### 📑 Dev.to
 
-- **[We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)**
-  *<p>I don’t code.</p>
+- **[The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294)**
+  *<p>Why You Should Hire Full Stack Developers for Agile Product Growth</p>
 
-<p>But I spend my days around people who do — the late-night builders, the tab-vs-space philosophers, the “I’ll fix it in 5 minutes” liars (we all know it’s never 5 minutes :P).<...*
-  📅 Wed, 26 Nov 2025 06:09:53 +0000
+<p>In the fast-paced world of software development, agility is the currency of success. Startups and enterprise companies ali...*
+  📅 Wed, 26 Nov 2025 12:09:38 +0000
 
-- **[GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7)**
-  *<p>Below is a concise, code‑verified summary of GraphBit’s memory efficiency techniques, with short excerpts and file paths.</p>
-
-<h2>
-  
-  
-  <strong>1) Memory‑optimized executor profile</strong>
-</h...*
-  📅 Wed, 26 Nov 2025 06:09:32 +0000
+- **[AI Coding Just Took a Big Step with Antigravity](https://dev.to/emewoya/ai-coding-just-took-a-big-step-with-antigravity-15fg)**
+  *<p>AI-assisted coding has been evolving fast, but until now, it often felt like a patchwork solution. You ask for a snippet, get a block of code, and try to fit it into your project. Sometimes it work...*
+  📅 Wed, 26 Nov 2025 12:05:14 +0000
 
 </details>
 
@@ -125,95 +117,95 @@
 
 ### 📈 Daily Trending
 
-- **[craig7351/youtube-eng](https://github.com/craig7351/youtube-eng)** ⭐ 15
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Learning English with Youtube
-
-- **[smithyou12/ai-102-questions](https://github.com/smithyou12/ai-102-questions)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  I prepared for the Microsoft AI-102 exam with pass4surehub, and it definitely paid off. the material made studying smoother. https://www.pass4surehub.com/
-
-- **[AutoArk/EVA-OS](https://github.com/AutoArk/EVA-OS)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Eva OS is an AI-ecosystem for low-latency voice and vision interaction.
-
-- **[waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)** ⭐ 6
+- **[waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)** ⭐ 32
   ![C++](https://img.shields.io/badge/-C++-pink)
   Usermode exploit to bypass any AC using a 0day shatter attack.
 
-- **[paysonism/Neptune-Memory-Dumper](https://github.com/paysonism/Neptune-Memory-Dumper)** ⭐ 5
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Dump processes directly from memory to get decrypted information for Reverse Engineering games, applications, and more!
+- **[hecongyuan/dji_way_line](https://github.com/hecongyuan/dji_way_line)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  大疆航线生成
 
-- **[mariorazo97/single-file-php-ai](https://github.com/mariorazo97/single-file-php-ai)** ⭐ 5
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  A drop-in, single-file PHP chat interface for Ollama and OpenAI. No Node.js, no Docker, no build steps.
+- **[craig7351/youtube-eng](https://github.com/craig7351/youtube-eng)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Learning English with Youtube
 
-- **[dillacorn/smtty](https://github.com/dillacorn/smtty)** ⭐ 4
+- **[chunrapeepat/awesome-coders-guide-to-everything-except-coding](https://github.com/chunrapeepat/awesome-coders-guide-to-everything-except-coding)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of online resources for coders, engineers, and nerds that are completely unrelated to coding.
+
+- **[AutoArk/EVA-OS](https://github.com/AutoArk/EVA-OS)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Eva OS is an AI-ecosystem for low-latency voice and vision interaction.
+
+- **[flex36ty/elefin](https://github.com/flex36ty/elefin)** ⭐ 13
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Elefin Jellyfin client for Android TV
+
+- **[farhan-syah/splintr](https://github.com/farhan-syah/splintr)** ⭐ 12
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.
+
+- **[dillacorn/smtty](https://github.com/dillacorn/smtty)** ⭐ 12
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   smtty is a minimal TTY “Steam Machine” launcher that runs Steam Big Picture inside gamescope on a chosen monitor, with configurable internal resolution (including 4:3 / 16:10 stretch) and saved per-user settings.
 
-- **[jiajunhou/ts-function-tester](https://github.com/jiajunhou/ts-function-tester)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,129
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,339
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 778
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 881
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 790
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Rust Linux-compatible kernel
 
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 677
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 690
   ![Python](https://img.shields.io/badge/-Python-blue)
   HunyuanVideo-1.5: A leading lightweight video generation model
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 586
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
-
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 585
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 626
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [目前商店版本 1.1.0 存在严重 bug，推荐先本地安装]
+  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.2.1，最新版本 1.3.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
 
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 508
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Source Semantic Search for your AI Agent
-
-- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 400
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 545
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official inference repo for FLUX.2 models
 
-- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 391
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 514
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Source Semantic Search for your AI Agent
+
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 440
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,597
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,724
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,105
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,114
   ![Go](https://img.shields.io/badge/-Go-cyan)
   NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,159
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,185
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,130
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 6,339
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,822
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,855
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,615
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,633
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -221,7 +213,7 @@
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,265
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,268
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -232,11 +224,11 @@
 
 ### 📦 microsoft/vscode
 
-**[October 2025 Recovery 2](https://github.com/microsoft/vscode/releases/tag/1.106.2)** `1.106.2`
+**[October 2025 Recovery 3](https://github.com/microsoft/vscode/releases/tag/1.106.3)** `1.106.3`
 
-📅 Released: November 19, 2025
+📅 Released: November 26, 2025
 
-The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22October+2025+Recovery+2%22+is%3Aclosed+).
+The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22October+2025+Recovery+3%22+is%3Aclosed+).
 
 For the complete release notes go to [Updates](h...
 
@@ -489,10 +481,10 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -502,15 +494,15 @@ for a semver-minor rele...
 | Spring Boot | 🟢 Proficient |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -521,26 +513,26 @@ for a semver-minor rele...
 | Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
 | AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
