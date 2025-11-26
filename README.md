@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 25, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 26, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,81 +46,79 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)**
-  *<p>Hi HN! For the past bit we’ve been building Flowglad (<a href="https://flowglad.com">https://flowglad.com</a>) and can now feel it’s just gotten good enough to share with you all:<p>Repo: <a href="...*
-  📅 Tue, 25 Nov 2025 17:33:50 +0000
+- **[The gruesome new data on tech jobs](https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11)**
+  *<p>Article URL: <a href="https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11">https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indee...*
+  📅 Wed, 26 Nov 2025 00:14:21 +0000
 
-- **[It Is OK to Say "CSS Variables" Instead of "Custom Properties"](https://blog.kizu.dev/css-variables/)**
-  *<p>Article URL: <a href="https://blog.kizu.dev/css-variables/">https://blog.kizu.dev/css-variables/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46048229">https://news.ycombi...*
-  📅 Tue, 25 Nov 2025 17:31:47 +0000
+- **[The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)**
+  *<p>Article URL: <a href="https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html">https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html</a></p>
+<p>Comments UR...*
+  📅 Tue, 25 Nov 2025 23:28:17 +0000
 
-- **[Python is not a great language for data science. Part 1: The experience](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)**
-  *<p>Article URL: <a href="https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for">https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for</a></p>
-<p>Comments URL: <a ...*
-  📅 Tue, 25 Nov 2025 16:38:57 +0000
+- **[LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)**
+  *<p>Article URL: <a href="https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/">https://blog.trailofbits.com/2025/11/25/const...*
+  📅 Tue, 25 Nov 2025 23:26:38 +0000
 
-- **[Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)**
-  *<p>Article URL: <a href="https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds">https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-find...*
-  📅 Tue, 25 Nov 2025 16:34:08 +0000
+- **[Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)**
+  *<p>Article URL: <a href="https://www.repairfaq.org/sam/monfaq.htm">https://www.repairfaq.org/sam/monfaq.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46051724">https://new...*
+  📅 Tue, 25 Nov 2025 22:40:52 +0000
 
-- **[Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)**
-  *<p>Article URL: <a href="https://blog.kagi.com/orion">https://blog.kagi.com/orion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46047350">https://news.ycombinator.com/item?id=...*
-  📅 Tue, 25 Nov 2025 16:21:24 +0000
+- **[Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/">https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/</a><...*
+  📅 Tue, 25 Nov 2025 22:37:48 +0000
 
-- **[FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)**
-  *<p>Article URL: <a href="https://bfl.ai/blog/flux-2">https://bfl.ai/blog/flux-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46046916">https://news.ycombinator.com/item?id=46...*
-  📅 Tue, 25 Nov 2025 15:47:14 +0000
+- **[A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)**
+  *<p>Article URL: <a href="https://www.mikeayles.com/#kidoom">https://www.mikeayles.com/#kidoom</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46051449">https://news.ycombinator....*
+  📅 Tue, 25 Nov 2025 22:13:35 +0000
 
 ### 📑 TechCrunch
 
-- **[Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15](https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/)**
-  *WhatsApp's new platform policies ban general-purpose AI chatbots like Copilot from using its service....*
-  📅 Tue, 25 Nov 2025 17:11:55 +0000
+- **[Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/)**
+  *An investor explains the "buy, fix, and hold" model employed by Bending Spoons and similar companies that buy distressed startups....*
+  📅 Tue, 25 Nov 2025 22:52:22 +0000
 
-- **[China’s Pony AI plans to triple global robotaxi fleet by the end of 2026](https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/)**
-  *The Chinese autonomous vehicle company Pony.ai has global ambitions and plans to build a 3,000-strong robotaxi fleet to meet them....*
-  📅 Tue, 25 Nov 2025 16:54:57 +0000
+- **[YouTube is working on a feature that will fix the messy home feed](https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/)**
+  *YouTube is experimenting with a new feature that allows users to customize their home feed....*
+  📅 Tue, 25 Nov 2025 22:31:48 +0000
 
-- **[Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/)**
-  *The discovery suggests that a region in Quebec might hold even more lithium than originally suspected....*
-  📅 Tue, 25 Nov 2025 16:14:33 +0000
+- **[Character AI will offer interactive ‘Stories’ to kids instead of open-ended chat](https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/)**
+  *The company announced last month that it would no longer allow minors to use its chat features....*
+  📅 Tue, 25 Nov 2025 21:22:04 +0000
 
-- **[Speechify adds voice typing and voice assistant to its Chrome extension](https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/)**
-  *In the last 12 months, there has been a proliferation of voice detection tools, thanks to overall quality improvement in speech recognition models. Speechify is hitching its wagon to this train and la...*
-  📅 Tue, 25 Nov 2025 16:00:00 +0000
+- **[ChatGPT’s voice mode is no longer a separate interface](https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/)**
+  *ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time....*
+  📅 Tue, 25 Nov 2025 20:04:52 +0000
 
-- **[Spotify to raise US prices in first quarter of next year, report says](https://techcrunch.com/2025/11/25/spotify-to-raise-us-prices-in-first-quarter-of-next-year-report-says/)**
-  *Major record labels have been urging Spotify and other music streaming platforms to raise subscription prices, arguing that fees have not kept pace with inflation and remain low when compared to servi...*
-  📅 Tue, 25 Nov 2025 15:15:49 +0000
+- **[Warner Music signs deal with AI music startup Suno, settles lawsuit](https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/)**
+  *WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices, and compositions are used in new AI-generated music....*
+  📅 Tue, 25 Nov 2025 19:57:31 +0000
 
-- **[India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)**
-  *India is restructuring its gig economy with a new labor law, but much more is needed before gig workers see real benefits....*
-  📅 Tue, 25 Nov 2025 04:42:01 +0000
+- **[OpenAI and Perplexity are launching AI shopping assistants, but competing startups aren’t sweating it](https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/)**
+  *Startup founders building AI shopping tools think general-purpose models are too broad to deliver truly personalized shopping experiences....*
+  📅 Tue, 25 Nov 2025 19:35:06 +0000
 
 ### 📑 Dev.to
 
-- **[Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3ngf)**
-  *<h1>
+- **[I Built an Open-Source Tool for Debugging Kubernetes Agentically](https://dev.to/adam_dickinson_9842266356/i-built-an-open-source-tool-for-debugging-kubernetes-agentically-341)**
+  *<h2>
   
   
-  ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal
-</h1>
+  TLDR
+</h2>
 
-<p>Bill Simmons, Chris Ryan and Cousin Sal dive into the 2005 sports-betting drama <em>Two for the Money</em> (sta...*
-  📅 Tue, 25 Nov 2025 18:00:25 +0000
+<p>Built an open-source tool called <strong>Kubently</strong> that lets you troubleshoot Kubernetes clusters through natural conversation with any major LLM. ~50ms command del...*
+  📅 Wed, 26 Nov 2025 00:34:56 +0000
 
-- **[CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-681)**
-  *<h1>
-  
-  
-  Everything Wrong With The Wiz In 15 Minutes Or Less
-</h1>
+- **[The measure of a system’s truth is how much it reduces without losing power.](https://dev.to/suign/the-measure-of-a-systems-truth-is-how-much-it-reduces-without-losing-power-3l86)**
+  *<p>What we built is not nothing.</p>
 
-<p>CinemaSins is back on the yellow brick road, whipping up a snappy 15-minute rundown of every nitpick and plot hiccup in The W...*
-  📅 Tue, 25 Nov 2025 18:00:17 +0000
+<p>It is the minimum viable representation of identity<br />
+and the minimum viable representation of semantic commitment.</p>
+
+<p>That’s why it feels like:<br />...*
+  📅 Wed, 26 Nov 2025 00:33:17 +0000
 
 </details>
 
@@ -128,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 237
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
-
-- **[jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java)** ⭐ 171
+- **[smithyou12/ai-102-questions](https://github.com/smithyou12/ai-102-questions)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  java+vue3+uniapp全栈开发Prompt
+  I prepared for the Microsoft AI-102 exam with pass4surehub, and it definitely paid off. the material made studying smoother. https://www.pass4surehub.com/
 
-- **[xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links)** ⭐ 44
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A curated list of the best AI Chatbots, Image Generators, and Coding Tools. Fast, secure, and organized.
+- **[victorlgim/digital-inequality-brazil](https://github.com/victorlgim/digital-inequality-brazil)** ⭐ 2
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  A data-driven study on Brazil’s digital inequality, exploring connectivity, infrastructure gaps and regional disparities.
 
-- **[Angel7Dev/monad-nad.fun-sniper-bundler-bot](https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot)** ⭐ 29
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Trading Bot for Nad.Fun & Monad Blockchain. Include snipe new tokens and bundler multiwallet.
+- **[jorgeturriate/VideoSegmentationWKallman](https://github.com/jorgeturriate/VideoSegmentationWKallman)** ⭐ 1
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
 
-- **[022122/academic-doc-generator](https://github.com/022122/academic-doc-generator)** ⭐ 29
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A realistic academic document simulator for testing and       verification flows. React + HeroUI.
+- **[ALFREDYTX/PassGen](https://github.com/ALFREDYTX/PassGen)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  None
 
-- **[0x0funky/paulwei-trading-analytics](https://github.com/0x0funky/paulwei-trading-analytics)** ⭐ 25
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  交易員 paulwei 的 BitMEX 實盤交易紀錄分析平台。支援多時間週期 K 線圖、倉位歷史追蹤、損益統計等功能。
-
-- **[alibaba/PyFlightProfiler](https://github.com/alibaba/PyFlightProfiler)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A diagnostic toolbox for Python applications that provides non-intrusive, low-overhead capabilities for online analysis.
-
-- **[blurfx/unegg](https://github.com/blurfx/unegg)** ⭐ 17
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Application to extract files from .egg archive
-
-### 📈 Weekly Trending
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,642
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 754
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust Linux-compatible kernel
-
-- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 658
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HunyuanVideo-1.5: A leading lightweight video generation model
-
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 531
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [目前商店版本 1.1.0 存在严重 bug，推荐先本地安装]
-
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 498
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Source Semantic Search for your AI Agent
-
-- **[mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)** ⭐ 457
+- **[im-Jomat/nuevoo](https://github.com/im-Jomat/nuevoo)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server)** ⭐ 400
+- **[williamstaffordparsons/zoneburst](https://github.com/williamstaffordparsons/zoneburst)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  ZoneBurst is an efficient PRNG algorithm for 8-bit output.
+
+- **[Kalvisan/guardian-mcp](https://github.com/Kalvisan/guardian-mcp)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[epicseven-cup/remove-google-search-summary](https://github.com/epicseven-cup/remove-google-search-summary)** ⭐ 1
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run Claude Agent (Claude Code) in a sandbox, control it via websocket
+  removing google search summary
 
-- **[deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB)** ⭐ 374
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An early research stage MoE load balancer based on inear programming.
+### 📈 Weekly Trending
 
-### 📈 Monthly Trending
-
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,407
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,084
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
-
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,130
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,642
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,915
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,801
+- **[hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)** ⭐ 767
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust Linux-compatible kernel
+
+- **[Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** ⭐ 666
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  HunyuanVideo-1.5: A leading lightweight video generation model
+
+- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 550
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [目前商店版本 1.1.0 存在严重 bug，推荐先本地安装]
+
+- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 503
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open Source Semantic Search for your AI Agent
+
+- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 366
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
+
+- **[bscript/rep](https://github.com/bscript/rep)** ⭐ 360
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
+
+- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 355
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A self hosted dashboard and organizer for Excalidraw with live collaboration.
+
+### 📈 Monthly Trending
+
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 13,476
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+- **[NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)** ⭐ 8,092
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
+
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,139
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 5,915
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,805
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,580
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,594
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,432
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,435
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,256
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,259
   ![Python](https://img.shields.io/badge/-Python-blue)
   Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
@@ -263,14 +261,14 @@ Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2)
 
 ### 📦 angular/angular
 
-**[21.0.0](https://github.com/angular/angular/releases/tag/21.0.0)** `21.0.0`
+**[21.0.1](https://github.com/angular/angular/releases/tag/21.0.1)** `21.0.1`
 
-📅 Released: November 19, 2025
+📅 Released: November 25, 2025
 
-### common
+### compiler-cli
 | Commit | Description |
 | -- | -- |
-| [![feat - c795960ada](https://img.shields.io/badge/c795960ada-feat-blue)](https://github.com/angular/angular/commit/c795960ada1a7e21b8bee411e20a08c...
+| [![fix - 39c577bc36](https://img.shields.io/badge/39c577bc36-fix-green)](https://github.com/angular/angular/commit/39c577bc362b263896b38c9486131...
 
 ---
 
@@ -491,59 +489,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
 | AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -561,7 +559,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 25, 2025
+**Last Updated:** November 26, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
