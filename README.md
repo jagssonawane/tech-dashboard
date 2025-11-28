@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)**
-  *<p>Article URL: <a href="https://tigerstyle.dev/">https://tigerstyle.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46075628">https://news.ycombinator.com/item?id=46075628...*
-  📅 Fri, 28 Nov 2025 04:53:07 +0000
+- **[Cats became our companions way later than you think](https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o">https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46077...*
+  📅 Fri, 28 Nov 2025 11:21:39 +0000
 
-- **[Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)**
-  *<p>Article URL: <a href="https://posit.co/blog/positron-migration-guides">https://posit.co/blog/positron-migration-guides</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4607546...*
-  📅 Fri, 28 Nov 2025 04:15:34 +0000
+- **[Google denies 'misleading' reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)**
+  *<p>Article URL: <a href="https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out">https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 28 Nov 2025 10:38:41 +0000
 
-- **[Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)**
-  *<p>Article URL: <a href="https://pocketbase.io/">https://pocketbase.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46075320">https://news.ycombinator.com/item?id=46075320</...*
-  📅 Fri, 28 Nov 2025 03:45:04 +0000
+- **[EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)**
+  *<p>Article URL: <a href="https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance">https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushin...*
+  📅 Fri, 28 Nov 2025 10:36:08 +0000
 
-- **[China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)**
-  *<p>Article URL: <a href="https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/">https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominan...*
-  📅 Fri, 28 Nov 2025 03:40:52 +0000
+- **[A Repository with 44 Years of Unix Evolution](https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html)**
+  *<p>Article URL: <a href="https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html">https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 28 Nov 2025 09:32:38 +0000
 
-- **[Overlord: AI accountability that watches over you](https://overlord.app/)**
-  *<p>Article URL: <a href="https://overlord.app/">https://overlord.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46074729">https://news.ycombinator.com/item?id=46074729</a>...*
-  📅 Fri, 28 Nov 2025 01:22:13 +0000
+- **[Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)**
+  *<p>Article URL: <a href="https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1">https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar...*
+  📅 Fri, 28 Nov 2025 09:21:55 +0000
 
-- **[How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)**
-  *<p>Article URL: <a href="https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy">https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-c...*
-  📅 Fri, 28 Nov 2025 00:10:38 +0000
+- **[Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)**
+  *<p>Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people's desire to remove/cover up the recording indicator LED. I wanted to see if there...*
+  📅 Fri, 28 Nov 2025 05:52:38 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +101,13 @@
 
 ### 📑 Dev.to
 
-- **[Azure Synapse vs Databricks: 10 Must-Know Differences (2025)](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p)**
-  *<p>Data is the foundation of modern enterprise innovation—but you need a solid platform to make the most of it. That means being able to handle massive amounts of data, power real-time analytics, and ...*
-  📅 Fri, 28 Nov 2025 06:10:45 +0000
+- **[Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)**
+  *<p>Mastering layouts in Vue.js is a milestone that separates beginners from intermediate developers. When you first start, you likely wrap every page in a <code>&lt;NavBar&gt;</code> and <code>&lt;Foo...*
+  📅 Fri, 28 Nov 2025 12:14:13 +0000
 
-- **[NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37)**
-  *<p>In the <a href="https://en.wikipedia.org/wiki/Quantitative_analysis_(finance)" rel="noopener noreferrer">quantitative investment</a> field, the performance and scalability of the storage system sup...*
-  📅 Fri, 28 Nov 2025 06:09:28 +0000
+- **[get my first 1$, to prove me it's possible. I'am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)**
+  *...*
+  📅 Fri, 28 Nov 2025 12:11:33 +0000
 
 </details>
 
@@ -116,105 +115,105 @@
 
 ### 📈 Daily Trending
 
-- **[akimify/Xserver-VPS-Renew](https://github.com/akimify/Xserver-VPS-Renew)** ⭐ 65
+- **[akimify/Xserver-VPS-Renew](https://github.com/akimify/Xserver-VPS-Renew)** ⭐ 104
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[qingfenggit/cf-ssl-check](https://github.com/qingfenggit/cf-ssl-check)** ⭐ 26
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  用于检查域名ssl证书状态信息，可以指定源站、cdn 各节点
-
-- **[skylerhes/sms-bridge](https://github.com/skylerhes/sms-bridge)** ⭐ 23
+- **[alexzhang1433/VPS-TGbot](https://github.com/alexzhang1433/VPS-TGbot)** ⭐ 73
   ![Python](https://img.shields.io/badge/-Python-blue)
-  把几十块钱的 USB 上网卡插到玩客云 / 树莓派 / 任意 Linux 设备，让它变成一台“云手机”。自动收短信、转发短信、网页发短信保号。
+  VPS-TG双向私聊机器人托管平台-修改版
 
-- **[cmxh666/budget-tracker](https://github.com/cmxh666/budget-tracker)** ⭐ 13
+- **[cmxh666/budget-tracker](https://github.com/cmxh666/budget-tracker)** ⭐ 55
   ![Python](https://img.shields.io/badge/-Python-blue)
   # 简单记账工具（Budget Tracker）
 
-- **[JasonRobertDestiny/MD_Audit](https://github.com/JasonRobertDestiny/MD_Audit)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Intelligent Markdown SEO Diagnostic Agent - Dual-engine analysis combining rule-based checking with AI semantic analysis
+- **[qingfenggit/cf-ssl-check](https://github.com/qingfenggit/cf-ssl-check)** ⭐ 49
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  用于检查域名ssl证书状态信息，可以指定源站、cdn 各节点
 
-- **[Davidjos03/Car-Rental-Project-Backend](https://github.com/Davidjos03/Car-Rental-Project-Backend)** ⭐ 10
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Rent Car Service - .Net Backend Study
-
-- **[ChenQiaoling00/HydroJobSche](https://github.com/ChenQiaoling00/HydroJobSche)** ⭐ 9
+- **[skylerhes/sms-bridge](https://github.com/skylerhes/sms-bridge)** ⭐ 48
   ![Python](https://img.shields.io/badge/-Python-blue)
+  把几十块钱的 USB 上网卡插到玩客云 / 树莓派 / 任意 Linux 设备，让它变成一台“云手机”。自动收短信、转发短信、网页发短信保号。
+
+- **[ds-horizon/pulse](https://github.com/ds-horizon/pulse)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A digital experience platform that helps you understand how users are interacting with your platform in real time; combining behavioral, technical and business insights to drive better user experiences.
+
+- **[1129855376/BOT](https://github.com/1129855376/BOT)** ⭐ 35
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[AbdulAHAD968/IAC-Using-Docker-and-Python](https://github.com/AbdulAHAD968/IAC-Using-Docker-and-Python)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[redreamality/Paper-Comicizer](https://github.com/redreamality/Paper-Comicizer)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Turn boring papers into fun comics with the help of Gemini!
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,222
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,302
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,414
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,500
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,583
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,729
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 1,268
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 1,611
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 803
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 827
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official inference repo for FLUX.2 models
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 577
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 758
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 508
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 561
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+
+- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 514
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
 
-- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 397
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A self hosted dashboard and organizer for Excalidraw with live collaboration.
-
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,139
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,222
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,244
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,222
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,302
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,942
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,263
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,962
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,717
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,725
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,621
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,682
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,437
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  React Native Godot - Embed Godot Engine in React Native apps
-
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,414
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,500
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,438
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  React Native Godot - Embed Godot Engine in React Native apps
 
 ## 🚀 Latest Releases
 
@@ -479,58 +478,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
