@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 27, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November 28, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,43 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)**
-  *<p>Article URL: <a href="https://venam.net/blog/unix/2025/11/27/input_devices_linux.html">https://venam.net/blog/unix/2025/11/27/input_devices_linux.html</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 27 Nov 2025 16:55:30 +0000
+- **[How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)**
+  *<p>Article URL: <a href="https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy">https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-c...*
+  📅 Fri, 28 Nov 2025 00:10:38 +0000
 
-- **[Seagate achieves 6.9TB storage capacity per platter](https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possible)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possib...*
-  📅 Thu, 27 Nov 2025 16:48:34 +0000
+- **[Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)**
+  *<p>Article URL: <a href="https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html">https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html</a></p>
+<p>Comments ...*
+  📅 Thu, 27 Nov 2025 23:57:57 +0000
 
-- **[Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/)**
-  *<p>Article URL: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/">https://www.reuters.com/...*
-  📅 Thu, 27 Nov 2025 16:42:40 +0000
+- **[Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)**
+  *<p>Article URL: <a href="https://vsora.com/products/jotunn-8/">https://vsora.com/products/jotunn-8/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46074111">https://news.ycombi...*
+  📅 Thu, 27 Nov 2025 23:30:11 +0000
 
-- **[The VanDersarl Blériot: a 1911 airplane homebuilt by teenage brothers](https://www.historynet.com/vandersarl-bleriot/)**
-  *<p>Article URL: <a href="https://www.historynet.com/vandersarl-bleriot/">https://www.historynet.com/vandersarl-bleriot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46070868"...*
-  📅 Thu, 27 Nov 2025 16:38:35 +0000
+- **[250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)**
+  *<p>Article URL: <a href="https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/">https://www.energy-storage.news/250mwh-sand-batt...*
+  📅 Thu, 27 Nov 2025 22:48:44 +0000
 
-- **[Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)**
-  *<p>Article URL: <a href="https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support">https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8...*
-  📅 Thu, 27 Nov 2025 16:19:03 +0000
+- **[A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)**
+  *<p>Article URL: <a href="https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/">https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue...*
+  📅 Thu, 27 Nov 2025 22:41:06 +0000
 
-- **[Protect Public School Students from Surveillance of Off-Campus Speech](https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and)**
-  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and">https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-cour...*
-  📅 Thu, 27 Nov 2025 15:31:55 +0000
+- **[Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)**
+  *<p>Article URL: <a href="https://dynomight.net/thanks-5/">https://dynomight.net/thanks-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46073033">https://news.ycombinator.com/...*
+  📅 Thu, 27 Nov 2025 20:37:51 +0000
 
 ### 📑 TechCrunch
 
-- **[How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/)**
-  *This week in Build Mode, Startup Battlefield editor Isabelle Johannessen is joined by the winner of this year’s competition, Kevin Damoa, the CEO and founder of Glīd, a logistics infrastructure compan...*
-  📅 Thu, 27 Nov 2025 18:15:00 +0000
+- **[This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/)**
+  *Is Burry the canary in the coal mine, warning of a collapse that's inevitable? Or could his fame, his track record, his now unrestricted voice, and a fast-growing audience trigger the very implosion h...*
+  📅 Thu, 27 Nov 2025 19:32:21 +0000
 
 - **[Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)**
   *We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store....*
   📅 Thu, 27 Nov 2025 17:29:07 +0000
 
-- **[Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)**
+- **[Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)**
   *We're excited to interview the winner of Startup Battlefield 2025, and Glid co-founder Kevin Damoa, on this week's Build Mode!...*
   📅 Thu, 27 Nov 2025 17:02:00 +0000
 
@@ -100,19 +101,13 @@
 
 ### 📑 Dev.to
 
-- **[Nano-Banana Pro: Prompting Guide & Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)**
-  *<h1>
-  
-  
-  Nano-Banana Pro: Prompting Guide &amp; Strategies
-</h1>
+- **[Uma Abordagem Funcional para Domain-Driven Design](https://dev.to/oliverigor27/uma-abordagem-funcional-para-domain-driven-design-51ii)**
+  *<p>Há algumas semanas, eu defini a meta de aprender TypeScript e desenvolver um produto do zero utilizando tudo o que a linguagem de programação tem a oferecer. Sendo alguém com experiência trabalhand...*
+  📅 Fri, 28 Nov 2025 00:43:14 +0000
 
-<p><strong>Nano-Banana Pro</strong> is a significant leap forward from previous generation models, moving from "fun" image generat...*
-  📅 Thu, 27 Nov 2025 18:04:07 +0000
-
-- **[CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho)**
-  *<p><strong>Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less</strong> is CinemaSins’ latest takedown of the wild K-Pop action flick, where they gleefully rack up “sins” for every plot hol...*
-  📅 Thu, 27 Nov 2025 18:00:38 +0000
+- **[How I Built a Real-Time, Google Docs-like browser IDE for Python (and it's free!)](https://dev.to/sjriz/how-i-built-a-real-time-google-docs-like-browser-ide-for-python-4mj2)**
+  *<p>For the past months, I’ve been building <a href="https://pytogether.org" rel="noopener noreferrer">PyTogether</a>, an open-sourced, real-time collaborative Python IDE designed specifically for stud...*
+  📅 Fri, 28 Nov 2025 00:37:58 +0000
 
 </details>
 
@@ -120,95 +115,95 @@
 
 ### 📈 Daily Trending
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 249
+- **[thustry/shimmy](https://github.com/thustry/shimmy)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[adysec/proxychains-rs](https://github.com/adysec/proxychains-rs)** ⭐ 139
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust implementation of proxychains — injectable library for chaining TCP/UDP connections via multiple proxies.
+- **[Blockly-Anice/Solana-Arbitrage-Bot-Intro](https://github.com/Blockly-Anice/Solana-Arbitrage-Bot-Intro)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[ddcat666/business-gemini-pool](https://github.com/ddcat666/business-gemini-pool)** ⭐ 78
+- **[HMimaroglu/nba-tracker](https://github.com/HMimaroglu/nba-tracker)** ⭐ 1
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）
-
-- **[seceq/zkir](https://github.com/seceq/zkir)** ⭐ 72
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A bytecode format for zero-knowledge proof generation
-
-- **[chr15m/runprompt](https://github.com/chr15m/runprompt)** ⭐ 56
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Tiny script to run .prompt files
-
-- **[KalyanKS-NLP/Prompt-Engineering-Techniques-Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This repo contains implementation of 25+ prompt engineering techniques. 
-
-- **[InternRobotics/G2VLM](https://github.com/InternRobotics/G2VLM)** ⭐ 43
-  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[murtapping/mir4-bot-draco-farming](https://github.com/murtapping/mir4-bot-draco-farming)** ⭐ 41
+- **[kirillxxn/PhysicsTest4](https://github.com/kirillxxn/PhysicsTest4)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Joaopdiasventura/vox-landing-page](https://github.com/Joaopdiasventura/vox-landing-page)** ⭐ 1
+  ![SCSS](https://img.shields.io/badge/-SCSS-lightgrey)
+  None
+
+- **[ovbslaught/GEOBRAIN](https://github.com/ovbslaught/GEOBRAIN)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Database
+
+- **[LahbabiCode/Qwen2-Audio](https://github.com/LahbabiCode/Qwen2-Audio)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
-  MIR4 bot for automated Darksteel mining, DRACO farming, quest completion, and multi-account management. Python-based game automation tool for MIR4 players seeking efficient farming solutions.
+  The official repo of Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud.
+
+- **[Elsie19/cyclone](https://github.com/Elsie19/cyclone)** ⭐ 1
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A NexusMod API wrapper in Rust
 
 ### 📈 Weekly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,072
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,152
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,166
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,347
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,412
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,441
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 853
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 968
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 769
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 779
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official inference repo for FLUX.2 models
 
-- **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** ⭐ 696
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.2.1，最新版本 1.3.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
-
-- **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)** ⭐ 677
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open Source Semantic Search for your AI Agent
-
-- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 494
+- **[thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)** ⭐ 504
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
 
+- **[ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** ⭐ 394
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A self hosted dashboard and organizer for Excalidraw with live collaboration.
+
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 357
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,050
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,095
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,232
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** ⭐ 7,241
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,072
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,152
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,926
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,930
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,697
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,703
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,501
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,541
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
@@ -216,9 +211,9 @@
   ![C++](https://img.shields.io/badge/-C++-pink)
   React Native Godot - Embed Godot Engine in React Native apps
 
-- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,291
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,347
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
 ## 🚀 Latest Releases
 
@@ -483,59 +478,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -553,7 +548,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** November 27, 2025
+**Last Updated:** November 28, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
