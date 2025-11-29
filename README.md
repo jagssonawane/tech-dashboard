@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,15 +46,23 @@
 
 ### 📑 Hacker News
 
+- **[System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)**
+  *<p>Article URL: <a href="https://macos9lives.com/smforum/index.php?topic=7711.0">https://macos9lives.com/smforum/index.php?topic=7711.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 29 Nov 2025 03:26:01 +0000
+
+- **[Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)**
+  *<p>Article URL: <a href="https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025">https://support.neatorobotics.com/support/solutions/articles/204000073686-...*
+  📅 Sat, 29 Nov 2025 03:21:47 +0000
+
+- **[Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)**
+  *<p>Article URL: <a href="https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks">https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks</a></p...*
+  📅 Sat, 29 Nov 2025 01:37:42 +0000
+
 - **[A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)**
   *<p>Article URL: <a href="https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/">https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/</a></p>
 <p>Comments URL: <a href="https://news.ycombin...*
   📅 Sat, 29 Nov 2025 00:26:42 +0000
-
-- **[The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)**
-  *<p>Article URL: <a href="https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/">https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/</a></p>
-<p...*
-  📅 Fri, 28 Nov 2025 23:24:16 +0000
 
 - **[Fabric Project](https://github.com/Fabric-Project/Fabric)**
   *<p>Article URL: <a href="https://github.com/Fabric-Project/Fabric">https://github.com/Fabric-Project/Fabric</a></p>
@@ -65,16 +73,11 @@
   *<p>Article URL: <a href="https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/">https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more...*
   📅 Fri, 28 Nov 2025 22:21:25 +0000
 
-- **[How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)**
-  *<p>Article URL: <a href="https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms">https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbli...*
-  📅 Fri, 28 Nov 2025 21:56:58 +0000
-
-- **[A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)**
-  *<p>Article URL: <a href="https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/">https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/</a></p>
-<p>Comments URL: <a ...*
-  📅 Fri, 28 Nov 2025 21:46:07 +0000
-
 ### 📑 TechCrunch
+
+- **[VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/)**
+  *As women's sports enters what feels like a sustained boom period -- the Golden State Valkyries just played their first WNBA next season, the NWSL is expanding, media rights deals are growing -- Nortma...*
+  📅 Sat, 29 Nov 2025 06:17:51 +0000
 
 - **[Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/)**
   *Vibe coding has taken the tech industry by storm, and&#160;it&#8217;s&#160;not just the&#160;Lovables&#160;and&#160;Replits&#160;of the world that&#160;are&#160;winning. The startups building the infr...*
@@ -96,23 +99,135 @@
   *There are many iPad apps to help you organize recipes; sync tasks across devices; be more productive; and manage your notes....*
   📅 Fri, 28 Nov 2025 14:41:51 +0000
 
-- **[Anduril’s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)**
-  *Defense tech startup Anduril Industries has faced numerous setbacks during testing of its autonomous weapons systems, according to new reporting by the WSJ....*
-  📅 Fri, 28 Nov 2025 05:07:47 +0000
-
 ### 📑 Dev.to
 
-- **[Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9)**
-  *<p>Choosing a backend technology is one of the most important decisions in web development. Node.js and PHP are two of the most widely used technologies today. Both are powerful, both have large ecosy...*
-  📅 Sat, 29 Nov 2025 00:45:22 +0000
+- **[A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)**
+  *<p>Let me break down what happens in .me(and why it’s powerful</p>
 
-- **[Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0)**
-  *...*
-  📅 Sat, 29 Nov 2025 00:37:12 +0000
+<p>⸻</p>
+
+<h2>
+  
+  
+  ✅ 1. You store a value inside a secret branch
+</h2>
+
+<p>Example:</p>
+
+<p><code>me.wallet.secret("alpha").priv...*
+  📅 Sat, 29 Nov 2025 06:07:31 +0000
+
+- **[A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)**
+  *<p>Most people think AI browsers are hype; I tested Perplexity's Comet and learned this: it's a rocket on static pages and stalls on dynamic sites.<br />
+It changed how I run deep research.<br />
+But ...*
+  📅 Sat, 29 Nov 2025 06:05:01 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[nhb789/budget-tracker](https://github.com/nhb789/budget-tracker)** ⭐ 27
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  # 简单记账工具（Budget Tracker）
+
+- **[alienwaregf/CF-Worker-BestIP-collector-UI](https://github.com/alienwaregf/CF-Worker-BestIP-collector-UI)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Cloudflare 优选IP 收集器升级版UI
+
+- **[lvqopl/bpb](https://github.com/lvqopl/bpb)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[grlapv/inventory-monitor](https://github.com/grlapv/inventory-monitor)** ⭐ 17
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  favfab
+
+- **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skill to supercharge and manage all Home Assistant workflows
+
+- **[beita2333/Databricks-keepalive](https://github.com/beita2333/Databricks-keepalive)** ⭐ 11
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[ccbikai/aigc-weekly](https://github.com/ccbikai/aigc-weekly)** ⭐ 10
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine)** ⭐ 7
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
+
+### 📈 Weekly Trending
+
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,692
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,004
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 1,860
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 938
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 847
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official inference repo for FLUX.2 models
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 635
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+
+- **[drak6y/Trading-Bot-For-Binance-Future](https://github.com/drak6y/Trading-Bot-For-Binance-Future)** ⭐ 493
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Technical-analysis–driven crypto trading bot for Binance Futures.
+
+- **[6rests/polyseed-monero](https://github.com/6rests/polyseed-monero)** ⭐ 400
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Mnemonic seed library for Monero and other CryptoNote-based currencies.
+
+### 📈 Monthly Trending
+
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,408
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,540
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 2,978
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Depth Anything 3
+
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,770
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,742
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
+
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,692
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)** ⭐ 2,441
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  React Native Godot - Embed Godot Engine in React Native apps
+
+- **[facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** ⭐ 2,309
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 
 ## 🚀 Latest Releases
 
@@ -377,51 +492,51 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
@@ -429,7 +544,7 @@ for a semver-minor rele...
 |-------|--------|
 | Blockchain | ⚪ Planned |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
