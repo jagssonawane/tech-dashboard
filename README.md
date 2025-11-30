@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)**
-  *<p>Article URL: <a href="https://cachyos.org/">https://cachyos.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46095585">https://news.ycombinator.com/item?id=46095585</a></...*
-  📅 Sun, 30 Nov 2025 10:47:27 +0000
+- **[LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)**
+  *<p>Article URL: <a href="https://llvm-mos.org/wiki/Welcome">https://llvm-mos.org/wiki/Welcome</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46098359">https://news.ycombinator....*
+  📅 Sun, 30 Nov 2025 17:02:48 +0000
 
-- **[Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html">https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html</a></p>
-...*
-  📅 Sun, 30 Nov 2025 10:03:31 +0000
+- **[RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager">https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-mana...*
+  📅 Sun, 30 Nov 2025 17:01:24 +0000
 
-- **[The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)**
-  *<p>Article URL: <a href="https://karpathy.bearblog.dev/the-space-of-minds/">https://karpathy.bearblog.dev/the-space-of-minds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460...*
-  📅 Sun, 30 Nov 2025 09:44:15 +0000
+- **[The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)**
+  *<p>Article URL: <a href="https://thinkinggamefilm.com">https://thinkinggamefilm.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46097773">https://news.ycombinator.com/item?i...*
+  📅 Sun, 30 Nov 2025 16:07:11 +0000
 
-- **[Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe">https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe<...*
-  📅 Sun, 30 Nov 2025 07:00:40 +0000
+- **[Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)**
+  *<p>Article URL: <a href="https://langjamgamejam.com/">https://langjamgamejam.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46097671">https://news.ycombinator.com/item?id=...*
+  📅 Sun, 30 Nov 2025 15:57:34 +0000
 
-- **[Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)**
-  *<p>Article URL: <a href="https://zigtools.org/blog/zigbook-plagiarizing-playground/">https://zigtools.org/blog/zigbook-plagiarizing-playground/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 30 Nov 2025 03:54:51 +0000
+- **[Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)**
+  *<p>Article URL: <a href="https://dillo-browser.org/news/migration-from-github/">https://dillo-browser.org/news/migration-from-github/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sun, 30 Nov 2025 14:11:40 +0000
 
-- **[Show HN: Boing](https://boing.greg.technology/)**
-  *<p>Article URL: <a href="https://boing.greg.technology/">https://boing.greg.technology/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46093473">https://news.ycombinator.com/it...*
-  📅 Sun, 30 Nov 2025 03:46:35 +0000
+- **[Don't throw away your old PC–it makes a better NAS than anything you can buy](https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/)**
+  *<p>Article URL: <a href="https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/">https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Sun, 30 Nov 2025 14:09:01 +0000
 
 ### 📑 TechCrunch
+
+- **[Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/)**
+  *TechCrunch went behind the scenes of a three-party partnership between Irish drone delivery company Manna, Doordash-owned food delivery platform Wolt, and food startup Huuva....*
+  📅 Sun, 30 Nov 2025 16:59:48 +0000
 
 - **[Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/)**
   *The company said it’s taking action because “analysis of a recent event involving an A320 Family aircraft has revealed that intense solar radiation may corrupt data critical to the functioning of flig...*
@@ -97,23 +101,24 @@
   *As women's sports enters what feels like a sustained boom period -- the Golden State Valkyries just played their first WNBA next season, the NWSL is expanding, media rights deals are growing -- Nortma...*
   📅 Sat, 29 Nov 2025 06:17:51 +0000
 
-- **[Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/)**
-  *Vibe coding has taken the tech industry by storm, and&#160;it&#8217;s&#160;not just the&#160;Lovables&#160;and&#160;Replits&#160;of the world that&#160;are&#160;winning. The startups building the infr...*
-  📅 Fri, 28 Nov 2025 23:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[The "Happy Path" is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc)**
-  *<p>We spent the last two years figuring out how to make LLMs "smart." We learned RAG, Chain-of-Thought, and Tool Use.</p>
+- **[Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23)**
+  *<h2>
+  
+  
+  Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación
+</h2>
 
-<p>But in 2025, the challenge isn't intelligence. It's Containment.</p>
+<p>La Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cl...*
+  📅 Sun, 30 Nov 2025 18:08:21 +0000
 
-<p>T...*
-  📅 Sun, 30 Nov 2025 12:03:47 +0000
-
-- **[CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)**
-  *<p>CinemaSins’ latest “Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less” is a cheeky, rapid-fire roast of the movie, scoring every plot hole, cringe moment and over-the-top KPop action s...*
-  📅 Sun, 30 Nov 2025 12:01:32 +0000
+- **[[Boost]](https://dev.to/oncloud7/-16c1)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/oncloud7">
+    <div class="ltag__link__pic">
+      <img alt="oncloud7" src="https://media2.dev.to/dynamic/image/width=800%2C...*
+  📅 Sun, 30 Nov 2025 18:08:08 +0000
 
 </details>
 
@@ -121,13 +126,25 @@
 
 ### 📈 Daily Trending
 
+- **[lixing8/yun](https://github.com/lixing8/yun)** ⭐ 102
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
 - **[987yt/yun](https://github.com/987yt/yun)** ⭐ 101
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[seanZhang414/openadserver](https://github.com/seanZhang414/openadserver)** ⭐ 29
+- **[kaima2022/ShowImageWeb](https://github.com/kaima2022/ShowImageWeb)** ⭐ 50
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI图像生成网页交互平台 - 基于Streamlit构建的Web应用，提供简洁的用户界面和实用的图像生成功能
+
+- **[seanZhang414/openadserver](https://github.com/seanZhang414/openadserver)** ⭐ 34
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch
+
+- **[gregsadetsky/boing](https://github.com/gregsadetsky/boing)** ⭐ 32
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 - **[xotu938/tg-text2img-bot](https://github.com/xotu938/tg-text2img-bot)** ⭐ 28
   ![Python](https://img.shields.io/badge/-Python-blue)
@@ -141,83 +158,71 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[annpardo/subconvernet](https://github.com/annpardo/subconvernet)** ⭐ 18
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  订阅转换服务
-
-- **[kaima2022/ShowImageWeb](https://github.com/kaima2022/ShowImageWeb)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI图像生成网页交互平台 - 基于Streamlit构建的Web应用，提供简洁的用户界面和实用的图像生成功能
-
-- **[FreeAccHub/qaa-airtype](https://github.com/FreeAccHub/qaa-airtype)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  QAA AirType 是一个轻量级的局域网输入板，让你可以通过手机端的输入法（如豆包语音输入）来实现电脑端的文字输入（与Agent对话）。
-
 ### 📈 Weekly Trending
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,843
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,868
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,605
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,728
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,003
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,019
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,114
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,150
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 946
+- **[black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)** ⭐ 960
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official inference repo for FLUX.2 models
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 779
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 836
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 625
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 665
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[drak6y/Trading-Bot-For-Binance-Future](https://github.com/drak6y/Trading-Bot-For-Binance-Future)** ⭐ 511
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 553
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Technical-analysis–driven crypto trading bot for Binance Futures.
+  An universal osint tool.
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,661
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,737
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 7,971
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,094
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,033
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,289
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,005
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,013
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Depth Anything 3
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,908
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 2,937
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,843
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,868
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,782
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,794
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,605
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 2,728
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
@@ -484,59 +489,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
