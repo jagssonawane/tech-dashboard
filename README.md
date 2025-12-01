@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[It's Been a Hard Year](https://bell.bz/its-been-a-very-hard-year/)**
-  *<p>Article URL: <a href="https://bell.bz/its-been-a-very-hard-year/">https://bell.bz/its-been-a-very-hard-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103858">https:/...*
-  📅 Mon, 01 Dec 2025 05:36:48 +0000
+- **[1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)**
+  *<p>Article URL: <a href="https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/">https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45...*
+  📅 Mon, 01 Dec 2025 11:37:18 +0000
 
-- **[Google Antigravity Deletes D Drive](https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052)**
-  *<p>Article URL: <a href="https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052">https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052</a></p>
-<p>Comments URL:...*
-  📅 Mon, 01 Dec 2025 05:29:00 +0000
+- **[UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)**
+  *<p>Article URL: <a href="https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/">https://netpol.org/2025/11/28/government-plans-new-powers-to-label-diss...*
+  📅 Mon, 01 Dec 2025 11:35:34 +0000
 
-- **[SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)**
-  *<p>Article URL: <a href="https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/">https://www.aftvnews.com/smarttubes-official-apk-was-compromis...*
-  📅 Mon, 01 Dec 2025 05:01:01 +0000
+- **[Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)**
+  *<p>Article URL: <a href="https://yaky.dev/2025-11-30-self-hosting-matrix/">https://yaky.dev/2025-11-30-self-hosting-matrix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46106...*
+  📅 Mon, 01 Dec 2025 11:26:39 +0000
 
-- **[Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)**
-  *<p>Article URL: <a href="https://tegabrain.com/Slop-Evader">https://tegabrain.com/Slop-Evader</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103376">https://news.ycombinator....*
-  📅 Mon, 01 Dec 2025 04:06:06 +0000
+- **[Xlibre is a fork of the Xorg Xserver with lots of code cleanups](https://x11libre.net/)**
+  *<p>Article URL: <a href="https://x11libre.net/">https://x11libre.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46105897">https://news.ycombinator.com/item?id=46105897</a>...*
+  📅 Mon, 01 Dec 2025 10:51:37 +0000
 
-- **[X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)**
-  *<p>Article URL: <a href="https://www.tpart.net/about-x210ai/">https://www.tpart.net/about-x210ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46103097">https://news.ycombina...*
-  📅 Mon, 01 Dec 2025 03:12:29 +0000
+- **[DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)**
+  *<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-Math-V2">https://huggingface.co/deepseek-ai/DeepSeek-Math-V2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 01 Dec 2025 08:54:31 +0000
 
-- **[Advent of Sysadmin 2025](https://sadservers.com/advent)**
-  *<p>Article URL: <a href="https://sadservers.com/advent">https://sadservers.com/advent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46102347">https://news.ycombinator.com/item...*
-  📅 Mon, 01 Dec 2025 01:17:28 +0000
+- **[Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)**
+  *<p>Article URL: <a href="https://areweanticheatyet.com/">https://areweanticheatyet.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46104396">https://news.ycombinator.com/it...*
+  📅 Mon, 01 Dec 2025 07:05:57 +0000
 
 ### 📑 TechCrunch
+
+- **[Korea’s Coupang says data breach exposed nearly 34M customers’ personal information](https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/)**
+  *E-commerce company Coupang has confirmed a massive data breach affecting 33.7 million customer accounts in South Korea....*
+  📅 Mon, 01 Dec 2025 12:26:15 +0000
 
 - **[Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/)**
   *CEO Will Bruey says people often get Varda wrong. The company isn't "in the space industry; we're in-space industry," he said. Space is "just another place to ship to."...*
@@ -97,25 +100,18 @@
   *TechCrunch went behind the scenes of a three-party partnership between Irish drone delivery company Manna, Doordash-owned food delivery platform Wolt, and food startup Huuva....*
   📅 Sun, 30 Nov 2025 16:59:48 +0000
 
-- **[Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/)**
-  *The company said it’s taking action because “analysis of a recent event involving an A320 Family aircraft has revealed that intense solar radiation may corrupt data critical to the functioning of flig...*
-  📅 Sat, 29 Nov 2025 22:03:18 +0000
-
 ### 📑 Dev.to
 
-- **[Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899)**
-  *<p>Originally published at <a href="https://perlweekly.com/archive/749.html" rel="noopener noreferrer">Perl Weekly 749</a></p>
+- **[Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)**
+  *<p><strong>Regular Expressions (RegEx)</strong></p>
 
-<p>Hi there!</p>
+<p><strong>What is Regular Expression?</strong><br />
+Regular Expression (RegEx) is a technique used to <strong>search</strong>, <strong>match</str...*
+  📅 Mon, 01 Dec 2025 12:10:30 +0000
 
-<p>The big announcement is that Mohammad Sajid Anwar w...*
-  📅 Mon, 01 Dec 2025 06:14:49 +0000
-
-- **[Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238)**
-  *<p>Signup <a href="https://weeklyfoo.com" rel="noopener noreferrer">here</a> for the newsletter to get the weekly digest right into your inbox.</p>
-
-<p>weeklyfoo #113 is here: your weekly digest of al...*
-  📅 Mon, 01 Dec 2025 06:08:58 +0000
+- **[Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Mon, 01 Dec 2025 12:09:07 +0000
 
 </details>
 
@@ -123,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[kejidsije/fenfen](https://github.com/kejidsije/fenfen)** ⭐ 49
+- **[kejidsije/fenfen](https://github.com/kejidsije/fenfen)** ⭐ 100
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[jakethjy/fenxang](https://github.com/jakethjy/fenxang)** ⭐ 47
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[xxjsg/fjiejdkf](https://github.com/xxjsg/fjiejdkf)** ⭐ 100
+  ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
 
-- **[xuzgud/fenqiku](https://github.com/xuzgud/fenqiku)** ⭐ 41
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[toughnessjettied/rollerbot](https://github.com/toughnessjettied/rollerbot)** ⭐ 37
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Rollercoin bot for auto farming mini-games and hashrate boost. Automates 2048, Coinflip, CoinMatch, Cryptonoid, Flappy Rocket gameplay. Miner marketplace integration. Python CLI tool.
-
-- **[cherrrry1/free](https://github.com/cherrrry1/free)** ⭐ 35
+- **[cherrrry1/free](https://github.com/cherrrry1/free)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Romo006/loruki](https://github.com/Romo006/loruki)** ⭐ 35
+- **[Borerxcv/jiejggds](https://github.com/Borerxcv/jiejggds)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Romo006/loruki](https://github.com/Romo006/loruki)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[orange1923/xarp100](https://github.com/orange1923/xarp100)** ⭐ 35
+- **[orange1923/xarp100](https://github.com/orange1923/xarp100)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[shijil1/landing](https://github.com/shijil1/landing)** ⭐ 35
+- **[shijil1/landing](https://github.com/shijil1/landing)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[mmubo/spotify](https://github.com/mmubo/spotify)** ⭐ 100
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,033
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,259
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,085
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,170
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,208
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,255
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 913
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 947
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 696
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 734
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 641
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 697
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 574
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 605
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 343
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 416
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Edit PDF files with Nano Banana
+  GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,846
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,922
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,300
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,424
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,524
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,722
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,053
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,034
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Depth Anything 3
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,033
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,259
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,917
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,112
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,059
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Depth Anything 3
+
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,944
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,813
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,818
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -258,14 +254,14 @@ Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2)
 
 ### 📦 angular/angular
 
-**[21.0.1](https://github.com/angular/angular/releases/tag/21.0.1)** `21.0.1`
+**[21.0.2](https://github.com/angular/angular/releases/tag/21.0.2)** `21.0.2`
 
-📅 Released: November 25, 2025
+📅 Released: December 01, 2025
 
-### compiler-cli
+### compiler
 | Commit | Description |
 | -- | -- |
-| [![fix - 39c577bc36](https://img.shields.io/badge/39c577bc36-fix-green)](https://github.com/angular/angular/commit/39c577bc362b263896b38c9486131...
+| [![fix - 78fd159b78](https://img.shields.io/badge/78fd159b78-fix-green)](https://github.com/angular/angular/commit/78fd159b78d32cb8b94891e3fc6013076...
 
 ---
 
@@ -486,9 +482,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
 
@@ -497,30 +493,30 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -529,16 +525,16 @@ for a semver-minor rele...
 | Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
