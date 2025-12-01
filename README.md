@@ -46,72 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)**
-  *<p>Article URL: <a href="https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/">https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45...*
-  📅 Mon, 01 Dec 2025 11:37:18 +0000
+- **[Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer">https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-e...*
+  📅 Mon, 01 Dec 2025 17:01:18 +0000
 
-- **[UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)**
-  *<p>Article URL: <a href="https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/">https://netpol.org/2025/11/28/government-plans-new-powers-to-label-diss...*
-  📅 Mon, 01 Dec 2025 11:35:34 +0000
+- **[A new AI winter is coming?](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)**
+  *<p>Article URL: <a href="https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/">https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 01 Dec 2025 16:42:15 +0000
 
-- **[Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)**
-  *<p>Article URL: <a href="https://yaky.dev/2025-11-30-self-hosting-matrix/">https://yaky.dev/2025-11-30-self-hosting-matrix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46106...*
-  📅 Mon, 01 Dec 2025 11:26:39 +0000
+- **[ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)**
+  *<p>Article URL: <a href="https://github.com/soufianekhiat/ImAnim">https://github.com/soufianekhiat/ImAnim</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46109080">https://news....*
+  📅 Mon, 01 Dec 2025 16:11:15 +0000
 
-- **[Xlibre is a fork of the Xorg Xserver with lots of code cleanups](https://x11libre.net/)**
-  *<p>Article URL: <a href="https://x11libre.net/">https://x11libre.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46105897">https://news.ycombinator.com/item?id=46105897</a>...*
-  📅 Mon, 01 Dec 2025 10:51:37 +0000
+- **[Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)**
+  *<p>Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you per...*
+  📅 Mon, 01 Dec 2025 16:01:26 +0000
 
-- **[DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)**
-  *<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-Math-V2">https://huggingface.co/deepseek-ai/DeepSeek-Math-V2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Mon, 01 Dec 2025 08:54:31 +0000
+- **[Ask HN: Who wants to be hired? (December 2025)](https://news.ycombinator.com/item?id=46108940)**
+  *<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:
+  Remote:
+  Willing to relocate:
+  Technologies:
+  Résumé/CV:
+  Email:
+</code></pre>
+Please only...*
+  📅 Mon, 01 Dec 2025 16:01:26 +0000
 
-- **[Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)**
-  *<p>Article URL: <a href="https://areweanticheatyet.com/">https://areweanticheatyet.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46104396">https://news.ycombinator.com/it...*
-  📅 Mon, 01 Dec 2025 07:05:57 +0000
+- **[Google unkills JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)**
+  *<p>Article URL: <a href="https://tonisagrista.com/blog/2025/google-unkills-jpegxl/">https://tonisagrista.com/blog/2025/google-unkills-jpegxl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 01 Dec 2025 15:28:49 +0000
 
 ### 📑 TechCrunch
 
-- **[Korea’s Coupang says data breach exposed nearly 34M customers’ personal information](https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/)**
-  *E-commerce company Coupang has confirmed a massive data breach affecting 33.7 million customer accounts in South Korea....*
-  📅 Mon, 01 Dec 2025 12:26:15 +0000
+- **[OpenAI’s investment into Thrive Holdings is its latest circular deal](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/)**
+  *Analysts will be watching to see if Thrive-owned firms actually succeed in building long-term profitable businesses using OpenAI’s tech, or if the result is really just pumped up valuations based on s...*
+  📅 Mon, 01 Dec 2025 16:58:17 +0000
 
-- **[Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/)**
-  *CEO Will Bruey says people often get Varda wrong. The company isn't "in the space industry; we're in-space industry," he said. Space is "just another place to ship to."...*
-  📅 Mon, 01 Dec 2025 02:11:19 +0000
+- **[Deezer rolls out ‘My Deezer Year 2025,’ its Spotify Wrapped clone](https://techcrunch.com/2025/12/01/deezer-rolls-out-my-deezer-year-2025-its-spotify-wrapped-clone/)**
+  *Deezer launched its version of Spotify Wrapped to give listeners an overview of their top tracks and artists....*
+  📅 Mon, 01 Dec 2025 16:35:26 +0000
 
-- **[‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/)**
-  *James Cameron’s movies are often at the cutting edge of visual effects technology, but that doesn't make him a fan of generative AI....*
-  📅 Sun, 30 Nov 2025 22:53:15 +0000
+- **[Nvidia’s $2B Synopsys bet tightens its grip on the chip-design stack](https://techcrunch.com/2025/12/01/nvidias-2b-synopsys-bet-tightens-its-grip-on-the-chip-design-stack/)**
+  *The $2 billion investment in Synopsys, which makes software and components for designing semiconductor chips, deepens their existing partnership at a time when analysts scrutinize circular AI-industry...*
+  📅 Mon, 01 Dec 2025 16:32:50 +0000
 
-- **[New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/)**
-  *David Sacks’ role as President Donald Trump’s artificial intelligence and crypto czar could work out very well for his investments, according to a new report. However, Sacks fired back, calling the st...*
-  📅 Sun, 30 Nov 2025 21:39:04 +0000
+- **[Amazon’s AI chatbot Rufus drove sales on Black Friday](https://techcrunch.com/2025/12/01/amazons-ai-chatbot-rufus-drove-sales-on-black-friday/)**
+  *On Black Friday, Amazon sessions that resulted in a sale were up 100% in the U.S. when the AI chatbot Rufus was used. They only increased by 20% when Rufus wasn't used....*
+  📅 Mon, 01 Dec 2025 16:25:24 +0000
 
-- **[ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/)**
-  *It’s no hyperbole to suggest that ChatGPT subsequently transformed the worlds of business and tech....*
-  📅 Sun, 30 Nov 2025 20:14:09 +0000
+- **[How AI PR startup Clipbook won Mark Cuban’s investment from a cold email](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/)**
+  *Adam Joseph was shocked when Mark Cuban replied to his email with an inquisition full of questions....*
+  📅 Mon, 01 Dec 2025 16:00:00 +0000
 
-- **[Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/)**
-  *TechCrunch went behind the scenes of a three-party partnership between Irish drone delivery company Manna, Doordash-owned food delivery platform Wolt, and food startup Huuva....*
-  📅 Sun, 30 Nov 2025 16:59:48 +0000
+- **[At least 80 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/12/01/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)**
+  *Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year....*
+  📅 Mon, 01 Dec 2025 14:30:00 +0000
 
 ### 📑 Dev.to
 
-- **[Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)**
-  *<p><strong>Regular Expressions (RegEx)</strong></p>
+- **[I made a thing because taking notes from YouTube sucks](https://dev.to/ayush_jhanwar_6e501579134/i-made-a-thing-because-taking-notes-from-youtube-sucks-nod)**
+  *<p>I have a problem. I watch way too much YouTube. Not the fun stuff - I mean tutorials, lectures, those 3-hour coding videos I convince myself I'll finish. And every time, same story: Watch for 30 se...*
+  📅 Mon, 01 Dec 2025 18:15:21 +0000
 
-<p><strong>What is Regular Expression?</strong><br />
-Regular Expression (RegEx) is a technique used to <strong>search</strong>, <strong>match</str...*
-  📅 Mon, 01 Dec 2025 12:10:30 +0000
-
-- **[Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Mon, 01 Dec 2025 12:09:07 +0000
+- **[Build in Public: Week 4. The Messy Middle Of Building An AI Agent](https://dev.to/olgabraginskaya/build-in-public-week-4-the-messy-middle-of-building-an-ai-agent-2p55)**
+  *<p>This was supposed to be the week of a polished demo video and a clean “here’s how you use our API” walkthrough. Instead, it turned into the week of staring at half-finished pieces, poking at logs a...*
+  📅 Mon, 01 Dec 2025 18:15:03 +0000
 
 </details>
 
@@ -123,6 +127,10 @@ Regular Expression (RegEx) is a technique used to <strong>search</strong>, <stro
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
+- **[mmnnww/vfegzan](https://github.com/mmnnww/vfegzan)** ⭐ 100
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
+
 - **[xxjsg/fjiejdkf](https://github.com/xxjsg/fjiejdkf)** ⭐ 100
   ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
   None
@@ -131,15 +139,15 @@ Regular Expression (RegEx) is a technique used to <strong>search</strong>, <stro
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[Borerxcv/jiejggds](https://github.com/Borerxcv/jiejggds)** ⭐ 100
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 - **[Romo006/loruki](https://github.com/Romo006/loruki)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[orange1923/xarp100](https://github.com/orange1923/xarp100)** ⭐ 100
+- **[Borerxcv/jiejggds](https://github.com/Borerxcv/jiejggds)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[orange1922/xarp100](https://github.com/orange1922/xarp100)** ⭐ 100
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
@@ -147,75 +155,71 @@ Regular Expression (RegEx) is a technique used to <strong>search</strong>, <stro
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[mmubo/spotify](https://github.com/mmubo/spotify)** ⭐ 100
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,259
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,364
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,170
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,208
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,255
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,280
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 947
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 989
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 734
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 757
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 697
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 712
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 605
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 630
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 416
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 499
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 14,922
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,006
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,424
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,545
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,722
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 3,848
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,259
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,364
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,112
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,153
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,059
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,066
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,944
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 2,970
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,818
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,829
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -482,39 +486,39 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
@@ -522,18 +526,18 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
