@@ -46,75 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[Addressing the adding situation](https://xania.org/202512/02-adding-integers)**
-  *<p>Article URL: <a href="https://xania.org/202512/02-adding-integers">https://xania.org/202512/02-adding-integers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46120181">https...*
-  📅 Tue, 02 Dec 2025 11:30:29 +0000
+- **[Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/">https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/</a></p>
+<p...*
+  📅 Tue, 02 Dec 2025 17:37:06 +0000
 
-- **[Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)**
-  *<p>Article URL: <a href="https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/">https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-...*
-  📅 Tue, 02 Dec 2025 10:20:34 +0000
+- **[Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)**
+  *<p>Article URL: <a href="https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/">https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-...*
+  📅 Tue, 02 Dec 2025 17:24:33 +0000
 
-- **[Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)**
-  *<p>Article URL: <a href="https://xania.org/202511/advent-of-compiler-optimisation">https://xania.org/202511/advent-of-compiler-optimisation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 02 Dec 2025 09:51:42 +0000
+- **[Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer">https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer</a></p>
+<p>Comme...*
+  📅 Tue, 02 Dec 2025 17:00:12 +0000
 
-- **[Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)**
-  *<p>Article URL: <a href="https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/">https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-per...*
-  📅 Tue, 02 Dec 2025 09:11:41 +0000
+- **[4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign)**
+  *<p>Article URL: <a href="https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign">https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-mal...*
+  📅 Tue, 02 Dec 2025 16:30:52 +0000
 
-- **[How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)**
-  *<p>Article URL: <a href="https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/">https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/</a></p>
-<p>Comments UR...*
-  📅 Tue, 02 Dec 2025 07:46:47 +0000
+- **[Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)**
+  *<p>Article URL: <a href="https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/">https://arstechnica.com/gaming/2025/12/fallout-2-desi...*
+  📅 Tue, 02 Dec 2025 15:56:39 +0000
 
-- **[Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)**
-  *<p>Article URL: <a href="https://bou.ke/blog/rust-ping/">https://bou.ke/blog/rust-ping/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46118432">https://news.ycombinator.com/it...*
-  📅 Tue, 02 Dec 2025 07:01:03 +0000
+- **[Show HN: RunMat – runtime with auto CPU/GPU routing for dense math](https://github.com/runmat-org/runmat)**
+  *<p>Hi, I’m Nabeel. In August I released RunMat as an open-source runtime for MATLAB code that was already much faster than GNU Octave on the workloads I tried. <a href="https://news.ycombinator.com/it...*
+  📅 Tue, 02 Dec 2025 15:07:49 +0000
 
 ### 📑 TechCrunch
 
-- **[Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/)**
-  *Gradium, a startup spawned out of French AI lab Kyutai (backed by French telecom billionaire Xavier Niel), launched out of stealth on Tuesday....*
-  📅 Tue, 02 Dec 2025 12:00:00 +0000
+- **[Netflix launches a mobile-friendly version of Red Dead Redemption](https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/)**
+  *Red Dead Redemption is officially available for Netflix subscribers on iOS and Android Devices....*
+  📅 Tue, 02 Dec 2025 18:00:51 +0000
 
-- **[What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/)**
-  *You can imagine how this is all going over in Silicon Valley, where the libertarian ethos runs deep....*
-  📅 Tue, 02 Dec 2025 04:03:25 +0000
+- **[ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report](https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/)**
+  *ChatGPT referrals to retailers' apps were up on Black Friday year-over-year, with Walmart and Amazon benefitting the most....*
+  📅 Tue, 02 Dec 2025 17:56:16 +0000
 
-- **[Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/)**
-  *His replacement is Amar Subramanya, a highly regarded Microsoft executive who spent 16 years at Google, most recently leading engineering for the Gemini Assistant. It's a savvy hire, given that Subram...*
-  📅 Tue, 02 Dec 2025 01:34:46 +0000
+- **[AWS launches new Nova AI models and a service that gives customers more control](https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/)**
+  *Amazon Web Services announced four new AI models within its Nova model family and a frontier model service....*
+  📅 Tue, 02 Dec 2025 17:54:02 +0000
 
-- **[One of Google’s biggest AI advantages is what it already knows about you](https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/)**
-  *The promise is AI that's uniquely helpful because it knows you. But the risk is AI that feels more like surveillance than service....*
-  📅 Tue, 02 Dec 2025 00:17:52 +0000
+- **[OpenAI slammed for app suggestions that looked like ads](https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/)**
+  *OpenAI said the app suggestion was only a test and not a paid ad....*
+  📅 Tue, 02 Dec 2025 16:43:21 +0000
 
-- **[Zillow drops climate risk scores after agents complained of lost sales](https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/)**
-  *The move is a loss for homebuyers, who through Zillow had ready access to a property's climate risk scores from First Street....*
-  📅 Mon, 01 Dec 2025 22:44:28 +0000
+- **[Discord users can now buy in-game items without leaving the platform](https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/)**
+  *Discord users can now purchase digital game items directly within the platform, create wishlists, and send gifts through DMs....*
+  📅 Tue, 02 Dec 2025 16:42:31 +0000
 
-- **[Shopify resolves outage disrupting merchants on Cyber Monday](https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/)**
-  *Shopify was down for many merchants this morning, preventing them from processing transactions. It appears to be fixed now....*
-  📅 Mon, 01 Dec 2025 21:31:02 +0000
+- **[YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/)**
+  *YouTube Recap features a set of up to 12 different cards that highlight a user's top channels, interests, the evolution of their viewing habits, and which personality type they fall into based on the ...*
+  📅 Tue, 02 Dec 2025 16:35:05 +0000
 
 ### 📑 Dev.to
 
-- **[รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B (ไม่ไหว) สู่ 4B "Sweet Spot"](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)**
-  *<p>สวัสดีครับ! นี่คือบทความสรุปการเดินทางของเราในการพยายามรันโมเดล Typhoon 2.5 (ทั้ง 30B และ 4B) บน Google Colab Free Tier ครับ เราได้ลองผิดลองถูกมาหลายวิธี และนี่คือบทเรียนทั้งหมดที่เราพบ ตั้งแต่ความ...*
-  📅 Tue, 02 Dec 2025 12:12:47 +0000
-
-- **[Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)**
-  *<h2>
+- **[CinemaSins: Everything Wrong With Superman (2025) In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)**
+  *<h1>
   
   
-  Introduction
-</h2>
+  TL;DR
+</h1>
 
-<p>Prompting used to feel like magic. Sometimes the AI gave great results sometimes it didn’t. But modern AI workloads require consistency, structure, validation, and ...*
-  📅 Tue, 02 Dec 2025 12:10:47 +0000
+<p>CinemaSins just dropped a new “Everything Wrong With Superman (2025) In 17 Minutes Or Less” video, where they hilariously roast the latest Man of Steel flick by pointing o...*
+  📅 Tue, 02 Dec 2025 18:02:35 +0000
+
+- **[Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)**
+  *<p><strong>Self-healing systems are basically computer systems that can fix themselves automatically when something goes wrong.</strong> </p>
+
+<p>Instead of waiting for a human to notice a problem and...*
+  📅 Tue, 02 Dec 2025 18:00:39 +0000
 
 </details>
 
@@ -122,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad)** ⭐ 61
+- **[PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad)** ⭐ 83
   ![C](https://img.shields.io/badge/-C-lightgrey)
   None
 
-- **[mit-han-lab/vlash](https://github.com/mit-han-lab/vlash)** ⭐ 36
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Real-Time VLAs via Future-state-aware Asynchronous Inference.
+- **[pkr91/lucky-2026](https://github.com/pkr91/lucky-2026)** ⭐ 48
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  2026년 운세 분석 사이트
 
-- **[Gouryella/drip](https://github.com/Gouryella/drip)** ⭐ 34
+- **[Gouryella/drip](https://github.com/Gouryella/drip)** ⭐ 45
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers
 
-- **[mit-han-lab/fouroversix](https://github.com/mit-han-lab/fouroversix)** ⭐ 24
+- **[mit-han-lab/vlash](https://github.com/mit-han-lab/vlash)** ⭐ 41
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Real-Time VLAs via Future-state-aware Asynchronous Inference.
+
+- **[wannalie/sora-watermark-cleaner](https://github.com/wannalie/sora-watermark-cleaner)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows.
+
+- **[mit-han-lab/fouroversix](https://github.com/mit-han-lab/fouroversix)** ⭐ 32
   ![Python](https://img.shields.io/badge/-Python-blue)
   Code for the paper “Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling”
 
-- **[afoim/AnuNeko_NoneBot2_Plugins](https://github.com/afoim/AnuNeko_NoneBot2_Plugins)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于 anuneko.com 的第三方NoneBot2前端，仅需配置x-token即可开箱即用
-
-- **[xmgcode88/simple-share](https://github.com/xmgcode88/simple-share)** ⭐ 18
+- **[xmgcode88/simple-share](https://github.com/xmgcode88/simple-share)** ⭐ 27
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   参考飞书编辑器的现代化风格知识管理平台，基于Spring Boot + Vue3构建，提供所见即所得的文本编辑体验，支持多租户SaaS架构、内容权限管控、复制权限控制、会员内容管理、AI教学等模块，具备完整的用户体系和响应式设计。
 
-- **[Lampon/PanCheck](https://github.com/Lampon/PanCheck)** ⭐ 17
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[studentiz/scifont](https://github.com/studentiz/scifont)** ⭐ 9
+- **[wannalie/Sora2WatermarkCleaner](https://github.com/wannalie/Sora2WatermarkCleaner)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
-  scifont: Publication-ready, reproducible, and editable figures for Matplotlib.
+  Sora2 Watermark Cleaner is a command-line utility designed to remove your own technical or test watermarks from images or videos generated by your workflows, prototypes, or internal tools.   It is intended for developers, researchers, and creators who need to clean up assets during experimentation or post-processing.
 
 ### 📈 Weekly Trending
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,778
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,857
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,328
+- **[deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)** ⭐ 1,340
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,084
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,112
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 797
+- **[portrret/spyder-osint](https://github.com/portrret/spyder-osint)** ⭐ 807
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal osint tool.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 783
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 792
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 723
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 762
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 708
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 740
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 478
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 506
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,183
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,275
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,820
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 8,916
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,168
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,276
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,778
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 3,857
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,233
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,256
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,100
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,109
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,016
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,034
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,851
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,854
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -485,57 +485,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🟢 Proficient |
 
