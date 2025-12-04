@@ -46,37 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cn41q11gy58o">https://www.bbc.com/news/articles/cn41q11gy58o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46143841"...*
-  📅 Thu, 04 Dec 2025 04:34:14 +0000
+- **[30 years ago today "Netscape and Sun announce JavaScript"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)**
+  *<p>Article URL: <a href="https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html">https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/n...*
+  📅 Thu, 04 Dec 2025 11:32:00 +0000
 
-- **[New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c0mpr1mvwj3o">https://www.bbc.com/news/articles/c0mpr1mvwj3o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46143622"...*
-  📅 Thu, 04 Dec 2025 03:51:09 +0000
+- **[NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)**
+  *<p>Article URL: <a href="https://nextjs.org/blog/CVE-2025-66478">https://nextjs.org/blog/CVE-2025-66478</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146266">https://news.yc...*
+  📅 Thu, 04 Dec 2025 11:14:04 +0000
 
-- **[Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)**
-  *<p>Article URL: <a href="https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501">https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501</a></p>
-<p>Comments URL:...*
-  📅 Thu, 04 Dec 2025 03:50:36 +0000
+- **[Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)**
+  *<p>Article URL: <a href="https://railsdesigner.com/custom-elements/">https://railsdesigner.com/custom-elements/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146204">https:/...*
+  📅 Thu, 04 Dec 2025 11:03:16 +0000
 
-- **[Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)**
-  *<p>Article URL: <a href="https://fabiensanglard.net/winquake/index.html">https://fabiensanglard.net/winquake/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142866"...*
-  📅 Thu, 04 Dec 2025 01:58:15 +0000
+- **[PGlite – Embeddable Postgres](https://pglite.dev/)**
+  *<p>Article URL: <a href="https://pglite.dev/">https://pglite.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46146133">https://news.ycombinator.com/item?id=46146133</a></p>...*
+  📅 Thu, 04 Dec 2025 10:52:42 +0000
 
-- **[Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)**
-  *<p>Article URL: <a href="https://pcpartpicker.com/trends/price/memory/">https://pcpartpicker.com/trends/price/memory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142100">h...*
-  📅 Thu, 04 Dec 2025 00:08:26 +0000
+- **[Tunnl.gg](https://tunnl.gg)**
+  *<p>Article URL: <a href="https://tunnl.gg">https://tunnl.gg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46145902">https://news.ycombinator.com/item?id=46145902</a></p>
+<p>Po...*
+  📅 Thu, 04 Dec 2025 10:15:53 +0000
 
-- **[Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)**
-  *<p>Article URL: <a href="https://www.isc.org/kea/">https://www.isc.org/kea/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142000">https://news.ycombinator.com/item?id=461420...*
-  📅 Wed, 03 Dec 2025 23:58:04 +0000
+- **[Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)**
+  *<p>Article URL: <a href="https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/">https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal...*
+  📅 Thu, 04 Dec 2025 10:06:35 +0000
 
 ### 📑 TechCrunch
+
+- **[Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/)**
+  *Nexus Venture Partners manages $3.2 billion in capital across its funds and has invested in more than 130 companies over the years....*
+  📅 Thu, 04 Dec 2025 11:00:00 +0000
+
+- **[Gemini was Google’s top trending search term in 2025](https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/)**
+  *Gemini wasn’t the only AI chatbot to make the list, as DeepSeek ranked seventh among the year’s trending searches....*
+  📅 Thu, 04 Dec 2025 08:01:00 +0000
 
 - **[New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/)**
   *Brevo, a customer relationship management company headquartered in Paris, is now a unicorn....*
@@ -94,27 +101,28 @@
   *Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services....*
   📅 Wed, 03 Dec 2025 23:43:25 +0000
 
-- **[Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/)**
-  *Dye led Apple's user interface team for the last decade....*
-  📅 Wed, 03 Dec 2025 23:37:26 +0000
-
-- **[Could MrBeast IPO? His CEO wants fans to have ‘a chance to be owners of the company’](https://techcrunch.com/2025/12/03/could-mrbeast-ipo-his-ceo-wants-fans-to-have-a-chance-to-be-owners-of-the-company/)**
-  *Three years ago, the idea of a YouTuber with a $1.5 billion valuation left some onlookers incredulous -- but Beast Industries ended up raising at a $5 billion valuation last year. Now we're asking a b...*
-  📅 Wed, 03 Dec 2025 23:17:32 +0000
-
 ### 📑 Dev.to
 
-- **[I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)**
-  *<p>For my cybersecurity masters work, I wanted to go deeper than running tools and reading packet captures. I wanted to understand what was happening inside the packets themselves. Instead of calling ...*
-  📅 Thu, 04 Dec 2025 06:17:12 +0000
+- **[Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-- **[From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)**
-  *<p>Submission for the AI Agents Intensive Course Writing Challenge</p>
+<p>Microsoft Azure includes Azure Secure Score as a free tool. It checks if your cloud assets match key security rules.<br />
+You must grasp and boost your Azure Secur...*
+  📅 Thu, 04 Dec 2025 12:11:57 +0000
 
-<p>Introduction</p>
+- **[From Raw Claims and Clinical Data to PCORnet CDM: End-to-End ETL on Snowflake](https://dev.to/sciforce/from-raw-claims-and-clinical-data-to-pcornet-cdm-end-to-end-etl-on-snowflake-29n0)**
+  *<h2>
+  
+  
+  Client Profile
+</h2>
 
-<p>I'll be honest—before taking the 5-Day AI Agents Intensive Course with Google and Kaggle, I thought I un...*
-  📅 Thu, 04 Dec 2025 06:14:55 +0000
+<p>Our client, a U.S. health insurer collaborating with multiple hospital systems, aimed to aggregate and harmonize anonymized claims and clinical data in the <a hre...*
+  📅 Thu, 04 Dec 2025 12:11:26 +0000
 
 </details>
 
@@ -122,103 +130,103 @@
 
 ### 📈 Daily Trending
 
-- **[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)** ⭐ 20
+- **[CryptomSol/polymarket-fork](https://github.com/CryptomSol/polymarket-fork)** ⭐ 49
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A high-performance, distributed prediction market platform built with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics.
+
+- **[nanancc/pig-text](https://github.com/nanancc/pig-text)** ⭐ 49
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Test if you are a pig
+
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 41
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
+
+- **[mostafaaElsherbiny/backend-interview-questions](https://github.com/mostafaaElsherbiny/backend-interview-questions)** ⭐ 40
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total
+
+- **[joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res)** ⭐ 27
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
   React2Shell Proof of Concept
 
-- **[pyroxenites/CVE-2025-55182](https://github.com/pyroxenites/CVE-2025-55182)** ⭐ 19
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  CVE-2025-55182 漏洞利用GUI,PoC / Exploit for CVE-2025-55182 & CVE-2025-66478
-
-- **[joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res)** ⭐ 9
+- **[coteyn/phone-number-location-tracking-tool](https://github.com/coteyn/phone-number-location-tracking-tool)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  With this program you can get the exact location of a phone just by knowing the phone number. It is based on GPS data extraction track bot tracker get
 
-- **[DilharaAnjana/SmartTrade-Athena_Giraffe](https://github.com/DilharaAnjana/SmartTrade-Athena_Giraffe)** ⭐ 7
+- **[DilharaAnjana/SmartTrade-Athena_Giraffe](https://github.com/DilharaAnjana/SmartTrade-Athena_Giraffe)** ⭐ 10
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   WEB II Development Guided Project - Athena Giraffe
 
-- **[LYS10S/T3ST](https://github.com/LYS10S/T3ST)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[manbocathk/SANXIN](https://github.com/manbocathk/SANXIN)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  手把手教你零基础局域网开发，分享我们自研的实用小组件
-
-- **[sihooleebd/math-noteworthy](https://github.com/sihooleebd/math-noteworthy)** ⭐ 4
-  ![Typst](https://img.shields.io/badge/-Typst-lightgrey)
-  None
-
-- **[martinezanthony/SawBot-MD](https://github.com/martinezanthony/SawBot-MD)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
 ### 📈 Weekly Trending
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,385
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,439
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,180
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,189
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 866
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 899
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 851
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 856
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 843
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 847
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 651
+- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 674
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit PDF files with Nano Banana
 
-- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 485
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  cocoon
-
-- **[ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)** ⭐ 397
+- **[ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)** ⭐ 514
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
+- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 494
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  cocoon
+
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,605
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,674
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,329
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,391
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,674
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,835
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,356
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,450
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,345
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,352
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,172
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,188
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,146
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,166
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,887
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,893
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -480,11 +488,11 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -492,18 +500,18 @@ for a semver-minor rele...
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
@@ -511,28 +519,28 @@ for a semver-minor rele...
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
