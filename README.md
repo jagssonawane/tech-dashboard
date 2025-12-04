@@ -46,50 +46,55 @@
 
 ### 📑 Hacker News
 
+- **[Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cn41q11gy58o">https://www.bbc.com/news/articles/cn41q11gy58o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46143841"...*
+  📅 Thu, 04 Dec 2025 04:34:14 +0000
+
+- **[New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c0mpr1mvwj3o">https://www.bbc.com/news/articles/c0mpr1mvwj3o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46143622"...*
+  📅 Thu, 04 Dec 2025 03:51:09 +0000
+
+- **[Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)**
+  *<p>Article URL: <a href="https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501">https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501</a></p>
+<p>Comments URL:...*
+  📅 Thu, 04 Dec 2025 03:50:36 +0000
+
+- **[Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)**
+  *<p>Article URL: <a href="https://fabiensanglard.net/winquake/index.html">https://fabiensanglard.net/winquake/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142866"...*
+  📅 Thu, 04 Dec 2025 01:58:15 +0000
+
+- **[Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)**
+  *<p>Article URL: <a href="https://pcpartpicker.com/trends/price/memory/">https://pcpartpicker.com/trends/price/memory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142100">h...*
+  📅 Thu, 04 Dec 2025 00:08:26 +0000
+
 - **[Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)**
   *<p>Article URL: <a href="https://www.isc.org/kea/">https://www.isc.org/kea/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46142000">https://news.ycombinator.com/item?id=461420...*
   📅 Wed, 03 Dec 2025 23:58:04 +0000
 
-- **[Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)**
-  *<p>Article URL: <a href="https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/">https://blog.brocas.org/2025/12/01/ACME-a-brief-histo...*
-  📅 Wed, 03 Dec 2025 23:28:34 +0000
-
-- **[Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)**
-  *<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1111/eth.70033">https://onlinelibrary.wiley.com/doi/10.1111/eth.70033</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Wed, 03 Dec 2025 21:56:37 +0000
-
-- **[8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)**
-  *<p>Article URL: <a href="https://nand2mario.github.io/posts/2025/8086_microcode_browser/">https://nand2mario.github.io/posts/2025/8086_microcode_browser/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 03 Dec 2025 21:16:11 +0000
-
-- **[Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)**
-  *<p>Article URL: <a href="https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us">https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us</a></p>
-<p>Comments URL: <a href...*
-  📅 Wed, 03 Dec 2025 20:57:02 +0000
-
-- **[Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)**
-  *<p>Article URL: <a href="https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/">https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Wed, 03 Dec 2025 20:37:08 +0000
-
 ### 📑 TechCrunch
+
+- **[New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/)**
+  *Brevo, a customer relationship management company headquartered in Paris, is now a unicorn....*
+  📅 Thu, 04 Dec 2025 04:00:00 +0000
 
 - **[Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/)**
   *Tech is racing ahead while society struggles to keep up.&#160;Masha Bucher, founder and GP of&#160;Day One Ventures, built her firm around closing that gap by&#160;combining venture capital with hands...*
   📅 Thu, 04 Dec 2025 01:00:00 +0000
 
-- **[Amazon hopes to jump start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/)**
+- **[Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/)**
   *Can Kiro win the hearts of startup founders above the many AI coding tools they already have? Amazon hopes a free year will tempt them....*
   📅 Wed, 03 Dec 2025 23:55:14 +0000
 
 - **[All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)**
-  *Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services....*
+  *Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services....*
   📅 Wed, 03 Dec 2025 23:43:25 +0000
 
-- **[Meta poaches Apple design exec Alan Dye](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye/)**
+- **[Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/)**
   *Dye led Apple's user interface team for the last decade....*
   📅 Wed, 03 Dec 2025 23:37:26 +0000
 
@@ -97,19 +102,19 @@
   *Three years ago, the idea of a YouTuber with a $1.5 billion valuation left some onlookers incredulous -- but Beast Industries ended up raising at a $5 billion valuation last year. Now we're asking a b...*
   📅 Wed, 03 Dec 2025 23:17:32 +0000
 
-- **[Roblox banned in Russia, local media says](https://techcrunch.com/2025/12/03/roblox-banned-in-russia-local-media-says/)**
-  *Russia's communications agency cited the presence of LGBTQ content on the platform as one of the reasons behind the ban....*
-  📅 Wed, 03 Dec 2025 23:01:49 +0000
-
 ### 📑 Dev.to
 
-- **[The beginning of a journey with Kubernetes - cluster architecture](https://dev.to/cattkaizen/the-beginning-of-a-journey-with-kubernetes-cluster-architecture-2h2d)**
-  *<p>I'm starting my Kubernetes journey and wanted to document and blog about what I'm learning, to help myself get more acquainted with the content while I learn. I'm currently studying with Kodekloud'...*
-  📅 Thu, 04 Dec 2025 00:48:28 +0000
+- **[I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)**
+  *<p>For my cybersecurity masters work, I wanted to go deeper than running tools and reading packet captures. I wanted to understand what was happening inside the packets themselves. Instead of calling ...*
+  📅 Thu, 04 Dec 2025 06:17:12 +0000
 
-- **[Migrating from Terraform/Helm to Database-Driven Kubernetes Without Deleting Anything](https://dev.to/selenehyun/migrating-from-terraformhelm-to-database-driven-kubernetes-without-deleting-anything-1bgm)**
-  *<p>So you've seen <a href="https://dev.to/selenehyun/when-terraform-stops-scaling-for-multi-tenant-kubernetes-a-database-driven-approach-3oi5">how database-driven automation works</a>, <a href="https:...*
-  📅 Thu, 04 Dec 2025 00:46:12 +0000
+- **[From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)**
+  *<p>Submission for the AI Agents Intensive Course Writing Challenge</p>
+
+<p>Introduction</p>
+
+<p>I'll be honest—before taking the 5-Day AI Agents Intensive Course with Google and Kaggle, I thought I un...*
+  📅 Thu, 04 Dec 2025 06:14:55 +0000
 
 </details>
 
@@ -117,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[duanebester/chat-ai](https://github.com/duanebester/chat-ai)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  AI Chat app written in GPUI and GPUI Component
-
-- **[yslei1118/NC-Permit-Master](https://github.com/yslei1118/NC-Permit-Master)** ⭐ 2
-  ![R](https://img.shields.io/badge/-R-lightgrey)
-  Shiny app for NC permit practice
-
-- **[coolcoder067/TCP-VPN_Mac](https://github.com/coolcoder067/TCP-VPN_Mac)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  VPN over TCP on Mac
-
-- **[TX-Leo/Aria_HandTracking_and_Slam](https://github.com/TX-Leo/Aria_HandTracking_and_Slam)** ⭐ 1
+- **[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)** ⭐ 20
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Aria_HandTracking_and_Slam
+  React2Shell Proof of Concept
 
-- **[ionicstraw/TheGoalAndTheChallengeIs4EverythingWeDoThatWeWant2MaintainThePeaceAndGetTheOutcomeWeWantThatWeEarned](https://github.com/ionicstraw/TheGoalAndTheChallengeIs4EverythingWeDoThatWeWant2MaintainThePeaceAndGetTheOutcomeWeWantThatWeEarned)** ⭐ 1
+- **[pyroxenites/CVE-2025-55182](https://github.com/pyroxenites/CVE-2025-55182)** ⭐ 19
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  CVE-2025-55182 漏洞利用GUI,PoC / Exploit for CVE-2025-55182 & CVE-2025-66478
+
+- **[joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Mohsen-Mirahmadi/shop-store-project-js](https://github.com/Mohsen-Mirahmadi/shop-store-project-js)** ⭐ 1
+- **[DilharaAnjana/SmartTrade-Athena_Giraffe](https://github.com/DilharaAnjana/SmartTrade-Athena_Giraffe)** ⭐ 7
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  WEB II Development Guided Project - Athena Giraffe
+
+- **[LYS10S/T3ST](https://github.com/LYS10S/T3ST)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ionicstraw/WhatDidWeLearnFromThePast8Yrs-SomebodysDownfallIsIfTheyCantMindTheirOwnBusiness](https://github.com/ionicstraw/WhatDidWeLearnFromThePast8Yrs-SomebodysDownfallIsIfTheyCantMindTheirOwnBusiness)** ⭐ 1
+- **[manbocathk/SANXIN](https://github.com/manbocathk/SANXIN)** ⭐ 4
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  手把手教你零基础局域网开发，分享我们自研的实用小组件
+
+- **[sihooleebd/math-noteworthy](https://github.com/sihooleebd/math-noteworthy)** ⭐ 4
+  ![Typst](https://img.shields.io/badge/-Typst-lightgrey)
   None
 
-- **[taiqiubaobei/MidAnswer](https://github.com/taiqiubaobei/MidAnswer)** ⭐ 1
+- **[martinezanthony/SawBot-MD](https://github.com/martinezanthony/SawBot-MD)** ⭐ 3
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  大学生知识竞赛小程序旨在为大学生提供一个互动学习和竞赛平台。功能包括题库管理、在线答题、实时排名、错题解析等，支持个人和团队模式竞赛。用户可以通过参与竞赛提升知识水平，查看个人成绩与进步，错题库帮助针对性复习。此外，定期举办专题赛事，提供奖品激励，鼓励学生积极参与和提升学习兴趣。
+  None
 
 ### 📈 Weekly Trending
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,279
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 1,385
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
-- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,170
+- **[Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)** ⭐ 1,180
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 846
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
-
-- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 839
+- **[stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)** ⭐ 866
   ![Python](https://img.shields.io/badge/-Python-blue)
   GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.
 
-- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 836
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 851
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
+
+- **[Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)** ⭐ 843
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court
 
-- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 639
+- **[gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)** ⭐ 651
   ![Python](https://img.shields.io/badge/-Python-blue)
   Edit PDF files with Nano Banana
 
-- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 480
+- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 485
   ![C++](https://img.shields.io/badge/-C++-pink)
   cocoon
 
-- **[antonmedv/gitmal](https://github.com/antonmedv/gitmal)** ⭐ 365
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  A static page generator for repos
+- **[ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)** ⭐ 397
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  CVE-2025-55182 POC
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,552
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,605
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,279
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,329
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,644
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 4,674
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,253
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,356
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,337
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,345
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,161
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,136
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,146
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,880
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,887
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -475,59 +480,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
