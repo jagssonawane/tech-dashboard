@@ -46,74 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/">https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 05 Dec 2025 11:07:07 +0000
+- **[Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)**
+  *<p>Article URL: <a href="https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5">https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Fri, 05 Dec 2025 17:47:16 +0000
 
-- **[The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)**
-  *<p>Article URL: <a href="https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/">https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-i...*
-  📅 Fri, 05 Dec 2025 09:58:01 +0000
+- **[The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)**
+  *<p>Article URL: <a href="https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425">https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 05 Dec 2025 17:29:47 +0000
 
-- **[Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)**
-  *<p>Article URL: <a href="https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80">https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52...*
-  📅 Fri, 05 Dec 2025 09:09:25 +0000
+- **[Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46163977">https://news.ycombinator.com/item?id=46163977</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Fri, 05 Dec 2025 17:00:10 +0000
 
-- **[Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)**
-  *<p>https://downdetector.tr/</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46158200">https://news.ycombinator.com/item?id=46158200</a></p>
-<p>Points: 258</p>
-<p># Comments: ...*
-  📅 Fri, 05 Dec 2025 08:51:42 +0000
+- **[Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/)**
+  *<p>Article URL: <a href="https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/">https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Fri, 05 Dec 2025 16:48:44 +0000
 
-- **[Cloudflare is down](https://www.cloudflare.com/)**
-  *<p>Article URL: <a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46158191">https://news.ycombinator.com/item?id=...*
-  📅 Fri, 05 Dec 2025 08:50:16 +0000
+- **[Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)**
+  *<p>Article URL: <a href="https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/">https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pl...*
+  📅 Fri, 05 Dec 2025 16:38:30 +0000
 
-- **[UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)**
-  *<p>Article URL: <a href="https://blog.ui.com/article/introducing-unifi-5g">https://blog.ui.com/article/introducing-unifi-5g</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46157...*
-  📅 Fri, 05 Dec 2025 07:06:38 +0000
+- **[Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)**
+  *<p>Article URL: <a href="https://corrode.dev/blog/defensive-programming/">https://corrode.dev/blog/defensive-programming/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4616360...*
+  📅 Fri, 05 Dec 2025 16:34:25 +0000
 
 ### 📑 TechCrunch
 
-- **[Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back](https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/)**
-  *PhonePe has shut down its Pincode app over two years after its debut....*
-  📅 Fri, 05 Dec 2025 11:08:12 +0000
+- **[AWS re:Invent was an all-in pitch for AI. Customers might not be ready.](https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/)**
+  *AWS is releasing a lot of new AI tech but the cloud infrastructure giant's enterprise customers may not be ready for it yet....*
+  📅 Fri, 05 Dec 2025 18:05:35 +0000
 
-- **[Chicago Tribune sues Perplexity](https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/)**
-  *The newspaper is alleging copyright infringement and calling out Perplexity's retrieval augmented generation (RAG) as a culprit....*
-  📅 Fri, 05 Dec 2025 01:20:59 +0000
+- **[eSIM adoption is on the rise thanks to travel and device compatibility](https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/)**
+  *As a technology, eSIM has been around for a decade now. However, global eSIM adoption was around 3% last year and will only cross 5% this year. Despite these figures, analysts, eSIM-providing startups...*
+  📅 Fri, 05 Dec 2025 17:27:53 +0000
 
-- **[All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)**
-  *Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services....*
-  📅 Fri, 05 Dec 2025 01:17:08 +0000
+- **[New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC](https://techcrunch.com/2025/12/05/new-knoway-robotaxis-cause-chaos-in-upcoming-grand-theft-auto-online-dlc/)**
+  *The inclusion of the Waymo look-a-likes appears to be part of a larger storyline that will encourage players to "stop the development of a mass surveillance network."...*
+  📅 Fri, 05 Dec 2025 17:25:28 +0000
 
-- **[Feds ask Waymo about robotaxis repeatedly passing school buses in Austin](https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/)**
-  *The agency already opened an investigation in October over Waymo's performance around school buses. Waymo said it issued a software update to its fleet to improve performance....*
-  📅 Thu, 04 Dec 2025 22:54:39 +0000
+- **[New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/)**
+  *Hamlet TV is a way to help keep citizens informed of what's happening inside local governments....*
+  📅 Fri, 05 Dec 2025 17:00:00 +0000
 
-- **[Micro1, a Scale AI competitor, touts crossing $100M ARR](https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/)**
-  *Micro1 started the year with roughly $7 million ARR. Now, it claims to have surpassed $100 million in ARR, double what it reported in September....*
-  📅 Thu, 04 Dec 2025 22:45:31 +0000
+- **[The New York Times is suing Perplexity for copyright infringement](https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/)**
+  *The New York Times filed a copyright lawsuit against Perplexity, joining other publishers using legal action as leverage to force AI companies into licensing deals that compensate content creators....*
+  📅 Fri, 05 Dec 2025 16:03:59 +0000
 
-- **[Apple’s executive shake-up continues with departures of general counsel and policy head](https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/)**
-  *Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026....*
-  📅 Thu, 04 Dec 2025 22:28:01 +0000
+- **[Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI](https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/)**
+  *Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today....*
+  📅 Fri, 05 Dec 2025 15:27:37 +0000
 
 ### 📑 Dev.to
 
-- **[Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables](https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Fri, 05 Dec 2025 12:15:15 +0000
+- **[I Built a Better Way to Discover Trending GitHub Repos 🚀](https://dev.to/behnam_azimi_9335d5b42517/i-built-a-better-way-to-discover-trending-github-repos-3oeg)**
+  *<p>Finding <strong>new</strong> and exciting libraries on GitHub can be noisy. The standard "Trending" tab is great, but it often shows old repositories that just happened to get a random spike in act...*
+  📅 Fri, 05 Dec 2025 17:58:30 +0000
 
-- **[Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)**
-  *<p>Hola, hoy os traigo un pequeño script que acabo de generar (si, si, con la ayuda inestimable de la IA, en este caso, Chat-GPT 5.1).</p>
+- **[Show HN: Visual Architecture Diagram Builder in Angular with 47+ Components](https://dev.to/samba425/show-hn-visual-architecture-diagram-builder-in-angular-with-47-components-5cmg)**
+  *<h2>
+  
+  
+  TL;DR
+</h2>
 
-<p>Con este script tendremos en cualquier página un efecto d...*
-  📅 Fri, 05 Dec 2025 12:11:43 +0000
+<p>Created an open-source Angular component for building architecture diagrams:</p>
+
+<ul>
+<li>✅ 47+ pre-built components (AWS, Azure, AI/ML tools)</li>
+<li>✅ Drag-and-drop in...*
+  📅 Fri, 05 Dec 2025 17:58:03 +0000
 
 </details>
 
@@ -121,105 +128,105 @@
 
 ### 📈 Daily Trending
 
-- **[BlackSky-Jose/Prediction-market-SOLANA](https://github.com/BlackSky-Jose/Prediction-market-SOLANA)** ⭐ 101
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 174
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Original Proof-of-Concept's for React2Shell CVE-2025-55182
+
+- **[BlackSky-Jose/Prediction-market-SOLANA](https://github.com/BlackSky-Jose/Prediction-market-SOLANA)** ⭐ 142
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts.
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 78
+- **[meettomorrow/lee-su-threads](https://github.com/meettomorrow/lee-su-threads)** ⭐ 80
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Original Proof-of-Concept's for React2Shell CVE-2025-55182
+  Lee-Su-Threads 你是誰 (who are you) is a Chrome extension that extracts "About this profile" information from Threads.com without needing to visit each user's profile page.
+
+- **[mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)** ⭐ 78
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
 
 - **[TwoSaranya/raydium-sniper-bot](https://github.com/TwoSaranya/raydium-sniper-bot)** ⭐ 76
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[meettomorrow/lee-su-threads](https://github.com/meettomorrow/lee-su-threads)** ⭐ 59
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Lee-Su-Threads 你是誰 (who are you) is a Chrome extension that extracts "About this profile" information from Threads.com without needing to visit each user's profile page.
-
-- **[mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)** ⭐ 49
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
-
-- **[avjnxwuc61-pixel/python](https://github.com/avjnxwuc61-pixel/python)** ⭐ 50
+- **[avjnxwuc61-pixel/python](https://github.com/avjnxwuc61-pixel/python)** ⭐ 54
   ![None](https://img.shields.io/badge/-None-lightgrey)
   hrello
 
-- **[pyroxenites/Nextjs_RCE_Exploit_Tool](https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool)** ⭐ 37
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Exploit for CVE-2025-55182 & CVE-2025-66478
-
-- **[TeleAI-UAGI/telemem](https://github.com/TeleAI-UAGI/telemem)** ⭐ 36
+- **[TQTQliu/Light-X](https://github.com/TQTQliu/Light-X)** ⭐ 43
   ![Python](https://img.shields.io/badge/-Python-blue)
-  TeleMem is a high-performance multi-character memory system fully compatible with Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.
+  Light-X: Generative 4D Video Rendering with Camera and Illumination Control
+
+- **[ntnu-arl/unified_autonomy_stack](https://github.com/ntnu-arl/unified_autonomy_stack)** ⭐ 40
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  The Unified Autonomy Stack: Toward a Blueprint for Generalizable Robot Autonomy
 
 ### 📈 Weekly Trending
 
-- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 900
+- **[Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)** ⭐ 931
   ![Python](https://img.shields.io/badge/-Python-blue)
   web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 613
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 631
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[antonmedv/gitmal](https://github.com/antonmedv/gitmal)** ⭐ 583
+- **[antonmedv/gitmal](https://github.com/antonmedv/gitmal)** ⭐ 620
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A static page generator for repos
 
-- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 507
+- **[TelegramMessenger/cocoon](https://github.com/TelegramMessenger/cocoon)** ⭐ 510
   ![C++](https://img.shields.io/badge/-C++-pink)
   cocoon
 
-- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** ⭐ 425
+- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** ⭐ 460
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 324
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 404
+  ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[LeslieLeung/glean](https://github.com/LeslieLeung/glean)** ⭐ 322
+- **[LeslieLeung/glean](https://github.com/LeslieLeung/glean)** ⭐ 331
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A self-hosted RSS reader and personal knowledge management tool.
 
-- **[coleam00/remote-agentic-coding-system](https://github.com/coleam00/remote-agentic-coding-system)** ⭐ 284
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc.
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 300
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
 ### 📈 Monthly Trending
 
-- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,740
+- **[Snapchat/Valdi](https://github.com/Snapchat/Valdi)** ⭐ 15,748
   ![C++](https://img.shields.io/badge/-C++-pink)
   Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,650
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 9,706
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,091
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,127
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,669
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 4,703
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,393
+- **[unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)** ⭐ 3,403
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,226
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,233
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,217
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,227
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 2,918
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 2,949
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
 ## 🚀 Latest Releases
 
@@ -481,28 +488,28 @@ for a semver-minor rele...
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -510,27 +517,27 @@ for a semver-minor rele...
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
