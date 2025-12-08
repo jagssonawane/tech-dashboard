@@ -46,72 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)**
-  *<p>Article URL: <a href="https://jobs.ashbyhq.com/Nango">https://jobs.ashbyhq.com/Nango</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46191269">https://news.ycombinator.com/it...*
-  📅 Mon, 08 Dec 2025 12:01:13 +0000
+- **[Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)**
+  *<p>Article URL: <a href="https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/">https://www.simonsfoundation.org/2025/12/08...*
+  📅 Mon, 08 Dec 2025 17:39:55 +0000
 
-- **[Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)**
-  *<p>Article URL: <a href="https://daringfireball.net/2025/12/bad_dye_job">https://daringfireball.net/2025/12/bad_dye_job</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46191194"...*
-  📅 Mon, 08 Dec 2025 11:47:17 +0000
+- **[AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)**
+  *<p>Article URL: <a href="https://higashi.blog/2025/12/07/ai-verification/">https://higashi.blog/2025/12/07/ai-verification/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46195...*
+  📅 Mon, 08 Dec 2025 17:38:34 +0000
 
-- **[Show HN: Web app that lets you send email time capsules](https://resurf.me)**
-  *<p>I had an issue where I would journal stuff, and then never look at what I wrote. So I thought it'll be cool to schedule something that will get sent to you at a later time (like a time capsule). Al...*
-  📅 Mon, 08 Dec 2025 11:37:22 +0000
+- **[Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)**
+  *<p>Hello Everyone! We built SQLFlow as a lightweight stream processing engine.<p>We leverage DuckDB as the stream processing engine, which gives SQLFlow the ability to process 10's of thousands of mes...*
+  📅 Mon, 08 Dec 2025 17:25:54 +0000
 
-- **[Survivors Clung to Wreckage for Some 45 Minutes Before U.S. Military Killed Them](https://theintercept.com/2025/12/05/boat-strike-survivors-double-tap/)**
-  *<p>Article URL: <a href="https://theintercept.com/2025/12/05/boat-strike-survivors-double-tap/">https://theintercept.com/2025/12/05/boat-strike-survivors-double-tap/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Mon, 08 Dec 2025 11:27:38 +0000
+- **[Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)**
+  *<p>Hi HN, I am Arlan and I am building Nia (<a href="https://trynia.ai" rel="nofollow">https://trynia.ai</a>), a SOTA context layer for AI coding agents. Nia lets tools like Cursor, Claude Code, and o...*
+  📅 Mon, 08 Dec 2025 17:10:14 +0000
 
-- **[12 Days of Shell](https://12days.cmdchallenge.com)**
-  *<p>Article URL: <a href="https://12days.cmdchallenge.com">https://12days.cmdchallenge.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46190577">https://news.ycombinator.com/...*
-  📅 Mon, 08 Dec 2025 10:13:07 +0000
+- **[RIP Tetsu Yamauchi (Former Free and Faces Bassist)](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79)**
+  *<p>Article URL: <a href="https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79">https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tets...*
+  📅 Mon, 08 Dec 2025 17:08:36 +0000
 
-- **[Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)**
-  *<p>Article URL: <a href="https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/">https://www.scientificamerican.com/video/why-leftover-pizza...*
-  📅 Mon, 08 Dec 2025 10:03:13 +0000
+- **[Legion Health (YC S21) is hiring a founding engineer (SF, in-person)](https://news.ycombinator.com/item?id=46194720)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46194720">https://news.ycombinator.com/item?id=46194720</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Mon, 08 Dec 2025 17:01:11 +0000
 
 ### 📑 TechCrunch
 
-- **[OpenAI boasts enterprise win days after internal ‘code red’ on Google threat](https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/)**
-  *ChatGPT Enterprise usage grew 8x year-over-year as workers report saving an hour daily, but OpenAI faces competitive pressure from Anthropic and questions about cost sustainability....*
-  📅 Mon, 08 Dec 2025 12:00:00 +0000
+- **[Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/)**
+  *Google details how it is enacting security guardrails before rolling out agentic capabilities on Chrome....*
+  📅 Mon, 08 Dec 2025 18:00:00 +0000
 
-- **[Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/)**
-  *Will Netflix’s $82.7 billion deal to acquire Warner Bros. get approval from federal regulators? While Paramount was assumed to be the frontrunner to acquire the storied movie studio thanks to CEO Davi...*
-  📅 Mon, 08 Dec 2025 04:10:03 +0000
+- **[You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/)**
+  *Shoppers will be able to go from recipe planning to checkout within the ChatGPT window....*
+  📅 Mon, 08 Dec 2025 17:59:53 +0000
 
-- **[X deactivates European Commission’s ad account after the company was fined €120M](https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/)**
-  *X has seemingly penalized the European Commission's account after the commission fined the company over blue checkmarks and ad transparency....*
-  📅 Sun, 07 Dec 2025 19:27:13 +0000
+- **[TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/)**
+  *Shared Feeds will surface new content tailored to both users' tastes, such as sports, winter activities, and their favorite creators....*
+  📅 Mon, 08 Dec 2025 17:18:36 +0000
 
-- **[The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 07 Dec 2025 17:00:00 +0000
+- **[Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more](https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/)**
+  *Petco said the exposure was due to an error in an application, and that it is notifying victims’ whose data was affected....*
+  📅 Mon, 08 Dec 2025 16:53:33 +0000
 
-- **[Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/)**
-  *Coinbase is exploring expansion into India with a staggered relaunch and hiring for different roles....*
-  📅 Sun, 07 Dec 2025 16:00:00 +0000
+- **[Heat pump startup Quilt raises $20M Series B to expand sales](https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/)**
+  *Quilt has sold nearly 1,000 units in the U.S. and Canada, and the new funding should help expand sales operations to more states and provinces....*
+  📅 Mon, 08 Dec 2025 16:52:34 +0000
 
-- **[OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/)**
-  *While OpenAI continues to insist that there are currently no ads — or tests for advertising — live in ChatGPT, the company’s chief research officer also acknowledged that the company “fell short” with...*
-  📅 Sun, 07 Dec 2025 15:05:53 +0000
+- **[‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback](https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/)**
+  *“I will be doing a ONE RULE Executive Order this week,” Trump posted on social media. “You can’t expect a company to get 50 Approvals every time they want to do something.”...*
+  📅 Mon, 08 Dec 2025 16:07:39 +0000
 
 ### 📑 Dev.to
 
-- **[I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)**
-  *<p>Last week I shipped one of the biggest upgrades to my analytics engine since launch.</p>
+- **[🚩 Red flags series #3: If-else endless tower](https://dev.to/mhamadelitawi/red-flags-series-3-if-else-endless-tower-33ch)**
+  *<blockquote>
+<p><em>📌 This post is one chapter in my Red Flags series. I’m exploring the mistakes, bad practices, and subtle issues we often overlook in day-to-day development. Stay tuned for upcoming...*
+  📅 Mon, 08 Dec 2025 18:00:00 +0000
 
-<p>I was chasing a simple question. How do people actually move through a document<br />
-Not just page view...*
-  📅 Mon, 08 Dec 2025 12:17:23 +0000
+- **[AI Virtual Doctor: From Prompt Engineering to Agentic Workflows](https://dev.to/mannan_loomba_e9b4dccf6ae/ai-virtual-doctor-from-prompt-engineering-to-agentic-workflows-ek0)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/googlekagglechallenge">Google AI Agents Writing Challenge</a>: Learning Reflections</em></p>
 
-- **[Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Mon, 08 Dec 2025 12:10:04 +0000
+<p>The <strong>5-Day AI Agents Inte...*
+  📅 Mon, 08 Dec 2025 17:59:58 +0000
 
 </details>
 
@@ -119,103 +118,103 @@ Not just page view...*
 
 ### 📈 Daily Trending
 
-- **[tomastommy622/aster-trading-bot](https://github.com/tomastommy622/aster-trading-bot)** ⭐ 24
+- **[tomastommy622/aster-trading-bot](https://github.com/tomastommy622/aster-trading-bot)** ⭐ 69
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A fully automated Astar DEX trading bot that optimizes swaps, liquidity actions, and trade execution for the best possible on-chain prices.
 
-- **[joelhooks/opencode-swarm-plugin](https://github.com/joelhooks/opencode-swarm-plugin)** ⭐ 22
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🐝 Multi-agent coordination plugin for OpenCode - beads issue tracking, Agent Mail integration, swarm orchestration
-
-- **[G-U-N/Awesome-Pixel-Flow](https://github.com/G-U-N/Awesome-Pixel-Flow)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[rocketsaverttt/RocketSaverTool](https://github.com/rocketsaverttt/RocketSaverTool)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Sivachow/mcp-learning-adapter](https://github.com/Sivachow/mcp-learning-adapter)** ⭐ 11
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[xtgm/lh-nav](https://github.com/xtgm/lh-nav)** ⭐ 11
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Vue3 导航网站
-
-- **[zaymailtony/Crypto-website-development](https://github.com/zaymailtony/Crypto-website-development)** ⭐ 11
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Crypto website development
-
-- **[C4KEW4LK/rpi_usb_ip_display](https://github.com/C4KEW4LK/rpi_usb_ip_display)** ⭐ 11
+- **[C4KEW4LK/rpi_usb_ip_display](https://github.com/C4KEW4LK/rpi_usb_ip_display)** ⭐ 62
   ![C++](https://img.shields.io/badge/-C++-pink)
   small usb micro controller with built-in LCD, designed to query a host rpi system and retrieve the ip address(es) and hostname of the system 
 
+- **[ByteDance-Seed/DAComp](https://github.com/ByteDance-Seed/DAComp)** ⭐ 44
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DAComp:Benchmarking Data Agents across the Full Data Intelligence Lifecycle
+
+- **[joelhooks/opencode-swarm-plugin](https://github.com/joelhooks/opencode-swarm-plugin)** ⭐ 30
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail
+
+- **[web-pentest/CodeStalker](https://github.com/web-pentest/CodeStalker)** ⭐ 24
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Game in the terminal
+
+- **[G-U-N/Awesome-Pixel-Flow](https://github.com/G-U-N/Awesome-Pixel-Flow)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[rocketsaverttt/RocketSaverTool](https://github.com/rocketsaverttt/RocketSaverTool)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
 ### 📈 Weekly Trending
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,203
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,385
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 712
+- **[ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)** ⭐ 718
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   CVE-2025-55182 POC
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 674
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 706
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 577
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 603
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Original Proof-of-Concepts for React2Shell CVE-2025-55182
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 489
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 573
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 452
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 502
   ![Python](https://img.shields.io/badge/-Python-blue)
   Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 391
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 416
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[crowmd/GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** ⭐ 331
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)** ⭐ 337
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,298
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,352
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,703
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 5,779
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,435
+- **[ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** ⭐ 5,465
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,294
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,301
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,292
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,210
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,234
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,088
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,103
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,985
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 2,989
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -477,20 +476,20 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
@@ -498,38 +497,38 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
