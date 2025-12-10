@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)**
-  *<p>Article URL: <a href="https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/">https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-oust...*
-  📅 Wed, 10 Dec 2025 00:08:34 +0000
+- **[Dependable C](https://dependablec.org/)**
+  *<p>Article URL: <a href="https://dependablec.org/">https://dependablec.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46214091">https://news.ycombinator.com/item?id=462140...*
+  📅 Wed, 10 Dec 2025 04:29:30 +0000
+
+- **['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)**
+  *<p>Article URL: <a href="https://dri.es/source-available-is-not-open-source-and-that-is-okay">https://dri.es/source-available-is-not-open-source-and-that-is-okay</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Wed, 10 Dec 2025 03:33:14 +0000
+
+- **[The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1049831/">https://lwn.net/Articles/1049831/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46213585">https://news.ycombinator....*
+  📅 Wed, 10 Dec 2025 03:15:24 +0000
+
+- **[Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)**
+  *<p>Article URL: <a href="https://github.com/donlon/cloudflare-error-page">https://github.com/donlon/cloudflare-error-page</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4621327...*
+  📅 Wed, 10 Dec 2025 02:18:07 +0000
+
+- **[Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)**
+  *<p>Article URL: <a href="https://zenodo.org/records/17873275">https://zenodo.org/records/17873275</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46212969">https://news.ycombina...*
+  📅 Wed, 10 Dec 2025 01:25:00 +0000
 
 - **[OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)**
   *<p>Article URL: <a href="https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html">https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html</a></p>
 <p>Comments UR...*
   📅 Tue, 09 Dec 2025 22:54:33 +0000
 
-- **[Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)**
-  *<p>Article URL: <a href="http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/">http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/<...*
-  📅 Tue, 09 Dec 2025 22:47:36 +0000
-
-- **[Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)**
-  *<p>Article URL: <a href="http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html">http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html</a></p>
-<p>Com...*
-  📅 Tue, 09 Dec 2025 21:19:37 +0000
-
-- **[Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)**
-  *<p>Article URL: <a href="https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/">https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 09 Dec 2025 20:33:14 +0000
-
-- **[Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)**
-  *<p>Article URL: <a href="https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation">https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation</a><...*
-  📅 Tue, 09 Dec 2025 20:00:39 +0000
-
 ### 📑 TechCrunch
 
-- **[Coreweave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)**
+- **[CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)**
   *The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a "violent change" in demand....*
   📅 Wed, 10 Dec 2025 00:49:25 +0000
 
@@ -101,17 +104,19 @@
 
 ### 📑 Dev.to
 
-- **[Running FastAPI in Production on a VPS (Step-by-Step)](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d)**
-  *<p>FastAPI makes it super easy to build APIs — but deploying it to <strong>real production</strong> on a <strong>VPS</strong> is where many developers get stuck.</p>
+- **[Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij)**
+  *<h1>
+  
+  
+  Comment Monter son PC Gamer de A à Z ? Le Guide Ultime pour ne rien casser (Édition 2025)
+</h1>
 
-<p>Over the past months, I’ve dep...*
-  📅 Wed, 10 Dec 2025 00:58:25 +0000
+<p>Il y a un mythe tenace qui circule : monter son propre ordinateur serait une tâche rése...*
+  📅 Wed, 10 Dec 2025 06:09:57 +0000
 
-- **[The Moment When Async Systems Start Making Sense](https://dev.to/koni_jang/the-moment-when-async-systems-start-making-sense-1i8h)**
-  *<p>For the last few weeks, I’ve been testing how timing logic and async structure affect real conversations across multiple time zones.</p>
-
-<p>My earlier post focused on ten insights from global B2B ...*
-  📅 Wed, 10 Dec 2025 00:51:17 +0000
+- **[Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117)**
+  *<p>Originally published at <a href="https://www.nocobase.com/en/blog/software-vendor-boosts-delivery-efficiency-with-nocobase" rel="noopener noreferrer">https://www.nocobase.com/en/blog/software-vendo...*
+  📅 Wed, 10 Dec 2025 06:09:03 +0000
 
 </details>
 
@@ -119,87 +124,91 @@
 
 ### 📈 Daily Trending
 
-- **[shutu-hub/Luogu-and-LeetCode-algorithm-solutions](https://github.com/shutu-hub/Luogu-and-LeetCode-algorithm-solutions)** ⭐ 1
+- **[baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+
+- **[shutu-hub/devSphere](https://github.com/shutu-hub/devSphere)** ⭐ 9
   ![Java](https://img.shields.io/badge/-Java-orange)
-  欢迎来到算法题解仓库！本项目主要针对洛谷和力扣Hot100题目，可以根据题号查看对应的题解~
+  devSphere-chat 是一个基于 Spring Boot 构建的高性能实时聊天系统，支持私聊、群聊、消息持久化、离线消息推送等功能。系统采用 Netty 实现 WebSocket 通信，通过 Redis Stream 保证消息可靠传输，并集成完善的用户认证和权限管理体系。
 
-- **[Yot-3/yote_backpacks](https://github.com/Yot-3/yote_backpacks)** ⭐ 1
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  Backpack script for ox_inventory
-
-- **[ibrahimpelumi6142/fastapi-production-guide](https://github.com/ibrahimpelumi6142/fastapi-production-guide)** ⭐ 1
+- **[Anima-Core/an1-core](https://github.com/Anima-Core/an1-core)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A complete step-by-step guide for deploying FastAPI to production on a VPS using Gunicorn, Uvicorn, Nginx, Systemd, HTTPS (Certbot), and environment variables.
+  A reference implementation of AN1 Core, a post-transformer inference method that compresses Llama-70B activations to a low-rank meaning field while preserving accuracy. Includes the full scientific paper and reproducible baselines. Proprietary Turbo optimizations are removed for IP protection.
 
-- **[bolzzzz/SEC-Data-Scraper](https://github.com/bolzzzz/SEC-Data-Scraper)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[yenbook/proxyearth](https://github.com/yenbook/proxyearth)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  proxyearth data leak website theme source code
+
+- **[1nh4oX/aSmallButton](https://github.com/1nh4oX/aSmallButton)** ⭐ 5
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[PointerToObject/Toy-C](https://github.com/PointerToObject/Toy-C)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  toy c compiler with int arithmatic 
-
-- **[rammireku-ctrl/Afram](https://github.com/rammireku-ctrl/Afram)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[Dicklesworthstone/useful_tmux_commands](https://github.com/Dicklesworthstone/useful_tmux_commands)** ⭐ 4
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[guilhermelaviola/IntegrativePracticeForIntelligentData](https://github.com/guilhermelaviola/IntegrativePracticeForIntelligentData)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  My school homework from #DescomplicaDigital on Integrative Practice for Intelligent Data.
+- **[theori-io/reactguard](https://github.com/theori-io/reactguard)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ReactGuard provides framework- and vulnerability-detection tooling for CVE-2025-55182 (React2Shell)
 
-- **[Oubaidasl/vhdl-uart](https://github.com/Oubaidasl/vhdl-uart)** ⭐ 1
-  ![VHDL](https://img.shields.io/badge/-VHDL-lightgrey)
-  VHDL-based UART transceiver design for FPGA
+- **[arclab-hku/P2M](https://github.com/arclab-hku/P2M)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  [RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
 
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 2,050
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 3,452
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,943
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,963
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 993
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 1,025
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 717
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Original Proof-of-Concepts for React2Shell CVE-2025-55182
-
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 710
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 749
   ![Python](https://img.shields.io/badge/-Python-blue)
   Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 693
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 734
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Original Proof-of-Concepts for React2Shell CVE-2025-55182
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 653
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
-
-- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 599
+- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 721
   ![Python](https://img.shields.io/badge/-Python-blue)
   "Paper2Slides: From Paper to Presentation in One Click"
 
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 704
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 702
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,564
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,591
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,103
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,174
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,415
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,453
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,353
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 3,453
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,368
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
@@ -207,17 +216,13 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,203
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,267
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,010
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,015
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
-
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 2,585
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
 ## 🚀 Latest Releases
 
@@ -305,9 +310,9 @@ Significant Memory Regression in F.conv3d with bfloat16 Inputs in PyTorch 2.9.0 
 
 ### 📦 kubernetes/kubernetes
 
-**[Kubernetes v1.34.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.2)** `v1.34.2`
+**[Kubernetes v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3)** `v1.34.3`
 
-📅 Released: November 12, 2025
+📅 Released: December 10, 2025
 
 
 See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
@@ -477,41 +482,41 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
@@ -519,8 +524,8 @@ for a semver-minor rele...
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -528,8 +533,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
