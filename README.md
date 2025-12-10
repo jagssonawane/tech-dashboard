@@ -46,37 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Dependable C](https://dependablec.org/)**
-  *<p>Article URL: <a href="https://dependablec.org/">https://dependablec.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46214091">https://news.ycombinator.com/item?id=462140...*
-  📅 Wed, 10 Dec 2025 04:29:30 +0000
+- **[Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)**
+  *<p>Article URL: <a href="https://www.markround.com/blog/2025/12/09/stop-breaking-tls/">https://www.markround.com/blog/2025/12/09/stop-breaking-tls/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Wed, 10 Dec 2025 07:06:55 +0000
 
-- **['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)**
-  *<p>Article URL: <a href="https://dri.es/source-available-is-not-open-source-and-that-is-okay">https://dri.es/source-available-is-not-open-source-and-that-is-okay</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 10 Dec 2025 03:33:14 +0000
+- **[Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)**
+  *<p>Article URL: <a href="https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/">https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 10 Dec 2025 06:22:19 +0000
 
-- **[The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)**
+- **[Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)**
+  *<p>Article URL: <a href="https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets">https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets</a></p>
+<p>Comments URL: <...*
+  📅 Wed, 10 Dec 2025 06:08:50 +0000
+
+- **[Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)**
   *<p>Article URL: <a href="https://lwn.net/Articles/1049831/">https://lwn.net/Articles/1049831/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46213585">https://news.ycombinator....*
   📅 Wed, 10 Dec 2025 03:15:24 +0000
 
-- **[Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)**
+- **[Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)**
   *<p>Article URL: <a href="https://github.com/donlon/cloudflare-error-page">https://github.com/donlon/cloudflare-error-page</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4621327...*
   📅 Wed, 10 Dec 2025 02:18:07 +0000
 
-- **[Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)**
-  *<p>Article URL: <a href="https://zenodo.org/records/17873275">https://zenodo.org/records/17873275</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46212969">https://news.ycombina...*
-  📅 Wed, 10 Dec 2025 01:25:00 +0000
-
-- **[OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)**
-  *<p>Article URL: <a href="https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html">https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html</a></p>
-<p>Comments UR...*
-  📅 Tue, 09 Dec 2025 22:54:33 +0000
+- **[Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)**
+  *<p>Article URL: <a href="http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/">http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/<...*
+  📅 Tue, 09 Dec 2025 22:47:36 +0000
 
 ### 📑 TechCrunch
+
+- **[Google invests in Fervo’s $462M round to unlock even more geothermal energy](https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/)**
+  *Fervo Energy's Series E round will help the company build additional phases of its Cape Station power plant while beginning development on new sites....*
+  📅 Wed, 10 Dec 2025 12:05:00 +0000
+
+- **[Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises](https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/)**
+  *Meesho had a good first day as a public company, with its shares climbing as much as 46% from its issue price as investors jumped to grab a piece of the company built around small merchants and value-...*
+  📅 Wed, 10 Dec 2025 12:03:08 +0000
+
+- **[Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/)**
+  *Inito has raised $29 million in new funding to invest in and develop AI-engineered antibodies that will help it offer new types of tests and improve the accuracy of existing ones....*
+  📅 Wed, 10 Dec 2025 12:00:00 +0000
 
 - **[CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)**
   *The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a "violent change" in demand....*
@@ -90,33 +101,31 @@
   *Overtone is described as "an early-stage dating service focused on using AI and voice tools to help people connect in a more thoughtful and personal way."...*
   📅 Wed, 10 Dec 2025 00:01:13 +0000
 
-- **[Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/)**
-  *The round, which was Fal’s third fundraise this year, also included a secondary sale for early investors, sources tell us....*
-  📅 Tue, 09 Dec 2025 22:21:33 +0000
-
-- **[Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/)**
-  *Cashew Research uses AI to automate the market research process while still collecting real-world data from humans....*
-  📅 Tue, 09 Dec 2025 22:20:39 +0000
-
-- **[SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/)**
-  *The company is looking to raise $30 billion, which would make it the biggest IPO ever, just ahead of Saudi Aramco's in 2019....*
-  📅 Tue, 09 Dec 2025 21:27:54 +0000
-
 ### 📑 Dev.to
 
-- **[Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij)**
-  *<h1>
+- **[Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)**
+  *<p>We are building AI systems wrong.</p>
+
+<p>Not slightly wrong. Fundamentally, structurally, catastrophically wrong.</p>
+
+<p>The pattern is always the same. A team discovers the magic of a Large Lang...*
+  📅 Wed, 10 Dec 2025 12:19:34 +0000
+
+- **[在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)**
+  *<h2>
   
   
-  Comment Monter son PC Gamer de A à Z ? Le Guide Ultime pour ne rien casser (Édition 2025)
-</h1>
+  本篇要解決的問題
+</h2>
 
-<p>Il y a un mythe tenace qui circule : monter son propre ordinateur serait une tâche rése...*
-  📅 Wed, 10 Dec 2025 06:09:57 +0000
+<p>工作上，各家公司用的通訊軟體，常聽到的是以下三種：LINE、Teams、Slack。</p>
 
-- **[Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117)**
-  *<p>Originally published at <a href="https://www.nocobase.com/en/blog/software-vendor-boosts-delivery-efficiency-with-nocobase" rel="noopener noreferrer">https://www.nocobase.com/en/blog/software-vendo...*
-  📅 Wed, 10 Dec 2025 06:09:03 +0000
+<p>如果稍微比較一下，用起來的經驗如下（以下為 August 個人體感，不代表本台立場 XD）：</p>
+
+<p><strong>LINE、Telegram：適合閒聊</strong></p>
+
+<p>這兩個工具雖然方便，尤其台灣人幾乎都...*
+  📅 Wed, 10 Dec 2025 12:19:20 +0000
 
 </details>
 
@@ -124,103 +133,103 @@
 
 ### 📈 Daily Trending
 
-- **[baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)** ⭐ 21
+- **[baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)** ⭐ 79
   ![Python](https://img.shields.io/badge/-Python-blue)
   vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 
-- **[shutu-hub/devSphere](https://github.com/shutu-hub/devSphere)** ⭐ 9
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  devSphere-chat 是一个基于 Spring Boot 构建的高性能实时聊天系统，支持私聊、群聊、消息持久化、离线消息推送等功能。系统采用 Netty 实现 WebSocket 通信，通过 Redis Stream 保证消息可靠传输，并集成完善的用户认证和权限管理体系。
-
-- **[Anima-Core/an1-core](https://github.com/Anima-Core/an1-core)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A reference implementation of AN1 Core, a post-transformer inference method that compresses Llama-70B activations to a low-rank meaning field while preserving accuracy. Includes the full scientific paper and reproducible baselines. Proprietary Turbo optimizations are removed for IP protection.
-
-- **[yenbook/proxyearth](https://github.com/yenbook/proxyearth)** ⭐ 6
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  proxyearth data leak website theme source code
-
-- **[1nh4oX/aSmallButton](https://github.com/1nh4oX/aSmallButton)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Dicklesworthstone/useful_tmux_commands](https://github.com/Dicklesworthstone/useful_tmux_commands)** ⭐ 4
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-- **[theori-io/reactguard](https://github.com/theori-io/reactguard)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ReactGuard provides framework- and vulnerability-detection tooling for CVE-2025-55182 (React2Shell)
-
-- **[arclab-hku/P2M](https://github.com/arclab-hku/P2M)** ⭐ 4
+- **[arclab-hku/P2M](https://github.com/arclab-hku/P2M)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
   [RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
 
-### 📈 Weekly Trending
+- **[yenbook/proxyearth](https://github.com/yenbook/proxyearth)** ⭐ 15
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  proxyearth data leak website theme source code
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 3,452
+- **[BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  GodzillaNodeJsPayload
+
+- **[ZonD80/familycall](https://github.com/ZonD80/familycall)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника
+
+- **[shutu-hub/devSphere](https://github.com/shutu-hub/devSphere)** ⭐ 10
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  devSphere-chat 是一个基于 Spring Boot 构建的高性能实时聊天系统，支持私聊、群聊、消息持久化、离线消息推送等功能。系统采用 Netty 实现 WebSocket 通信，通过 Redis Stream 保证消息可靠传输，并集成完善的用户认证和权限管理体系。
+
+- **[iKnowLab-Projects/IITP_AGI_STT](https://github.com/iKnowLab-Projects/IITP_AGI_STT)** ⭐ 10
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,963
+- **[theori-io/reactguard](https://github.com/theori-io/reactguard)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ReactGuard provides framework- and vulnerability-detection tooling for CVE-2025-55182 (React2Shell)
+
+### 📈 Weekly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 4,502
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** ⭐ 1,988
   ![Python](https://img.shields.io/badge/-Python-blue)
   High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)
 
-- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 1,025
+- **[msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** ⭐ 1,065
   ![Python](https://img.shields.io/badge/-Python-blue)
   Explanation and full RCE PoC for CVE-2025-55182
 
-- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 749
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
-
-- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 734
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Original Proof-of-Concepts for React2Shell CVE-2025-55182
-
-- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 721
+- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 927
   ![Python](https://img.shields.io/badge/-Python-blue)
   "Paper2Slides: From Paper to Presentation in One Click"
 
-- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 704
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** ⭐ 780
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 702
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 756
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
+- **[lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** ⭐ 746
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Original Proof-of-Concepts for React2Shell CVE-2025-55182
+
+- **[guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** ⭐ 721
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,591
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,646
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,174
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,453
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 4,502
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,516
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 3,453
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,368
+- **[ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** ⭐ 3,395
   ![Python](https://img.shields.io/badge/-Python-blue)
   Depth Anything 3
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,315
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,267
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,326
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,015
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,318
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,023
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -482,57 +491,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
