@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Native ads coming soon to Stack Overflow and Stack Exchange](https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange)**
+  *<p>Article URL: <a href="https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange">https://meta.stackexchange.com/questions/415259/native-ads-coming-...*
+  📅 Fri, 12 Dec 2025 11:02:41 +0000
+
+- **[After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)**
+  *<p>Article URL: <a href="https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway">https://infrastruktur.oebb.at/en/projects-for-austria/railway-...*
+  📅 Fri, 12 Dec 2025 10:50:22 +0000
+
+- **[Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)**
+  *<p>Article URL: <a href="https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/">https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 12 Dec 2025 07:51:04 +0000
+
+- **[Smartphone without a battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/)**
+  *<p>Article URL: <a href="https://yaky.dev/2022-09-06-smartphone-without-battery/">https://yaky.dev/2022-09-06-smartphone-without-battery/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 12 Dec 2025 07:36:17 +0000
+
+- **[The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)**
+  *<p>Article URL: <a href="https://lucassifoni.info/blog/miniscope-tiny-telescope/">https://lucassifoni.info/blog/miniscope-tiny-telescope/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Fri, 12 Dec 2025 07:35:49 +0000
+
 - **[Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)**
   *<p>Article URL: <a href="https://www.bbc.com/news/articles/c24l223d9n7o">https://www.bbc.com/news/articles/c24l223d9n7o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239895"...*
   📅 Fri, 12 Dec 2025 01:41:15 +0000
-
-- **[Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)**
-  *<p>Article URL: <a href="https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/">https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know...*
-  📅 Fri, 12 Dec 2025 01:20:05 +0000
-
-- **[Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)**
-  *<p>Article URL: <a href="https://poniesandlight.co.uk/reflect/gamma/">https://poniesandlight.co.uk/reflect/gamma/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239673">https...*
-  📅 Fri, 12 Dec 2025 01:05:30 +0000
-
-- **[CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)**
-  *<p>Article URL: <a href="https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607">https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607</a></p>
-<p>Comments URL: <a hr...*
-  📅 Fri, 12 Dec 2025 00:59:46 +0000
-
-- **[The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)**
-  *<p>Article URL: <a href="https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-">https://www.danieleteti.it/post/html-...*
-  📅 Fri, 12 Dec 2025 00:37:42 +0000
-
-- **[Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)**
-  *<p>Article URL: <a href="https://github.com/stoolap/stoolap">https://github.com/stoolap/stoolap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239372">https://news.ycombinato...*
-  📅 Fri, 12 Dec 2025 00:28:24 +0000
 
 ### 📑 TechCrunch
 
@@ -102,17 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)**
-  *<p>Ambitions of a Dried Pink Oyster Merchant!</p>
+- **[How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)**
+  *<p>Your dashboard might look impressive, but if users aren't taking action from it, you're essentially building a digital decoration. A shocking number of businesses pour resources into dashboard crea...*
+  📅 Fri, 12 Dec 2025 12:13:37 +0000
 
-<p>This chart shows <strong>price per pound for fresh and dried mushrooms</strong>, along with <strong>yield, flushes, total fresh weight, growth spe...*
-  📅 Fri, 12 Dec 2025 06:16:08 +0000
+- **[Finally, a free PDF Tool that Resizes pages (A0-A4), Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld)**
+  *<p>Most free PDF tools are sketchy. They either watermark your documents, limit you to 2 files, or keep your data on their servers.</p>
 
-- **[Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)**
-  *<p>Ambitions of a Dried Pink Oyster Merchant!</p>
-
-<p>This chart shows <strong>price per pound for fresh and dried mushrooms</strong>, along with <strong>yield, flushes, total fresh weight, growth spe...*
-  📅 Fri, 12 Dec 2025 06:16:08 +0000
+<p>I built a cleaner alternative at <strong>HarisLab.tech</stro...*
+  📅 Fri, 12 Dec 2025 12:12:11 +0000
 
 </details>
 
@@ -120,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[lb-li/WinIsland](https://github.com/lb-li/WinIsland)** ⭐ 45
+- **[lb-li/WinIsland](https://github.com/lb-li/WinIsland)** ⭐ 90
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   None
 
-- **[VibiumDev/vibium](https://github.com/VibiumDev/vibium)** ⭐ 27
+- **[VibiumDev/vibium](https://github.com/VibiumDev/vibium)** ⭐ 54
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Browser automation for AI agents and humans
 
-- **[alibaba/paimon-cpp](https://github.com/alibaba/paimon-cpp)** ⭐ 5
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 29
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
 
-- **[speedshop/activerecord-health](https://github.com/speedshop/activerecord-health)** ⭐ 4
+- **[alibaba/paimon-cpp](https://github.com/alibaba/paimon-cpp)** ⭐ 22
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Paimon-cpp is a high-performance C++ implementation of Apache Paimon.
+
+- **[speedshop/activerecord-health](https://github.com/speedshop/activerecord-health)** ⭐ 11
   ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
   Load checks for ActiveRecord to support load shedding
 
-- **[DeliciousPipe1326/arbitrage-scanner](https://github.com/DeliciousPipe1326/arbitrage-scanner)** ⭐ 4
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Scan for sports betting arbitrage opportunities
+- **[ralliesai/tenk](https://github.com/ralliesai/tenk)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Chat with SEC filings for any investment question
 
-- **[ephere571-dotcom/Aqua-Spoofer-Cracked-FiveM-One-Click-Valorant](https://github.com/ephere571-dotcom/Aqua-Spoofer-Cracked-FiveM-One-Click-Valorant)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[MR-MaoJiu/PhoneAgent](https://github.com/MR-MaoJiu/PhoneAgent)** ⭐ 11
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
   None
 
-- **[Entropify/OmniMacro](https://github.com/Entropify/OmniMacro)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  All the geeky macro / keyboard / mouse tools you need packaged in one.
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4
+- **[Ojassharmaaaa/YoutubeDownloader](https://github.com/Ojassharmaaaa/YoutubeDownloader)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 10,286
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 11,451
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,581
+- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,767
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal CLI coding agent by Mistral
 
-- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 1,533
+- **[HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)** ⭐ 1,632
   ![Python](https://img.shields.io/badge/-Python-blue)
   "Paper2Slides: From Paper to Presentation in One Click"
 
-- **[byJoey/ech-wk](https://github.com/byJoey/ech-wk)** ⭐ 1,037
+- **[byJoey/ech-wk](https://github.com/byJoey/ech-wk)** ⭐ 1,073
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 895
+- **[PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)** ⭐ 919
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 863
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 881
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)** ⭐ 634
+- **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)** ⭐ 638
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
-- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 540
+- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 545
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
 ### 📈 Monthly Trending
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,946
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 10,286
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 11,451
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,565
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 10,983
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM Council works together to answer your hardest questions
+
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,601
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,660
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,700
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,474
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,501
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,341
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,345
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,117
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,153
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,031
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,032
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -482,48 +480,48 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
@@ -531,9 +529,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
