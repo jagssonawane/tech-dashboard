@@ -46,34 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[Bye, Mom](https://aella.substack.com/p/bye-mom)**
-  *<p>Article URL: <a href="https://aella.substack.com/p/bye-mom">https://aella.substack.com/p/bye-mom</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46261616">https://news.ycombi...*
-  📅 Sun, 14 Dec 2025 08:21:59 +0000
+- **[The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)**
+  *<p>Article URL: <a href="https://www.typeframe.net/">https://www.typeframe.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46265015">https://news.ycombinator.com/item?id=46...*
+  📅 Sun, 14 Dec 2025 17:43:39 +0000
 
-- **[Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)**
-  *<p>Article URL: <a href="https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html">https://chisophugis.github.io/2025/12/08/compiler-engineering-in-prac...*
-  📅 Sun, 14 Dec 2025 07:45:15 +0000
+- **[Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)**
+  *<p>Article URL: <a href="https://borretti.me/article/hashcards-plain-text-spaced-repetition">https://borretti.me/article/hashcards-plain-text-spaced-repetition</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sun, 14 Dec 2025 16:55:29 +0000
 
-- **[Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)**
-  *<p>Article URL: <a href="https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/">https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/<...*
-  📅 Sun, 14 Dec 2025 03:46:51 +0000
+- **[Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)**
+  *<p>Article URL: <a href="https://github.com/uutils/coreutils/releases/tag/0.5.0">https://github.com/uutils/coreutils/releases/tag/0.5.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 14 Dec 2025 16:40:40 +0000
 
-- **[Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)**
-  *<p>Article URL: <a href="https://github.com/leanprover-community/mathlib4">https://github.com/leanprover-community/mathlib4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46260...*
-  📅 Sun, 14 Dec 2025 01:49:11 +0000
+- **[Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)**
+  *<p>Article URL: <a href="https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/">https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sun, 14 Dec 2025 16:13:55 +0000
 
-- **[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)**
-  *<p>Article URL: <a href="https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain">https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wo...*
-  📅 Sun, 14 Dec 2025 01:43:33 +0000
+- **[Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)**
+  *<p>Article URL: <a href="https://abseil.io/fast/99">https://abseil.io/fast/99</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46263530">https://news.ycombinator.com/item?id=4626...*
+  📅 Sun, 14 Dec 2025 15:05:06 +0000
 
-- **[An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)**
-  *<p>Article URL: <a href="https://www.jsoftware.com/ioj/ioj.htm">https://www.jsoftware.com/ioj/ioj.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46259702">https://news.ycom...*
-  📅 Sun, 14 Dec 2025 00:34:56 +0000
+- **[Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)**
+  *<p>Article URL: <a href="https://mathstodon.xyz/@dpiponi/115651419771418748">https://mathstodon.xyz/@dpiponi/115651419771418748</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 14 Dec 2025 13:45:41 +0000
 
 ### 📑 TechCrunch
+
+- **[Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/)**
+  *Netflix's $82.6 billion acquisition of Warner Bros. encapsulates a fraught moment for Hollywood, as the entertainment business is increasingly overshadowed by tech giants....*
+  📅 Sun, 14 Dec 2025 17:27:05 +0000
+
+- **[TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 14 Dec 2025 17:00:00 +0000
 
 - **[India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/)**
   *Spinny is set to be valued at about $1.8 billion post-money in its latest funding round....*
@@ -91,25 +102,19 @@
   *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025....*
   📅 Sat, 13 Dec 2025 00:11:09 +0000
 
-- **[Inside Rivian’s big bet on AI-powered self-driving](https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/)**
-  *Rivian demonstrated the progress it's made, and in the process showed just how far it still has to go to make its cars autonomous....*
-  📅 Fri, 12 Dec 2025 21:44:50 +0000
-
-- **[With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/)**
-  *Your iPhone clock doesn't have to be so "glassy" anymore, thanks to a new Apple software update....*
-  📅 Fri, 12 Dec 2025 20:45:00 +0000
-
 ### 📑 Dev.to
 
-- **[From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)**
-  *<p>When my son was born, my life changed completely. Like any new parent, we needed a way to track sleep, feeding, and diapers. There are a million apps for this, but I wanted something <em>ours</em>....*
-  📅 Sun, 14 Dec 2025 12:11:07 +0000
+- **[Best Cursor Editor Themes 2024: Boost Focus & Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)**
+  *<p>#Cosmic Coding: The Ultimate Guide to Stunning Themes for Cursor IDE</p>
 
-- **[Expose Local n8n with a Custom HTTPS Domain Using Cloudflare Tunnel](https://dev.to/muhammad_mohsin_68eb06405/expose-local-n8n-with-a-custom-https-domain-using-cloudflare-tunnel-2kc6)**
-  *<p>Running <strong>n8n locally</strong> is great — until you need <strong>webhooks</strong>.</p>
+<p>In the modern developer's toolkit, the code editor is more than just a tool—it’s a digital workspace, a canvas for logic...*
+  📅 Sun, 14 Dec 2025 18:01:13 +0000
 
-<p>Services like Stripe, GitHub, or PayPal require a <strong>public HTTPS URL</strong>, and tools like...*
-  📅 Sun, 14 Dec 2025 12:01:44 +0000
+- **[A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27)**
+  *<p>SPAs were revolutionary and ground-breaking in the way they changed frontend architectures and shifting the entire view of the data-model(pun intended). </p>
+
+<p>A lot of UI and data-shaping work c...*
+  📅 Sun, 14 Dec 2025 17:58:21 +0000
 
 </details>
 
@@ -117,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[chaos-zhu/easyimg](https://github.com/chaos-zhu/easyimg)** ⭐ 17
+- **[chaos-zhu/easyimg](https://github.com/chaos-zhu/easyimg)** ⭐ 24
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   适用于个人的一站式图床服务
 
-- **[oyz8/ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run)** ⭐ 10
+- **[antirez/toyforth](https://github.com/antirez/toyforth)** ⭐ 22
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Work in progress stack based language for my YouTube C course
+
+- **[oyz8/ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run)** ⭐ 17
   ![Python](https://img.shields.io/badge/-Python-blue)
   GitHub Actions 自动化登录 ClawCloud Run
 
-- **[harshit428288/Air-Quality-Prediction](https://github.com/harshit428288/Air-Quality-Prediction)** ⭐ 8
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
+- **[genoshide/mention-network-bot](https://github.com/genoshide/mention-network-bot)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A high-performance, multi-threaded automation tool designed for Mention Network. This bot utilizes advanced AI models (Gemini/Groq) to generate organic, context-aware conversations, manage daily quests, and maximize point farming efficiency.
 
-- **[lalitmach22/Question-Bank](https://github.com/lalitmach22/Question-Bank)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This repo contains question banks with most important/frequently asked questions in Data Science/Machine Learning, Programming/App Dev, SQL, DSA and Linux
+- **[yangdongstation/TheCha86](https://github.com/yangdongstation/TheCha86)** ⭐ 11
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Cha86.dev
 
-- **[craig7351/police](https://github.com/craig7351/police)** ⭐ 8
+- **[craig7351/police](https://github.com/craig7351/police)** ⭐ 11
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HarshalChauhan811/60-days-backend-mastery](https://github.com/HarshalChauhan811/60-days-backend-mastery)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  🚀 Backend mastery with Node.js — from fundamentals to advanced concepts, including authentication, databases, security, real-world projects, and system-level understanding.
+- **[ommengman-prog/god-eye](https://github.com/ommengman-prog/god-eye)** ⭐ 10
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
 
-- **[myschoolbaze/Best-fake-usdt-sender-software-flash-Usdt-app](https://github.com/myschoolbaze/Best-fake-usdt-sender-software-flash-Usdt-app)** ⭐ 6
+- **[wasadaty32/lifetyme](https://github.com/wasadaty32/lifetyme)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Get Live Test To Your WalleT Before Making Any Payment!.  Christmas Made Easy With Our Flash USDT, BTC Transaction Software, The Fake Crypto Possess All The Features Of A Real Transaction, Very Hard To Spot The Difference. . https://wa.me/447428337798?text=Hey,+tell+me+about+the+fake+USDT+sender+and+the+live+test.+I%27m+from+refer+code+10001
-
-- **[HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Effect.py
+  None
 
 ### 📈 Weekly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,124
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,374
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,920
+- **[mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)** ⭐ 1,937
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal CLI coding agent by Mistral
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 948
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 955
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 657
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 737
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 710
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. 
 
-- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 625
+- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 641
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 595
+- **[typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** ⭐ 608
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML
 
-- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 566
+- **[tobi/qmd](https://github.com/tobi/qmd)** ⭐ 570
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 535
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,124
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,374
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,142
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,178
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,843
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,869
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,822
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,835
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,629
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,647
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,361
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,372
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,257
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,266
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,071
+- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,079
   ![None](https://img.shields.io/badge/-None-lightgrey)
   iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
@@ -478,59 +483,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | ⚪ Planned |
 | AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
