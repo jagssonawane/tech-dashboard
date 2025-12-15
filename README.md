@@ -46,9 +46,19 @@
 
 ### 📑 Hacker News
 
-- **[Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/)**
-  *<p>Article URL: <a href="https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/">https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235...*
-  📅 Mon, 15 Dec 2025 05:20:38 +0000
+- **[Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)**
+  *<p>Article URL: <a href="https://www.optery.com/careers/">https://www.optery.com/careers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46273372">https://news.ycombinator.com/...*
+  📅 Mon, 15 Dec 2025 12:00:26 +0000
+
+- **[Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)**
+  *<p>Article URL: <a href="https://andyatkinson.com/avoid-uuid-version-4-primary-keys">https://andyatkinson.com/avoid-uuid-version-4-primary-keys</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 15 Dec 2025 10:08:02 +0000
+
+- **[Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)**
+  *<p>Article URL: <a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md">https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-l...*
+  📅 Mon, 15 Dec 2025 05:46:35 +0000
 
 - **[Read Something Wonderful](https://readsomethingwonderful.com/)**
   *<p>Article URL: <a href="https://readsomethingwonderful.com/">https://readsomethingwonderful.com/</a></p>
@@ -64,15 +74,6 @@
   *<p>Article URL: <a href="https://arborium.bearcove.eu/">https://arborium.bearcove.eu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46270298">https://news.ycombinator.com/item...*
   📅 Mon, 15 Dec 2025 03:57:46 +0000
-
-- **[John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)**
-  *<p>Article URL: <a href="http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html">http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Mon, 15 Dec 2025 03:04:50 +0000
-
-- **[SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/">https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_...*
-  📅 Mon, 15 Dec 2025 02:51:24 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[Part 01: Building a Sovereign Software Factory: Docker Networking & Persistence](https://dev.to/warren_jitsing_dd1c1d6fc6/part-01-building-a-sovereign-software-factory-docker-networking-persistence-31pm)**
-  *<p>GitHub: <a href="https://github.com/InfiniteConsult/0005_cicd_part01_docker" rel="noopener noreferrer">https://github.com/InfiniteConsult/0005_cicd_part01_docker</a></p>
+- **[Releasing LightningChart Python Trader 1.1](https://dev.to/omar_lightningchart/releasing-lightningchart-python-trader-11-317g)**
+  *<p>In this version, LightningChart Python Trader introduces different features including drawing tool pointer events, chart-level pointer events, and value label controls. For more information, read t...*
+  📅 Mon, 15 Dec 2025 12:23:13 +0000
 
-<p><strong>TL;DR:</strong>...*
-  📅 Mon, 15 Dec 2025 06:10:40 +0000
+- **[Debug Fiber APIs Like a Pro with GoRequestTracer: JSON Logging, DB Queries, and Panic Tracking](https://dev.to/sumeet_patidar_f02ac60b3d/debug-fiber-apis-like-a-pro-with-gorequesttracer-json-logging-db-queries-and-panic-tracking-3mgc)**
+  *<p>If you’re building <strong>APIs or microservices in Go using Fiber</strong>, you know how hard it is to track <strong>HTTP requests, database queries, and unexpected panics</strong>.</p>
 
-- **[When a PCB Trace Becomes a Transmission Line (And Why It Broke My Design)](https://dev.to/entela_lleka_c0a20f6760/when-a-pcb-trace-becomes-a-transmission-line-and-why-it-broke-my-design-5c4o)**
-  *<h2>
-  
-  
-  Digital Signals Are Analog: A Lesson I Learned Too Late
-</h2>
-
-<p>Last year, I spent three weeks debugging what I thought was a firmware bug. My SPI interface worked perfectly at 1 MHz bu...*
-  📅 Mon, 15 Dec 2025 06:08:56 +0000
+<p>Meet <...*
+  📅 Mon, 15 Dec 2025 12:21:18 +0000
 
 </details>
 
@@ -124,91 +119,91 @@
 
 ### 📈 Daily Trending
 
-- **[shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile)** ⭐ 16
+- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 112
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
+
+- **[shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile)** ⭐ 40
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   🤖 An open-source ebook reader built entirely with AI assistance. Third-party client, frontend interface only.
 
-- **[Harvindar23/Student-Minor-Prediction](https://github.com/Harvindar23/Student-Minor-Prediction)** ⭐ 8
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Student Minor Recommendation System using Machine Learning Predicts the most suitable academic minor for students based on skills, interests, and career goals.
-
-- **[wise-multimodal-rag/multimodal-indexer](https://github.com/wise-multimodal-rag/multimodal-indexer)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Wisenut Multimodal Indexer
-
-- **[Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex)** ⭐ 7
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source general AI agent powered by Claude Agent SDK — sandboxed code execution, in-browser VS Code, terminal, custom skills, MCP support, and multi-provider integration
-
-- **[singhnavdeept/Health-cost--prediction-US-95-accuracy](https://github.com/singhnavdeept/Health-cost--prediction-US-95-accuracy)** ⭐ 4
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  this notebook takes medical insurance data from    via api and uses it to predict the cost of insurance based on various factors 
-
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[iceking111/Autonomous-Vehicle-Visual-Cruise-Competition](https://github.com/iceking111/Autonomous-Vehicle-Visual-Cruise-Competition)** ⭐ 22
+  ![C++](https://img.shields.io/badge/-C++-pink)
   None
 
-- **[Vith0r/hevd-kernel-exploitation](https://github.com/Vith0r/hevd-kernel-exploitation)** ⭐ 4
+- **[iceking111/power-inspection](https://github.com/iceking111/power-inspection)** ⭐ 22
   ![C++](https://img.shields.io/badge/-C++-pink)
-  HEVD kernel exploit
+  None
 
-- **[jjjjtang/DrivingMaster](https://github.com/jjjjtang/DrivingMaster)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  lalala
+- **[iceking111/Smart-Urban-Management](https://github.com/iceking111/Smart-Urban-Management)** ⭐ 22
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  None
+
+- **[iceking111/plant-protect](https://github.com/iceking111/plant-protect)** ⭐ 22
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  None
+
+- **[iceking111/Aerial-Robotics-Competition](https://github.com/iceking111/Aerial-Robotics-Competition)** ⭐ 21
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[uselibrary/gocar](https://github.com/uselibrary/gocar)** ⭐ 21
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  gocar, a cargo tool for Go
 
 ### 📈 Weekly Trending
 
-- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 971
+- **[cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)** ⭐ 991
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 840
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 913
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 804
+- **[cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** ⭐ 865
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. 
 
-- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 662
+- **[actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** ⭐ 674
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 597
+- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 634
   ![Python](https://img.shields.io/badge/-Python-blue)
   🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
-- **[zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR)** ⭐ 507
+- **[zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR)** ⭐ 518
   ![Python](https://img.shields.io/badge/-Python-blue)
   GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters
 
-- **[ZiHuixi/QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer)** ⭐ 423
+- **[ZiHuixi/QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer)** ⭐ 473
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。
 
-- **[farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)** ⭐ 399
+- **[farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)** ⭐ 404
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 14,884
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 15,289
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,217
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,252
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,921
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 6,968
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,870
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,892
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,674
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,698
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -216,13 +211,13 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,283
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 3,354
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,305
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-
-- **[straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)** ⭐ 3,080
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. 
 
 ## 🚀 Latest Releases
 
@@ -485,21 +480,21 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -507,37 +502,37 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
