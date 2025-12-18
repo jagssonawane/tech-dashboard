@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[TikTok unlawfully tracks your shopping habits – and your use of dating apps](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)**
+- **[More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)**
+  *<p>Article URL: <a href="https://www.nature.com/articles/d41586-025-04066-5">https://www.nature.com/articles/d41586-025-04066-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Thu, 18 Dec 2025 05:20:41 +0000
+
+- **[Mozilla's New CEO Confirms Firefox Will Become an "AI Browser"](https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy)**
+  *<p>Article URL: <a href="https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy">https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy</a></p>
+<p>Com...*
+  📅 Thu, 18 Dec 2025 05:01:00 +0000
+
+- **[Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/">https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Thu, 18 Dec 2025 04:27:53 +0000
+
+- **[Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)**
+  *<p>It's the time of the year again, so I'd be interested hear what new (and old) ideas have come up.
+Previously asked on:<p>2024 → https://news.ycombinator.com/item?id=42373343<p>2023 → https://news.y...*
+  📅 Thu, 18 Dec 2025 01:36:54 +0000
+
+- **[TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)**
   *<p>Article URL: <a href="https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps">https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating...*
   📅 Thu, 18 Dec 2025 00:25:43 +0000
 
-- **[Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)**
-  *<p>Article URL: <a href="https://www.nber.org/papers/w34553">https://www.nber.org/papers/w34553</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46307055">https://news.ycombinato...*
-  📅 Wed, 17 Dec 2025 23:29:48 +0000
-
-- **[Gut Bacteria from Amphibians and Reptiles Achieve Complete Tumor Elimination](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)**
-  *<p>Article URL: <a href="https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html">https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Wed, 17 Dec 2025 23:11:14 +0000
-
-- **[Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)**
-  *<p>Article URL: <a href="https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/">https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Wed, 17 Dec 2025 22:27:29 +0000
-
-- **[Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)**
-  *<p>Article URL: <a href="https://radar.cloudflare.com/year-in-review/2025">https://radar.cloudflare.com/year-in-review/2025</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46305...*
-  📅 Wed, 17 Dec 2025 21:44:22 +0000
-
-- **[I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)**
-  *<p>Article URL: <a href="https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/">https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/</a></p>
-<p>Comments UR...*
-  📅 Wed, 17 Dec 2025 21:13:33 +0000
+- **[Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306)**
+  *<p>When working on my projects and talking to investors, I often hear:
+“Just post it on Hacker News or Reddit and show that people love it.”<p>What I find strange is that Hacker News feels oddly opaqu...*
+  📅 Wed, 17 Dec 2025 23:58:40 +0000
 
 ### 📑 TechCrunch
+
+- **[Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions](https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/)**
+  *In an economy where everyone's feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention....*
+  📅 Thu, 18 Dec 2025 02:23:43 +0000
 
 - **[Adobe hit with proposed class-action, accused of misusing authors’ work in AI training](https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/)**
   *The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry....*
@@ -97,22 +101,22 @@
   *The company said that it would revisit opportunities for third-party partnerships in the future....*
   📅 Wed, 17 Dec 2025 19:32:52 +0000
 
-- **[Cisco says Chinese hackers are exploiting its customers with a new zero-day](https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/)**
-  *Cisco said it discovered a Chinese hacking campaign targeting its customers by exploiting a zero-day in some of the company's most popular products....*
-  📅 Wed, 17 Dec 2025 18:58:30 +0000
-
 ### 📑 Dev.to
 
-- **[Build Once, Reuse Forever: Why Developers Need Customizable Tools & Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)**
-  *<p>As a developer who's shipped lots of projects, I've learned one truth the hard way: real speed comes from eliminating repetition. Boilerplates are awesome they give you solid foundations like clean...*
-  📅 Thu, 18 Dec 2025 00:57:57 +0000
+- **[Rare Finch Sightings in Colorado: Stories from Birders You’ll Love](https://dev.to/birdiegeeks/rare-finch-sightings-in-colorado-stories-from-birders-youll-love-46hp)**
+  *<p>If you’ve spent any time watching feeders or scanning treetops in the Centennial State, you already know that finches in Colorado are usually reliable, cheerful companions. House finches chatter in...*
+  📅 Thu, 18 Dec 2025 06:14:07 +0000
 
-- **[Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29)**
-  *<p>In Japanese history, one duel is remembered not for spectacle — but for restraint.</p>
+- **[Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)**
+  *<h3>
+  
+  
+  Conditional Generative Adversarial Nets — Turn Labels Into Pictures
+</h3>
 
-<p>Sasaki Kojiro arrived dressed for honor.<br />
-A long blade. A perfect stance. Ceremony, reputation, form....*
-  📅 Thu, 18 Dec 2025 00:56:39 +0000
+<p>This idea pairs two simple computer programs that learn by competing.<br />
+ One tries to create images, the ...*
+  📅 Thu, 18 Dec 2025 06:10:49 +0000
 
 </details>
 
@@ -120,103 +124,103 @@ A long blade. A perfect stance. Ceremony, reputation, form....*
 
 ### 📈 Daily Trending
 
-- **[HAEBI0215/JJab_lorant_exe](https://github.com/HAEBI0215/JJab_lorant_exe)** ⭐ 2
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-lightgrey)
+- **[aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.
+
+- **[seongq/AGI_MER_HER_2025](https://github.com/seongq/AGI_MER_HER_2025)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HAEBI0215/EVER_SKETCH](https://github.com/HAEBI0215/EVER_SKETCH)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  헤비님의 팬게임 제작 리포지토리입니다.
-
-- **[wowjinxy/3DCad](https://github.com/wowjinxy/3DCad)** ⭐ 2
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A rewrite of a 1993 3D software.
-
-- **[abrinay1997-stack/BUKO-CAHS](https://github.com/abrinay1997-stack/BUKO-CAHS)** ⭐ 1
+- **[dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained)** ⭐ 8
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Tu gestor de finanzas personal
+  Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
 
-- **[ThirupathinaiduK/Accentrick](https://github.com/ThirupathinaiduK/Accentrick)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Private Training and  tasks
+- **[nouritsu/hyprzoom](https://github.com/nouritsu/hyprzoom)** ⭐ 6
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A simple yet feature rich zoom utility for Hyprland.
 
-- **[hyuZoldyckOfficial07/hyuZoldyckOfficial-](https://github.com/hyuZoldyckOfficial07/hyuZoldyckOfficial-)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  web testi
-
-- **[savandikodithuwakku/Laptop-price-predictor](https://github.com/savandikodithuwakku/Laptop-price-predictor)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[eqtylab/agent-console](https://github.com/eqtylab/agent-console)** ⭐ 5
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[wdmzsyy/SortingSystem](https://github.com/wdmzsyy/SortingSystem)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  一个简单的C++排序系统，支持多种排序
+- **[JarvisPei/SCOPE](https://github.com/JarvisPei/SCOPE)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  SCOPE: Self-evolving Context Optimization via Prompt Evolution - A framework for automatic prompt optimization
+
+- **[leehack/finance-mcp](https://github.com/leehack/finance-mcp)** ⭐ 4
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  Finance MCP server built in Dart
+
+- **[1sjdj/eye](https://github.com/1sjdj/eye)** ⭐ 4
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 2,049
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 2,447
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 1,236
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 1,326
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers.
 
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,103
+- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,122
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 751
+- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 752
   ![Python](https://img.shields.io/badge/-Python-blue)
   🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 624
+- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 652
   ![Python](https://img.shields.io/badge/-Python-blue)
   A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 622
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 633
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 456
+- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 549
   ![None](https://img.shields.io/badge/-None-lightgrey)
   MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
 
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 391
+- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 399
   ![Python](https://img.shields.io/badge/-Python-blue)
   Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,214
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,382
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,533
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,548
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM Council works together to answer your hardest questions
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,256
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,280
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,198
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,298
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,992
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 3,999
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,839
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,858
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)** ⭐ 3,674
+- **[donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)** ⭐ 3,715
   ![EJS](https://img.shields.io/badge/-EJS-lightgrey)
   Cloudflare error page generator
 
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,400
+- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,404
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
@@ -481,57 +485,57 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
