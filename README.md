@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 18, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 19, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,181 +46,74 @@
 
 ### 📑 Hacker News
 
-- **[Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)**
-  *<p>Article URL: <a href="https://entropicthoughts.com/mil-std-882e-software-control">https://entropicthoughts.com/mil-std-882e-software-control</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 18 Dec 2025 17:12:46 +0000
+- **[Great ideas in theoretical computer science](https://www.cs251.com/)**
+  *<p>Article URL: <a href="https://www.cs251.com/">https://www.cs251.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46319946">https://news.ycombinator.com/item?id=46319946</...*
+  📅 Thu, 18 Dec 2025 22:52:06 +0000
 
-- **[Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)**
-  *<p>Article URL: <a href="https://claude.com/blog/organization-skills-and-directory">https://claude.com/blog/organization-skills-and-directory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 18 Dec 2025 17:04:32 +0000
+- **[Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)**
+  *<p>Article URL: <a href="https://github.com/DGoettlich/history-llms">https://github.com/DGoettlich/history-llms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46319826">https:/...*
+  📅 Thu, 18 Dec 2025 22:39:47 +0000
 
-- **[Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)**
-  *<p>Article URL: <a href="https://dl.acm.org/openaccess">https://dl.acm.org/openaccess</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46313991">https://news.ycombinator.com/item...*
-  📅 Thu, 18 Dec 2025 15:39:09 +0000
+- **[1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)**
+  *<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5">https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-...*
+  📅 Thu, 18 Dec 2025 22:23:09 +0000
 
-- **[Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)**
-  *<p>Hi HN, we’re Sid and Ritvik, co-founders of Pulse (<a href="https://www.runpulse.com/">https://www.runpulse.com/</a>). Pulse is a document extraction system to create LLM-ready text using hybrid VL...*
-  📅 Thu, 18 Dec 2025 15:35:52 +0000
+- **[AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)**
+  *<p>Article URL: <a href="https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything">https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everyth...*
+  📅 Thu, 18 Dec 2025 21:52:39 +0000
 
-- **[Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)**
-  *<p>Article URL: <a href="https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/">https://www.scientificamerican.com/article/heart-and-k...*
-  📅 Thu, 18 Dec 2025 15:23:05 +0000
+- **[Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer">https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer</a></p>
+...*
+  📅 Thu, 18 Dec 2025 21:02:10 +0000
 
-- **[Using TypeScript to Obtain One of the Rarest License Plates](https://www.jack.bio/blog/licenseplate)**
-  *<p>Article URL: <a href="https://www.jack.bio/blog/licenseplate">https://www.jack.bio/blog/licenseplate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46313379">https://news.yc...*
-  📅 Thu, 18 Dec 2025 15:00:32 +0000
+- **[Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com)**
+  *<p>We have been getting the best results with Claude Code when we iterate with it to build full context and then use and update that context as we work.<p>So, we built Nimbalyst to be the local WYSIWY...*
+  📅 Thu, 18 Dec 2025 20:26:55 +0000
 
 ### 📑 TechCrunch
 
-- **[These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits](https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/)**
-  *YC-backed Givefront is building a fintech designed specifically for nonprofits, including food banks, churches, and homeowner associations....*
-  📅 Thu, 18 Dec 2025 18:04:42 +0000
+- **[TikTok agrees to deal to cede control of U.S. business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)**
+  *The deal closes a long-running drama in which U.S. authorities have sought to compel ByteDance to divest....*
+  📅 Fri, 19 Dec 2025 00:56:44 +0000
 
-- **[Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)**
-  *The merger would broaden Trump Media’s holdings into the nascent fusion power space while data centers clamor for more electricity amid the ongoing AI boom....*
-  📅 Thu, 18 Dec 2025 17:05:00 +0000
+- **[Apple becomes a debt collector with its new developer agreement](https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/)**
+  *Apple says it can now collect any money a developer owes the tech giant at any time....*
+  📅 Thu, 18 Dec 2025 23:56:19 +0000
 
-- **[TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources](https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/)**
-  *EtherealX aims to take on SpaceX's Falcon 9 with its fully reusable rocket....*
-  📅 Thu, 18 Dec 2025 16:30:00 +0000
+- **[Instacart to pay $60M to settle FTC claims it deceived consumers](https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/)**
+  *The federal agency alleged Instacart misled consumers with unlawful tactics, causing them to pay higher fees while also denying refunds....*
+  📅 Thu, 18 Dec 2025 21:07:25 +0000
 
-- **[Tech provider for NHS England confirms data breach](https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/)**
-  *U.K.-based healthcare tech provider DXS International said it discovered and contained a data breach on Sunday. A ransomware gang took credit for the breach....*
-  📅 Thu, 18 Dec 2025 16:09:34 +0000
+- **[ChatGPT launches an app store, lets developers know it’s open for business](https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/)**
+  *OpenAI is looking to populate its flagship chatbot with a host of new user experiences....*
+  📅 Thu, 18 Dec 2025 20:22:50 +0000
 
-- **[Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game](https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/)**
-  *The startup has raised a $3.6 million seed round led by Khosla Ventures....*
-  📅 Thu, 18 Dec 2025 16:00:00 +0000
+- **[Pickle Robot adds Tesla veteran as first CFO](https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/)**
+  *Jeff Evanson recently joined Pickle Robot as the company's first CFO as the startup has allegedly expanded its partnership with UPS....*
+  📅 Thu, 18 Dec 2025 20:01:46 +0000
 
-- **[No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC](https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/)**
-  *Impactful talks and connections happen at StrictlyVC. Read the full 2025 recap and join the 2026 waitlist to get access to the lowest ticket prices....*
-  📅 Thu, 18 Dec 2025 16:00:00 +0000
+- **[Why British politicians are flocking to American tech giants](https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/)**
+  *Former British Chancellor of the Exchequer George Osborne has joined OpenAI as managing director and head of OpenAI for Countries. He also will run Coinbase's internal advisory council....*
+  📅 Thu, 18 Dec 2025 19:50:23 +0000
 
 ### 📑 Dev.to
 
-- **[Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)**
-  *<p>In the rapidly evolving landscape of artificial intelligence, the ability to iterate and deploy intelligent agents with speed is no longer a luxury – it's a critical competitive advantage. Traditio...*
-  📅 Thu, 18 Dec 2025 18:13:04 +0000
+- **[A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Fri, 19 Dec 2025 00:49:10 +0000
 
-- **[What’s New in WordPress 6.8: Performance, Style Updates & Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)**
-  *<h2>
-  
-  
-  <strong>Introduction</strong>
-</h2>
+- **[The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)**
+  *<p>Let me tell you something nobody else will: <strong>running a profitable arbitrage bot in 2025 is like playing chess against a thousand grandmasters who all move simultaneously.</strong></p>
 
-<p>In today’s world, data visualization shapes how businesses read performance, spot opportunities, and act with confidence through their digital pres...*
-  📅 Thu, 18 Dec 2025 18:11:39 +0000
+<p>I'...*
+  📅 Fri, 19 Dec 2025 00:46:30 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[terauss/Polymarket-Kalshi-Arbitrage-bot](https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot)** ⭐ 114
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. 
-
-- **[dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained)** ⭐ 55
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
-
-- **[Jarred-Sumner/poof](https://github.com/Jarred-Sumner/poof)** ⭐ 55
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  Ephemeral filesystem isolation via Linux overlayfs (experimental)
-
-- **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** ⭐ 55
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Sub2API-一站式开源中转服务，让 Claude订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-- **[mdsaban/universal-app-opener](https://github.com/mdsaban/universal-app-opener)** ⭐ 46
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents).
-
-- **[aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)** ⭐ 36
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.
-
-- **[Northsiide/FLASH-USDT-SENDER-TRC-P2P-EXCHANGE](https://github.com/Northsiide/FLASH-USDT-SENDER-TRC-P2P-EXCHANGE)** ⭐ 27
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Get free test and unlock the potential of crypto wallet with Flash USDT Software, a cutting-edge simulation designed to mimic Tether (USDT) without any financial risk. Ideal for developers, educators, and blockchain enthusiasts, this software allows you to safely practice.
-
-- **[vodspider/release](https://github.com/vodspider/release)** ⭐ 23
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-### 📈 Weekly Trending
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 2,936
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 1,640
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers.
-
-- **[eooce/Gla-deploy](https://github.com/eooce/Gla-deploy)** ⭐ 1,138
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** ⭐ 775
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
-
-- **[tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** ⭐ 768
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
-
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 688
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A tool for people curious about the React Server Components protocol
-
-- **[XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)** ⭐ 645
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
-
-- **[FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** ⭐ 415
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. 
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 17,642
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** ⭐ 11,596
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  LLM Council works together to answer your hardest questions
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,335
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 4,441
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,018
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-
-- **[donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)** ⭐ 3,960
-  ![EJS](https://img.shields.io/badge/-EJS-lightgrey)
-  Cloudflare error page generator
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,889
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-
-- **[pshenok/server-survival](https://github.com/pshenok/server-survival)** ⭐ 3,424
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
 ## 🚀 Latest Releases
 
@@ -484,49 +377,49 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
@@ -535,8 +428,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -554,7 +447,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** December 18, 2025
+**Last Updated:** December 19, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
