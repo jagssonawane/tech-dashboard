@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)**
-  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics">https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 22 Dec 2025 04:34:36 +0000
+- **[If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)**
+  *<p>Article URL: <a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/">https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/</a></p>
+<p>Comments URL: <...*
+  📅 Mon, 22 Dec 2025 10:27:52 +0000
 
-- **[Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)**
-  *<p>Some time ago I decided to try building an Android app using Rust. After a few weeks I got it working. There was a new iced release recently, so I've just updated the example to new iced and wgpu. ...*
-  📅 Mon, 22 Dec 2025 02:14:32 +0000
+- **[Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)**
+  *<p>Article URL: <a href="https://www.ssp.sh/blog/well-being-algorithms/">https://www.ssp.sh/blog/well-being-algorithms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352747"...*
+  📅 Mon, 22 Dec 2025 09:58:50 +0000
 
-- **[86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)**
-  *<p>Article URL: <a href="https://86box.net/2025/12/21/86box-v5-3.html">https://86box.net/2025/12/21/86box-v5-3.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350477">htt...*
-  📅 Mon, 22 Dec 2025 01:43:40 +0000
+- **[The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)**
+  *<p>Article URL: <a href="https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice">https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-th...*
+  📅 Mon, 22 Dec 2025 09:30:58 +0000
 
-- **[ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)**
-  *<p>Article URL: <a href="https://ym2132.github.io/ONNX_MLProgram_NN_exploration">https://ym2132.github.io/ONNX_MLProgram_NN_exploration</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 22 Dec 2025 00:27:04 +0000
+- **[Cartoon Network channel errors (1995 – 2025)](https://cnas.fandom.com/wiki/Channel_Errors)**
+  *<p>Article URL: <a href="https://cnas.fandom.com/wiki/Channel_Errors">https://cnas.fandom.com/wiki/Channel_Errors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352405">https...*
+  📅 Mon, 22 Dec 2025 09:01:11 +0000
 
-- **[Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)**
-  *<p>Article URL: <a href="https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/">https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-d...*
-  📅 Sun, 21 Dec 2025 21:46:20 +0000
+- **[Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)**
+  *<p>AI has made building fast and cheap, but finding the right problems still feels hard.<p>I built World’s Backlog (<a href="https://worldsbacklog.com" rel="nofollow">https://worldsbacklog.com</a>
+) t...*
+  📅 Mon, 22 Dec 2025 08:42:31 +0000
 
-- **[Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs](https://eulumdat.icu)**
-  *<p>Hi HN, I'm Holger, a developer who worked in the lighting industry.<p>I built this to scratch my own itch and put it on crates.io and PyPI where nothing like it existed.<p>The old file formats (EUL...*
-  📅 Sun, 21 Dec 2025 20:56:54 +0000
+- **[QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)**
+  *<p>Article URL: <a href="https://qb64phoenix.com/forum/showthread.php?tid=4244">https://qb64phoenix.com/forum/showthread.php?tid=4244</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Mon, 22 Dec 2025 07:25:43 +0000
 
 ### 📑 TechCrunch
 
@@ -101,17 +103,21 @@
 
 ### 📑 Dev.to
 
-- **[Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)**
-  *<p>Deep dive into building a <strong>production-ready</strong> <strong>camera capture system with zero-copy V4L2, multithreading, and FFmpeg encoding.</strong></p>
+- **[How to Accelerate Release Cycles Without Hiring More Engineers](https://dev.to/aspire-softserv/how-to-accelerate-release-cycles-without-hiring-more-engineers-3n50)**
+  *<h2>
+  
+  
+  <strong>TL;DR</strong>
+</h2>
 
-<p>Ever wondered how professional s...*
-  📅 Mon, 22 Dec 2025 06:11:18 +0000
+<ul>
+<li><p>Hiring more engineers doesn't fix slow release velocity inefficient processes do</p></li>
+<li><p>Manual deployments create hidden bottlenecks tha...*
+  📅 Mon, 22 Dec 2025 12:21:53 +0000
 
-- **[Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)**
-  *<p>If you are building a Todo app in a single index.js file, AI coding assistants feel like magic. They predict the entire function before you finish typing the signature.</p>
-
-<p>But if you are worki...*
-  📅 Mon, 22 Dec 2025 06:09:28 +0000
+- **[Weekly Tech Recap: AI Breakthroughs Shine (Dec 15 - Dec 21, 2025)](https://dev.to/hkj13/weekly-tech-recap-ai-breakthroughs-shine-dec-15-dec-21-2025-5ecj)**
+  *<p>As we wrap up another week in the tech world, several groundbreaking milestones have been reached across multiple sectors, from AI &amp; Machine Learning to cloud infrastructures and emerging start...*
+  📅 Mon, 22 Dec 2025 12:18:07 +0000
 
 </details>
 
@@ -119,95 +125,95 @@
 
 ### 📈 Daily Trending
 
-- **[hoshinolina/libfunnel](https://github.com/hoshinolina/libfunnel)** ⭐ 8
+- **[callaroi/instagram-reporting-tool](https://github.com/callaroi/instagram-reporting-tool)** ⭐ 26
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban
+
+- **[Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index)** ⭐ 22
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  claude skill 
+
+- **[hoshinolina/libfunnel](https://github.com/hoshinolina/libfunnel)** ⭐ 18
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Easy app-to-app frame sharing using PipeWire
 
-- **[Prog77X/ai-code-review](https://github.com/Prog77X/ai-code-review)** ⭐ 7
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  基于 NestJS 的 AI 代码评审服务，支持 GitLab 和 GitHub 的 Webhook 集成。自动分析 Merge Request/Push 中的代码变更，使用 AI 模型进行代码评审，并将评审结果发布回 Git 平台。
+- **[sugyeonge/MoCE](https://github.com/sugyeonge/MoCE)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[amerob/gesture-3d-studio](https://github.com/amerob/gesture-3d-studio)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Gesture3D Studio is an interactive web app that uses hand gestures to control 3D models in real-time with webcam input. Built with React, Three.js, and MediaPipe, it supports gesture-based manipulation and custom scene lighting.
-
-- **[daydust/ParamX](https://github.com/daydust/ParamX)** ⭐ 4
+- **[daydust/ParamX](https://github.com/daydust/ParamX)** ⭐ 15
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   js主动参数提取与构造工具
 
-- **[magicechostack/melodisco](https://github.com/magicechostack/melodisco)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[hayoon45/KoValPlus](https://github.com/hayoon45/KoValPlus)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[dorisoy/Dorisoy.Mediasoup](https://github.com/dorisoy/Dorisoy.Mediasoup)** ⭐ 4
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Dorisoy.Mediasoup 是一个基于 .NET 8 的完整实时音视频通信解决方案，采用 Mediasoup SFU 架构实现高性能的 WebRTC 媒体服务。项目包含 Mediasoup 核心库（C# 实现）、libuv 异步 I/O 绑定、ASP.NET Core 集成中间件、SignalR 信令服务器，以及 WPF 桌面客户端和 Blazor Web 客户端。支持 Open/Pull/Invite 三种服务模式，提供房间管理、音视频采集传输、多端互通等功能。技术栈涵盖 WebRTC、SignalR、SIPSorcery、OpenCvSharp、NAudio 等，适用于在线会议、远程协作、直播互动等场景。
-
-- **[richman3813/freeSpider](https://github.com/richman3813/freeSpider)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  基于docker部署的一款支持动态JS爬取的高性能爬虫服务，支持API调用
-
-- **[sofianeelhor/0ctf2025-wu](https://github.com/sofianeelhor/0ctf2025-wu)** ⭐ 3
+- **[callaroi/tiktok-reporting-tool](https://github.com/callaroi/tiktok-reporting-tool)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  eeeeee
+  TikTok report bot are a tool designed to automate the process of reporting account on TikTok that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profiles, or other violations also its a reporter mass profile acc ban
+
+- **[rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Detection for CVE-2025-68613
 
 ### 📈 Weekly Trending
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,772
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,383
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,403
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS app for finding and killing processes on open ports. Perfect for developers.
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,246
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,371
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 833
+- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 839
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A tool for people curious about the React Server Components protocol
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 713
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 797
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 604
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 663
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 584
+- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 650
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 554
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 625
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,544
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,664
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,581
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,618
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,598
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,682
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,581
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,647
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,226
+- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,242
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,985
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,992
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
@@ -215,7 +221,7 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 2,772
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,084
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -481,49 +487,49 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
@@ -531,9 +537,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
