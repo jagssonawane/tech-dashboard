@@ -20,8 +20,8 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🔥 Trending Repositories | 15 |
+| 🎯 Latest Releases | 9 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,78 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)**
-  *<p>Article URL: <a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/">https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/</a></p>
-<p>Comments URL: <...*
-  📅 Mon, 22 Dec 2025 10:27:52 +0000
+- **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)**
+  *<p>Article URL: <a href="https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/">https://www.forbes.com/sites/thomasbrewster/202...*
+  📅 Mon, 22 Dec 2025 17:53:46 +0000
 
-- **[Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)**
-  *<p>Article URL: <a href="https://www.ssp.sh/blog/well-being-algorithms/">https://www.ssp.sh/blog/well-being-algorithms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352747"...*
-  📅 Mon, 22 Dec 2025 09:58:50 +0000
+- **[Henge Finder](https://hengefinder.rcdis.co/#learn)**
+  *<p>Article URL: <a href="https://hengefinder.rcdis.co/#learn">https://hengefinder.rcdis.co/#learn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46356320">https://news.ycombina...*
+  📅 Mon, 22 Dec 2025 17:32:18 +0000
 
-- **[The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)**
-  *<p>Article URL: <a href="https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice">https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-th...*
-  📅 Mon, 22 Dec 2025 09:30:58 +0000
+- **[Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=vU1-uiUlHTo">https://www.youtube.com/watch?v=vU1-uiUlHTo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46356182">https...*
+  📅 Mon, 22 Dec 2025 17:19:44 +0000
 
-- **[Cartoon Network channel errors (1995 – 2025)](https://cnas.fandom.com/wiki/Channel_Errors)**
-  *<p>Article URL: <a href="https://cnas.fandom.com/wiki/Channel_Errors">https://cnas.fandom.com/wiki/Channel_Errors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352405">https...*
-  📅 Mon, 22 Dec 2025 09:01:11 +0000
+- **[Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)](https://www.useparallel.com/uplane1/careers)**
+  *<p>Article URL: <a href="https://www.useparallel.com/uplane1/careers">https://www.useparallel.com/uplane1/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46355932">https...*
+  📅 Mon, 22 Dec 2025 17:00:34 +0000
 
-- **[Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)**
-  *<p>AI has made building fast and cheap, but finding the right problems still feels hard.<p>I built World’s Backlog (<a href="https://worldsbacklog.com" rel="nofollow">https://worldsbacklog.com</a>
-) t...*
-  📅 Mon, 22 Dec 2025 08:42:31 +0000
+- **[Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)**
+  *<p>Article URL: <a href="https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/">https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 22 Dec 2025 16:56:35 +0000
 
-- **[QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)**
-  *<p>Article URL: <a href="https://qb64phoenix.com/forum/showthread.php?tid=4244">https://qb64phoenix.com/forum/showthread.php?tid=4244</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Mon, 22 Dec 2025 07:25:43 +0000
+- **[Spotify reportedly investigating Anna's Archive's scraping of their library](https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/)**
+  *<p>Article URL: <a href="https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/">https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/</a></p...*
+  📅 Mon, 22 Dec 2025 16:50:22 +0000
 
 ### 📑 TechCrunch
 
-- **[Waymo resumes service in San Francisco after robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)**
-  *Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets....*
-  📅 Mon, 22 Dec 2025 03:24:49 +0000
+- **[Elevate your home bar with these mixology gadgets](https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/)**
+  *From robotic bartenders to smart coasters that ensure the perfect pour, here are some cool gadgets to elevate your home bar....*
+  📅 Mon, 22 Dec 2025 17:15:00 +0000
 
-- **[A rough week for hardware companies](https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/)**
-  *iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges....*
-  📅 Sun, 21 Dec 2025 22:16:44 +0000
+- **[Splat’s app uses AI to turn your photos into coloring pages for kids](https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/)**
+  *The app turns your own photos into pages for your kids to color, via AI....*
+  📅 Mon, 22 Dec 2025 16:55:48 +0000
 
-- **[TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/)**
-  *Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”...*
-  📅 Sun, 21 Dec 2025 17:00:00 +0000
+- **[Uber and Lyft to test Baidu robotaxis in London next year, joining Waymo](https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/)**
+  *The geographic expansions continue for the ride-hailing companies' robotaxi plans....*
+  📅 Mon, 22 Dec 2025 16:25:19 +0000
 
-- **[As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/)**
-  *The future may be electric, but that future is being postponed. The European Commission, citing the need for flexibility, has softened its ambitious plan to ban the sale of gas-powered cars by 2035. I...*
-  📅 Sun, 21 Dec 2025 15:00:00 +0000
+- **[A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/)**
+  *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025....*
+  📅 Mon, 22 Dec 2025 15:57:49 +0000
 
-- **[Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life](https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/)**
-  *In perhaps the last public interview of one Israel's most famous VCs, Jon Medved tells TechCrunch how tech will enhance his life....*
-  📅 Sun, 21 Dec 2025 13:00:00 +0000
+- **[ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/)**
+  *A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year....*
+  📅 Mon, 22 Dec 2025 15:43:15 +0000
 
-- **[Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/)**
-  *Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving the country due to longer-than-usual visa process...*
-  📅 Sat, 20 Dec 2025 22:00:21 +0000
+- **[TikTok Shop launches digital gift cards to challenge Amazon and eBay](https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/)**
+  *TikTok Shop has rolled out a new feature that allows users to purchase digital gift cards, making it easier to help friends and family buy from the millions of products on the app....*
+  📅 Mon, 22 Dec 2025 14:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[How to Accelerate Release Cycles Without Hiring More Engineers](https://dev.to/aspire-softserv/how-to-accelerate-release-cycles-without-hiring-more-engineers-3n50)**
-  *<h2>
-  
-  
-  <strong>TL;DR</strong>
-</h2>
+- **[How I Built an MCP Server to Create My Own AI Writing Style Guide Expert](https://dev.to/siddhartha_mani_03/how-i-built-an-mcp-server-to-create-my-own-ai-writing-style-guide-expert-297m)**
+  *<p>As a technical writer, my life revolves around corporate <strong>Writing Style Guides</strong>. The <strong>Writing Style Guide</strong> is my bible for me, every company I work for, my writing pat...*
+  📅 Mon, 22 Dec 2025 18:10:14 +0000
 
-<ul>
-<li><p>Hiring more engineers doesn't fix slow release velocity inefficient processes do</p></li>
-<li><p>Manual deployments create hidden bottlenecks tha...*
-  📅 Mon, 22 Dec 2025 12:21:53 +0000
-
-- **[Weekly Tech Recap: AI Breakthroughs Shine (Dec 15 - Dec 21, 2025)](https://dev.to/hkj13/weekly-tech-recap-ai-breakthroughs-shine-dec-15-dec-21-2025-5ecj)**
-  *<p>As we wrap up another week in the tech world, several groundbreaking milestones have been reached across multiple sectors, from AI &amp; Machine Learning to cloud infrastructures and emerging start...*
-  📅 Mon, 22 Dec 2025 12:18:07 +0000
+- **[What Publishing an Mobile App Involves: Time, Cost, and Equipments](https://dev.to/cathylai/what-publishing-an-mobile-app-involves-time-cost-and-equipments-1923)**
+  *<p>Before diving into the world of mobile app development, it is essential to be honest about the realities of the process. Beyond just writing code, there are financial, hardware, and administrative ...*
+  📅 Mon, 22 Dec 2025 18:05:05 +0000
 
 </details>
 
@@ -125,105 +116,37 @@
 
 ### 📈 Daily Trending
 
-- **[callaroi/instagram-reporting-tool](https://github.com/callaroi/instagram-reporting-tool)** ⭐ 26
+- **[callaroi/instagram-reporting-tool](https://github.com/callaroi/instagram-reporting-tool)** ⭐ 36
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Instagram report bot are a tool designed to automate the process of reporting account on Instagram that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profile, or other violations also its a reporter mass acc ban
 
-- **[Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index)** ⭐ 22
+- **[Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index)** ⭐ 29
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   claude skill 
 
-- **[hoshinolina/libfunnel](https://github.com/hoshinolina/libfunnel)** ⭐ 18
+- **[hoshinolina/libfunnel](https://github.com/hoshinolina/libfunnel)** ⭐ 21
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Easy app-to-app frame sharing using PipeWire
+
+- **[daydust/ParamX](https://github.com/daydust/ParamX)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  js主动参数提取与构造工具
+
+- **[agniem/telegram-reporting-tool](https://github.com/agniem/telegram-reporting-tool)** ⭐ 19
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Telegram report bot are a tool designed to automate the process of reporting account channel group on Telegram that may violate the platform's policies. These bots can be used to mass-report accounts for spam, fake profiles, or other violations also its a reporter mass profile acc ban
+
+- **[dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover)** ⭐ 19
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Watermark Remover for Gemini AI Images
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 19
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
 
 - **[sugyeonge/MoCE](https://github.com/sugyeonge/MoCE)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
-
-- **[daydust/ParamX](https://github.com/daydust/ParamX)** ⭐ 15
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  js主动参数提取与构造工具
-
-- **[hayoon45/KoValPlus](https://github.com/hayoon45/KoValPlus)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[callaroi/tiktok-reporting-tool](https://github.com/callaroi/tiktok-reporting-tool)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  TikTok report bot are a tool designed to automate the process of reporting account on TikTok that may violate the platform's policies. These bots can be used to mass-report account for spam, fake profiles, or other violations also its a reporter mass profile acc ban
-
-- **[rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Detection for CVE-2025-68613
-
-### 📈 Weekly Trending
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,084
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** ⭐ 2,403
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS app for finding and killing processes on open ports. Perfect for developers.
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,371
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[gaearon/rscexplorer](https://github.com/gaearon/rscexplorer)** ⭐ 839
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A tool for people curious about the React Server Components protocol
-
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 797
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 663
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
-
-- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 650
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 625
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,664
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,618
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,682
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,647
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)** ⭐ 4,242
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,992
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,432
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,084
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
 
 ## 🚀 Latest Releases
 
@@ -239,18 +162,6 @@
 The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22November+2025+Recovery+1%22+is%3Aclosed+).
 
 For the complete release notes go to [Updates](...
-
----
-
-### 📦 facebook/react
-
-**[19.2.3 (December 11th, 2025)](https://github.com/facebook/react/releases/tag/v19.2.3)** `v19.2.3`
-
-📅 Released: December 11, 2025
-
-## React Server Components
-
-- Add extra loop protection to React Server Functions (@sebmarkbage [#35351](https://github.com/facebook/react/pull/35351))...
 
 ---
 
@@ -487,50 +398,50 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -538,8 +449,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
