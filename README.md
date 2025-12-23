@@ -46,33 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Cecot – 60 Minutes](https://archive.org/details/insidececot)**
-  *<p>Article URL: <a href="https://archive.org/details/insidececot">https://archive.org/details/insidececot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46361024">https://news....*
-  📅 Tue, 23 Dec 2025 00:36:27 +0000
+- **[FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)**
+  *<p>Article URL: <a href="https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf">https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Tue, 23 Dec 2025 03:57:02 +0000
+
+- **[Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)**
+  *<p>Article URL: <a href="https://www.sciencedirect.com/science/article/pii/S0160412025002181">https://www.sciencedirect.com/science/article/pii/S0160412025002181</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Tue, 23 Dec 2025 02:56:50 +0000
+
+- **[The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)**
+  *<p>Article URL: <a href="https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf">https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf</a></p>
+<p...*
+  📅 Tue, 23 Dec 2025 01:49:56 +0000
+
+- **[Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)**
+  *<p>Article URL: <a href="https://github.com/karol-broda/snitch">https://github.com/karol-broda/snitch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46361229">https://news.ycom...*
+  📅 Tue, 23 Dec 2025 01:03:57 +0000
 
 - **[Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)**
   *<p>Article URL: <a href="https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center">https://www.space.com/space-exploration/satelli...*
   📅 Mon, 22 Dec 2025 23:23:12 +0000
 
-- **[There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)**
-  *<p>Article URL: <a href="https://itsfoss.com/news/alexander-linton-interview/">https://itsfoss.com/news/alexander-linton-interview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 22 Dec 2025 22:43:22 +0000
-
 - **[Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)**
   *<p>Article URL: <a href="https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages">https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-mes...*
   📅 Mon, 22 Dec 2025 22:35:45 +0000
-
-- **[Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)**
-  *<p>Article URL: <a href="https://github.com/ahoward/tc">https://github.com/ahoward/tc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46359683">https://news.ycombinator.com/item...*
-  📅 Mon, 22 Dec 2025 22:03:07 +0000
-
-- **[It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)**
-  *<p>Article URL: <a href="https://brooker.co.za/blog/2024/05/09/nagle.html">https://brooker.co.za/blog/2024/05/09/nagle.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46359...*
-  📅 Mon, 22 Dec 2025 21:09:59 +0000
 
 ### 📑 TechCrunch
 
@@ -102,30 +102,21 @@
 
 ### 📑 Dev.to
 
-- **[Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh)**
+- **[Building the Future: A Native GUI SDK Prototype](https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i)**
+  *<p><strong>A working proof-of-concept for developers ready to make semantic interfaces a reality</strong></p>
+
+<p><em>By <a class="mentioned-user" href="https://dev.to/hejhdiss">@hejhdiss</a> (Muhamme...*
+  📅 Tue, 23 Dec 2025 06:07:12 +0000
+
+- **[The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026](https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i)**
   *<h1>
   
   
-  High-Level Design: Autocomplete/Typeahead System
+  Crafting Your Blueprint for Universal Web Compatibility
 </h1>
 
-<h2>
-  
-  
-  Table of Contents
-</h2>
-
-<ol>
-<li>Problem Statement &amp; Requirements</li>
-<li>High-Level Architecture</li>
-<li>Compo...*
-  📅 Tue, 23 Dec 2025 00:39:29 +0000
-
-- **[Filio’s Backstory](https://dev.to/max-rooz/filios-backstory-4h55)**
-  *<p>Bringing a “Vision” To Life: Filio’s Backstory</p>
-
-<p>What happens when engineers are limited in doing their best work? Your hometown or the city you grew up in crumbles to ruins. Architectural wo...*
-  📅 Tue, 23 Dec 2025 00:37:35 +0000
+<p>In the fragmented digital landscape of 2026, your beautifully crafted website might be a masterpiece in Chrome but appear...*
+  📅 Tue, 23 Dec 2025 06:04:44 +0000
 
 </details>
 
@@ -133,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[inhadeepblue/2025winterOOP2](https://github.com/inhadeepblue/2025winterOOP2)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
+- **[focus-creative-games/leanclr](https://github.com/focus-creative-games/leanclr)** ⭐ 119
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR).
 
-- **[Hedi-bel/My-Portfolio](https://github.com/Hedi-bel/My-Portfolio)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[practicalveil/icecreamkit](https://github.com/practicalveil/icecreamkit)** ⭐ 1
+- **[serendipity1004/cc-feature-implementer](https://github.com/serendipity1004/cc-feature-implementer)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Gorgamol/ldv_backend](https://github.com/Gorgamol/ldv_backend)** ⭐ 1
-  ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
-  Backend für den Larrelter Dorfverein e. V.
+- **[SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🚀 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。涵盖 OA、ERP、安防、数通、大模型及容器等 高价值资产漏洞，实战导向，助力安全研究与合规检测。
 
-- **[Eolajos/Phishing-Security-Simulation-](https://github.com/Eolajos/Phishing-Security-Simulation-)** ⭐ 1
+- **[kunalsahu566/ML_Project](https://github.com/kunalsahu566/ML_Project)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[vector-sur/central-system](https://github.com/vector-sur/central-system)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[ethanniser/effect-distributed-lock](https://github.com/ethanniser/effect-distributed-lock)** ⭐ 7
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[HasenMuhammad/Hardware_Performance](https://github.com/HasenMuhammad/Hardware_Performance)** ⭐ 1
+- **[O-imperador/NimbusLab-PaaS](https://github.com/O-imperador/NimbusLab-PaaS)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  NimbusLab is a lightweight Platform-as-a-Service (PaaS) that enables developers to deploy applications directly from GitHub to Virtual Machines (VMs) or Linux Containers (LXCs) running on a Proxmox VE host. 
+
+- **[O-imperador/Career_Personality_Matching](https://github.com/O-imperador/Career_Personality_Matching)** ⭐ 7
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Comparing Hardware Performance CNNs model
+  A small practice
 
-- **[danielcamiloreyflorez14-boop/prueba](https://github.com/danielcamiloreyflorez14-boop/prueba)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[Faisaldexmo/Adut-very-Data](https://github.com/Faisaldexmo/Adut-very-Data)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The Adult Census Income Dataset is a widely used dataset in Machine Learning and Data Science. It is derived from the 1994 U.S. Census database and is mainly used for classification problems. The primary goal of this dataset is to predict whether a person’s annual income exceeds $50,000 or not based on demographic and employment-related attributes.
 
 ### 📈 Weekly Trending
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,457
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,624
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 889
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 954
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 823
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 865
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 725
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 778
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
 
-- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 718
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 685
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 775
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** ⭐ 653
+- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 752
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** ⭐ 682
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 
-- **[KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)** ⭐ 521
+- **[KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)** ⭐ 531
   ![None](https://img.shields.io/badge/-None-lightgrey)
   100+ LLM interview questions with answers. 
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,737
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,835
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,643
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,672
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,734
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,782
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,734
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,795
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 3,995
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,001
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,435
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,434
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,192
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,688
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,695
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
@@ -495,59 +486,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
