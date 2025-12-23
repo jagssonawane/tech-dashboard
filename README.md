@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)**
-  *<p>Article URL: <a href="https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf">https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Tue, 23 Dec 2025 03:57:02 +0000
+- **[What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)**
+  *<p>Article URL: <a href="https://glaze.cs.uchicago.edu/what-is-glaze.html">https://glaze.cs.uchicago.edu/what-is-glaze.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46364...*
+  📅 Tue, 23 Dec 2025 11:07:42 +0000
 
-- **[Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)**
-  *<p>Article URL: <a href="https://www.sciencedirect.com/science/article/pii/S0160412025002181">https://www.sciencedirect.com/science/article/pii/S0160412025002181</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Tue, 23 Dec 2025 02:56:50 +0000
+- **[Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)**
+  *<p>Article URL: <a href="https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota">https://www.theguardian.com/business/2025/dec/23/ryanair-fined-li...*
+  📅 Tue, 23 Dec 2025 10:53:07 +0000
 
-- **[The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)**
-  *<p>Article URL: <a href="https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf">https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf</a></p>
-<p...*
-  📅 Tue, 23 Dec 2025 01:49:56 +0000
+- **[Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)**
+  *<p>Article URL: <a href="https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/">https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/</a></p>
+<p>Comments URL: <a href...*
+  📅 Tue, 23 Dec 2025 10:28:09 +0000
 
-- **[Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)**
-  *<p>Article URL: <a href="https://github.com/karol-broda/snitch">https://github.com/karol-broda/snitch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46361229">https://news.ycom...*
-  📅 Tue, 23 Dec 2025 01:03:57 +0000
+- **[What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)**
+  *<p>I’m looking for examples of high-quality engineering blog posts—especially from tech company blogs, that go beyond surface-level explanations.<p>Specifically interested in posts that:
+1. Explain te...*
+  📅 Tue, 23 Dec 2025 09:50:31 +0000
 
-- **[Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)**
-  *<p>Article URL: <a href="https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center">https://www.space.com/space-exploration/satelli...*
-  📅 Mon, 22 Dec 2025 23:23:12 +0000
+- **[Carnap – A formal logic framework for Haskell](https://carnap.io/)**
+  *<p>Article URL: <a href="https://carnap.io/">https://carnap.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363751">https://news.ycombinator.com/item?id=46363751</a></p>
+<...*
+  📅 Tue, 23 Dec 2025 09:17:42 +0000
 
-- **[Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)**
-  *<p>Article URL: <a href="https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages">https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-mes...*
-  📅 Mon, 22 Dec 2025 22:35:45 +0000
+- **[Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)**
+  *<p>Article URL: <a href="https://boringsql.com/posts/instant-database-clones/">https://boringsql.com/posts/instant-database-clones/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Tue, 23 Dec 2025 07:58:25 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +104,15 @@
 
 ### 📑 Dev.to
 
-- **[Building the Future: A Native GUI SDK Prototype](https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i)**
-  *<p><strong>A working proof-of-concept for developers ready to make semantic interfaces a reality</strong></p>
+- **[The Holiday Season That Keeps Making Tech History](https://dev.to/razoorka/the-holiday-season-that-keeps-making-tech-history-33p)**
+  *<p>Happy holidays, fellow engineers.</p>
 
-<p><em>By <a class="mentioned-user" href="https://dev.to/hejhdiss">@hejhdiss</a> (Muhamme...*
-  📅 Tue, 23 Dec 2025 06:07:12 +0000
+<p>What a year 2025 has been. AI agents everywhere, more layoffs, the return-to-office wars continuing, and enough Slack notifications to last a lifetime. We'...*
+  📅 Tue, 23 Dec 2025 12:18:17 +0000
 
-- **[The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026](https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i)**
-  *<h1>
-  
-  
-  Crafting Your Blueprint for Universal Web Compatibility
-</h1>
-
-<p>In the fragmented digital landscape of 2026, your beautifully crafted website might be a masterpiece in Chrome but appear...*
-  📅 Tue, 23 Dec 2025 06:04:44 +0000
+- **[Salesforce’s AI Push Faces Trust Questions After 4,000-Employee Layoff](https://dev.to/logicverse_2025/salesforces-ai-push-faces-trust-questions-after-4000-employee-layoff-84p)**
+  *<p>Salesforce’s recent move to cut roughly 4,000 jobs has intensified scrutiny around its aggressive push into artificial intelligence. The layoffs come at a time when the company is publicly champion...*
+  📅 Tue, 23 Dec 2025 12:17:39 +0000
 
 </details>
 
@@ -124,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[focus-creative-games/leanclr](https://github.com/focus-creative-games/leanclr)** ⭐ 119
+- **[focus-creative-games/leanclr](https://github.com/focus-creative-games/leanclr)** ⭐ 172
   ![None](https://img.shields.io/badge/-None-lightgrey)
   LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR).
 
-- **[serendipity1004/cc-feature-implementer](https://github.com/serendipity1004/cc-feature-implementer)** ⭐ 16
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 81
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
 
-- **[SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)** ⭐ 15
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 52
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A simple tool for reading in poorly redacted documents and reproducing their origional form
+
+- **[SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)** ⭐ 48
   ![Python](https://img.shields.io/badge/-Python-blue)
   🚀 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。涵盖 OA、ERP、安防、数通、大模型及容器等 高价值资产漏洞，实战导向，助力安全研究与合规检测。
 
-- **[kunalsahu566/ML_Project](https://github.com/kunalsahu566/ML_Project)** ⭐ 9
+- **[serendipity1004/cc-feature-implementer](https://github.com/serendipity1004/cc-feature-implementer)** ⭐ 40
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[ethanniser/effect-distributed-lock](https://github.com/ethanniser/effect-distributed-lock)** ⭐ 7
+- **[PlayerYK/GeminiWatermarkRemover](https://github.com/PlayerYK/GeminiWatermarkRemover)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  去除 Gemini AI 生成图片中的“✦”水印
+
+- **[ethanniser/effect-distributed-lock](https://github.com/ethanniser/effect-distributed-lock)** ⭐ 20
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[O-imperador/NimbusLab-PaaS](https://github.com/O-imperador/NimbusLab-PaaS)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  NimbusLab is a lightweight Platform-as-a-Service (PaaS) that enables developers to deploy applications directly from GitHub to Virtual Machines (VMs) or Linux Containers (LXCs) running on a Proxmox VE host. 
-
-- **[O-imperador/Career_Personality_Matching](https://github.com/O-imperador/Career_Personality_Matching)** ⭐ 7
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  A small practice
-
-- **[Faisaldexmo/Adut-very-Data](https://github.com/Faisaldexmo/Adut-very-Data)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The Adult Census Income Dataset is a widely used dataset in Machine Learning and Data Science. It is derived from the 1994 U.S. Census database and is mainly used for classification problems. The primary goal of this dataset is to predict whether a person’s annual income exceeds $50,000 or not based on demographic and employment-related attributes.
+- **[RevenueCat/cat-paywalls-kmp](https://github.com/RevenueCat/cat-paywalls-kmp)** ⭐ 12
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  🐈 Cat Paywall KMP demonstrates modern KMP development and in-app purchases using CMP, Metro, Ktor, Coroutines, Landscapist, Navigation, Lifecycle, and RevenueCat.
 
 ### 📈 Weekly Trending
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,624
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 1,748
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 954
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 997
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 865
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 907
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 778
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 775
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 874
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 752
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 820
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
+
+- **[MineDojo/NitroGen](https://github.com/MineDojo/NitroGen)** ⭐ 787
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** ⭐ 682
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** ⭐ 714
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 
-- **[KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)** ⭐ 531
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  100+ LLM interview questions with answers. 
+- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 546
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅提供侧边栏对话，还通过悬浮工具栏和浏览器控制协议（MCP），将 AI 的能力扩展到网页浏览的每一个角落
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,835
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 18,951
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,672
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,700
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,782
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 5,900
+  ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,795
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,844
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,001
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,017
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,434
+- **[Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)** ⭐ 3,436
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,257
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,316
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,695
+- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,706
   ![None](https://img.shields.io/badge/-None-lightgrey)
   基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
@@ -486,30 +482,30 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -517,9 +513,9 @@ for a semver-minor rele...
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -527,18 +523,18 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
 | AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
