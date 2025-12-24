@@ -46,88 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[The Ultimate Windows Utility (2022)](https://christitus.com/windows-tool/)**
-  *<p>Article URL: <a href="https://christitus.com/windows-tool/">https://christitus.com/windows-tool/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46374413">https://news.ycombi...*
-  📅 Wed, 24 Dec 2025 10:48:24 +0000
+- **[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)**
+  *<p>Article URL: <a href="https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention">https://bitcoinmagazine.com/business/former-mt-go...*
+  📅 Wed, 24 Dec 2025 16:21:10 +0000
 
-- **[Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)**
-  *<p>Article URL: <a href="https://eliocapella.com/blog/permission-systems-for-enterprise/">https://eliocapella.com/blog/permission-systems-for-enterprise/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 24 Dec 2025 09:50:52 +0000
+- **[My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)**
+  *<p>Article URL: <a href="https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html">https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html</a></p>
+<p>Comme...*
+  📅 Wed, 24 Dec 2025 15:59:23 +0000
 
-- **[US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)**
-  *<p>Article URL: <a href="https://mastodon.social/@fj/115773761468906515">https://mastodon.social/@fj/115773761468906515</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46374087"...*
-  📅 Wed, 24 Dec 2025 09:43:34 +0000
+- **[We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224)**
+  *<p>Article URL: <a href="https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224">https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-tru...*
+  📅 Wed, 24 Dec 2025 15:06:26 +0000
 
-- **[Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)**
-  *<p>Article URL: <a href="https://blog.google/technology/ai/2025-research-breakthroughs/">https://blog.google/technology/ai/2025-research-breakthroughs/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Wed, 24 Dec 2025 09:30:58 +0000
+- **[New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html">https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html</a></p>
+<p>Comments URL:...*
+  📅 Wed, 24 Dec 2025 14:37:54 +0000
 
-- **[Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)**
-  *<p>Article URL: <a href="https://www.hobson.space/posts/nixcross/">https://www.hobson.space/posts/nixcross/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46372771">https://new...*
-  📅 Wed, 24 Dec 2025 05:31:45 +0000
+- **[AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-...*
+  📅 Wed, 24 Dec 2025 14:28:35 +0000
 
-- **[Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)**
-  *<p>Article URL: <a href="https://armeet.bearblog.dev/becoming-the-machine/">https://armeet.bearblog.dev/becoming-the-machine/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=463...*
-  📅 Wed, 24 Dec 2025 03:34:31 +0000
+- **[Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)**
+  *<p>Article URL: <a href="https://games.jmir.org/2025/1/e84219/">https://games.jmir.org/2025/1/e84219/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46375499">https://news.ycom...*
+  📅 Wed, 24 Dec 2025 13:43:46 +0000
 
 ### 📑 TechCrunch
 
-- **[Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/)**
-  *It's the latest development in an evolving war between Chinese and American consumer tech products....*
-  📅 Tue, 23 Dec 2025 21:16:04 +0000
+- **[The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/)**
+  *Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change....*
+  📅 Wed, 24 Dec 2025 18:00:00 +0000
 
-- **[ServiceNow to acquire cybersecurity startup Armis for $7.75B](https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/)**
-  *The deal is expected to yield significant returns for Armis investors, including Sequoia, CapitalG, and Insight Partners....*
-  📅 Tue, 23 Dec 2025 20:40:10 +0000
+- **[Waymo explains why its robotaxis got stuck during the SF blackout](https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/)**
+  *The company also said its robotaxis navigated more than 7,000 dark stoplights successfully on Saturday....*
+  📅 Wed, 24 Dec 2025 16:55:54 +0000
 
-- **[Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/)**
-  *The company has issued a software update to its autonomous driving system to fix its lane-crossing behavior....*
-  📅 Tue, 23 Dec 2025 19:50:09 +0000
+- **[Waymo is testing Gemini as an in-car AI assistant in its robotaxis](https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/)**
+  *Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more....*
+  📅 Wed, 24 Dec 2025 16:27:55 +0000
 
-- **[John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/)**
-  *These authors rejected Anthropic's class action settlement, arguing that "LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rat...*
-  📅 Tue, 23 Dec 2025 19:02:47 +0000
+- **[The 9 top biotech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the biotech and pharma Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Wed, 24 Dec 2025 16:00:00 +0000
 
-- **[Hackers stole over $2.7B in crypto in 2025, data shows](https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/)**
-  *This was another banner year for crypto hacks and heists — 2025 was the third year in a row that a new crypto theft record was set....*
-  📅 Tue, 23 Dec 2025 19:00:00 +0000
+- **[How Mill closed the deal with Amazon and Whole Foods](https://techcrunch.com/2025/12/24/how-mill-closed-the-deal-with-amazon-and-whole-foods/)**
+  *Matt Rogers' food waste startup will soon deploy its commercial food waste bins in grocery stores throughout the U.S. Here's how Rogers thinks about preparing a startup for success....*
+  📅 Wed, 24 Dec 2025 15:30:00 +0000
 
-- **[US insurance giant Aflac says hackers stole personal and health data of 22.6 million people](https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-and-health-data-of-22-6-million-people/)**
-  *Aflac, one of the largest insurance companies in the U.S., confirmed hackers stole reams of personal data, including Social Security numbers, identity documents, and health information....*
-  📅 Tue, 23 Dec 2025 17:14:04 +0000
+- **[Apple pauses app store changes in Texas after court blocks age-assurance law](https://techcrunch.com/2025/12/24/apple-pauses-app-store-changes-in-texas-after-court-blocks-age-assurance-law/)**
+  *Apple said it will pause its plans for compliance with the new law in Texas but notes other age-assurance tech remains available to developers....*
+  📅 Wed, 24 Dec 2025 15:02:06 +0000
 
 ### 📑 Dev.to
 
-- **[Getting Started with 2D Games Using Arcade Library (Part 14): Using the Physics Engine](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-14-using-the-physics-engine-5fgk)**
+- **[Rahsi Defense Security Mesh™ | Copilot & Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)**
+  *<p>Most conversations about <strong>Copilot, Teams, and Microsoft 365 security</strong> are happening at the <em>tool layer</em>.</p>
+
+<p>That’s understandable — but it’s also where <strong>CMMC failu...*
+  📅 Wed, 24 Dec 2025 17:55:27 +0000
+
+- **[Headless Raspberry Pi Homelab – Part 1: OS Configuration & Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)**
   *<h2>
   
   
-  Using the Physics Engine
+  Project Overview
 </h2>
 
-<p>This time, we’ll introduce the physics engine.<br />
-By using it, you can apply movements based on physical laws to your sprites.</p>
-<h2>
-  
-  
-  1. Cr...*
-  📅 Wed, 24 Dec 2025 12:23:24 +0000
-
-- **[I Didn’t Build an Expense Tracker.](https://dev.to/emilp/i-didnt-build-an-expense-tracker-h30)**
-  *<p><strong>I Built a Diary That Knows My Money Better Than I Do.</strong></p>
-
-<p>Most expense trackers ask you to trust them.</p>
-
-<p>“Connect your bank account.”<br />
-“Grant read access.”<br />
-“We...*
-  📅 Wed, 24 Dec 2025 12:15:15 +0000
+<p>This project documents the process of imaging and configuring a Raspberry Pi to function as a headless database server on a local network, with a focus on OS de...*
+  📅 Wed, 24 Dec 2025 17:54:52 +0000
 
 </details>
 
@@ -135,65 +123,65 @@ By using it, you can apply movements based on physical laws to your sprites.</p>
 
 ### 📈 Daily Trending
 
-- **[BlackSky-Jose/solana-fun-token-launch-pad](https://github.com/BlackSky-Jose/solana-fun-token-launch-pad)** ⭐ 62
+- **[BlackSky-Jose/solana-fun-token-launch-pad](https://github.com/BlackSky-Jose/solana-fun-token-launch-pad)** ⭐ 104
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management
 
-- **[longvideoagent/LongVideoAgent](https://github.com/longvideoagent/LongVideoAgent)** ⭐ 38
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[tiann/hapi](https://github.com/tiann/hapi)** ⭐ 27
+- **[tiann/hapi](https://github.com/tiann/hapi)** ⭐ 90
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   App for agentic coding - access coding agent anywhere
 
-- **[almottier/YGGMollo](https://github.com/almottier/YGGMollo)** ⭐ 13
+- **[siinghd/yourinfo](https://github.com/siinghd/yourinfo)** ⭐ 62
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization
+
+- **[tronghieuit/valtec-tts](https://github.com/tronghieuit/valtec-tts)** ⭐ 56
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis.
+
+- **[longvideoagent/LongVideoAgent](https://github.com/longvideoagent/LongVideoAgent)** ⭐ 47
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[liangdabiao/claude-data-analysis-ultra-main](https://github.com/liangdabiao/claude-data-analysis-ultra-main)** ⭐ 22
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  让小白都可以一键进行数据分析，搞互联网的，搞电商的，搞各种各样的，那么其实就会用到 互联网的数据分析， 例如互联网会关心 拉新，留存，促活，推荐，转化，A/B test, 用户分析 等等很多有用的数据分析。 命令就是“/do-more”.
+
+- **[almottier/YGGMollo](https://github.com/almottier/YGGMollo)** ⭐ 21
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Extension Chrome qui ajoute un bouton Télécharger via YGG-API sur les pages YGGTorrent
 
-- **[boorch/dronage-terminal](https://github.com/boorch/dronage-terminal)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A terminal based drone workstation
-
-- **[vincoodev/the-website](https://github.com/vincoodev/the-website)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[fengin/Fun-CosyVoice3-0.5B-2512-Deploy](https://github.com/fengin/Fun-CosyVoice3-0.5B-2512-Deploy)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-CosyVoice3-0.5B-2512 语音合成服务的简化部署方案，以及快速测试和部署提供应用调用
-
-- **[popovicu/ultimate-linux](https://github.com/popovicu/ultimate-linux)** ⭐ 8
+- **[popovicu/ultimate-linux](https://github.com/popovicu/ultimate-linux)** ⭐ 19
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 2,112
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 2,524
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 1,233
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 1,422
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,087
+- **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)** ⭐ 1,098
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
-- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 976
+- **[Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)** ⭐ 981
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.
 
-- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 917
+- **[QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)** ⭐ 932
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
 
-- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 613
+- **[yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus)** ⭐ 618
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
 
-- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 495
+- **[RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser)** ⭐ 501
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -203,37 +191,37 @@ By using it, you can apply movements based on physical laws to your sprites.</p>
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,197
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,228
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,797
+- **[Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)** ⭐ 7,814
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,138
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,183
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 4,982
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,012
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,044
+- **[HisMax/RedInk](https://github.com/HisMax/RedInk)** ⭐ 4,052
   ![Python](https://img.shields.io/badge/-Python-blue)
   红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,504
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,532
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,289
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,327
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Autonomous multi-session AI coding
 
-- **[666OS/ClashMac](https://github.com/666OS/ClashMac)** ⭐ 2,725
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 2,757
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
 ## 🚀 Latest Releases
 
@@ -497,21 +485,21 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
@@ -519,37 +507,37 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
