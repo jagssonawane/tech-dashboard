@@ -46,10 +46,20 @@
 
 ### 📑 Hacker News
 
-- **[Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)**
-  *<p>Article URL: <a href="https://imgur.com/nUJCI3o">https://imgur.com/nUJCI3o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46389444">https://news.ycombinator.com/item?id=4638...*
-  📅 Fri, 26 Dec 2025 05:27:05 +0000
+- **[Questions Engineers Must Ask Future Employers in Interviews (and Why)](https://dollardhingra.substack.com/p/questions-software-engineers-should)**
+  *<p>Article URL: <a href="https://dollardhingra.substack.com/p/questions-software-engineers-should">https://dollardhingra.substack.com/p/questions-software-engineers-should</a></p>
+<p>Comments URL: <a ...*
+  📅 Fri, 26 Dec 2025 11:09:55 +0000
+
+- **[Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)**
+  *<p>Article URL: <a href="https://douira.dev/assets/document/douira-master-thesis.pdf">https://douira.dev/assets/document/douira-master-thesis.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 26 Dec 2025 09:43:23 +0000
+
+- **[Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)**
+  *<p>Article URL: <a href="https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/">https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Fri, 26 Dec 2025 07:35:15 +0000
 
 - **[TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)**
   *<p>Article URL: <a href="https://github.com/thu-ml/TurboDiffusion">https://github.com/thu-ml/TurboDiffusion</a></p>
@@ -65,15 +75,6 @@
   *<p>Article URL: <a href="https://www.minimaxi.com/news/minimax-m21">https://www.minimaxi.com/news/minimax-m21</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46388213">https://n...*
   📅 Fri, 26 Dec 2025 01:02:53 +0000
-
-- **[When a driver challenges the kernel's assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)**
-  *<p>Article URL: <a href="http://miod.online.fr/software/openbsd/stories/udl.html">http://miod.online.fr/software/openbsd/stories/udl.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 26 Dec 2025 00:32:15 +0000
-
-- **[Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)**
-  *<p>Article URL: <a href="https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/">https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patient...*
-  📅 Fri, 26 Dec 2025 00:29:40 +0000
 
 ### 📑 TechCrunch
 
@@ -103,17 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[Traceability Software Food Industry for Safer Supply Chains](https://dev.to/foodtraceabilitysystem/traceability-software-food-industry-for-safer-supply-chains-1a14)**
-  *<p>In today’s global food market, safety, transparency, and accountability are more important than ever. Consumers want to know where their food comes from, while regulators demand accurate records at...*
-  📅 Fri, 26 Dec 2025 06:11:38 +0000
+- **[Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e)**
+  *<p>We have previuosly established what a mempool is, a list of pending transactions, specific to each blockchain node, where new created transaction wait to be verified, included in a transaction bloc...*
+  📅 Fri, 26 Dec 2025 12:21:43 +0000
 
-- **[How Qwen Image Layered Revolutionizes Workflow Efficiency for Designers and Creative Teams](https://dev.to/sophialuma/how-qwen-image-layered-revolutionizes-workflow-efficiency-for-designers-and-creative-teams-1p91)**
-  *<p>For years, professional designers and creative teams have asked the same question about generative AI:</p>
-
-<p>“How can these tools fit into a real production workflow?”</p>
-
-<p>While AI image gene...*
-  📅 Fri, 26 Dec 2025 06:10:47 +0000
+- **[HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1)**
+  *<p><strong>WHAT IS AN ELASTIC BEANSTALK:</strong> An Elastic Beanstalk application is a container for Elastic Beanstalk components, including environments where your application code runs on platforms...*
+  📅 Fri, 26 Dec 2025 12:19:30 +0000
 
 </details>
 
@@ -121,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[0xAstroAlpha/cliProxyAPI-Dashboard](https://github.com/0xAstroAlpha/cliProxyAPI-Dashboard)** ⭐ 14
+- **[Haleclipse/Codex-JetBrains](https://github.com/Haleclipse/Codex-JetBrains)** ⭐ 22
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
+
+- **[0xAstroAlpha/cliProxyAPI-Dashboard](https://github.com/0xAstroAlpha/cliProxyAPI-Dashboard)** ⭐ 20
   ![Go](https://img.shields.io/badge/-Go-cyan)
   cliProxyAPI-Dashboard
 
-- **[Mac-XK/Windsurf-Tool](https://github.com/Mac-XK/Windsurf-Tool)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Windsurf Go 是一款基于 Vue 3 + Electron 开发的桌面应用程序，用于批量管理 Windsurf 账号。它提供了自动化注册、账号管理、一键切换等功能，大大简化了多账号管理的复杂度。
+- **[zhalice2011/betterprompt](https://github.com/zhalice2011/betterprompt)** ⭐ 12
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
-- **[Sathish-43/Scansphere-Application---Flutter](https://github.com/Sathish-43/Scansphere-Application---Flutter)** ⭐ 7
+- **[Sathish-43/Scansphere-Application---Flutter](https://github.com/Sathish-43/Scansphere-Application---Flutter)** ⭐ 10
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   ScanSphere is a modern Flutter-based mobile application designed to simplify and enhance document scanning and digital content management. The application enables users to scan physical documents using their device camera, process them efficiently, and store them securely in digital format.
 
-- **[HCPTangHY/Open-AutoGemini](https://github.com/HCPTangHY/Open-AutoGemini)** ⭐ 7
+- **[HCPTangHY/Open-AutoGemini](https://github.com/HCPTangHY/Open-AutoGemini)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
   基于Open-AutoGLM的Gemini适配
 
-- **[princekumar-973/ASD-Analysis](https://github.com/princekumar-973/ASD-Analysis)** ⭐ 5
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 8
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[hujinghaoabcd/StarHub](https://github.com/hujinghaoabcd/StarHub)** ⭐ 8
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  轻松管理你的 GitHub Stars｜Organize your GitHub Stars  智能标签、AI 分类、极速搜索——告别混乱收藏。 Smart tags, AI classification, and fast search — no more messy star lists.
+
+- **[hjxrichardevans390-blip/tools](https://github.com/hjxrichardevans390-blip/tools)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[PedroGaya/sandl](https://github.com/PedroGaya/sandl)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[wlixi008-byte/pc_agent](https://github.com/wlixi008-byte/pc_agent)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-powered PC automation tool - 鏅鸿兘涓汉鐢佃剳绠＄悊鍔╂墜
-
-- **[ranp9275-sketch/feishu-devops](https://github.com/ranp9275-sketch/feishu-devops)** ⭐ 4
-  ![Go](https://img.shields.io/badge/-Go-cyan)
   None
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,977
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,173
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 2,881
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,070
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 600
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 649
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A notes webapp
 
-- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 548
+- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 558
   ![Python](https://img.shields.io/badge/-Python-blue)
   CineCLI is a cross-platform command-line movie browser built with Python.
 
-- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 476
+- **[jlongster/tigma](https://github.com/jlongster/tigma)** ⭐ 479
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 420
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 465
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
-- **[elijah0528/video2ascii](https://github.com/elijah0528/video2ascii)** ⭐ 384
+- **[parcadei/Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** ⭐ 436
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+
+- **[elijah0528/video2ascii](https://github.com/elijah0528/video2ascii)** ⭐ 390
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   WebGL-powered React Component for video to ASCII conversion
 
-- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 384
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A simple tool for reading in poorly redacted documents and reproducing their origional form
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,500
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,574
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,591
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,744
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,220
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,274
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 3,977
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,173
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,695
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,728
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,566
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,613
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,034
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 2,881
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,070
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,067
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
 ## 🚀 Latest Releases
 
@@ -483,9 +480,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
@@ -493,47 +490,47 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
