@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)**
-  *<p>Article URL: <a href="https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy">https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fra...*
-  📅 Sat, 27 Dec 2025 03:14:56 +0000
+- **[Splice a Fibre](https://react-networks-lib.rackout.net/fibre)**
+  *<p>It's interactive, try and splice one!<p>Written in react, it's moderately heavy and not entirely mobile optimised.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46401190...*
+  📅 Sat, 27 Dec 2025 11:57:17 +0000
 
-- **[Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)**
-  *<p>Article URL: <a href="https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/">https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno...*
-  📅 Sat, 27 Dec 2025 02:56:43 +0000
+- **[Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)**
+  *<p>Article URL: <a href="https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html">https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html</a></p...*
+  📅 Sat, 27 Dec 2025 11:05:46 +0000
+
+- **[Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)**
+  *<p>I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.<p>Instead of:
+ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p>Y...*
+  📅 Sat, 27 Dec 2025 08:45:46 +0000
+
+- **[More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)**
+  *<p>Article URL: <a href="https://george.mand.is/2025/09/more-dynamic-cronjobs/">https://george.mand.is/2025/09/more-dynamic-cronjobs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 27 Dec 2025 06:10:42 +0000
+
+- **[Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/">https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-i...*
+  📅 Sat, 27 Dec 2025 03:00:00 +0000
 
 - **[QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)**
   *<p>Article URL: <a href="https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/">https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/</a></p>
 <p>Comments URL:...*
   📅 Sat, 27 Dec 2025 01:16:53 +0000
-
-- **[Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)**
-  *<p>Article URL: <a href="https://github.com/readme/guides/publishing-your-work">https://github.com/readme/guides/publishing-your-work</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 27 Dec 2025 00:43:04 +0000
-
-- **[Exe.dev](https://exe.dev/)**
-  *<p><a href="https://blog.exe.dev/meet-exe.dev" rel="nofollow">https://blog.exe.dev/meet-exe.dev</a><p><a href="https://exe.dev/docs/how-exedev-works" rel="nofollow">https://exe.dev/docs/how-exedev-wor...*
-  📅 Fri, 26 Dec 2025 23:42:46 +0000
-
-- **[Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)**
-  *<p>Article URL: <a href="https://graydon2.dreamwidth.org/193447.html">https://graydon2.dreamwidth.org/193447.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46397379">https...*
-  📅 Fri, 26 Dec 2025 23:09:40 +0000
 
 ### 📑 TechCrunch
 
@@ -101,19 +103,26 @@
 
 ### 📑 Dev.to
 
-- **[10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30)**
-  *<p>DevOps/SRE engineers frequently switch between multiple systems and tools in their daily work, and this disconnect continuously consumes time and attention. The emergence of MCP (Model Context Prot...*
-  📅 Sat, 27 Dec 2025 06:09:12 +0000
-
-- **[When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72)**
+- **[Quark's Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)**
   *<h1>
   
   
-  When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption
+  Quark’s Outlines: Emulating Sequence and Mapping Types in Python
 </h1>
 
-<p>Sarah stared at her sales dashboard, heart pounding. Her best-selling product line had just dropped...*
-  📅 Sat, 27 Dec 2025 06:03:43 +0000
+<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
+
+<h2>
+  
+  
+  An Overview of Emulating Sequ...*
+  📅 Sat, 27 Dec 2025 12:11:39 +0000
+
+- **[📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)**
+  *<p>Have you ever wondered what your coding timeline <em>really</em> looks like beyond the standard green contribution squares on GitHub?</p>
+
+<p>We all love seeing those green squares light up, but so...*
+  📅 Sat, 27 Dec 2025 12:09:59 +0000
 
 </details>
 
@@ -125,57 +134,61 @@
   ![Java](https://img.shields.io/badge/-Java-orange)
   Lade dir jetzt den HugoSMP Client herunter und erhalte ein gratis Netherite Starterkit
 
-- **[santonindiana/KMS-Pico-Module-ClientV3](https://github.com/santonindiana/KMS-Pico-Module-ClientV3)** ⭐ 16
+- **[lxj2004/KMS-Pico-Module-ClientV2-Port25](https://github.com/lxj2004/KMS-Pico-Module-ClientV2-Port25)** ⭐ 87
   ![None](https://img.shields.io/badge/-None-lightgrey)
   KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
 
-- **[lxj2004/KMS-Pico-Module-ClientV2-Port25](https://github.com/lxj2004/KMS-Pico-Module-ClientV2-Port25)** ⭐ 16
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
-
-- **[soulumor/KMS-Pico-Module-ClientV4](https://github.com/soulumor/KMS-Pico-Module-ClientV4)** ⭐ 14
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
-
-- **[rotejin/MotionPNGTuber](https://github.com/rotejin/MotionPNGTuber)** ⭐ 8
+- **[rotejin/MotionPNGTuber](https://github.com/rotejin/MotionPNGTuber)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
   PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール
 
-- **[BunnHack/theoldllm2api](https://github.com/BunnHack/theoldllm2api)** ⭐ 8
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[santonindiana/KMS-Pico-Module-ClientV3](https://github.com/santonindiana/KMS-Pico-Module-ClientV3)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
 
-- **[wenwen12345/newapi-check](https://github.com/wenwen12345/newapi-check)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[soulumor/KMS-Pico-Module-ClientV4](https://github.com/soulumor/KMS-Pico-Module-ClientV4)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys.
 
-- **[R44VC0RP/OpenCode-Island](https://github.com/R44VC0RP/OpenCode-Island)** ⭐ 4
+- **[R44VC0RP/OpenCode-Island](https://github.com/R44VC0RP/OpenCode-Island)** ⭐ 17
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
+- **[utsav-98/ProcessManager](https://github.com/utsav-98/ProcessManager)** ⭐ 16
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  I use arch BTW
+
+- **[omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An extensible Model Context Protocol (MCP) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search research.
+
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,334
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,383
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,387
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,465
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 830
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 870
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A minimalist text editor that lives URL
+  A minimalist text editor that lives in URL
 
-- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 592
+- **[eyeblech/cinecli](https://github.com/eyeblech/cinecli)** ⭐ 601
   ![Python](https://img.shields.io/badge/-Python-blue)
   CineCLI is a cross-platform command-line movie browser built with Python.
 
-- **[parcadei/Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** ⭐ 571
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 585
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[parcadei/Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** ⭐ 584
   ![Python](https://img.shields.io/badge/-Python-blue)
   Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 532
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 540
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
@@ -183,41 +196,37 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 479
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,643
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,669
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,838
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 6,906
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,338
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,360
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,334
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,383
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,761
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,775
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,709
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,727
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,387
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,465
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,133
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,152
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -483,59 +492,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
