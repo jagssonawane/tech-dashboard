@@ -46,75 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)**
-  *<p>Article URL: <a href="https://langfuse.com/careers">https://langfuse.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46410449">https://news.ycombinator.com/item?i...*
-  📅 Sun, 28 Dec 2025 12:00:06 +0000
+- **[RustOCR – Now do OCR 5-10x faster than EasyOCR](https://crates.io/crates/rustocr)**
+  *<p>Article URL: <a href="https://crates.io/crates/rustocr">https://crates.io/crates/rustocr</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46412717">https://news.ycombinator.co...*
+  📅 Sun, 28 Dec 2025 17:31:37 +0000
 
-- **[Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)**
-  *<p>Article URL: <a href="https://substack.com/inbox/post/182743659">https://substack.com/inbox/post/182743659</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408988">https://n...*
-  📅 Sun, 28 Dec 2025 06:43:25 +0000
+- **[Deathbed Advice/Regret](https://hazn.com/deathbed-regret)**
+  *<p>Article URL: <a href="https://hazn.com/deathbed-regret">https://hazn.com/deathbed-regret</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46412578">https://news.ycombinator.co...*
+  📅 Sun, 28 Dec 2025 17:15:45 +0000
 
-- **[C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890">https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sun, 28 Dec 2025 06:42:53 +0000
+- **[A "Prime" View of HN](https://dosaygo-studio.github.io/prime-news/index.html)**
+  *<p>Article URL: <a href="https://dosaygo-studio.github.io/prime-news/index.html">https://dosaygo-studio.github.io/prime-news/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 28 Dec 2025 17:12:14 +0000
 
-- **[Calendar](https://neatnik.net/calendar/?year=2026)**
-  *<p>Article URL: <a href="https://neatnik.net/calendar/?year=2026">https://neatnik.net/calendar/?year=2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408613">https://news....*
-  📅 Sun, 28 Dec 2025 05:02:39 +0000
+- **[tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)**
+  *<p>Article URL: <a href="https://man7.org/linux/man-pages/man8/tc-ematch.8.html">https://man7.org/linux/man-pages/man8/tc-ematch.8.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 28 Dec 2025 16:43:14 +0000
 
-- **[Dialtone – AOL 3.0 Server](https://dialtone.live/)**
-  *<p>Article URL: <a href="https://dialtone.live/">https://dialtone.live/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408192">https://news.ycombinator.com/item?id=46408192</...*
-  📅 Sun, 28 Dec 2025 03:40:43 +0000
+- **[Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)**
+  *<p>Article URL: <a href="https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213">https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mar...*
+  📅 Sun, 28 Dec 2025 16:29:12 +0000
 
-- **[Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/">https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-pas...*
-  📅 Sun, 28 Dec 2025 01:33:10 +0000
+- **[Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2512.02080">https://arxiv.org/abs/2512.02080</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46411539">https://news.ycombinator.co...*
+  📅 Sun, 28 Dec 2025 15:02:07 +0000
 
 ### 📑 TechCrunch
 
-- **[Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)**
-  *Although the Apple Watch comes with simple built-in productivity apps like Reminders and Calendar, it’s worth exploring some third-party apps that are designed to boost productivity by offering additi...*
-  📅 Sun, 28 Dec 2025 02:00:00 +0000
+- **[Why WeTransfer co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/)**
+  *WeTransfer co-founder Nalden has a new file transfer service that users can use without logging in....*
+  📅 Sun, 28 Dec 2025 18:00:00 +0000
 
-- **[India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/)**
-  *Startup funding rounds in India fell sharply in 2025 as investors concentrated capital into fewer companies....*
-  📅 Sun, 28 Dec 2025 01:00:00 +0000
+- **[MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/)**
+  *Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that....*
+  📅 Sun, 28 Dec 2025 16:30:00 +0000
 
-- **[FaZe Clan’s future is uncertain after influencers depart](https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/)**
-  *Six influencers recently announced that they are leaving esports group FaZe Clan following unsuccessful contract negotiations with new management....*
-  📅 Sat, 27 Dec 2025 20:39:07 +0000
+- **[The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the health and wellness Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Sun, 28 Dec 2025 16:00:00 +0000
 
-- **[Trump administration seeks to deport hate speech researcher previously sued by X](https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/)**
-  *A federal judge has temporarily blocked the U.S. Department of State from arresting or deporting Imran Ahmed, CEO of the Center for Countering Digital Hate....*
-  📅 Sat, 27 Dec 2025 20:13:32 +0000
+- **[The Google Pixel Watch 4 made me like smartwatches again](https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/)**
+  *Google's Pixel Watch 4 is an excellent smartwatch with fast charging and great design....*
+  📅 Sun, 28 Dec 2025 16:00:00 +0000
 
-- **[Investors share what to remember while raising a Series A](https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/)**
-  *Investors share what founders should remember if looking to raise a Series A....*
-  📅 Sat, 27 Dec 2025 19:00:00 +0000
+- **[OpenAI is looking for a new Head of Preparedness](https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/)**
+  *OpenAI is looking to hire a new executive responsible for studying emerging AI-related risks in areas ranging from computer security to mental health....*
+  📅 Sun, 28 Dec 2025 15:08:19 +0000
 
-- **[Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)**
-  *For years, Access Now’s Digital Security Helpline has been aiding journalists and dissidents who have been targeted with government spyware. This is how they operate....*
-  📅 Sat, 27 Dec 2025 18:00:00 +0000
+- **[The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/)**
+  *Here is the full list of the fintech, real estate, and proptech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
+  📅 Sun, 28 Dec 2025 15:00:00 +0000
 
 ### 📑 Dev.to
 
-- **[AWS VPC PROJECT](https://dev.to/amandaigwe/aws-vpc-project-e4)**
-  *<p><strong>OVERVIEW OF THE AWS VPC PROJECT</strong></p>
+- **[Why "Just Coding" Won't Save You in 2026 (My Take on Akshay Saini's Advice)](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)**
+  *<p>I recently watched a video by <strong>Akshay Saini</strong> titled <em>"The Software Engineer Who Will WIN in 2026,"</em> and honestly, it hit home.</p>
 
-<ul>
-<li>
-<strong>The VPC (Your Private Network)</strong>
-A VPC is like your own private space on AWS. Nothing gets in or out unless you allow ...*
-  📅 Sun, 28 Dec 2025 12:05:23 +0000
+<p>As developers, we often get stuck in the...*
+  📅 Sun, 28 Dec 2025 17:57:50 +0000
 
-- **[Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)**
-  *<p>The numbers tell a story that should terrify any democratic institution still operating on twentieth-century timescales. ChatGPT reached 100 million users faster than any technology in human histor...*
-  📅 Sun, 28 Dec 2025 12:00:00 +0000
+- **[Ethereum-Solidity Quiz Q7: What is the "solc optimizer" in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)**
+  *<p>The <strong>solc optimizer</strong> is built in the Solidity compiler and is used to reduce gas costs by optimizing the compiled bytecode. It analyzes code and makes optimizations like removing dea...*
+  📅 Sun, 28 Dec 2025 17:53:47 +0000
 
 </details>
 
@@ -122,61 +119,61 @@ A VPC is like your own private space on AWS. Nothing gets in or out unless you a
 
 ### 📈 Daily Trending
 
-- **[jvdillon/netv](https://github.com/jvdillon/netv)** ⭐ 55
+- **[jvdillon/netv](https://github.com/jvdillon/netv)** ⭐ 79
   ![Python](https://img.shields.io/badge/-Python-blue)
   neTV - IPTV for your Browser
 
-- **[chunxiuxiamo/ai-image-edit](https://github.com/chunxiuxiamo/ai-image-edit)** ⭐ 40
+- **[zhuokaizhao/academia_cv_template](https://github.com/zhuokaizhao/academia_cv_template)** ⭐ 59
+  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
+  None
+
+- **[DodoraApp/DodoStream](https://github.com/DodoraApp/DodoStream)** ⭐ 56
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Streaming evolved.
+
+- **[chunxiuxiamo/ai-image-edit](https://github.com/chunxiuxiamo/ai-image-edit)** ⭐ 47
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI图片生成编辑网站，可以框选图片局部区域进行编辑修改。
 
-- **[zhuokaizhao/academia_cv_template](https://github.com/zhuokaizhao/academia_cv_template)** ⭐ 18
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  None
+- **[Inselbergaeda689/Phantom-Fake-Balance](https://github.com/Inselbergaeda689/Phantom-Fake-Balance)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Phantom Fake Balance Generator - Simulate SOL balances in Phantom wallet for testing. Generate temporary Phantom wallet displays with customizable SOL amounts for dApp development.
 
 - **[XabUG7/Book-recommendation-System](https://github.com/XabUG7/Book-recommendation-System)** ⭐ 17
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Book recommendation system using collaborative filtering
 
-- **[yeahhe365/Gemini-Live-TTS](https://github.com/yeahhe365/Gemini-Live-TTS)** ⭐ 13
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[minouou/JSBooks](https://github.com/minouou/JSBooks)** ⭐ 8
+- **[minouou/JSBooks](https://github.com/minouou/JSBooks)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Curated List of Best Javascript Books
 
-- **[fish2018/FeiSync](https://github.com/fish2018/FeiSync)** ⭐ 7
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  基于lark/飞书的网盘客户端，可免费无限扩容，每个账号免费扩容100G
-
-- **[ethological/jnt](https://github.com/ethological/jnt)** ⭐ 6
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  1 year and 3 months of dedicated work done by me, dramatically, richy, faceless, and others.
+- **[aoisora77/EC-automation](https://github.com/aoisora77/EC-automation)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,498
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,537
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 966
+- **[antonmedv/textarea](https://github.com/antonmedv/textarea)** ⭐ 1,001
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A minimalist text editor that lives in URL
 
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 745
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 775
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 709
+- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 729
   ![Python](https://img.shields.io/badge/-Python-blue)
   Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
-- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 558
+- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 622
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   THE MISSING BULK APP INSTALLER FOR LINUX
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 549
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 553
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
@@ -184,41 +181,41 @@ A VPC is like your own private space on AWS. Nothing gets in or out unless you a
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 438
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 447
   ![Python](https://img.shields.io/badge/-Python-blue)
   A simple tool for reading in poorly redacted documents and reproducing their origional form
 
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,766
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,796
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 7,100
+- **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** ⭐ 7,143
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,882
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,498
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,537
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,848
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,856
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,820
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,850
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,751
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,842
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,473
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,521
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -484,21 +481,21 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -506,17 +503,17 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
@@ -525,8 +522,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
@@ -534,9 +531,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
