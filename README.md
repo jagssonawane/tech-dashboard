@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: My app just won best iOS Japanese learning tool of 2025 award](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)**
+- **[Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)**
+  *<p>Article URL: <a href="https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898">https://forum.torproject.org/t/staying-ahe...*
+  📅 Mon, 29 Dec 2025 05:47:40 +0000
+
+- **[John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cj4qp17e1lqo">https://www.bbc.com/news/articles/cj4qp17e1lqo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417724"...*
+  📅 Mon, 29 Dec 2025 05:21:06 +0000
+
+- **[Why I think Valve’s retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)**
+  *<p>Article URL: <a href="https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/">https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 29 Dec 2025 03:44:12 +0000
+
+- **[Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/rf-over-fiber">https://spectrum.ieee.org/rf-over-fiber</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417227">https://news....*
+  📅 Mon, 29 Dec 2025 03:39:42 +0000
+
+- **[You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)**
+  *<p>Article URL: <a href="https://maurycyz.com/misc/make-up-tags/">https://maurycyz.com/misc/make-up-tags/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46416945">https://news....*
+  📅 Mon, 29 Dec 2025 02:47:44 +0000
+
+- **[Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)**
   *<p>Article URL: <a href="https://skerritt.blog/best-japanese-learning-tools-2025-award-show/">https://skerritt.blog/best-japanese-learning-tools-2025-award-show/</a></p>
 <p>Comments URL: <a href="http...*
   📅 Mon, 29 Dec 2025 00:01:26 +0000
 
-- **[Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)**
-  *<p>Article URL: <a href="https://github.com/halidecx/fcvvdp">https://github.com/halidecx/fcvvdp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46415570">https://news.ycombinato...*
-  📅 Sun, 28 Dec 2025 23:30:10 +0000
-
-- **[How to Complain](https://outerproduct.net/trivial/2024-03-25_complain.html)**
-  *<p>Article URL: <a href="https://outerproduct.net/trivial/2024-03-25_complain.html">https://outerproduct.net/trivial/2024-03-25_complain.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 28 Dec 2025 23:23:21 +0000
-
-- **[CEOs are hugely expensive. Why not automate them?](https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots)**
-  *<p>Article URL: <a href="https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots">https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensiv...*
-  📅 Sun, 28 Dec 2025 23:17:07 +0000
-
-- **[Spherical Cow](https://lib.rs/crates/spherical-cow)**
-  *<p>Article URL: <a href="https://lib.rs/crates/spherical-cow">https://lib.rs/crates/spherical-cow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46415458">https://news.ycombina...*
-  📅 Sun, 28 Dec 2025 23:11:50 +0000
-
-- **[Slaughtering Competition Problems with Quantifier Elimination](https://grossack.site/2021/12/22/qe-competition.html)**
-  *<p>Article URL: <a href="https://grossack.site/2021/12/22/qe-competition.html">https://grossack.site/2021/12/22/qe-competition.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sun, 28 Dec 2025 23:10:13 +0000
-
 ### 📑 TechCrunch
+
+- **[Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/)**
+  *Sauron is appearing on the scene as concerns rise about crime among the most wealthy....*
+  📅 Mon, 29 Dec 2025 02:20:00 +0000
 
 - **[Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok](https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/)**
   *Local police said they have charged an Illinois driver who struck and killed a pedestrian while she was livestreaming on TikTok....*
@@ -97,23 +101,21 @@
   *Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that....*
   📅 Sun, 28 Dec 2025 16:30:00 +0000
 
-- **[The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/)**
-  *Here is the full list of the health and wellness Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
-  📅 Sun, 28 Dec 2025 16:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Systems, Stories, and Skills: A 2025 Year in Review](https://dev.to/prince_of_pasta/systems-stories-and-skills-a-2025-year-in-review-3jln)**
-  *<p>After a four-year hiatus, 2025 was the year I finally returned to consistent blogging. It was a year defined by transition, both for the industry and for my own career. In late 2024, I stepped into...*
-  📅 Mon, 29 Dec 2025 00:46:13 +0000
+- **[Accidental Research at 15: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii)**
+  *<p>In 2023, it was my college vacation. Me and my friend planned to make a platform for <strong>graphics designers</strong> so that they could show their portfolios. We were coding; we were too young,...*
+  📅 Mon, 29 Dec 2025 06:14:13 +0000
 
-- **[Why push and pop Feel Natural and shift Does Not](https://dev.to/intelgreatnez/why-push-and-pop-feel-natural-and-shift-does-not-8d3)**
-  *<p><strong>What JavaScript arrays quietly optimise for</strong></p>
+- **[A Paper-Style Online Reader: No App, No Login, No Cloud](https://dev.to/techno_kraft_in/a-paper-style-online-reader-no-app-no-login-no-cloud-dkd)**
+  *<h2>
+  
+  
+  Read Like It’s Paper: A Private, Browser-Based Reading Tool
+</h2>
 
-<p>When I first started working with JavaScript arrays, <code>push</code> and <code>pop</code> felt immediately intuitive.</p>
-
-<p>...*
-  📅 Mon, 29 Dec 2025 00:41:50 +0000
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%...*
+  📅 Mon, 29 Dec 2025 06:14:05 +0000
 
 </details>
 
@@ -121,105 +123,105 @@
 
 ### 📈 Daily Trending
 
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 126
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
+
+- **[ingriddaleusag-dotcom/PeekPiliRelease](https://github.com/ingriddaleusag-dotcom/PeekPiliRelease)** ⭐ 32
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Nielsen642/Crypto_MCP_Server](https://github.com/Nielsen642/Crypto_MCP_Server)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Crypto MCP Server is a Model Context Protocol (MCP) compatible server that provides real-time and historical cryptocurrency market data using ccxt
+
+- **[simonw/skills](https://github.com/simonw/skills)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Skills for coding agents
+
+- **[codelancera-offical/TrackNetV5-SDK](https://github.com/codelancera-offical/TrackNetV5-SDK)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Official implementation of TrackNetV5
+
+- **[dovvnloading/Nexus-DJ](https://github.com/dovvnloading/Nexus-DJ)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  NEXUS-DJ is a professional-grade, browser-based DJ controller interface engineered with React 19 and the Web Audio API. It replicates the functionality of physical pioneer-standard hardware, featuring a low-latency audio engine, real-time DSP effects, beat synchronization algorithms, and a 16-step trance gate sequencer.
+
 - **[renatogroffe/containers-kubernetes-roadmap-2026](https://github.com/renatogroffe/containers-kubernetes-roadmap-2026)** ⭐ 3
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnologias cloud native.
 
-- **[orionflynn/stack-calculator](https://github.com/orionflynn/stack-calculator)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[orionflynn/Course-manager](https://github.com/orionflynn/Course-manager)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[BackendExpert/otp-core-email-core](https://github.com/BackendExpert/otp-core-email-core)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  core otp and email reusable npm
-
-- **[SaptakBhoumik/Tick](https://github.com/SaptakBhoumik/Tick)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[orionflynn/library-sorting](https://github.com/orionflynn/library-sorting)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  None
-
-- **[orionflynn/350_lab7-ALU-sign_extender](https://github.com/orionflynn/350_lab7-ALU-sign_extender)** ⭐ 1
-  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
-  None
-
-- **[orionflynn/350_lab6-half_adder-2_1_mux](https://github.com/orionflynn/350_lab6-half_adder-2_1_mux)** ⭐ 1
-  ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey)
-  None
+- **[a-dreaming-alpaca/Cross-domain-survival](https://github.com/a-dreaming-alpaca/Cross-domain-survival)** ⭐ 3
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  程序设计课程的大作业，移动到github上，大致内容类似于挺进地牢
 
 ### 📈 Weekly Trending
 
-- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 801
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
-
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 780
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 666
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  THE MISSING BULK APP INSTALLER FOR LINUX
-
-- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 587
+- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 859
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 554
+- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 844
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 795
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 708
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  THE MISSING BULK APP INSTALLER FOR LINUX
+
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 558
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
-- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 453
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A simple tool for reading in poorly redacted documents and reproducing their origional form
-
-- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 435
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
-
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 369
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 462
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
+- **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 456
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A simple tool for reading in poorly redacted documents and reproducing their origional form
+
+- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 446
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
+
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,807
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,854
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,945
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,987
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,574
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,624
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 3,897
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 4,016
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,011
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,866
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous multi-session AI coding
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,866
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,885
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,588
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,883
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous multi-session AI coding
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,650
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 3,439
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
 
 ## 🚀 Latest Releases
 
@@ -483,10 +485,10 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -494,48 +496,48 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
