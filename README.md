@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
+- **[Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)**
+  *<p>Article URL: <a href="https://interlaye.red/kubernetes_002degress_002dsquid.html">https://interlaye.red/kubernetes_002degress_002dsquid.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 29 Dec 2025 11:33:46 +0000
+
+- **[Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)**
+  *<p>Article URL: <a href="https://thehugheslectures.info/the-lectures/">https://thehugheslectures.info/the-lectures/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46419273">htt...*
+  📅 Mon, 29 Dec 2025 10:43:29 +0000
+
+- **[Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)**
+  *<p>Article URL: <a href="https://teodordyakov.github.io/brainfuck-agi/">https://teodordyakov.github.io/brainfuck-agi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46418966">h...*
+  📅 Mon, 29 Dec 2025 09:40:09 +0000
+
 - **[Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)**
   *<p>Article URL: <a href="https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898">https://forum.torproject.org/t/staying-ahe...*
   📅 Mon, 29 Dec 2025 05:47:40 +0000
 
-- **[John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cj4qp17e1lqo">https://www.bbc.com/news/articles/cj4qp17e1lqo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417724"...*
-  📅 Mon, 29 Dec 2025 05:21:06 +0000
+- **[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)**
+  *<p>How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays.<p>Z80-μLM is a character-level language model with 2-bit quant...*
+  📅 Mon, 29 Dec 2025 05:41:24 +0000
 
-- **[Why I think Valve’s retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)**
-  *<p>Article URL: <a href="https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/">https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Mon, 29 Dec 2025 03:44:12 +0000
-
-- **[Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/rf-over-fiber">https://spectrum.ieee.org/rf-over-fiber</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417227">https://news....*
-  📅 Mon, 29 Dec 2025 03:39:42 +0000
-
-- **[You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)**
-  *<p>Article URL: <a href="https://maurycyz.com/misc/make-up-tags/">https://maurycyz.com/misc/make-up-tags/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46416945">https://news....*
-  📅 Mon, 29 Dec 2025 02:47:44 +0000
-
-- **[Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)**
-  *<p>Article URL: <a href="https://skerritt.blog/best-japanese-learning-tools-2025-award-show/">https://skerritt.blog/best-japanese-learning-tools-2025-award-show/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Mon, 29 Dec 2025 00:01:26 +0000
+- **[Binaries](https://fzakaria.com/2025/12/28/huge-binaries)**
+  *<p>Article URL: <a href="https://fzakaria.com/2025/12/28/huge-binaries">https://fzakaria.com/2025/12/28/huge-binaries</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417791">h...*
+  📅 Mon, 29 Dec 2025 05:35:17 +0000
 
 ### 📑 TechCrunch
+
+- **[You’ve been targeted by government spyware. Now what?](https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/)**
+  *Tech companies are increasingly warning their customers that they have been targeted by governments with advanced government spyware, such as NSO's Pegasus or Paragon's Graphite. What happens after re...*
+  📅 Mon, 29 Dec 2025 10:00:00 +0000
 
 - **[Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/)**
   *Sauron is appearing on the scene as concerns rise about crime among the most wealthy....*
@@ -97,25 +100,26 @@
   *WeTransfer co-founder Nalden has a new file transfer service that users can use without logging in....*
   📅 Sun, 28 Dec 2025 18:00:00 +0000
 
-- **[MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/)**
-  *Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that....*
-  📅 Sun, 28 Dec 2025 16:30:00 +0000
-
 ### 📑 Dev.to
 
-- **[Accidental Research at 15: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii)**
-  *<p>In 2023, it was my college vacation. Me and my friend planned to make a platform for <strong>graphics designers</strong> so that they could show their portfolios. We were coding; we were too young,...*
-  📅 Mon, 29 Dec 2025 06:14:13 +0000
-
-- **[A Paper-Style Online Reader: No App, No Login, No Cloud](https://dev.to/techno_kraft_in/a-paper-style-online-reader-no-app-no-login-no-cloud-dkd)**
+- **[From Client Request to 24 .NET Microservices: My Solo Migration Journey](https://dev.to/__2131e9e/from-client-request-to-24-net-microservices-my-solo-migration-journey-7ah)**
   *<h2>
   
   
-  Read Like It’s Paper: A Private, Browser-Based Reading Tool
+  Backstory: the client's request
 </h2>
 
-<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%...*
-  📅 Mon, 29 Dec 2025 06:14:05 +0000
+<p>It all started with a fairly typical client request:</p>
+
+<blockquote>
+<p><em>"I have a MySQL database with tables and data in Excel. I want a ro...*
+  📅 Mon, 29 Dec 2025 12:23:09 +0000
+
+- **[Becoming a Senior Full-Stack Developer: What Actually Changed for Me](https://dev.to/gerald_9594/becoming-a-senior-full-stack-developer-what-actually-changed-for-me-59k0)**
+  *<p>Today, I officially stepped into a Senior Full-Stack Software Developer role.</p>
+
+<p>If I’m honest, the title itself didn’t feel like a sudden transformation. There was no moment where I “became s...*
+  📅 Mon, 29 Dec 2025 12:22:27 +0000
 
 </details>
 
@@ -123,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 126
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 265
   ![None](https://img.shields.io/badge/-None-lightgrey)
   这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
 
-- **[ingriddaleusag-dotcom/PeekPiliRelease](https://github.com/ingriddaleusag-dotcom/PeekPiliRelease)** ⭐ 32
+- **[ingriddaleusag-dotcom/PeekPiliRelease](https://github.com/ingriddaleusag-dotcom/PeekPiliRelease)** ⭐ 42
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Nielsen642/Crypto_MCP_Server](https://github.com/Nielsen642/Crypto_MCP_Server)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Crypto MCP Server is a Model Context Protocol (MCP) compatible server that provides real-time and historical cryptocurrency market data using ccxt
+- **[iSEE-Laboratory/ProEdit](https://github.com/iSEE-Laboratory/ProEdit)** ⭐ 22
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[simonw/skills](https://github.com/simonw/skills)** ⭐ 6
+- **[simonw/skills](https://github.com/simonw/skills)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Skills for coding agents
 
-- **[codelancera-offical/TrackNetV5-SDK](https://github.com/codelancera-offical/TrackNetV5-SDK)** ⭐ 4
+- **[shellus/cc-models](https://github.com/shellus/cc-models)** ⭐ 13
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Official implementation of TrackNetV5
+  None
 
-- **[dovvnloading/Nexus-DJ](https://github.com/dovvnloading/Nexus-DJ)** ⭐ 4
+- **[Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash attention implementation
+
+- **[caigq99/bookmark-sync-extension](https://github.com/caigq99/bookmark-sync-extension)** ⭐ 12
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  NEXUS-DJ is a professional-grade, browser-based DJ controller interface engineered with React 19 and the Web Audio API. It replicates the functionality of physical pioneer-standard hardware, featuring a low-latency audio engine, real-time DSP effects, beat synchronization algorithms, and a 16-step trance gate sequencer.
+  Bookmark syncing tool, cross-browser bookmark syncing, supports WebDAV cloud storage
 
-- **[renatogroffe/containers-kubernetes-roadmap-2026](https://github.com/renatogroffe/containers-kubernetes-roadmap-2026)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnologias cloud native.
-
-- **[a-dreaming-alpaca/Cross-domain-survival](https://github.com/a-dreaming-alpaca/Cross-domain-survival)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  程序设计课程的大作业，移动到github上，大致内容类似于挺进地牢
+- **[wujiit/qiling](https://github.com/wujiit/qiling)** ⭐ 9
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  Wordpress开源中文企业主题
 
 ### 📈 Weekly Trending
 
-- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 859
+- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 1,008
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
-- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 844
+- **[parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2)** ⭐ 882
   ![Python](https://img.shields.io/badge/-Python-blue)
   Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 795
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 801
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 708
+- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 741
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   THE MISSING BULK APP INSTALLER FOR LINUX
 
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 558
+- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 566
   ![Go](https://img.shields.io/badge/-Go-cyan)
   OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
 
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 462
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 539
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
+
+- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 458
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
 
 - **[leedrake5/unredact](https://github.com/leedrake5/unredact)** ⭐ 456
   ![Python](https://img.shields.io/badge/-Python-blue)
   A simple tool for reading in poorly redacted documents and reproducing their origional form
 
-- **[FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** ⭐ 446
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
-
 ### 📈 Monthly Trending
 
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,854
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 19,920
   ![Python](https://img.shields.io/badge/-Python-blue)
   An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 5,987
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,026
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,624
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 4,016
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 4,899
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,011
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,678
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,127
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,885
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,883
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 3,916
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous multi-session AI coding
 
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,650
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 3,899
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 3,754
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 
@@ -485,9 +489,9 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
 | Go | ⚪ Planned |
 
@@ -495,49 +499,49 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
