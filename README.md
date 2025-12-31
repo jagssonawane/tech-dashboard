@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,19 +46,25 @@
 
 ### 📑 Hacker News
 
-- **[Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)**
-  *<p>Article URL: <a href="https://www.benedelman.org/honey-detecting-testers/">https://www.benedelman.org/honey-detecting-testers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 30 Dec 2025 23:21:50 +0000
+- **[Google Opal](https://opal.google/landing/)**
+  *<p>Article URL: <a href="https://opal.google/landing/">https://opal.google/landing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46441068">https://news.ycombinator.com/item?i...*
+  📅 Wed, 31 Dec 2025 03:49:58 +0000
 
-- **[Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)**
-  *<p>Article URL: <a href="https://codecrafters.io/blog/programming-project-ideas">https://codecrafters.io/blog/programming-project-ideas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 30 Dec 2025 22:47:36 +0000
+- **[LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)**
+  *<p>Article URL: <a href="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159">https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159</a></p>
+<p>Comments ...*
+  📅 Wed, 31 Dec 2025 03:06:07 +0000
 
-- **[NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)**
-  *<p>Article URL: <a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/">https://blog.adafruit.com/2025/12/30/nyc-mayoral-inaugu...*
-  📅 Tue, 30 Dec 2025 22:28:16 +0000
+- **[L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)**
+  *<p>Article URL: <a href="https://github.com/ThijsRay/l1tf_reloaded">https://github.com/ThijsRay/l1tf_reloaded</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46440695">https://n...*
+  📅 Wed, 31 Dec 2025 02:33:50 +0000
+
+- **[Readings in Database Systems (5th Edition)](http://www.redbook.io/)**
+  *<p>Article URL: <a href="http://www.redbook.io/">http://www.redbook.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46440510">https://news.ycombinator.com/item?id=46440510</...*
+  📅 Wed, 31 Dec 2025 02:01:53 +0000
 
 - **[Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)**
   *<p>Article URL: <a href="https://vptdigital.com/blog/honey-detecting-testers/">https://vptdigital.com/blog/honey-detecting-testers/</a></p>
@@ -69,11 +75,11 @@
   *<p>Article URL: <a href="https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026">https://www.economist.com/leaders/2025/12/30/openais-cash-burn-...*
   📅 Tue, 30 Dec 2025 21:44:07 +0000
 
-- **[U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10...*
-  📅 Tue, 30 Dec 2025 21:31:00 +0000
-
 ### 📑 TechCrunch
+
+- **[The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)**
+  *"We're not going to be using iPhones in 10 years," Callaghan says flatly. "I kind of don't think we'll be using them in five years."...*
+  📅 Wed, 31 Dec 2025 05:37:03 +0000
 
 - **[Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/)**
   *According to Dealroom’s European Spinout Report 2025, 76 European deep tech and life sciences spinouts have either reached $1 billion valuations, $100 million in revenue, or both....*
@@ -95,25 +101,136 @@
   *Here is the full list of the consumer/edtech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition....*
   📅 Tue, 30 Dec 2025 15:00:00 +0000
 
-- **[Here’s what you should know about the US TikTok deal](https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/)**
-  *A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion....*
-  📅 Tue, 30 Dec 2025 14:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[How to Fetch Real-Time News in Python (3 Practical Examples)](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)**
-  *<p>Whether you're building a news aggregator, a trading bot that reacts to headlines, or just want to add a news feed to your app - fetching real-time news in Python is surprisingly simple.</p>
+- **[How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)**
+  *<h1>
+  
+  
+  Duolingo-Style Rive Mascots for App Onboarding
+</h1>
 
-<p>In...*
-  📅 Wed, 31 Dec 2025 00:34:14 +0000
+<h2>
+  
+  
+  Where and How Developers Can Use Mascot Animations Effectively
+</h2>
 
-- **[🧠_Deep_Dive_Memory_Management_Performance[20251231003157]](https://dev.to/member_6331818c/deepdivememorymanagementperformance20251231003157-13hp)**
-  *<p>As an engineer who has experienced countless performance tuning cases, I deeply understand how much memory management affects web application performance. In a recent project, we encountered a tric...*
-  📅 Wed, 31 Dec 2025 00:31:58 +0000
+<p>Duolingo’s animated characters are one of the b...*
+  📅 Wed, 31 Dec 2025 06:14:40 +0000
+
+- **[StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)**
+  *<p>JSON is everywhere — APIs, configs, logs, exports, payloads, diffs.<br />
+If you build software, you already spend a non-trivial part of your life working with it.</p>
+
+<p>Most JSON tools fall into...*
+  📅 Wed, 31 Dec 2025 06:14:37 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** ⭐ 36
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude-Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, track medical records, and access professional multidisciplinary consultation analysis—making health management smarter and more accessible
+
+- **[hieutran-12/TTDN-16-02-N9](https://github.com/hieutran-12/TTDN-16-02-N9)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 9 - Lớp CNTT 16-02 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+- **[VnhPhn/TTDN-16-02-N4](https://github.com/VnhPhn/TTDN-16-02-N4)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 4 - Lớp CNTT 16-02 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+- **[MinnKaa/TTDN-16-02-N7](https://github.com/MinnKaa/TTDN-16-02-N7)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 7 - Lớp CNTT 16-02 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+- **[sanabriagonzalo410-stack/Photoshop-cc-unlocker](https://github.com/sanabriagonzalo410-stack/Photoshop-cc-unlocker)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Free Adobe software
+
+- **[q317277/Photoshop-cc-unlocker](https://github.com/q317277/Photoshop-cc-unlocker)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Free Adobe software
+
+- **[DucLong1206/TTDN-16-02-N12](https://github.com/DucLong1206/TTDN-16-02-N12)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 12 - Lớp CNTT 16-02 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+- **[nvtan208/TTDN-16-02-N10](https://github.com/nvtan208/TTDN-16-02-N10)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bài tập lớn học phần Thực tập doanh nghiệp - Nhóm 10 - Lớp CNTT 16-02 - Khoa Công nghệ thông tin - Đại học Đại Nam
+
+### 📈 Weekly Trending
+
+- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 819
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 749
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 716
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 693
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Illegal rust
+
+- **[liuxiaomingskm/datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** ⭐ 649
+  ![MDX](https://img.shields.io/badge/-MDX-lightgrey)
+  a lightweight tool to protect privacy/user data in Internet
+
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 626
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Beautiful map components. 100% Free, Zero config, one command setup.
+
+- **[op7418/guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** ⭐ 559
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）
+
+- **[technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv)** ⭐ 502
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,196
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,420
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,224
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,823
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,744
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,180
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,169
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,054
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Autonomous multi-session AI coding
 
 ## 🚀 Latest Releases
 
@@ -378,58 +495,58 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
