@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 30, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December 31, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)**
-  *<p>Article URL: <a href="https://github.com/torokernel/torokernel">https://github.com/torokernel/torokernel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46435418">https://new...*
-  📅 Tue, 30 Dec 2025 17:09:57 +0000
+- **[Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)**
+  *<p>Article URL: <a href="https://www.benedelman.org/honey-detecting-testers/">https://www.benedelman.org/honey-detecting-testers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Tue, 30 Dec 2025 23:21:50 +0000
 
-- **[Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)**
-  *<p>Many people talk about vibe-coding and about the different ways to use this development "methodology" successfully. I wonder though if anyone really managed to push to production anything that has ...*
-  📅 Tue, 30 Dec 2025 16:18:23 +0000
+- **[Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)**
+  *<p>Article URL: <a href="https://codecrafters.io/blog/programming-project-ideas">https://codecrafters.io/blog/programming-project-ideas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Tue, 30 Dec 2025 22:47:36 +0000
 
-- **[Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)**
-  *<p>Hi HN —<p>Tidy Baby is a new game made by me and Wyna Liu (of NYT Connections!) that is inspired by the legendary card-based game SET that we assume many of you love (we too love SET).<p>In SET, yo...*
-  📅 Tue, 30 Dec 2025 15:57:01 +0000
+- **[NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)**
+  *<p>Article URL: <a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/">https://blog.adafruit.com/2025/12/30/nyc-mayoral-inaugu...*
+  📅 Tue, 30 Dec 2025 22:28:16 +0000
 
-- **[What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)**
-  *<p>Article URL: <a href="https://dfarq.homeip.net/what-happened-to-abit-motherboards/">https://dfarq.homeip.net/what-happened-to-abit-motherboards/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Tue, 30 Dec 2025 14:58:18 +0000
+- **[Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)**
+  *<p>Article URL: <a href="https://vptdigital.com/blog/honey-detecting-testers/">https://vptdigital.com/blog/honey-detecting-testers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Tue, 30 Dec 2025 21:59:35 +0000
 
-- **[Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)**
-  *<p>Article URL: <a href="https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497">https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497</a></p>
-<p>Comments URL: <a href="...*
-  📅 Tue, 30 Dec 2025 14:31:34 +0000
+- **[OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)**
+  *<p>Article URL: <a href="https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026">https://www.economist.com/leaders/2025/12/30/openais-cash-burn-...*
+  📅 Tue, 30 Dec 2025 21:44:07 +0000
 
-- **[Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V](https://mwilczynski.dev/posts/riscv-gpu-zink/)**
-  *<p>Article URL: <a href="https://mwilczynski.dev/posts/riscv-gpu-zink/">https://mwilczynski.dev/posts/riscv-gpu-zink/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46433352">h...*
-  📅 Tue, 30 Dec 2025 13:55:59 +0000
+- **[U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10...*
+  📅 Tue, 30 Dec 2025 21:31:00 +0000
 
 ### 📑 TechCrunch
 
@@ -81,7 +80,7 @@
   📅 Tue, 30 Dec 2025 18:00:00 +0000
 
 - **[12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/)**
-  *After a tumultuous year, venture investors are still optimistic about climate tech's long term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materi...*
+  *After a tumultuous year, venture investors are still optimistic about climate tech's long-term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materi...*
   📅 Tue, 30 Dec 2025 17:00:00 +0000
 
 - **[The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/)**
@@ -102,139 +101,19 @@
 
 ### 📑 Dev.to
 
-- **[Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa)**
-  *<h3>
-  
-  
-  Deep Graph Library — Faster, lighter tools for learning from networks
-</h3>
+- **[How to Fetch Real-Time News in Python (3 Practical Examples)](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)**
+  *<p>Whether you're building a news aggregator, a trading bot that reacts to headlines, or just want to add a news feed to your app - fetching real-time news in Python is surprisingly simple.</p>
 
-<p>Imagine a toolbox that helps computers learn from webs of connections, like social ties or chemical links.<...*
-  📅 Tue, 30 Dec 2025 18:10:10 +0000
+<p>In...*
+  📅 Wed, 31 Dec 2025 00:34:14 +0000
 
-- **[Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe)**
-  *<div class="table-wrapper-paragraph"><table>
-<thead>
-<tr>
-<th></th>
-<th>Nội dung</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tên</td>
-<td>Simple Blind SQL Injection</td>
-</tr>
-<tr>
-<td>Mô tả</td>
-<td>Khai th...*
-  📅 Tue, 30 Dec 2025 18:10:08 +0000
+- **[🧠_Deep_Dive_Memory_Management_Performance[20251231003157]](https://dev.to/member_6331818c/deepdivememorymanagementperformance20251231003157-13hp)**
+  *<p>As an engineer who has experienced countless performance tuning cases, I deeply understand how much memory management affects web application performance. In a recent project, we encountered a tric...*
+  📅 Wed, 31 Dec 2025 00:31:58 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Dimillian/Skills](https://github.com/Dimillian/Skills)** ⭐ 97
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  My Codex Skills
-
-- **[tripleyak/skillcreator](https://github.com/tripleyak/skillcreator)** ⭐ 94
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The ultimate meta-skill for generating best-in-class Claude Code skills.
-
-- **[lopatinzucelys/ipstresser-ipbooter-2026](https://github.com/lopatinzucelys/ipstresser-ipbooter-2026)** ⭐ 86
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  BEST L4/L7 https://cnc-stress.com 2026
-
-- **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** ⭐ 79
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Open-source email observability for AWS SES
-
-- **[eztg/GPT_Sheerid_Auto](https://github.com/eztg/GPT_Sheerid_Auto)** ⭐ 48
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  自动验证工具 - 支持 TLS 指纹模拟、代理轮换、邮箱自动收取验证码
-
-- **[golbin/gw](https://github.com/golbin/gw)** ⭐ 40
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop)** ⭐ 21
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Linux DO Credit Virtual Goods Shop - Serverless on Cloudflare Workers
-
-- **[ircfspace/encodify](https://github.com/ircfspace/encodify)** ⭐ 21
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  یک ابزار تحت وب مناسب ارسال امن‌تر در شرایط شنود یا محدودیت پیامکی، که متن، لینک و کانفیگ‌ها را با کلید اختیاری به کلمات فارسی خوانا تبدیل نموده و امکان بازگردانی مجدد آن‌را فراهم می‌کند.
-
-### 📈 Weekly Trending
-
-- **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)** ⭐ 1,391
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-- **[abusoww/tuxmate](https://github.com/abusoww/tuxmate)** ⭐ 828
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  THE MISSING BULK APP INSTALLER FOR LINUX
-
-- **[ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** ⭐ 818
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed)** ⭐ 717
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[liuxiaomingskm/datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** ⭐ 639
-  ![MDX](https://img.shields.io/badge/-MDX-lightgrey)
-  a lightweight tool to protect privacy/user data in Internet
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 631
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** ⭐ 607
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
-
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 582
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Beautiful map components. 100% Free, Zero config, one command setup.
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,132
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 7,212
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,183
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,793
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 4,614
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** ⭐ 4,088
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,026
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** ⭐ 4,013
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Autonomous multi-session AI coding
 
 ## 🚀 Latest Releases
 
@@ -498,59 +377,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -568,7 +447,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** December 30, 2025
+**Last Updated:** December 31, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
