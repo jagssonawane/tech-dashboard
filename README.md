@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,34 @@
 
 ### 📑 Hacker News
 
+- **[IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)**
+  *<p>Article URL: <a href="https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf">https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Tec...*
+  📅 Sat, 03 Jan 2026 04:01:03 +0000
+
+- **[Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)**
+  *<p>Article URL: <a href="https://bluerenga.blog/2026/01/01/adventure-751-1980/">https://bluerenga.blog/2026/01/01/adventure-751-1980/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 03 Jan 2026 02:38:06 +0000
+
+- **[Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html">https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Sat, 03 Jan 2026 01:29:09 +0000
+
+- **[A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)**
+  *<p>Article URL: <a href="https://nullprogram.com/blog/2015/03/19/">https://nullprogram.com/blog/2015/03/19/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46471712">https://new...*
+  📅 Sat, 03 Jan 2026 01:18:07 +0000
+
+- **[Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)**
+  *<p>Article URL: <a href="https://roscidus.com/blog/blog/2026/01/01/tla-liveness/">https://roscidus.com/blog/blog/2026/01/01/tla-liveness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 03 Jan 2026 01:15:54 +0000
+
 - **[2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)**
   *<p>Article URL: <a href="https://xeiaso.net/notes/2026/year-linux-desktop/">https://xeiaso.net/notes/2026/year-linux-desktop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=464...*
   📅 Sat, 03 Jan 2026 00:15:47 +0000
-
-- **[NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)**
-  *<p>Article URL: <a href="https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/">https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/</a></p>
-<p>C...*
-  📅 Fri, 02 Jan 2026 23:01:10 +0000
-
-- **[Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)**
-  *<p>Article URL: <a href="https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/">https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/</a></p>
-<p>Comments UR...*
-  📅 Fri, 02 Jan 2026 21:44:41 +0000
-
-- **[Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)**
-  *<p>Article URL: <a href="http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/">http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Fri, 02 Jan 2026 21:31:34 +0000
-
-- **[Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)**
-  *<p>Article URL: <a href="https://www.madebywindmill.com/tempi/blog/hbfs-bpm/">https://www.madebywindmill.com/tempi/blog/hbfs-bpm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 02 Jan 2026 21:27:44 +0000
-
-- **[Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE)**
-  *<p>Article URL: <a href="https://indieweb.org/POSSE">https://indieweb.org/POSSE#</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46468600">https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 02 Jan 2026 19:48:25 +0000
 
 ### 📑 TechCrunch
 
@@ -104,16 +103,29 @@
 
 ### 📑 Dev.to
 
-- **[How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)**
-  *<p><a href="https://nexusalert40.blogspot.com/2025/12/fearless-heroine-woman-leaps-onto_13.html" rel="noopener noreferrer"></a><br />
-In 2026, with the rapid advancement of artificial intelligence, cr...*
-  📅 Sat, 03 Jan 2026 00:40:36 +0000
+- **[Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)**
+  *<p>You can’t debug what you can’t observe.</p>
 
-- **[La gobernanza de la IA no es binaria: evoluciona por niveles de madurez](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-no-es-binaria-evoluciona-por-niveles-de-madurez-2i55)**
-  *<p>La gobernanza de la IA no es binaria: evoluciona por niveles de madurez</p>
+<p>In GenAI systems, observability is harder and more important.</p>
 
-<p>La gobernanza de la inteligencia artificial suele abordarse como una condición binaria: existe o no existe. En la prá...*
-  📅 Sat, 03 Jan 2026 00:34:02 +0000
+<h2>
+  
+  
+  Why traditional metrics fall short
+</h2>
+
+<p>Latency and error rates ...*
+  📅 Sat, 03 Jan 2026 06:15:00 +0000
+
+- **[The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)**
+  *<h2>
+  
+  
+  The Shocking Audit That Changed Everything
+</h2>
+
+<p>Sarah stared at the spreadsheet in disbelief. As Marketing Operations Manager at a mid-sized SaaS company, she'd just completed a time...*
+  📅 Sat, 03 Jan 2026 06:05:27 +0000
 
 </details>
 
@@ -121,105 +133,37 @@ In 2026, with the rapid advancement of artificial intelligence, cr...*
 
 ### 📈 Daily Trending
 
-- **[vibheksoni/claude-provider-switcher](https://github.com/vibheksoni/claude-provider-switcher)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Switch between multiple AI providers for Claude Code with a simple config file
+- **[octalpixel/gdg-srilanka-26-google-adk-js](https://github.com/octalpixel/gdg-srilanka-26-google-adk-js)** ⭐ 26
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  None
 
-- **[proxyhk/proxima-orm](https://github.com/proxyhk/proxima-orm)** ⭐ 2
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Django-inspired Active Record ORM for PHP 8+ with automatic schema synchronization and professional admin panel
-
-- **[yokwejuste/vscode_porfolio](https://github.com/yokwejuste/vscode_porfolio)** ⭐ 1
+- **[DynamicCast03/treehole-score-style-restore](https://github.com/DynamicCast03/treehole-score-style-restore)** ⭐ 17
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A light VS Code - Like Portfolio website
+  Restore treehole score style.
 
-- **[code-wheel/mcp-tools](https://github.com/code-wheel/mcp-tools)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  MCP Tools for Drupal - Batteries-included MCP tools for AI assistants
-
-- **[kalin-mihaylov/GPU-Poisson-MG-Cycle](https://github.com/kalin-mihaylov/GPU-Poisson-MG-Cycle)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Python code for a Numba CUDA GPU-accelerated Multigrid solver to the Poisson problem. (WIP)
-
-- **[luckywenapere/urganize](https://github.com/luckywenapere/urganize)** ⭐ 1
+- **[Roasbeef/obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** ⭐ 13
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Music release management tool for music teams.
+  A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault.
 
-- **[Barry-Tee/CV.....HTML](https://github.com/Barry-Tee/CV.....HTML)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A project based on testing for how far i have improve
+- **[LGBT-dapp/LGBT-dapp](https://github.com/LGBT-dapp/LGBT-dapp)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Decentralized App for LGBTQ+ Community
 
-- **[takkii/kyuyo](https://github.com/takkii/kyuyo)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  給与計算プログラム💰️
+- **[LabGuy94/CopyMyWrite](https://github.com/LabGuy94/CopyMyWrite)** ⭐ 7
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Abusing DDMA alongside Copy On Write for Cross Process Code Execution for a 3000$ Bug Bounty
 
-### 📈 Weekly Trending
+- **[gdz-web/Gemini_Doubao_remove_watermark](https://github.com/gdz-web/Gemini_Doubao_remove_watermark)** ⭐ 5
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Gemini和豆包去水印脚本
 
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 2,521
+- **[secuardenai/secuarden-headers](https://github.com/secuardenai/secuarden-headers)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Modern HTTP security headers scanner for web applications
+
+- **[smerchek/bulk-summarize](https://github.com/smerchek/bulk-summarize)** ⭐ 4
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Beautiful map components. 100% Free, Zero config, one command setup.
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,425
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 1,288
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  HY-Motion model for 3D character animation generation. 
-
-- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 1,070
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Illegal rust
-
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 814
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-
-- **[IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)** ⭐ 691
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Lulzx/zpdf](https://github.com/Lulzx/zpdf)** ⭐ 661
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
-
-- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 634
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Universal Claude Code workflow plugin with agents, skills, hooks, and commands
-
-### 📈 Monthly Trending
-
-- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,440
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 9,248
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,343
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sharp Monocular View Synthesis in Less Than a Second
-
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,253
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,909
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Public repository of the Micro QuickJS Javascript Engine
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,700
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,209
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Specification and documentation for Agent Skills
-
-- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 4,195
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
+  A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project.
 
 ## 🚀 Latest Releases
 
@@ -484,57 +428,57 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
 | Cloud Computing | ⚪ Planned |
 
 </details>
