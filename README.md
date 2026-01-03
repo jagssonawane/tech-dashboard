@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 15 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,6 +46,23 @@
 
 ### 📑 Hacker News
 
+- **[Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)**
+  *<p>Article URL: <a href="https://vectorculture.substack.com/p/not-for-human-consumption">https://vectorculture.substack.com/p/not-for-human-consumption</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Sat, 03 Jan 2026 11:26:59 +0000
+
+- **[Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)**
+  *<p>Article URL: <a href="https://tallyai.money/">https://tallyai.money/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46475218">https://news.ycombinator.com/item?id=46475218</...*
+  📅 Sat, 03 Jan 2026 11:02:33 +0000
+
+- **[Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)**
+  *<p>Scan QR → web terminal → vibe coding in bed.
+Mobile-first terminal via Cloudflare Quick Tunnel. No port forwarding. Feedback welcome.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sat, 03 Jan 2026 04:22:29 +0000
+
 - **[IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)**
   *<p>Article URL: <a href="https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf">https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Tec...*
   📅 Sat, 03 Jan 2026 04:01:03 +0000
@@ -59,21 +76,6 @@
   *<p>Article URL: <a href="https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html">https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html</a></p>
 <p>Comments URL: <a href="https:...*
   📅 Sat, 03 Jan 2026 01:29:09 +0000
-
-- **[A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)**
-  *<p>Article URL: <a href="https://nullprogram.com/blog/2015/03/19/">https://nullprogram.com/blog/2015/03/19/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46471712">https://new...*
-  📅 Sat, 03 Jan 2026 01:18:07 +0000
-
-- **[Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)**
-  *<p>Article URL: <a href="https://roscidus.com/blog/blog/2026/01/01/tla-liveness/">https://roscidus.com/blog/blog/2026/01/01/tla-liveness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 03 Jan 2026 01:15:54 +0000
-
-- **[2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)**
-  *<p>Article URL: <a href="https://xeiaso.net/notes/2026/year-linux-desktop/">https://xeiaso.net/notes/2026/year-linux-desktop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=464...*
-  📅 Sat, 03 Jan 2026 00:15:47 +0000
 
 ### 📑 TechCrunch
 
@@ -103,29 +105,38 @@
 
 ### 📑 Dev.to
 
-- **[Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)**
-  *<p>You can’t debug what you can’t observe.</p>
+- **[Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)**
+  *<h1>
+  
+  
+  The "Cross-Device" Problem
+</h1>
 
-<p>In GenAI systems, observability is harder and more important.</p>
+<p>Have you ever been building a web application—maybe a registration form or an admin panel—and hit this specific roadblock?</p>
+
+<p><strong>The user ne...*
+  📅 Sat, 03 Jan 2026 12:12:01 +0000
+
+- **[Quark's Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)**
+  *<h1>
+  
+  
+  Quark's Outlines: Python Files
+</h1>
+
+<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
 
 <h2>
   
   
-  Why traditional metrics fall short
+  An Overview of Python Files
 </h2>
 
-<p>Latency and error rates ...*
-  📅 Sat, 03 Jan 2026 06:15:00 +0000
-
-- **[The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)**
-  *<h2>
+<h3>
   
   
-  The Shocking Audit That Changed Everything
-</h2>
-
-<p>Sarah stared at the spreadsheet in disbelief. As Marketing Operations Manager at a mid-sized SaaS company, she'd just completed a time...*
-  📅 Sat, 03 Jan 2026 06:05:27 +0000
+  What is a Pytho...*
+  📅 Sat, 03 Jan 2026 12:11:44 +0000
 
 </details>
 
@@ -133,37 +144,105 @@
 
 ### 📈 Daily Trending
 
-- **[octalpixel/gdg-srilanka-26-google-adk-js](https://github.com/octalpixel/gdg-srilanka-26-google-adk-js)** ⭐ 26
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 80
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[MelonyShare/MelonyShare](https://github.com/MelonyShare/MelonyShare)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An open-source, multiplayer modification for Subnautica. Windows is supported
+
+- **[bick-1003xq/AutoFarm](https://github.com/bick-1003xq/AutoFarm)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AutoFarm for MM2 without scripts — safe, lightweight, and easy to use
+
+- **[octalpixel/gdg-srilanka-26-google-adk-js](https://github.com/octalpixel/gdg-srilanka-26-google-adk-js)** ⭐ 27
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   None
 
-- **[DynamicCast03/treehole-score-style-restore](https://github.com/DynamicCast03/treehole-score-style-restore)** ⭐ 17
+- **[DynamicCast03/treehole-score-style-restore](https://github.com/DynamicCast03/treehole-score-style-restore)** ⭐ 25
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Restore treehole score style.
 
-- **[Roasbeef/obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** ⭐ 13
+- **[AliyahZombie/AnyToolCall](https://github.com/AliyahZombie/AnyToolCall)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A llm api midware offering prompt-based function call ability.
+
+- **[Roasbeef/obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** ⭐ 20
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault.
 
-- **[LGBT-dapp/LGBT-dapp](https://github.com/LGBT-dapp/LGBT-dapp)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Decentralized App for LGBTQ+ Community
-
-- **[LabGuy94/CopyMyWrite](https://github.com/LabGuy94/CopyMyWrite)** ⭐ 7
+- **[LabGuy94/CopyMyWrite](https://github.com/LabGuy94/CopyMyWrite)** ⭐ 18
   ![C++](https://img.shields.io/badge/-C++-pink)
   Abusing DDMA alongside Copy On Write for Cross Process Code Execution for a 3000$ Bug Bounty
 
-- **[gdz-web/Gemini_Doubao_remove_watermark](https://github.com/gdz-web/Gemini_Doubao_remove_watermark)** ⭐ 5
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Gemini和豆包去水印脚本
+### 📈 Weekly Trending
 
-- **[secuardenai/secuarden-headers](https://github.com/secuardenai/secuarden-headers)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Modern HTTP security headers scanner for web applications
-
-- **[smerchek/bulk-summarize](https://github.com/smerchek/bulk-summarize)** ⭐ 4
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** ⭐ 2,758
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project.
+  Beautiful map components. 100% Free, Zero config, one command setup.
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 1,443
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** ⭐ 1,300
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  HY-Motion model for 3D character animation generation. 
+
+- **[buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)** ⭐ 1,089
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Illegal rust
+
+- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** ⭐ 825
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+- **[IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)** ⭐ 794
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow)** ⭐ 753
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+- **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** ⭐ 707
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Annotate and review coding agent plans visually, share with your team, send feedback with one click.
+
+### 📈 Monthly Trending
+
+- **[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** ⭐ 20,488
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 9,428
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,376
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sharp Monocular View Synthesis in Less Than a Second
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 5,314
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 4,918
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 4,828
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,231
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** ⭐ 4,206
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 
 ## 🚀 Latest Releases
 
@@ -427,18 +506,18 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
 | Next.js | 🔴 Beginner |
@@ -447,31 +526,31 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
 | AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
@@ -479,7 +558,7 @@ for a semver-minor rele...
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
