@@ -46,7 +46,27 @@
 
 ### 📑 Hacker News
 
-- **[The No Fakes Act Has a "Fingerprinting" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)**
+- **[MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)**
+  *<p>Article URL: <a href="https://tombedor.dev/mcp-is-a-fad/">https://tombedor.dev/mcp-is-a-fad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46552254">https://news.ycombinato...*
+  📅 Fri, 09 Jan 2026 10:27:11 +0000
+
+- **[What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)**
+  *<p>Article URL: <a href="https://emnudge.dev/blog/what-happened-to-webassembly/">https://emnudge.dev/blog/what-happened-to-webassembly/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Fri, 09 Jan 2026 07:38:30 +0000
+
+- **[European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1053107/">https://lwn.net/Articles/1053107/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46550912">https://news.ycombinator....*
+  📅 Fri, 09 Jan 2026 07:09:39 +0000
+
+- **[Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)**
+  *<p>Article URL: <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf">https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Fri, 09 Jan 2026 07:06:41 +0000
+
+- **[The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)**
   *<p>Article URL: <a href="https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/">https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_ha...*
   📅 Fri, 09 Jan 2026 05:01:24 +0000
 
@@ -55,26 +75,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
   📅 Fri, 09 Jan 2026 03:44:35 +0000
 
-- **[Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)**
-  *<p>I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support.<p>task.md:<p><pre><cod...*
-  📅 Fri, 09 Jan 2026 02:29:12 +0000
-
-- **[Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)**
-  *<p>Article URL: <a href="https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/">https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/</a></p>
-<p>Comments URL: <a href="...*
-  📅 Fri, 09 Jan 2026 01:39:52 +0000
-
-- **[Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)**
-  *<p>Article URL: <a href="https://kueda.net/blog/2026/01/06/why-i-left-inat/">https://kueda.net/blog/2026/01/06/why-i-left-inat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 09 Jan 2026 01:17:51 +0000
-
-- **[Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)**
-  *<p>Article URL: <a href="https://github.com/embassy-rs/embassy">https://github.com/embassy-rs/embassy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46547740">https://news.ycom...*
-  📅 Thu, 08 Jan 2026 23:00:45 +0000
-
 ### 📑 TechCrunch
+
+- **[Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/)**
+  *Anthropic announces its first enterprise deal of 2026 which includes building agents and for, and giving Claude code, to Allianz....*
+  📅 Fri, 09 Jan 2026 09:00:00 +0000
 
 - **[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
   *CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sun...*
@@ -96,26 +101,18 @@
   *The infamous spyware maker released a new transparency report claiming to be a responsible spyware maker, without providing insight into how the company dealt with problematic customers in the past....*
   📅 Thu, 08 Jan 2026 19:15:32 +0000
 
-- **[EverNitro is simplifying the process of crafting silky nitro coffee at CES 2026](https://techcrunch.com/2026/01/08/evernitro-is-simplifying-the-process-of-crafting-silky-nitro-coffee-at-ces-2026/)**
-  *EverNitro is positioning itself against competitors such as NitroBrew as a long-term more affordable all-in-one solution. “We offer the quality of a commercial tap with the footprint of a coffee maker...*
-  📅 Thu, 08 Jan 2026 19:06:49 +0000
-
 ### 📑 Dev.to
 
-- **[From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)**
-  *<p>I joined this project at a point where the cracks were starting to show.  </p>
+- **[DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7)**
+  *<p>The<br />
+<a href="https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/" rel="noopener noreferrer">NVIDIA DGX Spark</a><br />
+(GB10 Grace Blackwell) is<br />
+<a href="https://www.glukhov.org/post...*
+  📅 Fri, 09 Jan 2026 12:25:14 +0000
 
-<p>The mobile app functioned, but not at the level a high-volume restaurant brand needed.  </p>
-
-<p>This was a leadin...*
-  📅 Fri, 09 Jan 2026 06:08:03 +0000
-
-- **[Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)**
-  *<p>É muito comum código com vários <strong>TODO</strong>.<br />
-E o time sabe que a maioria deles nunca vira trabalho de verdade.</p>
-
-<p>Eles ficam perdidos em comentários, são esquecidos, e aos pouc...*
-  📅 Fri, 09 Jan 2026 06:04:54 +0000
+- **[From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi)**
+  *<p>I've released a beta version of my <a href="https://github.com/EmberNoGlow/SDF-Model-Editor-Demo" rel="noopener noreferrer">SDF Model editor</a> project. This is my first major project that I'm try...*
+  📅 Fri, 09 Jan 2026 12:20:53 +0000
 
 </details>
 
@@ -123,103 +120,103 @@ E o time sabe que a maioria deles nunca vira trabalho de verdade.</p>
 
 ### 📈 Daily Trending
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 66
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 146
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 58
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 133
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-- **[flux-apphub/flux](https://github.com/flux-apphub/flux)** ⭐ 25
+- **[flux-apphub/flux](https://github.com/flux-apphub/flux)** ⭐ 49
   ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
   None
 
-- **[KrazyPhish/earth_monorepo](https://github.com/KrazyPhish/earth_monorepo)** ⭐ 14
+- **[FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass)** ⭐ 34
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Monorepo for earth modules.
+  The "Third Way" for Home Assistant Automations.
 
-- **[jzr99/Mesh4D](https://github.com/jzr99/Mesh4D)** ⭐ 13
+- **[DevAgentForge/claude-code-webui](https://github.com/DevAgentForge/claude-code-webui)** ⭐ 24
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[naufaljct48/youtube-heatmap-clipper](https://github.com/naufaljct48/youtube-heatmap-clipper)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automatically find and clip the most engaging parts of YouTube videos using heatmap-based viewer interaction data.
+
+- **[jzr99/Mesh4D](https://github.com/jzr99/Mesh4D)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
   Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
 
-- **[Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)** ⭐ 6
+- **[Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)** ⭐ 19
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[zgf-suda/vla_demo](https://github.com/zgf-suda/vla_demo)** ⭐ 4
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  仿真中训练groot n1.5，实物部署到LeRobot
-
-- **[naga-k/nds-ui-skill](https://github.com/naga-k/nds-ui-skill)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,963
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,301
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 2,154
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 2,438
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,612
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,629
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,506
+- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,608
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,036
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,117
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 824
+- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 1,001
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal plugin that lets Claude Code call you on the phone.
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 758
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for crafted, enterprise-grade UI design
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 809
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
 
-- **[jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)** ⭐ 747
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 788
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,592
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,606
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,144
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,260
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,651
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,661
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,484
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,564
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,167
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 5,963
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,301
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,150
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,196
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,157
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,883
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,925
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -485,58 +482,58 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
