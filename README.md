@@ -46,39 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)**
-  *<p>Article URL: <a href="https://tombedor.dev/mcp-is-a-fad/">https://tombedor.dev/mcp-is-a-fad/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46552254">https://news.ycombinato...*
-  📅 Fri, 09 Jan 2026 10:27:11 +0000
+- **[Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/replit">https://jobs.ashbyhq.com/replit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46556822">https://news.ycombinator.com/...*
+  📅 Fri, 09 Jan 2026 18:00:56 +0000
 
-- **[What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)**
-  *<p>Article URL: <a href="https://emnudge.dev/blog/what-happened-to-webassembly/">https://emnudge.dev/blog/what-happened-to-webassembly/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 09 Jan 2026 07:38:30 +0000
+- **[Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)**
+  *<p>Article URL: <a href="https://lend-me-your-ears.specr.net">https://lend-me-your-ears.specr.net</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46556210">https://news.ycombina...*
+  📅 Fri, 09 Jan 2026 17:17:28 +0000
 
-- **[European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1053107/">https://lwn.net/Articles/1053107/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46550912">https://news.ycombinator....*
-  📅 Fri, 09 Jan 2026 07:09:39 +0000
+- **[IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)**
+  *<p>Article URL: <a href="https://forms.icepanel.io/careers/senior-product-engineer">https://forms.icepanel.io/careers/senior-product-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 09 Jan 2026 17:01:02 +0000
 
-- **[Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)**
-  *<p>Article URL: <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf">https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 09 Jan 2026 07:06:41 +0000
+- **[The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)**
+  *<p>Article URL: <a href="https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118">https://xdaforums.com/t/discussion-the-roo...*
+  📅 Fri, 09 Jan 2026 17:00:11 +0000
 
-- **[The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/">https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_ha...*
-  📅 Fri, 09 Jan 2026 05:01:24 +0000
+- **[Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)**
+  *<p>Article URL: <a href="https://twitter.com/eastdakota/status/2009654937303896492">https://twitter.com/eastdakota/status/2009654937303896492</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 09 Jan 2026 16:46:48 +0000
 
-- **[Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)**
-  *<p>Article URL: <a href="https://github.com/anomalyco/opencode/issues/7410">https://github.com/anomalyco/opencode/issues/7410</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
-  📅 Fri, 09 Jan 2026 03:44:35 +0000
+- **[Why is SendGrid emailing me about supporting ICE?](https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/)**
+  *<p>Article URL: <a href="https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/">https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporti...*
+  📅 Fri, 09 Jan 2026 16:36:48 +0000
 
 ### 📑 TechCrunch
 
+- **[Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/)**
+  *Two smaller companies, Oklo and TerraPower, along with Vistra, a large energy company, just signed agreements with Meta....*
+  📅 Fri, 09 Jan 2026 17:51:15 +0000
+
+- **[X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/)**
+  *Elon Musk's AI company has restricted Grok's controversial AI image-generation feature to only paying subscribers on X, after the tool invited heated criticism from across the world for letting users ...*
+  📅 Fri, 09 Jan 2026 13:59:24 +0000
+
+- **[The venture firm that ate Silicon Valley just raised another $15 billion](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/)**
+  *In a blog post published Friday morning, Ben Horowitz writes that "as the American leader in Venture Capital, the fate of new technology in the United States rests partly on our shoulders." It's the k...*
+  📅 Fri, 09 Jan 2026 13:00:00 +0000
+
 - **[Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/)**
-  *Anthropic announces its first enterprise deal of 2026 which includes building agents and for, and giving Claude code, to Allianz....*
+  *Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz....*
   📅 Fri, 09 Jan 2026 09:00:00 +0000
 
 - **[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
@@ -89,30 +100,21 @@
   *Cyera raised another $400 million just six months after its last huge round....*
   📅 Thu, 08 Jan 2026 23:59:56 +0000
 
-- **[Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/)**
-  *For the past two weeks, X has been flooded with AI-manipulated nude images, created by the Grok AI chatbot — and governments around the world are promising to take action....*
-  📅 Thu, 08 Jan 2026 22:08:58 +0000
-
-- **[GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/)**
-  *Building software products has never been easier, so why are so many well-funded startups failing to take off no matter how good their product is? In this season finale episode of Build Mode, our gues...*
-  📅 Thu, 08 Jan 2026 19:27:16 +0000
-
-- **[Critics pan spyware maker NSO’s transparency claims amid its push to enter US market](https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/)**
-  *The infamous spyware maker released a new transparency report claiming to be a responsible spyware maker, without providing insight into how the company dealt with problematic customers in the past....*
-  📅 Thu, 08 Jan 2026 19:15:32 +0000
-
 ### 📑 Dev.to
 
-- **[DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7)**
-  *<p>The<br />
-<a href="https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/" rel="noopener noreferrer">NVIDIA DGX Spark</a><br />
-(GB10 Grace Blackwell) is<br />
-<a href="https://www.glukhov.org/post...*
-  📅 Fri, 09 Jan 2026 12:25:14 +0000
+- **[Model Context Protocol (MCP) — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)**
+  *<h2>
+  
+  
+  What is MCP?
+</h2>
 
-- **[From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi)**
-  *<p>I've released a beta version of my <a href="https://github.com/EmberNoGlow/SDF-Model-Editor-Demo" rel="noopener noreferrer">SDF Model editor</a> project. This is my first major project that I'm try...*
-  📅 Fri, 09 Jan 2026 12:20:53 +0000
+<p>The <strong>Model Context Protocol (MCP)</strong> is a standardized framework that enables <strong>Large Language Models (LLMs)</strong> to interact directly with l...*
+  📅 Fri, 09 Jan 2026 18:09:51 +0000
+
+- **[Why Agile Estimation Is Theater (And What To Do Instead)](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)**
+  *<p>Every Wednesday at 2 PM, twelve developers file into a conference room. For the next ninety minutes, they'll hold up cards with Fibonacci numbers, debate whether a feature is a 5 or an 8, and prete...*
+  📅 Fri, 09 Jan 2026 18:08:17 +0000
 
 </details>
 
@@ -120,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 146
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Random digital audio effects
-
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 133
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 220
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-- **[flux-apphub/flux](https://github.com/flux-apphub/flux)** ⭐ 49
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  None
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 195
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Random digital audio effects
 
-- **[FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass)** ⭐ 34
+- **[FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass)** ⭐ 85
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The "Third Way" for Home Assistant Automations.
 
-- **[DevAgentForge/claude-code-webui](https://github.com/DevAgentForge/claude-code-webui)** ⭐ 24
+- **[laravel/claude-code](https://github.com/laravel/claude-code)** ⭐ 75
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[DevAgentForge/claude-code-webui](https://github.com/DevAgentForge/claude-code-webui)** ⭐ 60
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[naufaljct48/youtube-heatmap-clipper](https://github.com/naufaljct48/youtube-heatmap-clipper)** ⭐ 23
+- **[flux-apphub/flux](https://github.com/flux-apphub/flux)** ⭐ 54
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  None
+
+- **[naufaljct48/youtube-heatmap-clipper](https://github.com/naufaljct48/youtube-heatmap-clipper)** ⭐ 43
   ![Python](https://img.shields.io/badge/-Python-blue)
   Automatically find and clip the most engaging parts of YouTube videos using heatmap-based viewer interaction data.
 
-- **[jzr99/Mesh4D](https://github.com/jzr99/Mesh4D)** ⭐ 21
+- **[jwheet/MoviesAnywhere-dl](https://github.com/jwheet/MoviesAnywhere-dl)** ⭐ 32
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
-
-- **[Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Downloader cli script ussing windivine L3 keys to rip content from Movies Anywhare not meant to really be used just made it for fun and gigles so enjoy and dont download real content just learn from the code although you thereticly could ;)
 
 ### 📈 Weekly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,301
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,385
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 2,438
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 2,922
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,629
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
-
-- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,608
+- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** ⭐ 1,674
   ![Python](https://img.shields.io/badge/-Python-blue)
   Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,117
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,644
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
+
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,166
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 1,001
+- **[ZeframLou/call-me](https://github.com/ZeframLou/call-me)** ⭐ 1,133
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Minimal plugin that lets Claude Code call you on the phone.
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 809
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 977
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
 
-- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 788
+- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 811
   ![Go](https://img.shields.io/badge/-Go-cyan)
   多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,606
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,625
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,260
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,340
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,661
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,672
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,564
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,617
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,301
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,385
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,196
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,226
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,157
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,163
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,925
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,949
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -483,19 +485,19 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
@@ -503,38 +505,38 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
