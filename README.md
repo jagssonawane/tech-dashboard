@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Caltrain shows why every region should be moving toward regional rail](https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/)**
-  *<p>Article URL: <a href="https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/">https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-movin...*
-  📅 Sat, 10 Jan 2026 00:25:29 +0000
+- **[You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)**
+  *<p>Article URL: <a href="https://rushter.com/blog/zsh-shell/">https://rushter.com/blog/zsh-shell/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46562790">https://news.ycombina...*
+  📅 Sat, 10 Jan 2026 04:35:32 +0000
 
-- **[See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears)**
-  *<p>Article URL: <a href="https://lcamtuf.substack.com/p/see-it-with-your-lying-ears">https://lcamtuf.substack.com/p/see-it-with-your-lying-ears</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 10 Jan 2026 00:23:05 +0000
+- **[OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)**
+  *<p>Article URL: <a href="https://nuxx.net/blog/2026/01/09/oled-not-for-me/">https://nuxx.net/blog/2026/01/09/oled-not-for-me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
+  📅 Sat, 10 Jan 2026 03:52:48 +0000
 
-- **[Washington National Opera Is Leaving the Kennedy Center](https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html">https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-ce...*
-  📅 Fri, 09 Jan 2026 23:56:10 +0000
+- **[Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)**
+  *<p>Article URL: <a href="https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/">https://www.pressherald.com/2025/09/09/maines-black-market-for...*
+  📅 Sat, 10 Jan 2026 02:56:50 +0000
 
-- **["Erdos problem #728 was solved more or less autonomously by AI"](https://mathstodon.xyz/@tao/115855840223258103)**
+- **[“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)**
   *<p>Article URL: <a href="https://mathstodon.xyz/@tao/115855840223258103">https://mathstodon.xyz/@tao/115855840223258103</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46560445"...*
   📅 Fri, 09 Jan 2026 22:39:15 +0000
+
+- **[Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)**
+  *<p>Article URL: <a href="https://philipotoole.com/start-your-meetings-at-5-minutes-past/">https://philipotoole.com/start-your-meetings-at-5-minutes-past/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 09 Jan 2026 22:19:03 +0000
 
 - **[Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)**
   *<p>Article URL: <a href="https://github.com/denoland/deno/issues/31254">https://github.com/denoland/deno/issues/31254</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46559761">h...*
   📅 Fri, 09 Jan 2026 21:41:27 +0000
 
-- **[QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)**
-  *<p>Article URL: <a href="http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/">http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/</a></p>
-<p>Comments UR...*
-  📅 Fri, 09 Jan 2026 20:17:07 +0000
-
 ### 📑 TechCrunch
+
+- **[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+  *If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed....*
+  📅 Sat, 10 Jan 2026 01:09:25 +0000
 
 - **[Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/)**
   *A former SandboxAQ executive filed a wrongful termination lawsuit filled with shocking allegations. The company is fighting back, hard....*
@@ -96,115 +101,93 @@
   *Elon Musk's AI company has restricted Grok's controversial AI image-generation feature to only paying subscribers on X, after the tool invited heated criticism from across the world for letting users ...*
   📅 Fri, 09 Jan 2026 13:59:24 +0000
 
-- **[The venture firm that ate Silicon Valley just raised another $15 billion](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/)**
-  *In a blog post published Friday morning, Ben Horowitz writes that "as the American leader in Venture Capital, the fate of new technology in the United States rests partly on our shoulders." It's the k...*
-  📅 Fri, 09 Jan 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2)**
-  *<p>This guide walks through installing popular tools for cloud provisioning and container management on <a href="https://grokipedia.com/page/MacOS" rel="noopener noreferrer">macOS</a>. While many may ...*
-  📅 Sat, 10 Jan 2026 00:43:09 +0000
+- **[How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)**
+  *<h2>
+  
+  
+  Introduction 🚀
+</h2>
 
-- **[What Happens When a Classic Game Meets Modern Multiplayer and Web3 Utility?](https://dev.to/mxr_token_93ef3fc4aba5559/what-happens-when-a-classic-game-meets-modern-multiplayer-and-web3-utility-5db1)**
-  *<p>Not every innovation in gaming starts with a brand-new idea. Sometimes, progress comes from revisiting something familiar and asking a simple question: what would this look like if it were built to...*
-  📅 Sat, 10 Jan 2026 00:40:42 +0000
+<p>Have you ever called a REST API and thought:</p>
+
+<blockquote>
+<p><em>“Why is this request blocking until everything finishes?”</em></p>
+</blockquote>
+
+<p>Now ima...*
+  📅 Sat, 10 Jan 2026 06:10:02 +0000
+
+- **[KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g)**
+  *<p>KRACK (Key Reinstallation Attack) is a Wi-Fi vulnerability discovered in 2017</p>
+
+<p>It exposed a flaw in the WPA2 security protocol</p>
+
+<p>Attackers within range of a network could interfere wit...*
+  📅 Sat, 10 Jan 2026 05:45:29 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
-### 📈 Daily Trending
-
-- **[nazare4lmeida/projeto-js-gtech](https://github.com/nazare4lmeida/projeto-js-gtech)** ⭐ 1
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
-- **[HuellasEscolares/Keurystudiotv](https://github.com/HuellasEscolares/Keurystudiotv)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[yanyan99-55/-literate-pancake](https://github.com/yanyan99-55/-literate-pancake)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Online language school and business Classes 
-
-- **[existoporcompu/first-repository](https://github.com/existoporcompu/first-repository)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Prime repo creado en GitHub
-
-- **[Monsterekkk/VK-Video-Upload-Auto-Playlist-Privacy](https://github.com/Monsterekkk/VK-Video-Upload-Auto-Playlist-Privacy)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Super-fast batch uploader for VK Video: auto-adds to playlist, sets "Anyone with link" visibility and disables comments
-
-- **[pralaybharati117-web/Med-Track-](https://github.com/pralaybharati117-web/Med-Track-)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Med Track 
-
-- **[acsureshbhaibhabhor-dev/riya-birthday-wish-](https://github.com/acsureshbhaibhabhor-dev/riya-birthday-wish-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[5P4RUX/WPASS](https://github.com/5P4RUX/WPASS)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  WPASS – Modern Windows Wi‑Fi Password Inspector & Auditor
-
 ### 📈 Weekly Trending
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,203
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,445
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,661
+- **[huseyinbabal/taws](https://github.com/huseyinbabal/taws)** ⭐ 1,669
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,180
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,241
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 1,109
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 1,183
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
 
-- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 818
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
-
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 806
+- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 845
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Give Claude Code an external monitor
 
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 799
+- **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ⭐ 835
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
+
+- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 806
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for crafted, enterprise-grade UI design
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 658
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 668
   ![Python](https://img.shields.io/badge/-Python-blue)
   My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,644
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,653
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,386
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,446
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,684
+- **[apple/ml-sharp](https://github.com/apple/ml-sharp)** ⭐ 6,696
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sharp Monocular View Synthesis in Less Than a Second
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,630
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 6,675
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,533
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 6,584
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,241
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,251
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
@@ -212,7 +195,7 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,963
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 4,978
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -478,59 +461,59 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
