@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,49 @@
 
 ### 📑 Hacker News
 
-- **[AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/">https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 11 Jan 2026 17:05:52 +0000
+- **[Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)**
+  *<p>A fun game for playing moral dilemmas with friends. I gave 12 AI agents zodiac personalities (not that I believe in them) using the same LLM with different personality prompts.</p>
+<hr />
+<p>Commen...*
+  📅 Sun, 11 Jan 2026 23:49:15 +0000
 
-- **[Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)**
-  *<p>Article URL: <a href="https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/">https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/</a></p>
-<p>Comments UR...*
-  📅 Sun, 11 Jan 2026 16:20:47 +0000
+- **[I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)**
+  *<p>Article URL: <a href="https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get">https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-jok...*
+  📅 Sun, 11 Jan 2026 22:20:17 +0000
 
-- **[Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)**
-  *<p>Article URL: <a href="https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html">https://www.engadget.com/cybersecurit...*
-  📅 Sun, 11 Jan 2026 15:07:12 +0000
+- **[This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)**
+  *<p>Article URL: <a href="https://iczelia.net/posts/snake-polyglot/">https://iczelia.net/posts/snake-polyglot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46580864">https://n...*
+  📅 Sun, 11 Jan 2026 22:14:35 +0000
 
-- **[Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)**
-  *<p>Article URL: <a href="https://github.com/netzherpes/KIM1-Demo">https://github.com/netzherpes/KIM1-Demo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46575804">https://news....*
-  📅 Sun, 11 Jan 2026 13:55:40 +0000
+- **[The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)**
+  *<p>Article URL: <a href="https://addyosmani.com/blog/next-two-years/">https://addyosmani.com/blog/next-two-years/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46580703">https...*
+  📅 Sun, 11 Jan 2026 22:00:24 +0000
 
-- **[KaraDAV – Lightweight Nextcloud compatible WebDAV server](https://github.com/kd2org/karadav)**
-  *<p>Article URL: <a href="https://github.com/kd2org/karadav">https://github.com/kd2org/karadav</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46575305">https://news.ycombinator....*
-  📅 Sun, 11 Jan 2026 12:50:01 +0000
+- **[iMessage-kit is an iMessage SDK for macOS](https://github.com/photon-hq/imessage-kit)**
+  *<p>Article URL: <a href="https://github.com/photon-hq/imessage-kit">https://github.com/photon-hq/imessage-kit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46580694">https://n...*
+  📅 Sun, 11 Jan 2026 21:59:26 +0000
 
-- **[BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5](https://github.com/amcchord/M5Tab-Macintosh)**
-  *<p>Article URL: <a href="https://github.com/amcchord/M5Tab-Macintosh">https://github.com/amcchord/M5Tab-Macintosh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46574961">https...*
-  📅 Sun, 11 Jan 2026 12:02:52 +0000
+- **[CLI agents like Claude Code make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)**
+  *<p>Article URL: <a href="https://fulghum.io/self-hosting">https://fulghum.io/self-hosting</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46580326">https://news.ycombinator.com/...*
+  📅 Sun, 11 Jan 2026 21:29:57 +0000
 
 ### 📑 TechCrunch
+
+- **[Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/)**
+  *Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026....*
+  📅 Mon, 12 Jan 2026 00:10:54 +0000
+
+- **[Google co-founders may be leaving California](https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/)**
+  *Sergey Brin and Larry Page appear to be pulling back from the state where they co-founded Google....*
+  📅 Sun, 11 Jan 2026 22:56:58 +0000
+
+- **[Instagram says there’s been ‘no breach’ despite password reset requests](https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/)**
+  *Instagram says that although some users received suspicious-looking password reset requests, it has not been breached....*
+  📅 Sun, 11 Jan 2026 22:26:03 +0000
 
 - **[Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)**
   *This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries....*
@@ -89,41 +102,15 @@
   *Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok....*
   📅 Sun, 11 Jan 2026 15:07:49 +0000
 
-- **[Wing to expand drone delivery to another 150 Walmart stores](https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/)**
-  *The partnership will grow Wing's drone delivery service to more than 270 Walmart stores by 2027....*
-  📅 Sun, 11 Jan 2026 15:00:00 +0000
-
-- **[Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)**
-  *Google said that merchants can now offer discounts to users directly in AI mode results...*
-  📅 Sun, 11 Jan 2026 15:00:00 +0000
-
-- **[SpaceX gets FCC approval to launch 7,500 more Starlink satellites](https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/)**
-  *The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites....*
-  📅 Sat, 10 Jan 2026 22:11:21 +0000
-
 ### 📑 Dev.to
 
-- **[Video Streaming Platform (YouTube / Hotstar / Netflix / Prime) High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l)**
-  *<h1>
-  
-  
-  High-Level Design: Video Streaming Platform (YouTube-like)
-</h1>
+- **[Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9)**
+  *<p><strong>What is MCP?</strong> <a href="https://modelcontextprotocol.io/docs/getting-started/intro" rel="noopener noreferrer">MCP (Model Context Protocol)</a> is a open-source standard for connectin...*
+  📅 Mon, 12 Jan 2026 00:41:56 +0000
 
-<h2>
-  
-  
-  Table of Contents
-</h2>
-
-<ol>
-<li>Problem Statement &amp; Requirements</li>
-<li>High-Level Architecture</li>...*
-  📅 Sun, 11 Jan 2026 18:07:28 +0000
-
-- **[From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)**
-  *<p>In my journey as a web developer, I always felt comfortable studying, practicing, and coding. It was a familiar cycle: get frustrated with documentation, struggle with code that didn't work, and tr...*
-  📅 Sun, 11 Jan 2026 18:06:01 +0000
+- **[A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo)**
+  *<p>Often these days, conversations inevitably turn to the topic of AI. While we should expect this as it has and will continue to transform our world, I can't help but note the rather disparate takes,...*
+  📅 Mon, 12 Jan 2026 00:36:24 +0000
 
 </details>
 
@@ -131,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[faringcuddles443/iris](https://github.com/faringcuddles443/iris)** ⭐ 338
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A modern shaders mod for Minecraft compatible with existing OptiFine shader packs 🔥 2026 UPDATE 🔥 iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod iris mod
+- **[FitTruck/FitTruck](https://github.com/FitTruck/FitTruck)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  이사 가능한 객체들을 추출하여 이사 견적을 내줍니다.
 
-- **[brepozitivchik/meteor-client](https://github.com/brepozitivchik/meteor-client)** ⭐ 338
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Based Minecraft utility mod 🔥 2026 UPDATE 🔥 meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient meteor client meteorclient
+- **[bits-house/bits_goals_module](https://github.com/bits-house/bits_goals_module)** ⭐ 1
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  None
 
-- **[howard3646/sodium](https://github.com/howard3646/sodium)** ⭐ 338
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Sodium Minecraft visual optimization and quality Mod 🔥 NEW 2026 UPDATE 🔥 sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium sodium
-
-- **[dronpainkiller5/SkyblockAddons](https://github.com/dronpainkiller5/SkyblockAddons)** ⭐ 337
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  🔥 Quality of Life Improvement for 1.21.5 Hypixel Skyblock Mod - SkyblockAddons Hypixel Skyblock SkyblockAddons Hypixel SkyblockSkyblockAddons Hypixel SkyblockSkyblockAddons Hypixel SkyblockSkyblockAddons Hypixel SkyblockSkyblockAddons Hypixel Skyblock
-
-- **[chewbacca3247/Skyblocker](https://github.com/chewbacca3247/Skyblocker)** ⭐ 239
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  🔥 Quality of Life Improvement for 1.21.5 Hypixel Skyblock Mod - Skyblocker Hypixel Skyblock Skyblocker Hypixel SkyblockSkyblocker Hypixel SkyblockSkyblocker Hypixel SkyblockSkyblocker Hypixel SkyblockSkyblocker Hypixel SkyblockSkyblocker Hypixel SkyblockSkyblocker Hypixel Skyblock
-
-- **[muffinabsolutlyman/Firmament](https://github.com/muffinabsolutlyman/Firmament)** ⭐ 189
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  🔥 Quality of Life Improvement for 1.21.5 Hypixel Skyblock Mod - Firmament Hypixel Skyblock Firmament Hypixel SkyblockFirmament Hypixel SkyblockFirmament Hypixel SkyblockFirmament Hypixel SkyblockFirmament Hypixel SkyblockFirmament Hypixel SkyblockFirmament Hypixel Skyblock
-
-- **[aurorapolbatona76/DulkirMod](https://github.com/aurorapolbatona76/DulkirMod)** ⭐ 149
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  🔥 Quality of Life Improvement for 1.21.5 Hypixel Skyblock Mod - Dulkir Mod Hypixel Skyblock Dulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod Hypixel SkyblockDulkir Mod
-
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 136
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
-
-### 📈 Weekly Trending
-
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,931
+- **[1231196/todo-mern](https://github.com/1231196/todo-mern)** ⭐ 1
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+  None
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 2,386
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,470
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 1,135
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Random digital audio effects
-
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,093
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Give Claude Code an external monitor
-
-- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 862
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-
-- **[Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)** ⭐ 856
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for crafted, enterprise-grade UI design
-
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 725
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-
-### 📈 Monthly Trending
-
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,725
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,887
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 7,808
+- **[Brocoliman/InnoColor](https://github.com/Brocoliman/InnoColor)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,072
+- **[Keshani-Rajkaran/Mckaylan-Motor-Engineering-Scheduling-ERP-System](https://github.com/Keshani-Rajkaran/Mckaylan-Motor-Engineering-Scheduling-ERP-System)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[rahul-coder69/inside-folder-filename-comparison](https://github.com/rahul-coder69/inside-folder-filename-comparison)** ⭐ 1
+  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
+  None
+
+- **[evansjanet950-star/Pitch-Pro](https://github.com/evansjanet950-star/Pitch-Pro)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[CleanExpo/CCW-CRM](https://github.com/CleanExpo/CCW-CRM)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+### 📈 Weekly Trending
+
+- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 3,972
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 2,593
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,483
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 1,382
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Random digital audio effects
+
+- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,130
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Give Claude Code an external monitor
+
+- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 879
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
+
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 726
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 711
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,732
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 7,932
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 7,858
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,106
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,389
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,404
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,269
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,359
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Skills for Obsidian
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,207
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,209
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,117
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,131
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
@@ -493,50 +480,50 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🔴 Beginner |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
@@ -544,8 +531,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -563,7 +550,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 11, 2026
+**Last Updated:** January 12, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
