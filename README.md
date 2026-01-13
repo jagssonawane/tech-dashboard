@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,84 +46,185 @@
 
 ### 📑 Hacker News
 
-- **[Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)**
-  *<p>Article URL: <a href="https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/">https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-...*
-  📅 Tue, 13 Jan 2026 11:19:01 +0000
+- **[The Tulip Creative Computer](https://github.com/shorepine/tulipcc)**
+  *<p>Article URL: <a href="https://github.com/shorepine/tulipcc">https://github.com/shorepine/tulipcc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46603995">https://news.ycombi...*
+  📅 Tue, 13 Jan 2026 17:10:42 +0000
 
-- **[Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)**
-  *<p>I’ve been building and selling software since the early 2000s, starting with classic shareware. In 2011, I moved into the App Store world and built an iOS budget app because I needed a simple way t...*
-  📅 Tue, 13 Jan 2026 10:44:39 +0000
+- **[90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)**
+  *<p>Article URL: <a href="https://state-of-iranblackout.whisper.security/">https://state-of-iranblackout.whisper.security/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4660391...*
+  📅 Tue, 13 Jan 2026 17:05:43 +0000
 
-- **[U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html">https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html</a></p>
-<p>Comments ...*
-  📅 Tue, 13 Jan 2026 10:03:20 +0000
+- **[Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424">https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424</a></p>
+<p>Comments URL:...*
+  📅 Tue, 13 Jan 2026 17:01:55 +0000
 
-- **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)**
-  *<p>Article URL: <a href="https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/">https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/</a></p...*
-  📅 Tue, 13 Jan 2026 09:47:59 +0000
+- **[Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa">https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa</a></p>
+<p>C...*
+  📅 Tue, 13 Jan 2026 16:47:39 +0000
 
-- **[The Homepage of Ron Goodwin](http://rongoodwin.co.uk/)**
-  *<p>Article URL: <a href="http://rongoodwin.co.uk/">http://rongoodwin.co.uk/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46598890">https://news.ycombinator.com/item?id=465988...*
-  📅 Tue, 13 Jan 2026 09:31:44 +0000
+- **[Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)**
+  *<p>Article URL: <a href="https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/">https://www.usatoday.com/story/entertainment...*
+  📅 Tue, 13 Jan 2026 16:41:40 +0000
 
-- **[Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)**
-  *<p>Article URL: <a href="https://github.com/anthropic-experimental/sandbox-runtime/issues/88">https://github.com/anthropic-experimental/sandbox-runtime/issues/88</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Tue, 13 Jan 2026 07:08:29 +0000
+- **[What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)**
+  *<p>Article URL: <a href="https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/">https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/</a><...*
+  📅 Tue, 13 Jan 2026 15:49:27 +0000
 
 ### 📑 TechCrunch
 
-- **[Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp](https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/)**
-  *Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an...*
-  📅 Tue, 13 Jan 2026 12:21:47 +0000
+- **[Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)**
+  *1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks....*
+  📅 Tue, 13 Jan 2026 17:14:08 +0000
 
-- **[Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/)**
-  *AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz....*
-  📅 Tue, 13 Jan 2026 11:30:00 +0000
+- **[Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/)**
+  *Google is now allowing users to create vertical videos using references image....*
+  📅 Tue, 13 Jan 2026 17:00:00 +0000
 
-- **[Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)**
-  *Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global...*
-  📅 Tue, 13 Jan 2026 04:00:00 +0000
+- **[India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/)**
+  *India's labor ministry is pushing the country's booming quick-commerce sector to prioritize the wellness and safety of its gig workers....*
+  📅 Tue, 13 Jan 2026 16:27:46 +0000
 
-- **[More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)**
-  *Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year....*
-  📅 Tue, 13 Jan 2026 01:00:00 +0000
+- **[ElevenLabs CEO says the voice AI startup crossed $330M ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)**
+  *The company said it took only five months to go from $200 million to $330 million in annual recurring revenue....*
+  📅 Tue, 13 Jan 2026 16:15:22 +0000
 
-- **[OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/)**
-  *AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov....*
-  📅 Tue, 13 Jan 2026 00:04:19 +0000
+- **[Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month](https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/)**
+  *The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac....*
+  📅 Tue, 13 Jan 2026 14:40:19 +0000
 
-- **[Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)**
-  *We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year....*
-  📅 Tue, 13 Jan 2026 00:00:00 +0000
+- **[Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)**
+  *Deepgram is raising its Series C round at a $1.3 billion valuation....*
+  📅 Tue, 13 Jan 2026 13:30:00 +0000
 
 ### 📑 Dev.to
 
-- **[Potential Use Cases for the Hybrid Async-Native Engine](https://dev.to/hejhdiss/potential-use-cases-for-the-hybrid-async-native-engine-54ca)**
-  *<h2>
+- **[Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)**
+  *<p>A year ago, we started migrating a large Polish e-commerce app to Kotlin Multiplatform. Here's what actually happened.</p>
+
+<h2>
   
   
-  TL;DR
+  The Setup
 </h2>
 
-<blockquote>
-<p>This post explores potential use cases for a hybrid Python/C async-native engine using GIL and Non-GIL threads with a Shared Memory Bus</p>
-</blockquote>
+<p>The app serves millions of users. Before...*
+  📅 Tue, 13 Jan 2026 18:08:51 +0000
 
-<h2...*
-  📅 Tue, 13 Jan 2026 12:22:27 +0000
+- **[The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)**
+  *<p><em>The difference between burning through tokens and getting perfect images? Using the proven patterns Google already tested.</em></p>
 
-- **[🚀 Starting My Terraform Journey – HashiCorp Terraform Associate Exam (003)](https://dev.to/smit2036/starting-my-terraform-journey-hashicorp-terraform-associate-exam-003-1kde)**
-  *<p>I’m officially starting my <strong>Terraform learning journey</strong> with the goal of clearing the <strong>HashiCorp Terraform Associate (003) certification</strong>.</p>
-
-<p>I’ve worked with clo...*
-  📅 Tue, 13 Jan 2026 12:22:04 +0000
+<p>I just discovered Google's official image generation docu...*
+  📅 Tue, 13 Jan 2026 18:05:16 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 112
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+
+- **[likaia/nginxpulse](https://github.com/likaia/nginxpulse)** ⭐ 98
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+
+- **[7836246/aws-builder-id](https://github.com/7836246/aws-builder-id)** ⭐ 72
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
+
+- **[Gezine/Luac0re](https://github.com/Gezine/Luac0re)** ⭐ 39
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Luac0re is a mast1c0re variation that uses Lua scripting for easier exploit development.
+
+- **[calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react)** ⭐ 38
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  React とは何であるのか（執筆中）
+
+- **[openkursar/hello-halo](https://github.com/openkursar/hello-halo)** ⭐ 35
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The Missing UI for Claude Code
+
+- **[cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies)** ⭐ 28
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just building.  👉 For daily lessons and real-world builds, join the Vibe Coding with Chris skool community.
+
+- **[opbytes/polymarket-bot-decision-engine](https://github.com/opbytes/polymarket-bot-decision-engine)** ⭐ 27
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Automated copy trading bot for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time executionpolymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, polymarket bot, poly
+
+### 📈 Weekly Trending
+
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,596
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 3,270
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,185
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Random digital audio effects
+
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 1,536
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
+
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,380
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Write like a high-level language, run like C.
+
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,010
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 945
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 844
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,836
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,549
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,297
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,247
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,791
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,072
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Obsidian
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,347
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,261
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
 
 ## 🚀 Latest Releases
 
@@ -237,13 +338,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2025-11-17, Version 25.2.1 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.2.1)** `v25.2.1`
+**[2026-01-13, Version 25.3.0 (Current), @RafaelGSS](https://github.com/nodejs/node/releases/tag/v25.3.0)** `v25.3.0`
 
-📅 Released: November 17, 2025
+📅 Released: January 13, 2026
 
-This release reverts the spec-compliant behavior of sometimes throwing on `localStorage`
-access. We received feedback that this change on an experimental API was too breaking
-for a semver-minor rele...
+
+This is a security release.
+
+### Notable Changes
+
+lib:
+
+* (CVE-2025-59465) add TLSSocket default error handler (RafaelGSS) <https://github.com/nodejs-private/node-private/pull/750>
+  permissi...
 
 ---
 
@@ -387,21 +494,21 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
@@ -409,37 +516,37 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
