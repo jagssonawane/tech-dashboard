@@ -46,14 +46,24 @@
 
 ### 📑 Hacker News
 
-- **[Interview Coder Just Leaked Full Names and Companies of All SWEs Who Cheated [video]](https://www.youtube.com/watch?v=8T1vW85xFiQ)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=8T1vW85xFiQ">https://www.youtube.com/watch?v=8T1vW85xFiQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46595583">https...*
-  📅 Mon, 12 Jan 2026 23:26:35 +0000
+- **[Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)**
+  *<p>Article URL: <a href="https://cssence.com/2026/text-based-web-browsers/">https://cssence.com/2026/text-based-web-browsers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=465...*
+  📅 Tue, 13 Jan 2026 05:16:10 +0000
+
+- **[Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)**
+  *<p>Article URL: <a href="https://aicoding.leaflet.pub/3mcbiyal7jc2y">https://aicoding.leaflet.pub/3mcbiyal7jc2y</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46597023">https:/...*
+  📅 Tue, 13 Jan 2026 03:26:23 +0000
 
 - **[Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)**
   *<p>Article URL: <a href="https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/">https://arstechnica.com/ai/2026/01/google-removes-some-a...*
   📅 Mon, 12 Jan 2026 23:05:04 +0000
+
+- **[A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)**
+  *<p>Article URL: <a href="https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes">https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Mon, 12 Jan 2026 23:02:27 +0000
 
 - **[F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)**
   *<p>Article URL: <a href="https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer">https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer</a></p>
@@ -65,17 +75,11 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46593802">https://news.ycombinator.com/...*
   📅 Mon, 12 Jan 2026 20:26:47 +0000
 
-- **[The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=c0mLhHDcY3I">https://www.youtube.com/watch?v=c0mLhHDcY3I</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46593395">https...*
-  📅 Mon, 12 Jan 2026 19:57:37 +0000
-
-- **[Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)**
-  *<p>Article URL: <a href="https://claude.com/blog/cowork-research-preview">https://claude.com/blog/cowork-research-preview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4659302...*
-  📅 Mon, 12 Jan 2026 19:27:19 +0000
-
 ### 📑 TechCrunch
+
+- **[Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)**
+  *Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global...*
+  📅 Tue, 13 Jan 2026 04:00:00 +0000
 
 - **[More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)**
   *Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year....*
@@ -97,25 +101,21 @@
   *Meta is ramping up its efforts to build out its AI capacity — Zuckerberg said the company intended to drastically expand its energy footprint in the coming years....*
   📅 Mon, 12 Jan 2026 21:44:43 +0000
 
-- **[Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal](https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/)**
-  *Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product....*
-  📅 Mon, 12 Jan 2026 20:48:21 +0000
-
 ### 📑 Dev.to
 
-- **[Stop Tab-Switching: Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)**
-  *<p>I'll show how your can get notified, on your phone and on your laptop when Claude Code needs your input to move on or when it finishes.</p>
+- **[How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)**
+  *<p>Ever find yourself drowning in bookmarks, scattered notes, and half-finished documentation about technologies you're researching? I did too—until I built something simpler.</p>
 
-<p>Below should be a quick and simple win already. A deb...*
-  📅 Tue, 13 Jan 2026 00:24:34 +0000
+<h2>
+  
+  
+  The Pr...*
+  📅 Tue, 13 Jan 2026 06:00:35 +0000
 
-- **[Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)**
-  *<p>You found the perfect influencer. Great engagement. Right niche. Perfect fit.</p>
-
-<p>Now what? Save their username in a Google Sheet? Forget about them in 3 days?</p>
-
-<p>In this tutorial, we'll b...*
-  📅 Tue, 13 Jan 2026 00:15:00 +0000
+- **[Quantum Doomsday Delayed (Again): Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)**
+  *<p><strong>This All Sounds Familiar</strong><br />
+Seven years ago, I wrote my first master's thesis on the exact topic that's dominating security headlines today: the threat quantum computing poses t...*
+  📅 Tue, 13 Jan 2026 05:48:10 +0000
 
 </details>
 
@@ -123,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[Bydansx/app-peliculass](https://github.com/Bydansx/app-peliculass)** ⭐ 2
+- **[7836246/aws-builder-id](https://github.com/7836246/aws-builder-id)** ⭐ 55
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
+
+- **[likaia/nginxpulse](https://github.com/likaia/nginxpulse)** ⭐ 33
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+
+- **[calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  React とは何であるのか
+
+- **[luwill/research-skills](https://github.com/luwill/research-skills)** ⭐ 15
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Some commonly used research experiences and processes are encapsulated into Agent skills.
+
+- **[cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just building.  👉 For daily lessons and real-world builds, join the Vibe Coding with Chris skool community.
+
+- **[CaiGaoQing/kiro-api-client](https://github.com/CaiGaoQing/kiro-api-client)** ⭐ 10
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Aplicacion fin de semestre
+  kiro 反重力反代
 
-- **[jorgemuchosnumeros/PeakVoiceRedirect](https://github.com/jorgemuchosnumeros/PeakVoiceRedirect)** ⭐ 2
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
+- **[Rich-Harris/toofer](https://github.com/Rich-Harris/toofer)** ⭐ 9
+  ![Svelte](https://img.shields.io/badge/-Svelte-lightgrey)
+  Local-first, web-based two factor authenticator app
 
-- **[DevZRX/r6-Arctic](https://github.com/DevZRX/r6-Arctic)** ⭐ 2
+- **[RChristopher7puh/log-parser](https://github.com/RChristopher7puh/log-parser)** ⭐ 8
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[psychoplath9450/SUMI](https://github.com/psychoplath9450/SUMI)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  SUMI firmware for the Xteink X4
-
-- **[HenryWijaya-A100/Latihan-git2](https://github.com/HenryWijaya-A100/Latihan-git2)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repository untuk latihan Git remote, branch, dan kolaborasi tim.
-
-- **[ARKXWOLFQC/Tactica_Project](https://github.com/ARKXWOLFQC/Tactica_Project)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The Real Prject
-
-- **[Belkins/cost-guardian](https://github.com/Belkins/cost-guardian)** ⭐ 1
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Real-time budget enforcement, cost tracking, and optimization for Claude Code
-
-- **[armar7703-prog/DIGISERV-CAMEROUN](https://github.com/armar7703-prog/DIGISERV-CAMEROUN)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  This project serves as a reference and the website provides extended information.
 
 ### 📈 Weekly Trending
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,343
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,423
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 2,511
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 2,733
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 1,964
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 2,418
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 891
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 1,029
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 868
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,010
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 772
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 922
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 824
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 741
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 744
   ![Python](https://img.shields.io/badge/-Python-blue)
   My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 
-- **[QwenLM/Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding)** ⭐ 624
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,793
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,807
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,280
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,383
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,165
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,207
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,697
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,949
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,608
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,631
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,749
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,850
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,256
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,289
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,243
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,246
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
@@ -486,8 +486,8 @@ for a semver-minor rele...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
 | Go | 🔴 Beginner |
 
@@ -495,11 +495,11 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
@@ -507,18 +507,18 @@ for a semver-minor rele...
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -527,17 +527,17 @@ for a semver-minor rele...
 |-------|--------|
 | Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
