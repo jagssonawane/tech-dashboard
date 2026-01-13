@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 12, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 13, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,74 +46,76 @@
 
 ### 📑 Hacker News
 
-- **[Postal Arbitrage](https://walzr.com/postal-arbitrage)**
-  *<p>Article URL: <a href="https://walzr.com/postal-arbitrage">https://walzr.com/postal-arbitrage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46591708">https://news.ycombinato...*
-  📅 Mon, 12 Jan 2026 17:41:50 +0000
+- **[Interview Coder Just Leaked Full Names and Companies of All SWEs Who Cheated [video]](https://www.youtube.com/watch?v=8T1vW85xFiQ)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=8T1vW85xFiQ">https://www.youtube.com/watch?v=8T1vW85xFiQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46595583">https...*
+  📅 Mon, 12 Jan 2026 23:26:35 +0000
 
-- **[Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)**
-  *<p>Article URL: <a href="https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html">https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html</a></p>
-<p>Comments UR...*
-  📅 Mon, 12 Jan 2026 17:17:09 +0000
+- **[Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)**
+  *<p>Article URL: <a href="https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/">https://arstechnica.com/ai/2026/01/google-removes-some-a...*
+  📅 Mon, 12 Jan 2026 23:05:04 +0000
 
-- **[Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)**
-  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46591170">https://news.ycombinator.com/item?id=46591170</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>...*
-  📅 Mon, 12 Jan 2026 17:00:48 +0000
+- **[F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer">https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer</a></p>
+<p>Comments URL: <a href...*
+  📅 Mon, 12 Jan 2026 22:30:33 +0000
 
-- **[Show HN: AI in SolidWorks](https://www.trylad.com)**
-  *<p>Hey HN! We’re Will and Jorge, and we’ve built LAD (Language-Aided Design), a SolidWorks add-in that uses LLMs to create sketches, features, assemblies, and macros from conversational inputs (<a hre...*
-  📅 Mon, 12 Jan 2026 16:56:17 +0000
+- **[Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)**
+  *<p>Article URL: <a href="https://www.bellard.org/ts_zip/">https://www.bellard.org/ts_zip/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46593802">https://news.ycombinator.com/...*
+  📅 Mon, 12 Jan 2026 20:26:47 +0000
 
-- **[Building a 25 Gbit/s workstation for the SCION Association](https://github.com/scionassociation/blog-25gbit-workstation)**
-  *<p>Article URL: <a href="https://github.com/scionassociation/blog-25gbit-workstation">https://github.com/scionassociation/blog-25gbit-workstation</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Mon, 12 Jan 2026 16:20:16 +0000
+- **[The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=c0mLhHDcY3I">https://www.youtube.com/watch?v=c0mLhHDcY3I</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46593395">https...*
+  📅 Mon, 12 Jan 2026 19:57:37 +0000
 
-- **[TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)**
-  *<p>Article URL: <a href="https://github.com/haykgrigo3/TimeCapsuleLLM">https://github.com/haykgrigo3/TimeCapsuleLLM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46590280">htt...*
-  📅 Mon, 12 Jan 2026 16:04:27 +0000
+- **[Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)**
+  *<p>Article URL: <a href="https://claude.com/blog/cowork-research-preview">https://claude.com/blog/cowork-research-preview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4659302...*
+  📅 Mon, 12 Jan 2026 19:27:19 +0000
 
 ### 📑 TechCrunch
 
-- **[Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/)**
-  *Hackers gained access to some Betterment customers’ personal information through a social engineering attack, then targeted some of them with a crypto-related phishing message....*
-  📅 Mon, 12 Jan 2026 18:14:10 +0000
+- **[More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)**
+  *Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year....*
+  📅 Tue, 13 Jan 2026 01:00:00 +0000
 
-- **[Developers have made $550 billion on Apple’s App Store since 2008](https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/)**
-  *Apple says its services had a "record-breaking year," as Apple TV, Apple Music, and Apple Pay also soared....*
-  📅 Mon, 12 Jan 2026 17:39:25 +0000
+- **[OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/)**
+  *AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov....*
+  📅 Tue, 13 Jan 2026 00:04:19 +0000
 
-- **[Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/)**
-  *Apple and Google have embarked on a non-exclusive, multi-year partnership that will involve Apple using Gemini models and Google cloud technology for future foundational models....*
-  📅 Mon, 12 Jan 2026 17:12:41 +0000
+- **[Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)**
+  *We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year....*
+  📅 Tue, 13 Jan 2026 00:00:00 +0000
 
-- **[Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger](https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/)**
-  *Paramount has filed a lawsuit against Warner Bros. Discovery, demanding greater financial disclosure regarding Netflix's $82.7 billion acquisition....*
-  📅 Mon, 12 Jan 2026 17:06:12 +0000
+- **[Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/)**
+  *Amazon explains where its wearable Bee fits in and whether it will merge with Alexa....*
+  📅 Mon, 12 Jan 2026 21:55:44 +0000
 
-- **[A New Jersey lawsuit shows how hard it is to fight deepfake porn](https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/)**
-  *For more than two years, an app called ClothOff has been terrorizing young women online — and it’s been maddeningly difficult to stop. The app has been taken down from the two major app stores and it’...*
-  📅 Mon, 12 Jan 2026 16:34:53 +0000
+- **[Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/)**
+  *Meta is ramping up its efforts to build out its AI capacity — Zuckerberg said the company intended to drastically expand its energy footprint in the coming years....*
+  📅 Mon, 12 Jan 2026 21:44:43 +0000
 
-- **[Netflix had a huge night at the 2026 Golden Globes with 7 wins](https://techcrunch.com/2026/01/12/netflix-had-a-huge-night-at-the-2026-golden-globes-with-7-wins/)**
-  *As Netflix gears up to acquire Warner Bros., the streaming giant took home 7 awards at the Golden Globes last night....*
-  📅 Mon, 12 Jan 2026 16:12:49 +0000
+- **[Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal](https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/)**
+  *Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product....*
+  📅 Mon, 12 Jan 2026 20:48:21 +0000
 
 ### 📑 Dev.to
 
-- **[I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)**
-  *<p>Recently, I received an unsolicited email that initially seemed like a heartfelt plea for help but quickly revealed itself as a classic scam. By sharing my experience, I hope to educate others on r...*
-  📅 Mon, 12 Jan 2026 18:10:32 +0000
+- **[Stop Tab-Switching: Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)**
+  *<p>I'll show how your can get notified, on your phone and on your laptop when Claude Code needs your input to move on or when it finishes.</p>
 
-- **[[Boost]](https://dev.to/elizabethfuentes12/-4gd8)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/aws">
-    <div class="ltag__link__org__pic">
-      <img alt="AWS" height="500" src="https://media2.dev.to/dynamic/image/widt...*
-  📅 Mon, 12 Jan 2026 17:56:47 +0000
+<p>Below should be a quick and simple win already. A deb...*
+  📅 Tue, 13 Jan 2026 00:24:34 +0000
+
+- **[Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)**
+  *<p>You found the perfect influencer. Great engagement. Right niche. Perfect fit.</p>
+
+<p>Now what? Save their username in a Google Sheet? Forget about them in 3 days?</p>
+
+<p>In this tutorial, we'll b...*
+  📅 Tue, 13 Jan 2026 00:15:00 +0000
 
 </details>
 
@@ -121,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 69
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
-
-- **[Anarkh-Lee/resume-alchemist](https://github.com/Anarkh-Lee/resume-alchemist)** ⭐ 52
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一款基于 AI 的智能简历优化工具，帮助求职者打造更具竞争力的简历。通过 AI 分析、毒舌点评、STAR 法则润色和职位匹配等功能，让你的简历脱颖而出。
-
-- **[Handfish/talos-pilot](https://github.com/Handfish/talos-pilot)** ⭐ 37
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics
-
-- **[wallen0322/ComfyUI-qwenmultianglelight](https://github.com/wallen0322/ComfyUI-qwenmultianglelight)** ⭐ 34
+- **[Bydansx/app-peliculass](https://github.com/Bydansx/app-peliculass)** ⭐ 2
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  qwenmultianglelight
+  Aplicacion fin de semestre
 
-- **[mohammed840/RLM-implementation](https://github.com/mohammed840/RLM-implementation)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  RVAA: Recursive Vision-Action Agent for Long Video Understanding. Implementation of the RLM paradigm (Zhang, Kraska, Khattab 2025)
+- **[jorgemuchosnumeros/PeakVoiceRedirect](https://github.com/jorgemuchosnumeros/PeakVoiceRedirect)** ⭐ 2
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
 
-- **[liruifengv/amon-agent](https://github.com/liruifengv/amon-agent)** ⭐ 27
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Amon 是一个基于 Claude Agent SDK + Electron 构建的桌面 Agent 应用，可以作为 Claude Code 的可视化图形界面。目标是成为一个通用的 Agent 客户端。
-
-- **[UofTCTF/uoftctf-2026-chals-public](https://github.com/UofTCTF/uoftctf-2026-chals-public)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Challenge handouts, source code, and solutions for UofTCTF 2026
-
-- **[Upsonic/awesome-ucp](https://github.com/Upsonic/awesome-ucp)** ⭐ 19
+- **[DevZRX/r6-Arctic](https://github.com/DevZRX/r6-Arctic)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, and implementations.
+  None
+
+- **[psychoplath9450/SUMI](https://github.com/psychoplath9450/SUMI)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  SUMI firmware for the Xteink X4
+
+- **[HenryWijaya-A100/Latihan-git2](https://github.com/HenryWijaya-A100/Latihan-git2)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Repository untuk latihan Git remote, branch, dan kolaborasi tim.
+
+- **[ARKXWOLFQC/Tactica_Project](https://github.com/ARKXWOLFQC/Tactica_Project)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The Real Prject
+
+- **[Belkins/cost-guardian](https://github.com/Belkins/cost-guardian)** ⭐ 1
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Real-time budget enforcement, cost tracking, and optimization for Claude Code
+
+- **[armar7703-prog/DIGISERV-CAMEROUN](https://github.com/armar7703-prog/DIGISERV-CAMEROUN)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** ⭐ 4,103
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
-
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,219
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 3,343
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 2,227
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 2,511
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 1,697
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 1,964
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[ophub/fnnas](https://github.com/ophub/fnnas)** ⭐ 1,614
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-
-- **[dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)** ⭐ 1,168
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Give Claude Code an external monitor
-
-- **[x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)** ⭐ 938
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 842
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 891
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-### 📈 Monthly Trending
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 868
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Write like a high-level language, run like C.
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,783
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Why is this running?
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 772
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,251
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 741
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+
+- **[QwenLM/Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding)** ⭐ 624
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,137
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,793
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,280
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,165
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,637
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 7,697
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,590
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,608
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,715
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 5,749
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,238
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,256
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,236
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,243
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
@@ -483,18 +485,18 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
@@ -503,39 +505,39 @@ for a semver-minor rele...
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -553,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 12, 2026
+**Last Updated:** January 13, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
