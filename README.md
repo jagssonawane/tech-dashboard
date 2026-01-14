@@ -46,37 +46,41 @@
 
 ### 📑 Hacker News
 
+- **[Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist](https://www.coveragecat.com/careers/operations/fractional-operations-specialist)**
+  *<p>Article URL: <a href="https://www.coveragecat.com/careers/operations/fractional-operations-specialist">https://www.coveragecat.com/careers/operations/fractional-operations-specialist</a></p>
+<p>Com...*
+  📅 Wed, 14 Jan 2026 12:00:11 +0000
+
+- **[UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)**
+  *<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cn9zyx150xdo">https://www.bbc.co.uk/news/articles/cn9zyx150xdo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614...*
+  📅 Wed, 14 Jan 2026 11:21:15 +0000
+
+- **[Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)**
+  *<p>Article URL: <a href="https://github.com/CompassMB/MBCompass">https://github.com/CompassMB/MBCompass</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614688">https://news.yc...*
+  📅 Wed, 14 Jan 2026 11:09:35 +0000
+
+- **[I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)**
+  *<p>Article URL: <a href="https://xlii.space/eng/i-hate-github-actions-with-passion/">https://xlii.space/eng/i-hate-github-actions-with-passion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Wed, 14 Jan 2026 10:53:13 +0000
+
+- **[I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)**
+  *<p>Article URL: <a href="https://www.simplethread.com/redis-solidqueue/">https://www.simplethread.com/redis-solidqueue/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46614037"...*
+  📅 Wed, 14 Jan 2026 09:25:58 +0000
+
 - **[1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)**
   *<p>Article URL: <a href="https://en.wikipedia.org/wiki/1000_Blank_White_Cards">https://en.wikipedia.org/wiki/1000_Blank_White_Cards</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?...*
   📅 Wed, 14 Jan 2026 03:08:37 +0000
 
-- **[The Gleam Programming Language](https://gleam.run/)**
-  *<p>Article URL: <a href="https://gleam.run/">https://gleam.run/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611667">https://news.ycombinator.com/item?id=46611667</a></p>
-<...*
-  📅 Wed, 14 Jan 2026 02:49:25 +0000
-
-- **[Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)**
-  *<p>Article URL: <a href="https://tidepool.leaflet.pub/3mcbegnuf2k2i">https://tidepool.leaflet.pub/3mcbegnuf2k2i</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611550">https:/...*
-  📅 Wed, 14 Jan 2026 02:29:08 +0000
-
-- **[Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)**
-  *<p>Article URL: <a href="https://github.com/OxidizeLabs/cachekit">https://github.com/OxidizeLabs/cachekit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611548">https://news....*
-  📅 Wed, 14 Jan 2026 02:28:52 +0000
-
-- **[ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)**
-  *<p>Article URL: <a href="https://caidan.dev/portfolio/ascii_clouds/">https://caidan.dev/portfolio/ascii_clouds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611507">https:/...*
-  📅 Wed, 14 Jan 2026 02:20:42 +0000
-
-- **[Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)**
-  *<p>Hi HN,<p>I built an open-source AI agent that has already indexed and can search the entire Epstein files, roughly 100M words of publicly released documents.<p>The goal was simple: make a large, me...*
-  📅 Wed, 14 Jan 2026 01:56:52 +0000
-
 ### 📑 TechCrunch
+
+- **[SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/)**
+  *The Austin-based marketplace offers imagery from more than 50 space-based imagery providers....*
+  📅 Wed, 14 Jan 2026 11:30:00 +0000
 
 - **[New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)**
   *New York City will be a notable exclusion from proposed legislation to legalize commercial robotaxis across the state....*
@@ -98,22 +102,17 @@
   *AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”...*
   📅 Tue, 13 Jan 2026 19:05:49 +0000
 
-- **[Man to plead guilty to hacking US Supreme Court filing system](https://techcrunch.com/2026/01/13/man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/)**
-  *A 24-year-old from Tennessee is expected to admit to accessing the Supreme Court’s electronic filing system without authorization dozens of times throughout 2023....*
-  📅 Tue, 13 Jan 2026 19:04:38 +0000
-
 ### 📑 Dev.to
 
-- **[CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)**
-  *<div class="crayons-card c-embed text-styles text-styles--secondary">
-    <div class="c-embed__content">
-        <div class="c-embed__cover">
-          <a class="c-link align-middle" href="https://www...*
-  📅 Wed, 14 Jan 2026 06:13:02 +0000
+- **[Why My Node.js E-commerce App Got Slower Over Time (And It Wasn’t a Memory Leak)](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)**
+  *<p>I recently finished a Node.js e-commerce build for a client. At first, it was perfect. Locally, everything was snappy. With 10 items in the database, the site felt like it was flying.</p>
 
-- **[The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)**
-  *<p><strong>TL;DR:</strong> Stop console.logging your cart state. Shopify Theme Devtools gives you a visual cart inspector, history tracking, test automation, and scenario management—all in your browse...*
-  📅 Wed, 14 Jan 2026 06:12:54 +0000
+<p>Then ...*
+  📅 Wed, 14 Jan 2026 12:26:32 +0000
+
+- **[Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)**
+  *<p><strong>API gateway</strong> integrations connect the gateway to various backend services, such as Lambda functions, HTTP/S endpoints, or other cloud services. The specific integration types and co...*
+  📅 Wed, 14 Jan 2026 12:25:14 +0000
 
 </details>
 
@@ -121,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[xieyan110/Novel2Comic](https://github.com/xieyan110/Novel2Comic)** ⭐ 44
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** ⭐ 34
+- **[ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** ⭐ 104
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Transcripts from Lenny's Podcast
 
-- **[AGDNoob/axis-lang](https://github.com/AGDNoob/axis-lang)** ⭐ 12
+- **[xieyan110/Novel2Comic](https://github.com/xieyan110/Novel2Comic)** ⭐ 69
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[xuzeyu91/WebCode](https://github.com/xuzeyu91/WebCode)** ⭐ 51
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  WebCode是一个在线 AI 编程平台，让你可以通过 Web 浏览器远程控制各种 AI CLI (Claude Code\Codex)编程助手，实现真正的随时随地编程——无论你在地铁上、咖啡馆里，还是躺在沙发上，只要有浏览器就能写代码！
+
+- **[rotejin/MotionPNGTuber_Player](https://github.com/rotejin/MotionPNGTuber_Player)** ⭐ 24
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Browser-based PNGTuber lipsync player - No Python required
+
+- **[linlee996/gemini-business](https://github.com/linlee996/gemini-business)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  集成了 google business 批量注册、Token 刷新、2API 的服务
+
+- **[agent-topia/evolving_personality](https://github.com/agent-topia/evolving_personality)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Jungian Personality Adaptation Framework (JPAF) —A Structured Approach to Dynamic Personality Modeling for LLM Agents
+
+- **[AGDNoob/axis-lang](https://github.com/AGDNoob/axis-lang)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
   Systems programming language with Python-like syntax and C-level performance. Compiles to native x86-64 machine code without external dependencies.
 
-- **[supermeo-studio/glm-switch](https://github.com/supermeo-studio/glm-switch)** ⭐ 10
+- **[frankpetersohn/ITKlasse2025](https://github.com/frankpetersohn/ITKlasse2025)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[ThePrimeagen/theprimeage-com](https://github.com/ThePrimeagen/theprimeage-com)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[hariprasanth-jcode/Core-java-notes](https://github.com/hariprasanth-jcode/Core-java-notes)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[physgun-com/hytale-sourcequery](https://github.com/physgun-com/hytale-sourcequery)** ⭐ 4
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A simple Hytale plugin to add A2S/SourceQuery support!
-
-- **[reqwaaaaa/SEP](https://github.com/reqwaaaaa/SEP)** ⭐ 3
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  校企慧公共服务平台
+  Übungen zu Git
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 3,908
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 4,347
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,433
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,600
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 1,845
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,029
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,521
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,570
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Write like a high-level language, run like C.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,210
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,337
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,069
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,095
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 925
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 962
   ![Python](https://img.shields.io/badge/-Python-blue)
   Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
-- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 764
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 769
   ![Python](https://img.shields.io/badge/-Python-blue)
   My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,860
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,883
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,652
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,729
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,499
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,643
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,364
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,436
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,875
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,937
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,188
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,259
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,418
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,475
   ![Python](https://img.shields.io/badge/-Python-blue)
   Specification and documentation for Agent Skills
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,272
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,280
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
@@ -489,21 +488,21 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
 | JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
@@ -511,37 +510,37 @@ lib:
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
