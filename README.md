@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 15 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,33 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer">https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-in...*
-  📅 Wed, 14 Jan 2026 01:01:12 +0000
+- **[1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/1000_Blank_White_Cards">https://en.wikipedia.org/wiki/1000_Blank_White_Cards</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Wed, 14 Jan 2026 03:08:37 +0000
 
-- **[The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)**
-  *<p>This afternoon I posted some tips on how to present a new* programming language to HN: <a href="https://news.ycombinator.com/item?id=46608577">https://news.ycombinator.com/item?id=46608577</a>. It ...*
-  📅 Wed, 14 Jan 2026 00:17:19 +0000
+- **[The Gleam Programming Language](https://gleam.run/)**
+  *<p>Article URL: <a href="https://gleam.run/">https://gleam.run/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611667">https://news.ycombinator.com/item?id=46611667</a></p>
+<...*
+  📅 Wed, 14 Jan 2026 02:49:25 +0000
 
-- **[A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)**
-  *<p>Article URL: <a href="https://questdb.com/blog/jvm-current-thread-user-time/">https://questdb.com/blog/jvm-current-thread-user-time/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 13 Jan 2026 23:00:36 +0000
+- **[Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)**
+  *<p>Article URL: <a href="https://tidepool.leaflet.pub/3mcbegnuf2k2i">https://tidepool.leaflet.pub/3mcbegnuf2k2i</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611550">https:/...*
+  📅 Wed, 14 Jan 2026 02:29:08 +0000
 
-- **[The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html)**
-  *<p>Article URL: <a href="https://lewiscampbell.tech/blog/260114.html">https://lewiscampbell.tech/blog/260114.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46609591">https...*
-  📅 Tue, 13 Jan 2026 22:57:23 +0000
+- **[Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)**
+  *<p>Article URL: <a href="https://github.com/OxidizeLabs/cachekit">https://github.com/OxidizeLabs/cachekit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611548">https://news....*
+  📅 Wed, 14 Jan 2026 02:28:52 +0000
 
-- **[EOL hardware should mean open-source software](https://www.marcia.no/words/eol)**
-  *<p>Article URL: <a href="https://www.marcia.no/words/eol">https://www.marcia.no/words/eol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46609492">https://news.ycombinator.com/...*
-  📅 Tue, 13 Jan 2026 22:49:51 +0000
+- **[ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)**
+  *<p>Article URL: <a href="https://caidan.dev/portfolio/ascii_clouds/">https://caidan.dev/portfolio/ascii_clouds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611507">https:/...*
+  📅 Wed, 14 Jan 2026 02:20:42 +0000
 
-- **[Show HN: AsciiSketch a free browser-based ASCII art and diagram editor](https://files.littlebird.com.au/ascii-sketch.html)**
-  *<p>Article URL: <a href="https://files.littlebird.com.au/ascii-sketch.html">https://files.littlebird.com.au/ascii-sketch.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=466...*
-  📅 Tue, 13 Jan 2026 22:39:34 +0000
+- **[Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)**
+  *<p>Hi HN,<p>I built an open-source AI agent that has already indexed and can search the entire Epstein files, roughly 100M words of publicly released documents.<p>The goal was simple: make a large, me...*
+  📅 Wed, 14 Jan 2026 01:56:52 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +104,16 @@
 
 ### 📑 Dev.to
 
-- **[Claude Code Experiment: More Tokens Doesn't Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l)**
-  *<p>As we kick off the new year, many companies are full speed ahead on leveraging AI tooling for productivity. In fact, some companies are looking at token usage as a way to assess AI adoption and pro...*
-  📅 Wed, 14 Jan 2026 01:05:10 +0000
+- **[CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)**
+  *<div class="crayons-card c-embed text-styles text-styles--secondary">
+    <div class="c-embed__content">
+        <div class="c-embed__cover">
+          <a class="c-link align-middle" href="https://www...*
+  📅 Wed, 14 Jan 2026 06:13:02 +0000
 
-- **[Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h)**
-  *<h2>
-  
-  
-  TL;DR
-</h2>
-
-<p>If you're getting <code>mount.nfs4: access denied by server while mounting 127.0.0.1:/</code> when mounting EFS volumes in EKS, and your security groups are correct, you'r...*
-  📅 Wed, 14 Jan 2026 00:57:48 +0000
+- **[The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)**
+  *<p><strong>TL;DR:</strong> Stop console.logging your cart state. Shopify Theme Devtools gives you a visual cart inspector, history tracking, test automation, and scenario management—all in your browse...*
+  📅 Wed, 14 Jan 2026 06:12:54 +0000
 
 </details>
 
@@ -122,37 +121,105 @@
 
 ### 📈 Daily Trending
 
-- **[ThePrimeagen/theprimeage-com](https://github.com/ThePrimeagen/theprimeage-com)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[franciscohermida/human-ai-loop](https://github.com/franciscohermida/human-ai-loop)** ⭐ 2
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  None
-
-- **[gwcromwell/Fridgedog](https://github.com/gwcromwell/Fridgedog)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Dog tracking app
-
-- **[Zemerik/Gemini-Assist](https://github.com/Zemerik/Gemini-Assist)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI Assistant CLI tool powered by Google Gemini API (50% JS, 50% Rust)
-
-- **[nnjhaaz-gif/Mmn](https://github.com/nnjhaaz-gif/Mmn)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Amidsty/LemonCpp2](https://github.com/Amidsty/LemonCpp2)** ⭐ 1
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  the 2rd generation of wangyizhi's LemonCpp.
-
-- **[CUNRENHUI/-](https://github.com/CUNRENHUI/-)** ⭐ 1
+- **[xieyan110/Novel2Comic](https://github.com/xieyan110/Novel2Comic)** ⭐ 44
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[mygoldenhub/react-notion](https://github.com/mygoldenhub/react-notion)** ⭐ 1
+- **[ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Transcripts from Lenny's Podcast
+
+- **[AGDNoob/axis-lang](https://github.com/AGDNoob/axis-lang)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Systems programming language with Python-like syntax and C-level performance. Compiles to native x86-64 machine code without external dependencies.
+
+- **[supermeo-studio/glm-switch](https://github.com/supermeo-studio/glm-switch)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[ThePrimeagen/theprimeage-com](https://github.com/ThePrimeagen/theprimeage-com)** ⭐ 5
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
+
+- **[hariprasanth-jcode/Core-java-notes](https://github.com/hariprasanth-jcode/Core-java-notes)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[physgun-com/hytale-sourcequery](https://github.com/physgun-com/hytale-sourcequery)** ⭐ 4
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A simple Hytale plugin to add A2S/SourceQuery support!
+
+- **[reqwaaaaa/SEP](https://github.com/reqwaaaaa/SEP)** ⭐ 3
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  校企慧公共服务平台
+
+### 📈 Weekly Trending
+
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 3,908
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,433
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Random digital audio effects
+
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 1,845
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
+
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 1,521
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Write like a high-level language, run like C.
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,210
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,069
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+
+- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 925
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+
+- **[jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)** ⭐ 764
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+
+### 📈 Monthly Trending
+
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,860
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Why is this running?
+
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,652
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 8,499
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,364
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 6,875
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,188
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Obsidian
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)** ⭐ 5,418
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Specification and documentation for Agent Skills
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,272
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Public repository of the Micro QuickJS Javascript Engine
 
 ## 🚀 Latest Releases
 
@@ -424,57 +491,57 @@ lib:
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
