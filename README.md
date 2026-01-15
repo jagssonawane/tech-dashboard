@@ -46,82 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)**
-  *<p>Article URL: <a href="https://jiga.io/about-us">https://jiga.io/about-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46631276">https://news.ycombinator.com/item?id=466312...*
-  📅 Thu, 15 Jan 2026 12:00:37 +0000
+- **[Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)**
+  *<p>Meaning attaching old SCSI drives to modern Macs, not putting SSDs into old Macs.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46636571">https://news.ycombinator.com/it...*
+  📅 Thu, 15 Jan 2026 18:04:59 +0000
 
-- **[Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)**
-  *<p>Article URL: <a href="https://e360.yale.edu/digest/china-renewable-photo-essay">https://e360.yale.edu/digest/china-renewable-photo-essay</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 15 Jan 2026 09:54:10 +0000
+- **[Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)**
+  *<p>Article URL: <a href="https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/">https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sover...*
+  📅 Thu, 15 Jan 2026 17:55:59 +0000
 
-- **[Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)**
-  *<p>Article URL: <a href="https://adamj.eu/tech/2026/01/14/python-introducing-tprof/">https://adamj.eu/tech/2026/01/14/python-introducing-tprof/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 15 Jan 2026 09:00:47 +0000
+- **[CVEs Affecting the Svelte Ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)**
+  *<p>Article URL: <a href="https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem">https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Thu, 15 Jan 2026 17:51:24 +0000
 
-- **[Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer">https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer<...*
-  📅 Thu, 15 Jan 2026 08:59:27 +0000
+- **[US Threatens UK over Grok Investigation Because Only the US Can Ban Foreign Apps](https://www.techdirt.com/2026/01/15/state-department-threatens-uk-over-grok-investigation-because-only-the-us-is-allowed-to-ban-foreign-apps/)**
+  *<p>Article URL: <a href="https://www.techdirt.com/2026/01/15/state-department-threatens-uk-over-grok-investigation-because-only-the-us-is-allowed-to-ban-foreign-apps/">https://www.techdirt.com/2026/01...*
+  📅 Thu, 15 Jan 2026 17:48:12 +0000
 
-- **[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)**
-  *<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/">https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 15 Jan 2026 08:23:02 +0000
+- **[Please Let Me Read – The Web Was Once Good:(](https://github.com/subranag/declutter)**
+  *<p>Article URL: <a href="https://github.com/subranag/declutter">https://github.com/subranag/declutter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46636251">https://news.ycom...*
+  📅 Thu, 15 Jan 2026 17:41:41 +0000
 
-- **[A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)**
-  *<p>Article URL: <a href="https://passo.uno/letter-those-who-fired-tech-writers-ai/">https://passo.uno/letter-those-who-fired-tech-writers-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Thu, 15 Jan 2026 07:58:23 +0000
+- **[Italy's privacy watchdog, scourge of US big tech, hit by corruption probe](https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/)**
+  *<p>Article URL: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/">https://www.reuters.com/sustai...*
+  📅 Thu, 15 Jan 2026 17:35:53 +0000
 
 ### 📑 TechCrunch
 
-- **[After Italy, WhatsApp excludes Brazil from rival chatbot ban](https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/)**
-  *WhatsApp is allowing AI providers to continue offering their chatbots to users in Brazil, days after the country's competition agency ordered the company to suspend its new policy that bars third-part...*
-  📅 Thu, 15 Jan 2026 12:23:07 +0000
+- **[The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/)**
+  *The Trump administration formalized its 25% cut of H200 chip sales in China with a tariff that applies to certain semiconductors....*
+  📅 Thu, 15 Jan 2026 16:56:20 +0000
 
-- **[Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests](https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/)**
-  *EtherealX is ramping engine tests and building a 150-acre rocket campus in India as it targets a 2027 launch mission....*
-  📅 Thu, 15 Jan 2026 12:00:00 +0000
+- **[OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs](https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/)**
+  *Merge Labs is a “research lab” dedicated to “bridging biological and artificial intelligence to maximize human ability.” OpenAI wrote the largest check in Merge Labs' $250 million seed round at an $85...*
+  📅 Thu, 15 Jan 2026 16:31:00 +0000
 
-- **[Microsoft taps India’s Varaha for durable carbon removal offtake](https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/)**
-  *Microsoft is buying over 100,000 tons of carbon dioxide removal credits from India's Varaha over the next three years....*
-  📅 Thu, 15 Jan 2026 09:30:00 +0000
+- **[Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/)**
+  *The AI partnerships allow companies to access the org's content, like Wikipedia, at scale....*
+  📅 Thu, 15 Jan 2026 15:19:05 +0000
 
-- **[Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/)**
-  *The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive....*
-  📅 Thu, 15 Jan 2026 02:16:37 +0000
+- **[How one startup is using prebiotics to try and ease the copper shortage](https://techcrunch.com/2026/01/15/how-one-startup-is-using-prebiotics-to-try-and-ease-the-copper-shortage/)**
+  *Transition Metal Solutions is applying a special cocktail to coax microbes into unlocking more copper from ore....*
+  📅 Thu, 15 Jan 2026 15:00:00 +0000
 
-- **[The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)**
-  *The order, first proposed a year ago, bans GM from collecting and then selling geolocation data to third parties, like data brokers and insurance companies....*
-  📅 Thu, 15 Jan 2026 00:27:54 +0000
+- **[US senators demand answers from X, Meta, Alphabet, and others on sexualized deepfakes](https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/)**
+  *In a letter to the leaders of X, Meta, Alphabet, Snap, Reddit, and TikTok, several U.S. senators are demanding the companies provide proof that they have "robust protections and policies" in place, an...*
+  📅 Thu, 15 Jan 2026 15:00:00 +0000
 
-- **[India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/)**
-  *Emversity has raised $30 million in a new round as it scales job-ready training in India....*
-  📅 Thu, 15 Jan 2026 00:04:46 +0000
+- **[Spotify raises its subscription prices in the U.S. again](https://techcrunch.com/2026/01/15/spotify-raises-its-subscription-prices-in-the-u-s-again/)**
+  *Spotify's new price for its individual plan is $12.99 per month...*
+  📅 Thu, 15 Jan 2026 14:32:12 +0000
 
 ### 📑 Dev.to
 
-- **[Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)**
+- **[Designing Blockchain #4: Merkle Trees and State Verification](https://dev.to/dmytro_svynarenko/designing-blockchain-4-merkle-trees-and-state-verification-15i8)**
   *<h2>
   
   
-  Introduction
+  Intro
 </h2>
 
-<p>After completing my first logic-focused project (Counters), I wanted to take the next natural step in complexity — not by improving the UI, but by challenging my th...*
-  📅 Thu, 15 Jan 2026 12:08:00 +0000
+<p>In the <a href="https://dev.to/dmytro_svynarenko/designing-blockchain-3-cryptography-and-wallets-153h">previous article</a>, we secured our Fleming blockchain by implement...*
+  📅 Thu, 15 Jan 2026 18:16:10 +0000
 
-- **[Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)**
-  *<h3>
-  
-  
-  🚀 Executive Summary
-</h3>
+- **[🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-i3o)**
+  *<p>Made a New Year's resolution to learn something new? We've got you covered!</p>
 
-<p><strong>TL;DR:</strong> When Cloudflare appears down, first verify the outage source through official status pages and local diagnostics before panicking. So...*
-  📅 Thu, 15 Jan 2026 12:00:30 +0000
+<p>Back in December, our team turned the holidays into a developer advent calendar, unwrapping a different Amazon to...*
+  📅 Thu, 15 Jan 2026 18:11:51 +0000
 
 </details>
 
@@ -129,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[DChristopher1buw/eip1559](https://github.com/DChristopher1buw/eip1559)** ⭐ 70
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This GitHub repository provides supporting materials associated with this work. 
-
-- **[BRobert8sak/sniper](https://github.com/BRobert8sak/sniper)** ⭐ 69
+- **[BRobert8sak/sniper](https://github.com/BRobert8sak/sniper)** ⭐ 189
   ![None](https://img.shields.io/badge/-None-lightgrey)
   This repository includes basic resources associated with this work. 
 
-- **[DWilliam3kel/pool](https://github.com/DWilliam3kel/pool)** ⭐ 68
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The repository serves as a supporting resource and the website offers extended information.
-
-- **[CRichard7jew/searcher](https://github.com/CRichard7jew/searcher)** ⭐ 68
+- **[CRichard7jew/searcher](https://github.com/CRichard7jew/searcher)** ⭐ 188
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Further documentation is available on the corresponding project website. 
 
-- **[CRichard1bat/logs](https://github.com/CRichard1bat/logs)** ⭐ 68
+- **[BRichard5tim/arbitrage](https://github.com/BRichard5tim/arbitrage)** ⭐ 187
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  This GitHub repository contains general resources related to this work. 
+  This project acts as a reference while the website offers extended context.
 
-- **[BBrian7suy/ethereum](https://github.com/BBrian7suy/ethereum)** ⭐ 68
+- **[BJames4von/defi](https://github.com/BJames4von/defi)** ⭐ 183
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This project acts as a reference while the website provides more complete context.
+
+- **[CDonald0zoz/explorer](https://github.com/CDonald0zoz/explorer)** ⭐ 183
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Further details can be found on the corresponding web page. 
+
+- **[DChristopher1buw/eip1559](https://github.com/DChristopher1buw/eip1559)** ⭐ 183
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This GitHub repository provides supporting materials associated with this work. 
+
+- **[BKenneth5pab/staking](https://github.com/BKenneth5pab/staking)** ⭐ 181
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  This repository includes general files related to this work. 
+
+- **[BBrian7suy/ethereum](https://github.com/BBrian7suy/ethereum)** ⭐ 182
   ![None](https://img.shields.io/badge/-None-lightgrey)
   This project provides supporting materials related to the project. 
 
-- **[BRichard2yiv/mempool](https://github.com/BRichard2yiv/mempool)** ⭐ 68
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Further details is available via the related website. 
-
-- **[RJames6bed/ethereum-audit](https://github.com/RJames6bed/ethereum-audit)** ⭐ 68
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This repository contains general files related to the project. 
-
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 5,727
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 5,999
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,819
+- **[torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)** ⭐ 3,836
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Random digital audio effects
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,617
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Write like a high-level language, run like C.
-
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,397
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
-
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 2,164
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 2,947
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,678
+- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,651
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Write like a high-level language, run like C.
+
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,450
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 1,870
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,196
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,235
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
-- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,177
+- **[Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)** ⭐ 1,195
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
 
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,936
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 10,952
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,067
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,171
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,941
+- **[2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)** ⭐ 8,975
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,671
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,716
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,064
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,088
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,457
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,496
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 5,727
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 5,999
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,297
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,301
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
@@ -497,57 +492,57 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
