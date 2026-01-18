@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 17, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 18, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,34 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)**
-  *<p>Hey Hacker News 
-The ones that know me here know that I am a productivity geek.<p>After DockFlow to manage my Dock and ExtraDock, which gives me more space to manage my apps and files, I decided to...*
-  📅 Sat, 17 Jan 2026 17:31:21 +0000
+- **[IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)**
+  *<p>Article URL: <a href="https://polysoftit.co.uk/irisc-web/">https://polysoftit.co.uk/irisc-web/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46663467">https://news.ycombina...*
+  📅 Sun, 18 Jan 2026 00:05:02 +0000
 
-- **[2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)**
-  *<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record">https://www.economist.com/science-and-technology/2026/01/14/2025-was-the...*
-  📅 Sat, 17 Jan 2026 17:29:31 +0000
+- **[OpenAI could reportedly run out of cash by mid-2027](https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances">http...*
+  📅 Sat, 17 Jan 2026 23:47:45 +0000
 
-- **[An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)**
-  *<p>Article URL: <a href="https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm">https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-s...*
-  📅 Sat, 17 Jan 2026 16:53:24 +0000
+- **[If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)**
+  *<p>Article URL: <a href="https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1">https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sat, 17 Jan 2026 23:47:16 +0000
 
-- **[The Resonant Computing Manifesto](https://resonantcomputing.org/)**
-  *<p>Article URL: <a href="https://resonantcomputing.org/">https://resonantcomputing.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46659456">https://news.ycombinator.com/it...*
-  📅 Sat, 17 Jan 2026 16:43:59 +0000
+- **[Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)**
+  *<p>Article URL: <a href="https://willhbr.net/2025/10/20/light-mode-infffffflation/">https://willhbr.net/2025/10/20/light-mode-infffffflation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sat, 17 Jan 2026 22:19:25 +0000
 
-- **[Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/">https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-...*
-  📅 Sat, 17 Jan 2026 16:17:58 +0000
+- **[Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)**
+  *<p>ChunkHound’s goal is simple: local-first codebase intelligence that helps you pull deep, core-dev-level insights on demand, generate always-up-to-date docs, and scale from small repos to enterprise...*
+  📅 Sat, 17 Jan 2026 21:03:52 +0000
 
-- **[Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)**
-  *<p>Article URL: <a href="https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/">https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sat, 17 Jan 2026 16:15:32 +0000
+- **[A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)**
+  *<p>Article URL: <a href="https://github.com/kip-dili/kip">https://github.com/kip-dili/kip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46661897">https://news.ycombinator.com/...*
+  📅 Sat, 17 Jan 2026 20:44:52 +0000
 
 ### 📑 TechCrunch
+
+- **[Who gets to inherit the stars? A space ethicist on what we’re not talking about](https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/)**
+  *While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it’s worth remembering there are no oceans or mountains or chirpy birds i...*
+  📅 Sat, 17 Jan 2026 22:45:09 +0000
 
 - **[Trump administration’s legal setbacks are good news for offshore wind — and the grid](https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/)**
   *Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's actions....*
@@ -95,19 +100,29 @@ The ones that know me here know that I am a productivity geek.<p>After DockFlow 
   *The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike....*
   📅 Fri, 16 Jan 2026 23:21:24 +0000
 
-- **[Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/)**
-  *The $400 million round was led by Dragoneer....*
-  📅 Fri, 16 Jan 2026 22:05:08 +0000
-
 ### 📑 Dev.to
 
-- **[I Checked My Phone 47 Times Yesterday. Here's What I'm Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)**
-  *<p>I checked my phone 47 times yesterday. Gained nothing. Lost everything. Cal Newport calls social media 'the new cigarettes.' He's right. And like any addiction, the first step is admitting you have...*
-  📅 Sat, 17 Jan 2026 18:17:07 +0000
+- **[How I Built a Donation Website in 8 Hours (And Why)](https://dev.to/masem/how-i-built-a-donation-website-in-8-hours-and-why-1ka9)**
+  *<h2>
+  
+  
+  The Mission
+</h2>
 
-- **[Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Sat, 17 Jan 2026 18:11:52 +0000
+<p>Yesterday, I built <a href="https://hoki.help" rel="noopener noreferrer">hoki.help</a> – a donation platform for HoKi NÖ, a children's hospice organization in Lower ...*
+  📅 Sun, 18 Jan 2026 00:33:21 +0000
+
+- **[**Title:** LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard's Compensation](https://dev.to/yagyaraj_sharma_6cd410179/title-la-clippers-owner-steve-ballmer-faces-fraud-allegations-over-kawhi-leonards-compensation-2opp)**
+  *<h2>
+  
+  
+  <strong>Title:</strong> LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard's Compensation
+</h2>
+
+<p><strong>Introduction:</strong></p>
+
+<p>The world of professiona...*
+  📅 Sun, 18 Jan 2026 00:28:09 +0000
 
 </details>
 
@@ -115,99 +130,99 @@ The ones that know me here know that I am a productivity geek.<p>After DockFlow 
 
 ### 📈 Daily Trending
 
-- **[PDaniel6rih/rpc-monitor](https://github.com/PDaniel6rih/rpc-monitor)** ⭐ 173
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The repository serves as a supporting resource and the online source offers more complete context.
+- **[harisraja123/LLM-SAAS-Data-Flow-Visibility](https://github.com/harisraja123/LLM-SAAS-Data-Flow-Visibility)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Open-source tool for visualising how data flows through SaaS tools and LLM features, surfacing potential AI and data governance risks through transparent, explainable analysis.
 
-- **[JThomas7kek/nft-router](https://github.com/JThomas7kek/nft-router)** ⭐ 172
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Further information can be found on the related web page. 
+- **[TeamKOTOCA/d](https://github.com/TeamKOTOCA/d)** ⭐ 1
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Software for listing and moving folders.
 
-- **[DCharles8bec/cosmos-pool](https://github.com/DCharles8bec/cosmos-pool)** ⭐ 171
+- **[jellieware/samba-server-termux-android-setup-no-root](https://github.com/jellieware/samba-server-termux-android-setup-no-root)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Additional information is available on the associated website. 
+  Samba server tutorial for Android
 
-- **[WJason7mep/arbitrum-deploy](https://github.com/WJason7mep/arbitrum-deploy)** ⭐ 171
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This GitHub repository includes supporting resources associated with the project. 
+- **[metzoo10/java-app-gestionstock](https://github.com/metzoo10/java-app-gestionstock)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A Java application that update the product and sales management of a company. It's a school project.
 
-- **[VDavid5jes/erc1155](https://github.com/VDavid5jes/erc1155)** ⭐ 171
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project serves as a supporting resource and the website offers more complete information.
+- **[BynBangsAlts/CAFEBABE](https://github.com/BynBangsAlts/CAFEBABE)** ⭐ 1
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A work-in-progress bytecode manipulation framework
 
-- **[QJohn3koz/amm-router](https://github.com/QJohn3koz/amm-router)** ⭐ 171
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project acts as a supporting resource and the online source provides more complete context.
+- **[SSRData/look_at_me_salon](https://github.com/SSRData/look_at_me_salon)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  the first project to make live
 
-- **[ZSteven4mac/log-audit](https://github.com/ZSteven4mac/log-audit)** ⭐ 171
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project provides supporting files related to the project. 
+- **[miguel-b-p/mixtura](https://github.com/miguel-b-p/mixtura)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[JBrian7tum/bnb-parser](https://github.com/JBrian7tum/bnb-parser)** ⭐ 170
+- **[reyhan-injector/2.0](https://github.com/reyhan-injector/2.0)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project serves as a reference and the online source provides extended information.
+  Reyhan Injector Software v2.0
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,129
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,758
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,846
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[z-libs/Zen-C](https://github.com/z-libs/Zen-C)** ⭐ 2,767
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Write like a high-level language, run like C.
-
-- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,697
+- **[deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)** ⭐ 2,725
   ![Python](https://img.shields.io/badge/-Python-blue)
   Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,613
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,644
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
-- **[1rgs/nanocode](https://github.com/1rgs/nanocode)** ⭐ 1,409
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
-
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,241
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,262
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 1,102
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 1,179
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by OpenCode
 
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,130
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Openwork™ is the open source Al coworker that lives on your desktop
+
+- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 982
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 855
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
+
 ### 📈 Monthly Trending
 
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 11,028
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** ⭐ 11,042
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Why is this running?
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,640
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,670
+  ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,931
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 8,942
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,295
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,306
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,129
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,188
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,921
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 6,947
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,758
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 5,846
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
@@ -483,41 +498,41 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -526,16 +541,16 @@ lib:
 | Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -553,7 +568,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 17, 2026
+**Last Updated:** January 18, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
