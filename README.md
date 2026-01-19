@@ -46,33 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)**
-  *<p>Article URL: <a href="https://github.com/elC0mpa/aws-doctor">https://github.com/elC0mpa/aws-doctor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46675092">https://news.ycom...*
-  📅 Mon, 19 Jan 2026 04:35:05 +0000
+- **[Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)**
+  *<p>Hi HN,<p>I’m a co-founder building kacet, a new freelancing platform that connects freelancers and employers, with crypto as the core payment rail.<p>The problem I’m trying to solve is pretty famil...*
+  📅 Mon, 19 Jan 2026 11:00:31 +0000
 
-- **[CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)**
-  *<p>Article URL: <a href="https://www.patreon.com/posts/another-one-dust-148437771">https://www.patreon.com/posts/another-one-dust-148437771</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 19 Jan 2026 02:42:08 +0000
+- **[RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-k...*
+  📅 Mon, 19 Jan 2026 10:20:39 +0000
 
-- **[The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)**
-  *<p>Article URL: <a href="https://rijnard.com/blog/the-code-only-agent">https://rijnard.com/blog/the-code-only-agent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46674416">htt...*
-  📅 Mon, 19 Jan 2026 02:27:07 +0000
+- **[Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup">https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Mon, 19 Jan 2026 10:09:38 +0000
 
-- **[Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)**
-  *<p>Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. S...*
-  📅 Mon, 19 Jan 2026 00:50:20 +0000
+- **[Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community)**
+  *<p>Article URL: <a href="https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community">https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-...*
+  📅 Mon, 19 Jan 2026 09:33:50 +0000
 
-- **[High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cedw6ylpynyo">https://www.bbc.com/news/articles/cedw6ylpynyo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46673453"...*
-  📅 Sun, 18 Jan 2026 23:54:43 +0000
+- **[Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)**
+  *<p>Article URL: <a href="https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees">https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone...*
+  📅 Mon, 19 Jan 2026 08:23:04 +0000
 
-- **[Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)**
-  *<p>Hello all!<p>I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love.<p>A couple of months ago, Reddit user a...*
-  📅 Sun, 18 Jan 2026 21:10:08 +0000
+- **[A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)**
+  *<p>Article URL: <a href="https://bitchat.free/">https://bitchat.free/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46675853">https://news.ycombinator.com/item?id=46675853</a>...*
+  📅 Mon, 19 Jan 2026 07:14:19 +0000
 
 ### 📑 TechCrunch
 
@@ -102,21 +100,21 @@
 
 ### 📑 Dev.to
 
-- **[Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Mon, 19 Jan 2026 06:13:00 +0000
-
-- **[How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)**
+- **[Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)**
   *<h2>
   
   
-  How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform
+  Introdução
 </h2>
 
-<p><em>No Python. No complex orchestration. Just declarative configuration.</em></p>
+<p>Essa série será dividida em diversas postagens curtas, pois se eu for fazer postagens grandes, simplesmente não vou concluir. </p>
 
-<p>There are plenty of AI-...*
-  📅 Mon, 19 Jan 2026 06:07:11 +0000
+<p>Irei (tentar) abordar aqui os d...*
+  📅 Mon, 19 Jan 2026 12:25:10 +0000
+
+- **[❤️‍🔥 VIKRAM (32-bit) & DHRUV64 (64-bit): India’s Indigenous Processors for Space 🛰 and Defence 🔰](https://dev.to/hemant_007/vikram-32-bit-dhruv64-64-bit-indias-indigenous-processors-for-space-and-defence-1ap6)**
+  *<p>For decades ⏳, space 🚀 and defence 🛡️ systems around the world 🌏 have relied on a heterogeneous 🧽 mix of processors 🔳 each carefully chosen for determinism ♾️, reliability 💪, security 🔒, and lifecy...*
+  📅 Mon, 19 Jan 2026 12:24:17 +0000
 
 </details>
 
@@ -124,95 +122,95 @@
 
 ### 📈 Daily Trending
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 83
+- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 308
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-- **[nodir-t/claudir](https://github.com/nodir-t/claudir)** ⭐ 6
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Telegram bot powered by Claude AI
-
-- **[lsqkk/qq-emotion-parser](https://github.com/lsqkk/qq-emotion-parser)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  解析QQ动态Qzone导出的 [em]e数字[/em]格式表情代码的轻量级JavaScript库，并将其转换为可显示的图片表情。
-
-- **[FrontToEnd/agent-skills](https://github.com/FrontToEnd/agent-skills)** ⭐ 4
+- **[s7safe/android-h1](https://github.com/s7safe/android-h1)** ⭐ 43
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  面向移动端安全爱好者的学习资源库，包含了大量来自 HackerOne 的真实 iOS 和 Android 漏洞案例。
+
+- **[cooragent/Clarity](https://github.com/cooragent/Clarity)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Clarity 是一个基于 原生 Claude-skill 架构构建的金融分析智能体框架。它采用 Planning-with-Files 模式，通过持久化的任务计划、研究发现和进度日志来协调多个专业子智能体完成复杂的金融分析任务。
+
+- **[ChulkovDanila/readme-template-generator](https://github.com/ChulkovDanila/readme-template-generator)** ⭐ 13
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Beautiful GitHub README creator with live preview and auto-replace functionality. Simple and powerful.
+
+- **[plugins-world/pw-skills](https://github.com/plugins-world/pw-skills)** ⭐ 9
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Gary-zy/AliasGUI](https://github.com/Gary-zy/AliasGUI)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AliasGUl
+- **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)** ⭐ 9
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
 
-- **[yunshu0909/yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  云舒精选的 Claude Code Skills 集合，提升开发和产品管理效率
-
-- **[ishandutta2007/crew](https://github.com/ishandutta2007/crew)** ⭐ 3
+- **[Lianggs8/auto-survey-agent](https://github.com/Lianggs8/auto-survey-agent)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
-  🧑‍💼 Coworkers for your desktop
+  This repository provides the protocols and tools necessary for AI Agents (such as GitHub Copilot, Cursor) to conduct fully automated, deep, and systematic literature surveys. 
 
-- **[BigMark824/GooberBlox-Backend](https://github.com/BigMark824/GooberBlox-Backend)** ⭐ 3
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  A WIP fast Laravel library designed for running Roblox private servers.
+- **[Otsmane-Ahmed/sliver-tor-bridge](https://github.com/Otsmane-Ahmed/sliver-tor-bridge)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Tor transport bridge for Sliver C2 - anonymous command and control
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,769
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,996
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 2,140
+- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 2,521
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 2,020
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 2,407
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by OpenCode
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,848
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
-
-- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,641
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Openwork™ is the open source Al coworker that lives on your desktop
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 1,404
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 2,095
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,339
+- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,932
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,795
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Openwork™ is the open source Al coworker that lives on your desktop
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,377
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,252
+- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,308
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 9,933
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,003
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,037
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,057
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,635
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 7,822
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,385
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,419
   ![Python](https://img.shields.io/badge/-Python-blue)
   A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,192
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,237
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,769
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 6,996
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
@@ -220,7 +218,7 @@
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 4,972
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 5,033
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -492,59 +490,59 @@ lib:
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
