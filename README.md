@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 19, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 20, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)**
-  *<p>Article URL: <a href="https://www.humanlayer.dev/blog/brief-history-of-ralph">https://www.humanlayer.dev/blog/brief-history-of-ralph</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Mon, 19 Jan 2026 18:00:34 +0000
+- **[Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)**
+  *<p>Article URL: <a href="https://github.com/markqvist/Reticulum">https://github.com/markqvist/Reticulum</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46686273">https://news.yc...*
+  📅 Mon, 19 Jan 2026 23:59:54 +0000
 
-- **[What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/cname-a-record-order-dns-standards/">https://blog.cloudflare.com/cname-a-record-order-dns-standards/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Mon, 19 Jan 2026 17:13:59 +0000
+- **[Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)**
+  *<p>Article URL: <a href="https://github.com/jordanhubbard/nanolang">https://github.com/jordanhubbard/nanolang</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46684958">https://n...*
+  📅 Mon, 19 Jan 2026 21:48:07 +0000
 
-- **[Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)**
-  *<p>Article URL: <a href="https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487">https://...*
-  📅 Mon, 19 Jan 2026 17:12:19 +0000
+- **[Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)**
+  *<p>Article URL: <a href="https://danielleheberling.xyz/blog/mindful-social-media/">https://danielleheberling.xyz/blog/mindful-social-media/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 19 Jan 2026 21:39:44 +0000
 
-- **[Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun)**
-  *<p>Article URL: <a href="https://walters.app/blog/bootstrapping-bun">https://walters.app/blog/bootstrapping-bun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46681309">https:/...*
-  📅 Mon, 19 Jan 2026 16:55:32 +0000
+- **[The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)**
+  *<p>Article URL: <a href="https://www.anthropic.com/research/assistant-axis">https://www.anthropic.com/research/assistant-axis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=466...*
+  📅 Mon, 19 Jan 2026 21:25:16 +0000
 
-- **[Cows Can Use Sophisticated Tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/)**
-  *<p>Article URL: <a href="https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/">https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophistic...*
-  📅 Mon, 19 Jan 2026 16:47:46 +0000
+- **[Simple Sabotage Field Manual (1944) [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)**
+  *<p>Article URL: <a href="https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf">https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf</a></p>
+<p>Comme...*
+  📅 Mon, 19 Jan 2026 20:51:00 +0000
 
-- **[Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)**
-  *<p>Article URL: <a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/">https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/</a><...*
-  📅 Mon, 19 Jan 2026 16:36:11 +0000
+- **[Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)**
+  *<p><a href="https://www.swpc.noaa.gov/products/goes-proton-flux" rel="nofollow">https://www.swpc.noaa.gov/products/goes-proton-flux</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.co...*
+  📅 Mon, 19 Jan 2026 20:26:19 +0000
 
 ### 📑 TechCrunch
 
-- **[Here are the 55 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)**
+- **[Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)**
   *Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?...*
   📅 Mon, 19 Jan 2026 18:06:34 +0000
 
@@ -101,26 +105,15 @@
 
 ### 📑 Dev.to
 
-- **[🚀 Create Your Website Under 15 MINS using AntiGravity!](https://dev.to/pravesh_sudha_3c2b0c2b5e0/create-your-website-under-15-mins-using-antigravity-2m44)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31">New Year, New You Portfolio Challenge Presented by Google AI</a></em></p>
+- **[My First Finance Project: When Diversification Doesn't Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)**
+  *<p><a href="https://github.com/SyntaxErrorGoblin/Risk-Adjusted-Returns" rel="noopener noreferrer">Code and Readme with more financial and technical details is located here</a></p>
 
-<h2>
-  
-  
-  🧑‍...*
-  📅 Mon, 19 Jan 2026 18:15:05 +0000
+<p>Recently, I've b...*
+  📅 Tue, 20 Jan 2026 00:53:09 +0000
 
-- **[Uvicorn in Modern Python APIs](https://dev.to/hash01/uvicorn-in-modern-python-apis-4m79)**
-  *<p>A quick guide to why Uvicorn is essential for Python developers in 2026, how to use it, and how it stacks up against other languages.</p>
-
-<h2>
-  
-  
-  What is Uvicorn?
-</h2>
-
-<p>Uvicorn is a high-...*
-  📅 Mon, 19 Jan 2026 18:10:24 +0000
+- **[The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)**
+  *<p>A PC upgrade is becoming a luxury purchase for one simple reason: the very AI tools currently in high demand are absorbing the hardware resources required for personal computing. In early 2026, the...*
+  📅 Tue, 20 Jan 2026 00:44:17 +0000
 
 </details>
 
@@ -128,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 405
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-
-- **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)** ⭐ 108
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
-
-- **[Mist-kail/polymarket-arb-trading-bot](https://github.com/Mist-kail/polymarket-arb-trading-bot)** ⭐ 50
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-   Polymarket trading bot. polymarket trading bot . polymarket trading bot. polymarket arbitrage trading bot. polymarket arbitrage trading bot. This project is a Polymarket Arbitrage Trading Bot that allows users to automatically arbitrage trades from a selected trader on Polymarket. 
-
-- **[s7safe/android-h1](https://github.com/s7safe/android-h1)** ⭐ 45
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  面向移动端安全爱好者的学习资源库，包含了大量来自 HackerOne 的真实 iOS 和 Android 漏洞案例。
-
-- **[Otsmane-Ahmed/sliver-tor-bridge](https://github.com/Otsmane-Ahmed/sliver-tor-bridge)** ⭐ 22
+- **[KyubumShin/apo_test](https://github.com/KyubumShin/apo_test)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Tor transport bridge for Sliver C2 - anonymous command and control
+  apo 실험용
 
-- **[cooragent/Clarity](https://github.com/cooragent/Clarity)** ⭐ 19
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Clarity 是一个基于 原生 Claude-skill 架构构建的金融分析智能体框架。它采用 Planning-with-Files 模式，通过持久化的任务计划、研究发现和进度日志来协调多个专业子智能体完成复杂的金融分析任务。
+- **[heami/Jatsmation](https://github.com/heami/Jatsmation)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
-- **[punkpeye/pipenet](https://github.com/punkpeye/pipenet)** ⭐ 18
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Expose your local server to the public internet instantly
+- **[debora3347/dicionario](https://github.com/debora3347/dicionario)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  veiculos
 
-- **[thebuggeddev/datakeeper](https://github.com/thebuggeddev/datakeeper)** ⭐ 18
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A 3D data management application using gemini
+- **[itsaugvst0x01/password-generator](https://github.com/itsaugvst0x01/password-generator)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of Agent Skills, resources, and tools for AI coding agents like Claude Code, Codex, Gemini CLI, GitHub Copilot, and more.
+
+- **[Bellokb/BELLOKB-PORTFOLIO](https://github.com/Bellokb/BELLOKB-PORTFOLIO)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  My personal portfolio showcasing projects and skills
+
+- **[KEAML-JLU/SharpReCL](https://github.com/KEAML-JLU/SharpReCL)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The source code for "Simple-Sampling and Hard-Mixup with Prototypes to Rebalance Contrastive Learning for Text Classification"
+
+- **[babasaki-r/Weight_OCR](https://github.com/babasaki-r/Weight_OCR)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,152
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,229
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 2,888
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
-
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 2,886
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 3,198
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by OpenCode
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 2,657
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 3,186
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** ⭐ 1,975
+- **[21st-dev/1code](https://github.com/21st-dev/1code)** ⭐ 3,157
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+  Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 
-- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,880
+- **[accomplish-ai/openwork](https://github.com/accomplish-ai/openwork)** ⭐ 1,922
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Openwork™ is the open source Al coworker that lives on your desktop
 
-- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,415
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** ⭐ 1,450
   ![Python](https://img.shields.io/badge/-Python-blue)
   Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,351
+- **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)** ⭐ 1,448
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[vercel-labs/add-skill](https://github.com/vercel-labs/add-skill)** ⭐ 1,382
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,045
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,068
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,118
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,142
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,055
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,220
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐ 7,443
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,288
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,307
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,152
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,229
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,349
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 5,422
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+- **[bellard/mquickjs](https://github.com/bellard/mquickjs)** ⭐ 5,354
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Public repository of the Micro QuickJS Javascript Engine
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 5,093
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 5,167
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -494,58 +487,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -563,7 +556,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 19, 2026
+**Last Updated:** January 20, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
