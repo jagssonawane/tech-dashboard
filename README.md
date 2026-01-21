@@ -46,34 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)**
-  *<p>I am working on building (and have made my first prerelease) for a Digital Audio Workstation with git like branching version control.<p>It's free for local use and paid for cloud syncing or collabo...*
-  📅 Wed, 21 Jan 2026 00:05:10 +0000
+- **[Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)**
+  *<p>Article URL: <a href="https://github.com/ef1500/libbbf">https://github.com/ef1500/libbbf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46701114">https://news.ycombinator.co...*
+  📅 Wed, 21 Jan 2026 04:27:08 +0000
 
-- **[Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)**
-  *<p>Article URL: <a href="https://github.com/davidbeesley/claude-chill">https://github.com/davidbeesley/claude-chill</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46699072">htt...*
-  📅 Tue, 20 Jan 2026 23:26:06 +0000
+- **[Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)**
+  *<p>Article URL: <a href="https://lcamtuf.coredump.cx/prep/index-old.shtml">https://lcamtuf.coredump.cx/prep/index-old.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46700...*
+  📅 Wed, 21 Jan 2026 03:38:57 +0000
 
-- **[DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)**
-  *<p>Article URL: <a href="https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing">https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-fil...*
-  📅 Tue, 20 Jan 2026 22:48:21 +0000
+- **[Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)**
+  *<p>Article URL: <a href="https://github.com/anthropics/original_performance_takehome">https://github.com/anthropics/original_performance_takehome</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Wed, 21 Jan 2026 02:54:32 +0000
+
+- **[Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)**
+  *<p>Article URL: <a href="https://creativelawcenter.com/copyright-rudolph-reindeer/">https://creativelawcenter.com/copyright-rudolph-reindeer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Wed, 21 Jan 2026 00:21:13 +0000
+
+- **[Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm)**
+  *<p>Article URL: <a href="https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm">https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm</a></p>
+<p>Comments URL:...*
+  📅 Tue, 20 Jan 2026 22:42:55 +0000
 
 - **[California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)**
   *<p>Article URL: <a href="https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years">https://www.latimes.com/california/story/2026-01-09/california-h...*
   📅 Tue, 20 Jan 2026 22:39:26 +0000
 
-- **[Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/lunar-radio-telescope">https://spectrum.ieee.org/lunar-radio-telescope</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4669862...*
-  📅 Tue, 20 Jan 2026 22:36:23 +0000
-
-- **[Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2512.13821">https://arxiv.org/abs/2512.13821</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46698469">https://news.ycombinator.co...*
-  📅 Tue, 20 Jan 2026 22:18:53 +0000
-
 ### 📑 TechCrunch
+
+- **[Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/)**
+  *Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India....*
+  📅 Wed, 21 Jan 2026 06:23:46 +0000
+
+- **[Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform](https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/)**
+  *Bolna said that 75% of its revenue is coming from self-serve customers....*
+  📅 Wed, 21 Jan 2026 02:00:00 +0000
+
+- **[Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/)**
+  *Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a...*
+  📅 Wed, 21 Jan 2026 01:39:58 +0000
 
 - **[Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/)**
   *At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May....*
@@ -87,33 +101,19 @@
   *The feature is designed to stop problematic content from being delivered to users under the age of 18....*
   📅 Tue, 20 Jan 2026 23:29:56 +0000
 
-- **[Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/)**
-  *Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be ded...*
-  📅 Tue, 20 Jan 2026 22:10:41 +0000
-
-- **[X open sources its algorithm while facing a transparency fine and Grok controversies](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/)**
-  *In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce....*
-  📅 Tue, 20 Jan 2026 21:37:09 +0000
-
-- **[Luminar founder Austin Russell agrees to accept subpoena in bankruptcy case](https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/)**
-  *The agreement comes two weeks after Luminar accused its billionaire founder of dodging information requests, as it evaluates potential legal claims....*
-  📅 Tue, 20 Jan 2026 21:32:47 +0000
-
 ### 📑 Dev.to
 
-- **[Docker Compose - SFTP gerenciando arquivos com segurança](https://dev.to/xandecodes/docker-compose-sftp-gerenciando-arquivos-com-seguranca-3m6j)**
-  *<p>Bom dia a todos! Espero que tenha os encontrado bem. Hoje gostaria de compartilhar com vocês quase uma versão 2.0 do meu antigo texto de <a href="https://dev.to/xandecodes/docker-compose-servidor-f...*
-  📅 Wed, 21 Jan 2026 00:54:13 +0000
+- **[Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube](https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752)**
+  *<p>Muita gente começa a estudar programação cheia de vontade. Assiste vídeos, segue cursos, copia códigos e, mesmo assim, sente que não evolui. Isso é mais comum do que parece. Na maioria das vezes, o...*
+  📅 Wed, 21 Jan 2026 06:23:36 +0000
 
-- **[The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le)**
-  *<h2>
-  
-  
-  The Problem: Helpful AI Breaks Your Sandbox
-</h2>
+- **[Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb)**
+  *<p>This week was not about learning something flashy.</p>
 
-<p>Last weekend, I spent two days building what I thought was a bulletproof Docker sandbox for AI agents. I patched config file backdoor...*
-  📅 Wed, 21 Jan 2026 00:47:06 +0000
+<p>It was about <strong>understanding how things actually work under the hood</strong>.</p>
+
+<p>I spent most of this week working with <stron...*
+  📅 Wed, 21 Jan 2026 06:21:16 +0000
 
 </details>
 
@@ -121,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[CoppingEthan/Brisk-Budget](https://github.com/CoppingEthan/Brisk-Budget)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Light Weight, JSON Based, Personal Finance Tracker
-
-- **[sirjosev/sirjosev](https://github.com/sirjosev/sirjosev)** ⭐ 1
+- **[yonywork/Debian-operating-system-installation-](https://github.com/yonywork/Debian-operating-system-installation-)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[moodmakangenz-source/moodmakan-genz](https://github.com/moodmakangenz-source/moodmakan-genz)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[Alivemonstor/CPP_ForEngines_BarSim](https://github.com/Alivemonstor/CPP_ForEngines_BarSim)** ⭐ 1
+- **[Brunnexo/GordOPK](https://github.com/Brunnexo/GordOPK)** ⭐ 6
   ![C++](https://img.shields.io/badge/-C++-pink)
-  University Bar Simulator Mechanic Showcase
+  DLL injetável para conectar o OpenKore ao cliente Ragnarök Online LATAM
 
-- **[wukexin314-art/Nowcast-Dengue-in-India](https://github.com/wukexin314-art/Nowcast-Dengue-in-India)** ⭐ 1
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+- **[andr1ww/RiotGames-Reversal](https://github.com/andr1ww/RiotGames-Reversal)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Repository that i'll be documenting stuff i find about riot client & valorant.
+
+- **[Leetaegyu961/Gwangju-On](https://github.com/Leetaegyu961/Gwangju-On)** ⭐ 4
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[lgecse/slim-bindings-csharp](https://github.com/lgecse/slim-bindings-csharp)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  C# bindings for SLIM
+- **[yo-yo-yo-jbo/claude_code_arb_file_read](https://github.com/yo-yo-yo-jbo/claude_code_arb_file_read)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Arbitrary file read in Claude Code
 
-- **[alekandrza14/Unau_IW.23I_IPoliticSetings.LibertaianI.github.io](https://github.com/alekandrza14/Unau_IW.23I_IPoliticSetings.LibertaianI.github.io)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[JosXa/opencode-snippets](https://github.com/JosXa/opencode-snippets)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Hashtag-based snippet expansion plugin for OpenCode - instant inline text shortcuts
 
-- **[Luciffffer/SA-Order-Service](https://github.com/Luciffffer/SA-Order-Service)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  None
+- **[refcell/arturo](https://github.com/refcell/arturo)** ⭐ 3
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Minimal sequencer consensus using commonware primitives. Built in Rust.
+
+- **[legoev3boy/Inequality-Master-Revisited](https://github.com/legoev3boy/Inequality-Master-Revisited)** ⭐ 3
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  This project is a reworked and improved version of the first one. It still teaches 7th-grade inequalities, but with more features, clearer explanations, and a better overall design, making it a more interactive and advanced learning tool.
 
 ### 📈 Weekly Trending
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 7,211
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 8,461
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 6,410
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 7,558
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,691
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,724
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill that removes signs of AI-generated writing from text
 
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 1,254
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 1,461
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,115
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
-
-- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,111
+- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,178
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 
-- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,057
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,155
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+
+- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,136
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 990
+- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,004
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Flux 2 image generation model pure C inference
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,262
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,349
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,387
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,443
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,832
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,979
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,592
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI → JSON → UI
-
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,478
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills for Obsidian
-
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 7,211
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 8,462
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 6,410
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,751
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI → JSON → UI
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 7,558
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,175
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,529
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Obsidian
+
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,256
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -487,49 +487,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -537,7 +537,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
