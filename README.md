@@ -46,70 +46,82 @@
 
 ### 📑 Hacker News
 
-- **[Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)**
-  *<p>Article URL: <a href="https://github.com/vitoplantamura/HackerNewsRemovals">https://github.com/vitoplantamura/HackerNewsRemovals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Wed, 21 Jan 2026 12:11:11 +0000
+- **[GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)**
+  *<p>Article URL: <a href="https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/">https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/</a></p>
+<p>Comments URL:...*
+  📅 Wed, 21 Jan 2026 18:14:34 +0000
 
-- **[Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)**
-  *<p>Article URL: <a href="https://hightouch.com/careers">https://hightouch.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46704465">https://news.ycombinator.com/item...*
-  📅 Wed, 21 Jan 2026 12:02:09 +0000
+- **[Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)**
+  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/01/260120000333.htm">https://www.sciencedaily.com/releases/2026/01/260120000333.htm</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Wed, 21 Jan 2026 18:05:36 +0000
 
-- **[Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/)**
-  *<p>Article URL: <a href="https://nukeproof.org/">https://nukeproof.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46704310">https://news.ycombinator.com/item?id=46704310</...*
-  📅 Wed, 21 Jan 2026 11:44:48 +0000
+- **[Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)**
+  *<p>I been building a view into companies based on their job postings. I am hoping it is useful to get a quick snapshot on the company say for interview prep etc. Please be advised that it is still a W...*
+  📅 Wed, 21 Jan 2026 17:52:17 +0000
 
-- **[The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)**
-  *<p>Article URL: <a href="https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric">https://www.thefabricator.com/thefabricator/blog/testingmeasur...*
-  📅 Wed, 21 Jan 2026 11:36:09 +0000
+- **[illumos](https://illumos.org/)**
+  *<p>Article URL: <a href="https://illumos.org/">https://illumos.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46708807">https://news.ycombinator.com/item?id=46708807</a></...*
+  📅 Wed, 21 Jan 2026 17:39:42 +0000
 
-- **[Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)**
-  *<p>Article URL: <a href="https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands">https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-ha...*
-  📅 Wed, 21 Jan 2026 11:06:42 +0000
+- **[Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)**
+  *<p>Article URL: <a href="https://blog.kagi.com/waiting-dawn-search">https://blog.kagi.com/waiting-dawn-search</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46708678">https://n...*
+  📅 Wed, 21 Jan 2026 17:28:03 +0000
 
-- **[EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)**
-  *<p>Article URL: <a href="https://www.eu-inc.org/">https://www.eu-inc.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46703763">https://news.ycombinator.com/item?id=46703763...*
-  📅 Wed, 21 Jan 2026 10:49:20 +0000
+- **[Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees](https://atg.science/)**
+  *<p>Article URL: <a href="https://atg.science/">https://atg.science/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46708315">https://news.ycombinator.com/item?id=46708315</a></...*
+  📅 Wed, 21 Jan 2026 17:00:54 +0000
 
 ### 📑 TechCrunch
 
-- **[Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience](https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/)**
-  *Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million that marks a new chapter for the 14-year-old company....*
-  📅 Wed, 21 Jan 2026 12:00:00 +0000
+- **[OpenEvidence hits $12B valuation, with new round led by Thrive, DST](https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/)**
+  *The medical info database has doubled in valuation since last raise in October, despite encroachment from model makers....*
+  📅 Wed, 21 Jan 2026 18:01:11 +0000
 
-- **[India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom](https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/)**
-  *ChatGPT was the second most downloaded app in India for 2025 after Instagram....*
-  📅 Wed, 21 Jan 2026 11:30:00 +0000
+- **[Threads rolls out ads to all users worldwide](https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/)**
+  *Ads on Threads will roll out gradually to users over the coming months, Meta says....*
+  📅 Wed, 21 Jan 2026 16:44:11 +0000
 
-- **[Consumers spent more on mobile apps than games in 2025, driven by AI app adoption](https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/)**
-  *Consumers spent more money in mobile apps than games in 2025, driven by AI app adoption....*
-  📅 Wed, 21 Jan 2026 11:30:00 +0000
+- **[YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels](https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/)**
+  *Soon, YouTube TV will allow viewers  to customize the multiview feature to watch any four channels they want side by side....*
+  📅 Wed, 21 Jan 2026 16:26:04 +0000
 
-- **[Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/)**
-  *Snap is still a defendant in similar cases related to social media addiction....*
-  📅 Wed, 21 Jan 2026 07:21:32 +0000
+- **[We’re not nostalgic for 2016 — we’re nostalgic for the internet before all the slop](https://techcrunch.com/2026/01/21/were-not-nostalgic-for-2016-were-nostalgic-for-the-internet-before-all-the-slop/)**
+  *At the time, people felt like 2016 was cursed -- but at least we did not yet have a word for "doomscrolling."...*
+  📅 Wed, 21 Jan 2026 16:23:38 +0000
 
-- **[Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/)**
-  *Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India....*
-  📅 Wed, 21 Jan 2026 06:23:46 +0000
+- **[OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’](https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/)**
+  *Aliisa Rosenthal has found a new career as a VC. She knows what startups can do to protect themselves from the model makers eating their markets....*
+  📅 Wed, 21 Jan 2026 16:06:40 +0000
 
-- **[Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform](https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/)**
-  *Bolna said that 75% of its revenue is coming from self-serve customers....*
-  📅 Wed, 21 Jan 2026 02:00:00 +0000
+- **[YouTube will soon let creators make Shorts with their own AI likeness](https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/)**
+  *YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds....*
+  📅 Wed, 21 Jan 2026 15:41:15 +0000
 
 ### 📑 Dev.to
 
-- **[What Enterprise Search Needs That IDP Actually Solves](https://dev.to/emilycarter98/what-enterprise-search-needs-that-idp-actually-solves-11kj)**
-  *<p>Enterprise search systems were built to help users retrieve information quickly from massive volumes of organizational content. But the reality is, most of these systems fall short. Search results ...*
-  📅 Wed, 21 Jan 2026 12:29:25 +0000
+- **[The Context Window Paradox: Why Bigger Isn't Always Better in AI](https://dev.to/suryadeepsinh_gohil/the-context-window-paradox-why-bigger-isnt-always-better-in-ai-1clj)**
+  *<h2>
+  
+  
+  A Story About Our Obsession with More
+</h2>
 
-- **[When Accuracy Is a Lying Metric: The Weather Forecaster Who Was 96% Accurate and Still Got Everyone Killed](https://dev.to/sachin_krrajput/when-accuracy-is-a-lying-metric-the-weather-forecaster-who-was-96-accurate-and-still-got-everyone-1l3d)**
-  *<blockquote>
-<p><strong>The One-Line Summary:</strong> Accuracy measures how often you're right overall, but when 96% of your data is one class, a model that predicts that class every time gets 96% ac...*
-  📅 Wed, 21 Jan 2026 12:29:01 +0000
+<p>Imagine you're a chef preparing a meal for a food critic. You have a beautiful dining table and there's only so much space. For years, chef...*
+  📅 Wed, 21 Jan 2026 18:16:28 +0000
+
+- **[React এবং Vite: মডার্ন ওয়েব](https://dev.to/rasheddevx/react-ebn-vite-mddaarn-oyyeb-46e1)**
+  *<h1>
+  
+  
+  React এবং Vite: একটি দ্রুত ডেভেলপমেন্ট কম্বো 🚀
+</h1>
+
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=aut...*
+  📅 Wed, 21 Jan 2026 18:15:43 +0000
 
 </details>
 
@@ -121,99 +133,99 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Automated arbitrage bot for Ethereum network that performs arbitrage operations between various exchanges to profit from cryptocurrency price differences.
 
-- **[op7418/Document-illustrator-skill](https://github.com/op7418/Document-illustrator-skill)** ⭐ 28
+- **[mistKail/polymarket-copy-trading-bot](https://github.com/mistKail/polymarket-copy-trading-bot)** ⭐ 76
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Polymarket trading bot: polymarket copytrading bot, Polymarket copytrading bot || polymarket trading bot, Polymarket copytrading bot || polymarket trading bot, Polymarket copytrading bot || polymarket trading bot, Polymarket copytrading bot || polymarket trading bot, Polymarket copytrading bot || polymarket trading bot, Polymarket bot
+
+- **[op7418/Document-illustrator-skill](https://github.com/op7418/Document-illustrator-skill)** ⭐ 58
   ![Python](https://img.shields.io/badge/-Python-blue)
   帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。
 
-- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 25
+- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 53
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Vue 3 development
 
-- **[The-Institute-for-AI-Molecular-Design/ODesign-pipeline](https://github.com/The-Institute-for-AI-Molecular-Design/ODesign-pipeline)** ⭐ 17
+- **[yynxxxxx/Google_Manager](https://github.com/yynxxxxx/Google_Manager)** ⭐ 25
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Google Account Manager - 专业的谷歌账号资产管理系统
+
+- **[kirubelgetanehyenew-commits/Kirubel-Getaneh-](https://github.com/kirubelgetanehyenew-commits/Kirubel-Getaneh-)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Inception3D/Motion324](https://github.com/Inception3D/Motion324)** ⭐ 20
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[The-Institute-for-AI-Molecular-Design/ODesign-pipeline](https://github.com/The-Institute-for-AI-Molecular-Design/ODesign-pipeline)** ⭐ 20
   ![Python](https://img.shields.io/badge/-Python-blue)
   design pipeline for protein, nucleic acid, and small molecule  
 
-- **[Inception3D/Motion324](https://github.com/Inception3D/Motion324)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)** ⭐ 13
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  去AI味提示词-作家增强-SKILL
-
-- **[kirubelgetanehyenew-commits/Kirubel-Getaneh-](https://github.com/kirubelgetanehyenew-commits/Kirubel-Getaneh-)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[yuwancumian2009/TuneScout-v2](https://github.com/yuwancumian2009/TuneScout-v2)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 ### 📈 Weekly Trending
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,480
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Algorithm powering the For You feed on X
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 8,879
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 10,456
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 1,783
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,978
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 2,397
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,773
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,865
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill that removes signs of AI-generated writing from text
 
-- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,254
+- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,340
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,183
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
-
-- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,178
+- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,232
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** ⭐ 1,057
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,210
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+
+- **[DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** ⭐ 1,142
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,446
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,504
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,480
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Algorithm powering the For You feed on X
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,477
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,136
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 8,879
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 10,456
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,876
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,978
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,504
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,263
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,961
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,587
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,617
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,345
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,430
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -291,14 +303,17 @@ Please refer...
 
 ### 📦 pytorch/pytorch
 
-**[PyTorch 2.9.1 Release, bug fix release](https://github.com/pytorch/pytorch/releases/tag/v2.9.1)** `v2.9.1`
+**[PyTorch 2.10.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.10.0)** `v2.10.0`
 
-📅 Released: November 12, 2025
+📅 Released: January 21, 2026
 
-This release is meant to fix the following issues (regressions / silent correctness):
+# PyTorch 2.10.0 Release Notes
 
-### Tracked Regressions
-Significant Memory Regression in F.conv3d with bfloat16 Inputs in PyTorch 2.9.0 ([#166...
+- [Highlights](#highlights)
+- [Backwards Incompatible Changes](#backwards-incompatible-changes)
+- [Deprecations](#deprecations)
+- [New Features](#new-features)
+- ...
 
 ---
 
@@ -482,41 +497,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -525,16 +540,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
