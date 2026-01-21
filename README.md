@@ -46,36 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)**
-  *<p>Article URL: <a href="https://github.com/ef1500/libbbf">https://github.com/ef1500/libbbf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46701114">https://news.ycombinator.co...*
-  📅 Wed, 21 Jan 2026 04:27:08 +0000
+- **[Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)**
+  *<p>Article URL: <a href="https://github.com/vitoplantamura/HackerNewsRemovals">https://github.com/vitoplantamura/HackerNewsRemovals</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Wed, 21 Jan 2026 12:11:11 +0000
 
-- **[Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)**
-  *<p>Article URL: <a href="https://lcamtuf.coredump.cx/prep/index-old.shtml">https://lcamtuf.coredump.cx/prep/index-old.shtml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46700...*
-  📅 Wed, 21 Jan 2026 03:38:57 +0000
+- **[Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)**
+  *<p>Article URL: <a href="https://hightouch.com/careers">https://hightouch.com/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46704465">https://news.ycombinator.com/item...*
+  📅 Wed, 21 Jan 2026 12:02:09 +0000
 
-- **[Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)**
-  *<p>Article URL: <a href="https://github.com/anthropics/original_performance_takehome">https://github.com/anthropics/original_performance_takehome</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 21 Jan 2026 02:54:32 +0000
+- **[Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/)**
+  *<p>Article URL: <a href="https://nukeproof.org/">https://nukeproof.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46704310">https://news.ycombinator.com/item?id=46704310</...*
+  📅 Wed, 21 Jan 2026 11:44:48 +0000
 
-- **[Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)**
-  *<p>Article URL: <a href="https://creativelawcenter.com/copyright-rudolph-reindeer/">https://creativelawcenter.com/copyright-rudolph-reindeer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Wed, 21 Jan 2026 00:21:13 +0000
+- **[The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)**
+  *<p>Article URL: <a href="https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric">https://www.thefabricator.com/thefabricator/blog/testingmeasur...*
+  📅 Wed, 21 Jan 2026 11:36:09 +0000
 
-- **[Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm)**
-  *<p>Article URL: <a href="https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm">https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm</a></p>
-<p>Comments URL:...*
-  📅 Tue, 20 Jan 2026 22:42:55 +0000
+- **[Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)**
+  *<p>Article URL: <a href="https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands">https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-ha...*
+  📅 Wed, 21 Jan 2026 11:06:42 +0000
 
-- **[California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)**
-  *<p>Article URL: <a href="https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years">https://www.latimes.com/california/story/2026-01-09/california-h...*
-  📅 Tue, 20 Jan 2026 22:39:26 +0000
+- **[EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)**
+  *<p>Article URL: <a href="https://www.eu-inc.org/">https://www.eu-inc.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46703763">https://news.ycombinator.com/item?id=46703763...*
+  📅 Wed, 21 Jan 2026 10:49:20 +0000
 
 ### 📑 TechCrunch
+
+- **[Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience](https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/)**
+  *Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million that marks a new chapter for the 14-year-old company....*
+  📅 Wed, 21 Jan 2026 12:00:00 +0000
+
+- **[India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom](https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/)**
+  *ChatGPT was the second most downloaded app in India for 2025 after Instagram....*
+  📅 Wed, 21 Jan 2026 11:30:00 +0000
+
+- **[Consumers spent more on mobile apps than games in 2025, driven by AI app adoption](https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/)**
+  *Consumers spent more money in mobile apps than games in 2025, driven by AI app adoption....*
+  📅 Wed, 21 Jan 2026 11:30:00 +0000
+
+- **[Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/)**
+  *Snap is still a defendant in similar cases related to social media addiction....*
+  📅 Wed, 21 Jan 2026 07:21:32 +0000
 
 - **[Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/)**
   *Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India....*
@@ -85,35 +100,16 @@
   *Bolna said that 75% of its revenue is coming from self-serve customers....*
   📅 Wed, 21 Jan 2026 02:00:00 +0000
 
-- **[Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/)**
-  *Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a...*
-  📅 Wed, 21 Jan 2026 01:39:58 +0000
-
-- **[Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/)**
-  *At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May....*
-  📅 Wed, 21 Jan 2026 00:47:09 +0000
-
-- **[One-time hot insurance tech Ethos poised to be first tech IPO of the year](https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/)**
-  *Ethos was backed by a who's who of VCs and celebs through 2021. It is currently profitable, it says....*
-  📅 Tue, 20 Jan 2026 23:36:32 +0000
-
-- **[In an effort to protect young users, ChatGPT will now predict how old you are](https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/)**
-  *The feature is designed to stop problematic content from being delivered to users under the age of 18....*
-  📅 Tue, 20 Jan 2026 23:29:56 +0000
-
 ### 📑 Dev.to
 
-- **[Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube](https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752)**
-  *<p>Muita gente começa a estudar programação cheia de vontade. Assiste vídeos, segue cursos, copia códigos e, mesmo assim, sente que não evolui. Isso é mais comum do que parece. Na maioria das vezes, o...*
-  📅 Wed, 21 Jan 2026 06:23:36 +0000
+- **[What Enterprise Search Needs That IDP Actually Solves](https://dev.to/emilycarter98/what-enterprise-search-needs-that-idp-actually-solves-11kj)**
+  *<p>Enterprise search systems were built to help users retrieve information quickly from massive volumes of organizational content. But the reality is, most of these systems fall short. Search results ...*
+  📅 Wed, 21 Jan 2026 12:29:25 +0000
 
-- **[Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb)**
-  *<p>This week was not about learning something flashy.</p>
-
-<p>It was about <strong>understanding how things actually work under the hood</strong>.</p>
-
-<p>I spent most of this week working with <stron...*
-  📅 Wed, 21 Jan 2026 06:21:16 +0000
+- **[When Accuracy Is a Lying Metric: The Weather Forecaster Who Was 96% Accurate and Still Got Everyone Killed](https://dev.to/sachin_krrajput/when-accuracy-is-a-lying-metric-the-weather-forecaster-who-was-96-accurate-and-still-got-everyone-1l3d)**
+  *<blockquote>
+<p><strong>The One-Line Summary:</strong> Accuracy measures how often you're right overall, but when 96% of your data is one class, a model that predicts that class every time gets 96% ac...*
+  📅 Wed, 21 Jan 2026 12:29:01 +0000
 
 </details>
 
@@ -121,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[yonywork/Debian-operating-system-installation-](https://github.com/yonywork/Debian-operating-system-installation-)** ⭐ 7
+- **[jUnGlEW05/Arbitrage-Traffic-Bot](https://github.com/jUnGlEW05/Arbitrage-Traffic-Bot)** ⭐ 78
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Automated arbitrage bot for Ethereum network that performs arbitrage operations between various exchanges to profit from cryptocurrency price differences.
+
+- **[op7418/Document-illustrator-skill](https://github.com/op7418/Document-illustrator-skill)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。
+
+- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 25
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Vue 3 development
+
+- **[The-Institute-for-AI-Molecular-Design/ODesign-pipeline](https://github.com/The-Institute-for-AI-Molecular-Design/ODesign-pipeline)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  design pipeline for protein, nucleic acid, and small molecule  
+
+- **[Inception3D/Motion324](https://github.com/Inception3D/Motion324)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)** ⭐ 13
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  去AI味提示词-作家增强-SKILL
+
+- **[kirubelgetanehyenew-commits/Kirubel-Getaneh-](https://github.com/kirubelgetanehyenew-commits/Kirubel-Getaneh-)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Brunnexo/GordOPK](https://github.com/Brunnexo/GordOPK)** ⭐ 6
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  DLL injetável para conectar o OpenKore ao cliente Ragnarök Online LATAM
-
-- **[andr1ww/RiotGames-Reversal](https://github.com/andr1ww/RiotGames-Reversal)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Repository that i'll be documenting stuff i find about riot client & valorant.
-
-- **[Leetaegyu961/Gwangju-On](https://github.com/Leetaegyu961/Gwangju-On)** ⭐ 4
+- **[yuwancumian2009/TuneScout-v2](https://github.com/yuwancumian2009/TuneScout-v2)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
-
-- **[yo-yo-yo-jbo/claude_code_arb_file_read](https://github.com/yo-yo-yo-jbo/claude_code_arb_file_read)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Arbitrary file read in Claude Code
-
-- **[JosXa/opencode-snippets](https://github.com/JosXa/opencode-snippets)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Hashtag-based snippet expansion plugin for OpenCode - instant inline text shortcuts
-
-- **[refcell/arturo](https://github.com/refcell/arturo)** ⭐ 3
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Minimal sequencer consensus using commonware primitives. Built in Rust.
-
-- **[legoev3boy/Inequality-Master-Revisited](https://github.com/legoev3boy/Inequality-Master-Revisited)** ⭐ 3
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  This project is a reworked and improved version of the first one. It still teaches 7th-grade inequalities, but with more features, clearer explanations, and a better overall design, making it a more interactive and advanced learning tool.
 
 ### 📈 Weekly Trending
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 8,461
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,480
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 7,558
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 8,879
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,724
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code skill that removes signs of AI-generated writing from text
-
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 1,461
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** ⭐ 1,783
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,178
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,773
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skill that removes signs of AI-generated writing from text
+
+- **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** ⭐ 1,254
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,155
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,183
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 
-- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,136
+- **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** ⭐ 1,178
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,004
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Flux 2 image generation model pure C inference
+- **[DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** ⭐ 1,057
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ### 📈 Monthly Trending
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,349
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,446
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,443
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 8,979
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 8,462
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 9,480
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,751
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI → JSON → UI
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,477
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 7,558
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,136
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 8,879
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,529
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 7,876
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI → JSON → UI
+
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,587
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,256
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,345
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -319,15 +315,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.0.1](https://github.com/docker/compose/releases/tag/v5.0.1)** `v5.0.1`
+**[v5.0.2](https://github.com/docker/compose/releases/tag/v5.0.2)** `v5.0.2`
 
-📅 Released: December 18, 2025
+📅 Released: January 21, 2026
 
 ## What's Changed
 
 ### 🐛 Fixes
-* Restored support for `COMPOSE_COMPATIBILITY` by @ndeloof in https://github.com/docker/compose/pull/13424
-* Fixed grammatical errors and improve clarity in code. by...
+* Fixed progress UI to adapt to terminal width by @ndeloof in https://github.com/docker/compose/pull/13519
+* Removed warning when no explicit build has been requeste...
 
 ---
 
@@ -486,59 +482,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
