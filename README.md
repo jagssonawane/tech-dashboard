@@ -46,33 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)**
-  *<p>Article URL: <a href="https://github.com/freedomofpress/dangerzone">https://github.com/freedomofpress/dangerzone</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46712815">htt...*
-  📅 Wed, 21 Jan 2026 22:54:04 +0000
+- **[Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)**
+  *<p>Article URL: <a href="https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims">https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-b...*
+  📅 Thu, 22 Jan 2026 05:15:46 +0000
 
-- **[Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace">https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-softwa...*
-  📅 Wed, 21 Jan 2026 21:26:18 +0000
+- **[Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)**
+  *<p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg. So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research.<p...*
+  📅 Thu, 22 Jan 2026 03:26:38 +0000
 
-- **[Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)**
-  *<p>I built a simple tool to compare hard drive and SSD prices by price-per-terabyte.<p>I kept having to calculate $/TB manually when shopping for NAS drives, so I made this to save myself the trouble....*
-  📅 Wed, 21 Jan 2026 21:13:59 +0000
+- **[Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)**
+  *<p>Article URL: <a href="https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/">https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/</a></p>
+<p>Comments UR...*
+  📅 Thu, 22 Jan 2026 00:12:00 +0000
 
-- **[Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/)**
-  *<p>Article URL: <a href="https://www.kenkoonwong.com/blog/parallel-computing/">https://www.kenkoonwong.com/blog/parallel-computing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Wed, 21 Jan 2026 19:08:37 +0000
+- **[Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor)**
+  *<p>Hi HN,<p>I built this because I often work in coworking spaces or do screen sharing, and I've always had this fear of accidentally flashing my .env file with production secrets to the whole room (o...*
+  📅 Thu, 22 Jan 2026 00:04:47 +0000
 
-- **[Show HN: Rails UI](https://railsui.com/)**
-  *<p>Article URL: <a href="https://railsui.com/">https://railsui.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46709543">https://news.ycombinator.com/item?id=46709543</a></...*
-  📅 Wed, 21 Jan 2026 18:31:19 +0000
+- **[From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)**
+  *<p>Article URL: <a href="https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/">https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-ir...*
+  📅 Thu, 22 Jan 2026 00:00:36 +0000
 
-- **[Scientists find a way to regrow cartilage in mice and human tissue samples](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)**
-  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/01/260120000333.htm">https://www.sciencedaily.com/releases/2026/01/260120000333.htm</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Wed, 21 Jan 2026 18:05:36 +0000
+- **[Lix – universal version control system for binary files](https://lix.dev/blog/introducing-lix/)**
+  *<p>Article URL: <a href="https://lix.dev/blog/introducing-lix/">https://lix.dev/blog/introducing-lix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46713387">https://news.ycom...*
+  📅 Wed, 21 Jan 2026 23:55:06 +0000
 
 ### 📑 TechCrunch
 
@@ -102,13 +100,19 @@
 
 ### 📑 Dev.to
 
-- **[Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k)**
-  *<p>The "Privacy Paradox" in digital health is real. We want the world-class diagnostic power of cloud-based AI, but we (rightly) don't want to hand over our most sensitive physiological data to a thir...*
-  📅 Thu, 22 Jan 2026 01:00:00 +0000
+- **[Monitoring Linux servers without Grafana, Docker, or agents](https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5)**
+  *<p>Checking server health usually means running the same commands again and again:</p>
 
-- **[flashQ + Elysia & Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na)**
-  *<p>Elysia and Hono.js are two of the fastest TypeScript frameworks out there. Combine them with <strong>flashQ</strong> and you get a stack capable of handling millions of background jobs with sub-mil...*
-  📅 Thu, 22 Jan 2026 00:55:25 +0000
+<p>top, free, df, ss, ps…</p>
+
+<p>Grafana is powerful — but often overkill for quick monitoring.</p>
+
+<p>So I bu...*
+  📅 Thu, 22 Jan 2026 06:10:47 +0000
+
+- **[Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes](https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d)**
+  *<p>This is a runnable mini-lab for evaluating rotating residential proxies in scraping and monitoring. You’ll generate evidence in 60–90 minutes: rotation proof, sticky-session proof, pool collision m...*
+  📅 Thu, 22 Jan 2026 06:07:54 +0000
 
 </details>
 
@@ -116,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[Sillyanonymous/SillyTavern-CharacterLibrary](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A powerful SillyTavern extension for discovering, organizing, and managing your character library with a modern glassmorphic interface.
-
-- **[CS6120-Interpretability/Project](https://github.com/CS6120-Interpretability/Project)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Asa-DB/Universal-Custom-Discord-RPC](https://github.com/Asa-DB/Universal-Custom-Discord-RPC)** ⭐ 2
+- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 62
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A python script which allows for custom detection of programs for RPC statuses.It has so far only been tested on Arch Linux but in theory should work on any OS. Everything you need to know is inside of the .py file with annotations for how to customize it and get it working.
-
-- **[eleoperret/MastingCollab](https://github.com/eleoperret/MastingCollab)** ⭐ 1
-  ![R](https://img.shields.io/badge/-R-lightgrey)
   None
 
-- **[bilalakkar777/language-learning-Flutter-App](https://github.com/bilalakkar777/language-learning-Flutter-App)** ⭐ 1
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  A Flutter language learning app with German translations via MyMemory API
+- **[better-auth/better-icons](https://github.com/better-auth/better-icons)** ⭐ 40
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The MCP server for searching and retrieving icons
 
-- **[PauloBusch/rural-properties-monitor](https://github.com/PauloBusch/rural-properties-monitor)** ⭐ 1
+- **[xdev55/immitation-learning](https://github.com/xdev55/immitation-learning)** ⭐ 16
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[gunmetalAI/awesome-production-machine-learning](https://github.com/gunmetalAI/awesome-production-machine-learning)** ⭐ 11
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Projeto Hackathon para Monitoramento de Propriedades Rurais
+  None
 
-- **[traysir/HeavyMusicData](https://github.com/traysir/HeavyMusicData)** ⭐ 1
+- **[arlene3006/web-Scrapper](https://github.com/arlene3006/web-Scrapper)** ⭐ 6
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  A Java-based web scraper that fetches and parses HTML content from websites to extract useful information such as headings, links, and text. Built to demonstrate HTTP requests, HTML DOM parsing using JSoup, and basic error handling.
+
+- **[asfandnaveed/15-01-2026-Mor](https://github.com/asfandnaveed/15-01-2026-Mor)** ⭐ 6
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  15-01-2026-Mor
 
-- **[inahmaegemparo/IS107](https://github.com/inahmaegemparo/IS107)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[paid-tw/skills](https://github.com/paid-tw/skills)** ⭐ 6
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi
+
+- **[maianhvu/team-cook](https://github.com/maianhvu/team-cook)** ⭐ 5
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  iOS Conf '26 Demo application
 
 ### 📈 Weekly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 11,636
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 13,152
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 10,280
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 10,636
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,948
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 1,997
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill that removes signs of AI-generated writing from text
 
-- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 1,333
+- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 1,569
   ![Python](https://img.shields.io/badge/-Python-blue)
   Anthropic's original performance take-home, now open for you to try!
 
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,236
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,262
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 
-- **[DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** ⭐ 1,145
+- **[DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** ⭐ 1,149
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Autonomous AI development loop for Claude Code with intelligent exit detection
 
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,035
+- **[ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)** ⭐ 1,094
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Beautiful, open source, WebGPU-based charting library
+
+- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,044
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Flux 2 image generation model pure C inference
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 952
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 11,638
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 13,152
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,539
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 10,280
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 10,636
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,522
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,628
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,540
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,335
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,446
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,007
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,133
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,629
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,666
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,525
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,604
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -484,20 +488,20 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
@@ -505,8 +509,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -515,28 +519,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
