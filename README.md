@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,36 +46,36 @@
 
 ### 📑 Hacker News
 
+- **[Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)**
+  *<p>Article URL: <a href="https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md">https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Fri, 23 Jan 2026 09:50:26 +0000
+
+- **[Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)**
+  *<p>Article URL: <a href="https://programmablesearchengine.googleblog.com/">https://programmablesearchengine.googleblog.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46730...*
+  📅 Fri, 23 Jan 2026 09:38:02 +0000
+
+- **[The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)**
+  *<p>Article URL: <a href="https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html">https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 23 Jan 2026 09:24:27 +0000
+
+- **[Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)**
+  *<p>Article URL: <a href="https://pgdog.dev/blog/replace-protobuf-with-rust">https://pgdog.dev/blog/replace-protobuf-with-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467...*
+  📅 Fri, 23 Jan 2026 09:03:31 +0000
+
+- **[Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)**
+  *<p>Article URL: <a href="https://dbushell.com/2026/01/22/proton-spam/">https://dbushell.com/2026/01/22/proton-spam/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46729368">htt...*
+  📅 Fri, 23 Jan 2026 07:01:29 +0000
+
 - **[I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)**
   *<p><a href="https://rootkid.me/works/spectrum-slit" rel="nofollow">https://rootkid.me/works/spectrum-slit</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46728808">https:...*
   📅 Fri, 23 Jan 2026 05:34:35 +0000
-
-- **[United States Completes WHO Withdrawal](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html)**
-  *<p>Article URL: <a href="https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html">https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html</a></p>
-<p>Comments URL:...*
-  📅 Fri, 23 Jan 2026 05:10:30 +0000
-
-- **[Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)**
-  *<p>Article URL: <a href="https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/">https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 23 Jan 2026 03:52:06 +0000
-
-- **[The lost art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)**
-  *<p>Article URL: <a href="https://marcosmagueta.com/blog/the-lost-art-of-xml/">https://marcosmagueta.com/blog/the-lost-art-of-xml/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 23 Jan 2026 03:45:15 +0000
-
-- **[Bugs Apple Loves](https://www.bugsappleloves.com)**
-  *<p>Article URL: <a href="https://www.bugsappleloves.com">https://www.bugsappleloves.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46727587">https://news.ycombinator.com/it...*
-  📅 Fri, 23 Jan 2026 02:24:12 +0000
-
-- **[Stunnel](https://www.stunnel.org/)**
-  *<p>Article URL: <a href="https://www.stunnel.org/">https://www.stunnel.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46726916">https://news.ycombinator.com/item?id=467269...*
-  📅 Fri, 23 Jan 2026 00:30:20 +0000
 
 ### 📑 TechCrunch
 
@@ -105,17 +105,122 @@
 
 ### 📑 Dev.to
 
-- **[OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e)**
-  *<p>When organizations plan a new digital platform or modernization initiative, the first question leadership asks is simple: what will this really cost us in the long run? Many teams compare OutSystem...*
-  📅 Fri, 23 Jan 2026 06:17:42 +0000
+- **[Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d)**
+  *<p>Prompt engineering works well in prototypes.<br />
+It consistently fails in production systems.</p>
 
-- **[BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og)**
-  *<p><a href="https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt" rel="noopener noreferrer">Chris Gregori</a> drops the truth bomb: AI collapsed the code barrier, but building software...*
-  📅 Fri, 23 Jan 2026 06:12:40 +0000
+<p>This isn’t a criticism of prompts themselves — it’s a mismatch between how prompts are used a...*
+  📅 Fri, 23 Jan 2026 12:23:54 +0000
+
+- **[I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon's KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3)**
+  *<p>I've been working on a technical problem: generating coherent, entertaining 50k+ word novels that people would actually enjoy (and maybe even pay) to read. No slop, no drift—genuine narrative ficti...*
+  📅 Fri, 23 Jan 2026 12:21:43 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** ⭐ 60
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据
+
+- **[VigneshVelmurugan13/online-examination-system-using-facial-recognition](https://github.com/VigneshVelmurugan13/online-examination-system-using-facial-recognition)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[VenkatasaiM07/Online-Examination-using-face-recognition-system](https://github.com/VenkatasaiM07/Online-Examination-using-face-recognition-system)** ⭐ 38
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[shobikadayanidhi/Bechdel_Test](https://github.com/shobikadayanidhi/Bechdel_Test)** ⭐ 35
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[ScriptedAlchemy/robinhood-decompiled](https://github.com/ScriptedAlchemy/robinhood-decompiled)** ⭐ 32
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Decompiled Robinhood App
+
+- **[dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** ⭐ 32
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A Claude skill for developing WebGPU applications with Three.js
+
+- **[qazwsx5293870/S-APICONT](https://github.com/qazwsx5293870/S-APICONT)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  **S-APICONT** 是一款功能强大的 Burp Suite 扩展插件，专注于自动化收集、提取和测试 Web 应用中的 API 接口。它能够从浏览器流量中智能识别 API 端点，支持多种前端框架的路由解析，并提供批量测试和敏感信息检测功能。
+
+- **[teorth/optimizationproblems](https://github.com/teorth/optimizationproblems)** ⭐ 25
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A collection of optimization problems in mathematics
+
+### 📈 Weekly Trending
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 20,448
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,742
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,512
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Anthropic's original performance take-home, now open for you to try!
+
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,491
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skill that removes signs of AI-generated writing from text
+
+- **[ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)** ⭐ 1,881
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Beautiful, open source, WebGPU-based charting library
+
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 1,434
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
+
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,348
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+
+- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,222
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Flux 2 image generation model pure C inference
+
+### 📈 Monthly Trending
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 20,448
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,742
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,973
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,817
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,620
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "DeepTutor: AI-Powered Personalized Learning Assistant"
+
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,545
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI → JSON → UI
+
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,882
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Agent skills for Obsidian
+
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,108
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
 ## 🚀 Latest Releases
 
@@ -385,10 +490,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
@@ -396,46 +501,46 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
