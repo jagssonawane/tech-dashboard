@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[Vibe a Guitar Pedal](https://polyend.com/endless/)**
-  *<p>Article URL: <a href="https://polyend.com/endless/">https://polyend.com/endless/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46726907">https://news.ycombinator.com/item?i...*
-  📅 Fri, 23 Jan 2026 00:29:07 +0000
+- **[I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)**
+  *<p><a href="https://rootkid.me/works/spectrum-slit" rel="nofollow">https://rootkid.me/works/spectrum-slit</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46728808">https:...*
+  📅 Fri, 23 Jan 2026 05:34:35 +0000
 
-- **[Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)**
-  *<p>Article URL: <a href="https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate">https://www.leidenmedievalistsblog.nl/articles/why-medieval-c...*
-  📅 Fri, 23 Jan 2026 00:22:58 +0000
-
-- **[Metastable Failures and Interactions Between Systems](https://charap.co/on-metastable-failures-and-interactions-between-systems/)**
-  *<p>Article URL: <a href="https://charap.co/on-metastable-failures-and-interactions-between-systems/">https://charap.co/on-metastable-failures-and-interactions-between-systems/</a></p>
+- **[United States Completes WHO Withdrawal](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html)**
+  *<p>Article URL: <a href="https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html">https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html</a></p>
 <p>Comments URL:...*
-  📅 Fri, 23 Jan 2026 00:16:22 +0000
+  📅 Fri, 23 Jan 2026 05:10:30 +0000
 
-- **[Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)**
-  *<p>Article URL: <a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/">https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 22 Jan 2026 23:34:44 +0000
+- **[Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)**
+  *<p>Article URL: <a href="https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/">https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/</a></p>
+<p>Comments URL: <a href...*
+  📅 Fri, 23 Jan 2026 03:52:06 +0000
 
-- **[FIPS dependencies and prebuilt binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)**
-  *<p>Author here. This came out of debugging a real Rails app running in a FIPS enabled container.<p>Everything looked correct. OpenSSL 3 with the FIPS provider enabled. Ruby built against it. A simple ...*
-  📅 Thu, 22 Jan 2026 23:04:25 +0000
+- **[The lost art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)**
+  *<p>Article URL: <a href="https://marcosmagueta.com/blog/the-lost-art-of-xml/">https://marcosmagueta.com/blog/the-lost-art-of-xml/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 23 Jan 2026 03:45:15 +0000
 
-- **[Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/anthropic-economic-index-january-2026-report">https://www.anthropic.com/research/anthropic-economic-index-january-2026-report</a></p>
-<p>Com...*
-  📅 Thu, 22 Jan 2026 21:54:02 +0000
+- **[Bugs Apple Loves](https://www.bugsappleloves.com)**
+  *<p>Article URL: <a href="https://www.bugsappleloves.com">https://www.bugsappleloves.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46727587">https://news.ycombinator.com/it...*
+  📅 Fri, 23 Jan 2026 02:24:12 +0000
+
+- **[Stunnel](https://www.stunnel.org/)**
+  *<p>Article URL: <a href="https://www.stunnel.org/">https://www.stunnel.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46726916">https://news.ycombinator.com/item?id=467269...*
+  📅 Fri, 23 Jan 2026 00:30:20 +0000
 
 ### 📑 TechCrunch
+
+- **[Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/)**
+  *Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia....*
+  📅 Fri, 23 Jan 2026 02:29:24 +0000
+
+- **[Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets](https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/)**
+  *Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up....*
+  📅 Fri, 23 Jan 2026 01:31:54 +0000
 
 - **[OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/)**
   *OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company....*
@@ -88,133 +99,23 @@
   *The factory musical chairs reflect an economic and political environment, shaped by the Trump administration's tariff policy and its decision to end the federal EV tax credit....*
   📅 Thu, 22 Jan 2026 23:55:44 +0000
 
-- **[Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/)**
+- **[Capital One acquires Brex for a steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/)**
   *Before everyone sharpens their knives, consider that for the VCs who backed Brex at its outset, the sale is a triumph....*
   📅 Thu, 22 Jan 2026 23:46:19 +0000
 
-- **[Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/)**
-  *The five-year-old-startup powers OpenAI’s ChatGPT voice mode and raised a $100 million round led by Index Ventures....*
-  📅 Thu, 22 Jan 2026 22:44:29 +0000
-
-- **[Inference startup Inferact lands $150M to commercialize vLLM](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)**
-  *The seed round values the newly formed startup at $800 million....*
-  📅 Thu, 22 Jan 2026 22:42:00 +0000
-
 ### 📑 Dev.to
 
-- **[How Streamers Accidentally Built the World's Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin)**
-  *<p>For years, streamers have used controller overlays to show their audience exactly which buttons they were pressing. Whether for speedrunning transparency or just aesthetic flair, these overlays hav...*
-  📅 Fri, 23 Jan 2026 01:00:07 +0000
+- **[OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e)**
+  *<p>When organizations plan a new digital platform or modernization initiative, the first question leadership asks is simple: what will this really cost us in the long run? Many teams compare OutSystem...*
+  📅 Fri, 23 Jan 2026 06:17:42 +0000
 
-- **[Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)**
-  *<p>As humans, we learn to talk before we learn to read, write, or type. Voice is our most natural form of communication, yet in programming, we have long communicated with rigid computer languages, an...*
-  📅 Fri, 23 Jan 2026 00:43:14 +0000
+- **[BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og)**
+  *<p><a href="https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt" rel="noopener noreferrer">Chris Gregori</a> drops the truth bomb: AI collapsed the code barrier, but building software...*
+  📅 Fri, 23 Jan 2026 06:12:40 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Huangqm1234/UPenn-CIS5190](https://github.com/Huangqm1234/UPenn-CIS5190)** ⭐ 2
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Relevant Materials
-
-- **[13rac1/gowasm-bindgen](https://github.com/13rac1/gowasm-bindgen)** ⭐ 2
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Type-safe Go in the browser. Write normal Go functions, get async TypeScript types and WASM bindings automatically. 90KB gzipped with TinyGo 
-
-- **[amaxiom/shapley-behaviors](https://github.com/amaxiom/shapley-behaviors)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Explainable Pattern Recognition for Materials and Biomedical Data
-
-- **[ItsZyy/Project-SiPerpus](https://github.com/ItsZyy/Project-SiPerpus)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  repository project aplikasi/web SIPERPUS (tugas kelompok 2 pweb)
-
-- **[Vivek9966/Distributed-Order-Inventory-Management-System](https://github.com/Vivek9966/Distributed-Order-Inventory-Management-System)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[ez0000001000000/beaned-charts](https://github.com/ez0000001000000/beaned-charts)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Minimalist, zero-dependency SVG chart library for modern web applications. Generate beautiful, responsive charts with pure JavaScript - no frameworks required!
-
-- **[vircoding/ts-npm-template](https://github.com/vircoding/ts-npm-template)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[JBongars/stable-diffusion-webui-forge-docker](https://github.com/JBongars/stable-diffusion-webui-forge-docker)** ⭐ 1
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  docker implementation of webui forge for StableDiffusion AI
-
-### 📈 Weekly Trending
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 17,194
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 11,905
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Algorithm powering the For You feed on X
-
-- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,322
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Anthropic's original performance take-home, now open for you to try!
-
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,277
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code skill that removes signs of AI-generated writing from text
-
-- **[ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)** ⭐ 1,728
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Beautiful, open source, WebGPU-based charting library
-
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,321
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
-
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,131
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Flux 2 image generation model pure C inference
-
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 1,082
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-
-### 📈 Monthly Trending
-
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 17,194
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 11,905
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Algorithm powering the For You feed on X
-
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,808
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,663
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Browser automation CLI for AI agents
-
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,588
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,366
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI → JSON → UI
-
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,797
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agent skills for Obsidian
-
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 6,904
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
 ## 🚀 Latest Releases
 
@@ -486,37 +387,37 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
@@ -524,10 +425,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🔴 Beginner |
 
 ### Other
@@ -536,7 +437,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
