@@ -46,75 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)**
-  *<p>Article URL: <a href="https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md">https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Fri, 23 Jan 2026 09:50:26 +0000
+- **[Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)**
+  *<p>Article URL: <a href="https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/">https://techcrunch.com/2026/01/23/microsoft-gave-f...*
+  📅 Fri, 23 Jan 2026 17:58:56 +0000
 
-- **[Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)**
-  *<p>Article URL: <a href="https://programmablesearchengine.googleblog.com/">https://programmablesearchengine.googleblog.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46730...*
-  📅 Fri, 23 Jan 2026 09:38:02 +0000
+- **[Proof of Corn](https://proofofcorn.com/)**
+  *<p>Article URL: <a href="https://proofofcorn.com/">https://proofofcorn.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46735511">https://news.ycombinator.com/item?id=467355...*
+  📅 Fri, 23 Jan 2026 17:56:31 +0000
 
-- **[The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)**
-  *<p>Article URL: <a href="https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html">https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 23 Jan 2026 09:24:27 +0000
+- **[Show HN: New 3D Mapping website - Create heli orbits and "playable" map tours.](https://www.easy3dmaps.com/gallery)**
+  *<p>Article URL: <a href="https://www.easy3dmaps.com/gallery">https://www.easy3dmaps.com/gallery</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46735231">https://news.ycombinato...*
+  📅 Fri, 23 Jan 2026 17:34:29 +0000
 
-- **[Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)**
-  *<p>Article URL: <a href="https://pgdog.dev/blog/replace-protobuf-with-rust">https://pgdog.dev/blog/replace-protobuf-with-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467...*
-  📅 Fri, 23 Jan 2026 09:03:31 +0000
+- **[Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)**
+  *<p>Article URL: <a href="https://maggieappleton.com/gastown">https://maggieappleton.com/gastown</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46734302">https://news.ycombinato...*
+  📅 Fri, 23 Jan 2026 16:19:18 +0000
 
-- **[Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)**
-  *<p>Article URL: <a href="https://dbushell.com/2026/01/22/proton-spam/">https://dbushell.com/2026/01/22/proton-spam/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46729368">htt...*
-  📅 Fri, 23 Jan 2026 07:01:29 +0000
+- **[Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)**
+  *<p>Article URL: <a href="https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce">https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 23 Jan 2026 15:48:54 +0000
 
-- **[I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)**
-  *<p><a href="https://rootkid.me/works/spectrum-slit" rel="nofollow">https://rootkid.me/works/spectrum-slit</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46728808">https:...*
-  📅 Fri, 23 Jan 2026 05:34:35 +0000
+- **[KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)**
+  *<p>Article URL: <a href="https://www.korg.com/us/products/dj/phase8/">https://www.korg.com/us/products/dj/phase8/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46732967">https...*
+  📅 Fri, 23 Jan 2026 14:34:46 +0000
 
 ### 📑 TechCrunch
 
-- **[Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/)**
-  *Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia....*
-  📅 Fri, 23 Jan 2026 02:29:24 +0000
+- **[Google Photos’ latest feature lets you meme yourself](https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/)**
+  *The new feature lets you insert yourself into a meme in Google Photos....*
+  📅 Fri, 23 Jan 2026 17:02:22 +0000
 
-- **[Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets](https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/)**
-  *Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up....*
-  📅 Fri, 23 Jan 2026 01:31:54 +0000
+- **[Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/)**
+  *Meta will developed new versions of AI characters that will give age-appropriate responses....*
+  📅 Fri, 23 Jan 2026 17:00:00 +0000
 
-- **[OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/)**
-  *OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company....*
-  📅 Fri, 23 Jan 2026 00:52:33 +0000
+- **[Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)**
+  *A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion....*
+  📅 Fri, 23 Jan 2026 16:17:19 +0000
 
-- **[Vimeo starts layoffs after acquisition by Bending Spoons](https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/)**
-  *Vimeo is in the process of laying off some of its global staff after being acquired last year by Bending Spoons for $1.38B....*
-  📅 Fri, 23 Jan 2026 00:27:28 +0000
+- **[This startup will send 1,000 people’s ashes to space — affordably — in 2027](https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/)**
+  *Started by an engineer who worked on the space shuttle program, and at Blue Origin, Space Beyond has a spot on a 2027 Falcon 9 flight....*
+  📅 Fri, 23 Jan 2026 16:00:00 +0000
 
-- **[GM to end Chevy Bolt EV production next year, move China-made Buick to US factory](https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/)**
-  *The factory musical chairs reflect an economic and political environment, shaped by the Trump administration's tariff policy and its decision to end the federal EV tax credit....*
-  📅 Thu, 22 Jan 2026 23:55:44 +0000
+- **[Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)**
+  *The FBI served Microsoft a warrant requesting encryption recovery keys to decrypt the hard drives of people involved in an alleged fraud case in Guam....*
+  📅 Fri, 23 Jan 2026 15:54:09 +0000
 
-- **[Capital One acquires Brex for a steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/)**
-  *Before everyone sharpens their knives, consider that for the VCs who backed Brex at its outset, the sale is a triumph....*
-  📅 Thu, 22 Jan 2026 23:46:19 +0000
+- **[TikTok-like microdramas are going to make billions this year, even though they kind of suck](https://techcrunch.com/2026/01/23/tiktok-like-microdramas-are-going-to-make-billions-this-year-even-though-they-kind-of-suck/)**
+  *The business model behind these apps replicates the same dark patterns as mobile games....*
+  📅 Fri, 23 Jan 2026 15:50:41 +0000
 
 ### 📑 Dev.to
 
-- **[Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d)**
-  *<p>Prompt engineering works well in prototypes.<br />
-It consistently fails in production systems.</p>
+- **[[Boost]](https://dev.to/anthonymax/-42dp)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/anthonymax">
+    <div class="ltag__link__pic">
+      <img alt="anthonymax" src="https://media2.dev.to/dynamic/image/width=80...*
+  📅 Fri, 23 Jan 2026 18:19:02 +0000
 
-<p>This isn’t a criticism of prompts themselves — it’s a mismatch between how prompts are used a...*
-  📅 Fri, 23 Jan 2026 12:23:54 +0000
+- **[My Resume in My Pocket 24/7. Powered by AWS](https://dev.to/michael-burbank/my-resume-in-my-pocket-247-powered-by-aws-2pa8)**
+  *<p>From phones and wallets to car keys and coffee receipts, there's never been a perfect way to carry a polished PDF resume. </p>
 
-- **[I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon's KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3)**
-  *<p>I've been working on a technical problem: generating coherent, entertaining 50k+ word novels that people would actually enjoy (and maybe even pay) to read. No slop, no drift—genuine narrative ficti...*
-  📅 Fri, 23 Jan 2026 12:21:43 +0000
+<p><strong>So I built a resume I can carry 24/7</strong>. A live webs...*
+  📅 Fri, 23 Jan 2026 18:14:21 +0000
 
 </details>
 
@@ -122,103 +122,103 @@ It consistently fails in production systems.</p>
 
 ### 📈 Daily Trending
 
-- **[Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** ⭐ 60
+- **[Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** ⭐ 72
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据
 
-- **[VigneshVelmurugan13/online-examination-system-using-facial-recognition](https://github.com/VigneshVelmurugan13/online-examination-system-using-facial-recognition)** ⭐ 43
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[VenkatasaiM07/Online-Examination-using-face-recognition-system](https://github.com/VenkatasaiM07/Online-Examination-using-face-recognition-system)** ⭐ 38
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[shobikadayanidhi/Bechdel_Test](https://github.com/shobikadayanidhi/Bechdel_Test)** ⭐ 35
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  None
-
-- **[ScriptedAlchemy/robinhood-decompiled](https://github.com/ScriptedAlchemy/robinhood-decompiled)** ⭐ 32
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Decompiled Robinhood App
-
-- **[dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** ⭐ 32
+- **[dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** ⭐ 62
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Claude skill for developing WebGPU applications with Three.js
 
-- **[qazwsx5293870/S-APICONT](https://github.com/qazwsx5293870/S-APICONT)** ⭐ 29
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  **S-APICONT** 是一款功能强大的 Burp Suite 扩展插件，专注于自动化收集、提取和测试 Web 应用中的 API 接口。它能够从浏览器流量中智能识别 API 端点，支持多种前端框架的路由解析，并提供批量测试和敏感信息检测功能。
+- **[VigneshVelmurugan13/online-examination-system-using-facial-recognition](https://github.com/VigneshVelmurugan13/online-examination-system-using-facial-recognition)** ⭐ 56
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[teorth/optimizationproblems](https://github.com/teorth/optimizationproblems)** ⭐ 25
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A collection of optimization problems in mathematics
+- **[VenkatasaiM07/Online-Examination-using-face-recognition-system](https://github.com/VenkatasaiM07/Online-Examination-using-face-recognition-system)** ⭐ 50
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[shobikadayanidhi/Bechdel_Test](https://github.com/shobikadayanidhi/Bechdel_Test)** ⭐ 48
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[ScriptedAlchemy/robinhood-decompiled](https://github.com/ScriptedAlchemy/robinhood-decompiled)** ⭐ 45
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Decompiled Robinhood App
+
+- **[TheCaspianAI/Caspian](https://github.com/TheCaspianAI/Caspian)** ⭐ 42
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team.
+
+- **[coollabsio/jean](https://github.com/coollabsio/jean)** ⭐ 39
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Jean
 
 ### 📈 Weekly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 20,448
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 21,660
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,742
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,855
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,512
+- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,572
   ![Python](https://img.shields.io/badge/-Python-blue)
   Anthropic's original performance take-home, now open for you to try!
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,491
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,567
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code skill that removes signs of AI-generated writing from text
 
-- **[ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)** ⭐ 1,881
+- **[ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)** ⭐ 1,951
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Beautiful, open source, WebGPU-based charting library
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 1,434
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 1,892
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,348
+- **[blader/Claudeception](https://github.com/blader/Claudeception)** ⭐ 1,367
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,222
+- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,273
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Flux 2 image generation model pure C inference
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 20,448
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 21,660
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,742
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,855
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 10,973
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,010
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,817
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,902
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,620
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,632
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,545
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,621
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,882
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,901
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,108
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,192
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -490,30 +490,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
@@ -522,9 +522,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -532,17 +532,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
