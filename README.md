@@ -46,19 +46,26 @@
 
 ### 📑 Hacker News
 
-- **[OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)**
-  *<p>Article URL: <a href="https://news.aibase.com/news/24859">https://news.aibase.com/news/24859</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46739278">https://news.ycombinato...*
-  📅 Fri, 23 Jan 2026 23:15:12 +0000
+- **[SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)**
+  *<p>Article URL: <a href="https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450">https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450</a></p>
+<p>Comments URL: <a hr...*
+  📅 Sat, 24 Jan 2026 02:59:42 +0000
 
-- **[TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/tiktok-new-privacy-policy/">https://www.wired.com/story/tiktok-new-privacy-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Fri, 23 Jan 2026 22:51:41 +0000
+- **[Comma openpilot – Open source driver-assistance](https://comma.ai)**
+  *<p>Article URL: <a href="https://comma.ai">https://comma.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46740029">https://news.ycombinator.com/item?id=46740029</a></p>
+<p>Po...*
+  📅 Sat, 24 Jan 2026 01:00:50 +0000
 
-- **[EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)**
-  *<p><a href="https://www.marketwatch.com/story/equipmentshare-com-initial-market-cap-tops-6-billion-after-ipo-priced-at-midpoint-d0ca4433" rel="nofollow">https://www.marketwatch.com/story/equipmentshar...*
-  📅 Fri, 23 Jan 2026 21:34:29 +0000
+- **[Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer">https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer</a></p>
+<p>Comme...*
+  📅 Sat, 24 Jan 2026 01:00:48 +0000
+
+- **[Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Jan/23/fastrender/">https://simonwillison.net/2026/Jan/23/fastrender/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467...*
+  📅 Fri, 23 Jan 2026 22:28:01 +0000
 
 - **[Mental Models (2018)](https://fs.blog/mental-models/)**
   *<p>Article URL: <a href="https://fs.blog/mental-models/">https://fs.blog/mental-models/</a></p>
@@ -70,12 +77,19 @@
 <p>Comments URL: <a ...*
   📅 Fri, 23 Jan 2026 21:01:34 +0000
 
-- **[Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/)**
-  *<p>Article URL: <a href="https://eliotakira.com/neko/">https://eliotakira.com/neko/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46737865">https://news.ycombinator.com/item?i...*
-  📅 Fri, 23 Jan 2026 21:01:25 +0000
-
 ### 📑 TechCrunch
+
+- **[Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/)**
+  *Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start...*
+  📅 Sat, 24 Jan 2026 05:27:22 +0000
+
+- **[Apple iPhone just had its best year in India as the smartphone market stays broadly flat](https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/)**
+  *Apple shipped a record 14 million iPhones in India in 2025 and gained market share....*
+  📅 Sat, 24 Jan 2026 05:00:00 +0000
+
+- **[TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means](https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/)**
+  *TikTok users are freaking out over a mention of "immigration status" data collection, but lawyers explain the disclosure is related to state privacy laws....*
+  📅 Sat, 24 Jan 2026 04:34:02 +0000
 
 - **[Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/)**
   *Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it....*
@@ -89,32 +103,18 @@
   *The Department of Justice may be conducting a criminal investigation. This is arguably the biggest drama between two HR startups ever....*
   📅 Fri, 23 Jan 2026 21:13:28 +0000
 
-- **[What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)**
-  *Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop....*
-  📅 Fri, 23 Jan 2026 20:31:27 +0000
-
-- **[Researchers say Russian government hackers were behind attempted Poland power outage](https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/)**
-  *Security researchers have attributed the attempted use of destructive "wiper" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power o...*
-  📅 Fri, 23 Jan 2026 20:17:24 +0000
-
-- **[How did Davos turn into a tech conference?](https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/)**
-  *The World Economic Forum&#8217;s annual meeting in Davos&#160;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&#160;AI dominated the conv...*
-  📅 Fri, 23 Jan 2026 20:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31">New Year, New You Portfolio Challenge Presented by Google AI</a></em></p>
+- **[Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka)**
+  *<p><strong>Quick note:</strong> Took a couple more days to recharge and handle some work commitments, but I'm back with Day 33.<br />
+Today's topic answers something I kept wondering: "If blockchains ...*
+  📅 Sat, 24 Jan 2026 06:09:56 +0000
 
-<h2>
-  
-  
-  Ab...*
-  📅 Sat, 24 Jan 2026 00:43:29 +0000
+- **[The Tao of Architecture: Clearing the Fog of "Names" to Return to the Essence of "Non-Being"](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l)**
+  *<p>Introduction: The Ultimate Challenge of Architecture Lies Beyond Code</p>
 
-- **[Swift Shenanigans- a series I'm gonna make](https://dev.to/ryan_bae_5bd7d40241e52c14/swift-shenanigans-a-series-im-gonna-make-3hg0)**
-  *<p>I've been thinking about Swift, and I've just realized every single book I have with Swift is kid-friendly. So I'm going to make a series; it's gonna assume you know the basics like <code>let</code...*
-  📅 Sat, 24 Jan 2026 00:40:44 +0000
+<p>The most complex aspect of system architecture is never writing code—it is <strong>clearly and precisely understanding,...*
+  📅 Sat, 24 Jan 2026 06:08:00 +0000
 
 </details>
 
@@ -122,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[coolbluealan/dotfiles](https://github.com/coolbluealan/dotfiles)** ⭐ 1
-  ![Vim Script](https://img.shields.io/badge/-Vim Script-lightgrey)
-  Arch Linux dotfiles
+- **[Shpigford/skills](https://github.com/Shpigford/skills)** ⭐ 14
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skills for common tasks
 
-- **[gabrieldacostafreire81-crypto/lista-ordenada-de-jogadores-estatiticas](https://github.com/gabrieldacostafreire81-crypto/lista-ordenada-de-jogadores-estatiticas)** ⭐ 1
+- **[SamNet-dev/iran-conduit-firewall](https://github.com/SamNet-dev/iran-conduit-firewall)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+   Maximize Psiphon Conduit bandwidth for Iranian users
+
+- **[Prorise-cool/prorise-claude-skills](https://github.com/Prorise-cool/prorise-claude-skills)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  开源 Claude Code Skills 集合 - 自动更新的 skills 云盘
+
+- **[joeseesun/codex-assistant](https://github.com/joeseesun/codex-assistant)** ⭐ 5
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  通过自然语言调用 OpenAI Codex CLI 执行代码任务
+
+- **[es-ist-leon/BitBound](https://github.com/es-ist-leon/BitBound)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  BitBound is a Python library that simplifies embedded/IoT development by abstracting hardware with a declarative  API
+
+- **[stef-geo/Med-Tracker](https://github.com/stef-geo/Med-Tracker)** ⭐ 4
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[stef-geo/food_trucks](https://github.com/stef-geo/food_trucks)** ⭐ 3
+  ![Ruby](https://img.shields.io/badge/-Ruby-lightgrey)
+  None
+
+- **[ChaiyawatNewbie/ThaiPhishing](https://github.com/ChaiyawatNewbie/ThaiPhishing)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
-
-- **[miguelacasanova2011-spec/str-blox-fruits](https://github.com/miguelacasanova2011-spec/str-blox-fruits)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[WilliamKarolDiCioccio/depth_buffer_generator](https://github.com/WilliamKarolDiCioccio/depth_buffer_generator)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A fun tool to replace video depth masking tools behind paywalls
-
-- **[TheCodeCurrents/Atlas](https://github.com/TheCodeCurrents/Atlas)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A fully self-contained computational environment built entirely from scratch
-
-- **[sandrinehoeger/Philna-Fantasy](https://github.com/sandrinehoeger/Philna-Fantasy)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[Cavcode/aribethTool](https://github.com/Cavcode/aribethTool)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
-
-- **[dotcommander/agent-framework](https://github.com/dotcommander/agent-framework)** ⭐ 1
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  agent framework for the claude code agent sdk
 
 ### 📈 Weekly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 22,343
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 23,148
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,911
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,967
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,623
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Anthropic's original performance take-home, now open for you to try!
-
-- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,609
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code skill that removes signs of AI-generated writing from text
-
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 2,361
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 2,659
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,309
+- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,657
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Anthropic's original performance take-home, now open for you to try!
+
+- **[blader/humanizer](https://github.com/blader/humanizer)** ⭐ 2,645
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Claude Code skill that removes signs of AI-generated writing from text
+
+- **[antirez/flux2.c](https://github.com/antirez/flux2.c)** ⭐ 1,328
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Flux 2 image generation model pure C inference
 
-- **[ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)** ⭐ 1,291
+- **[ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)** ⭐ 1,322
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 1,254
+- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 1,286
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 22,343
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 23,148
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,911
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 12,967
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,028
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,064
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 9,956
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,012
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,637
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,643
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,661
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,710
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,921
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 7,951
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,259
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,298
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -490,11 +490,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
@@ -502,25 +502,25 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
@@ -532,16 +532,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
 </details>
