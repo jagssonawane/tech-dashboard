@@ -46,32 +46,30 @@
 
 ### 📑 Hacker News
 
-- **[We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)**
-  *<p>Article URL: <a href="https://eclypsium.com/blog/xray-counterfeit-usb-cable/">https://eclypsium.com/blog/xray-counterfeit-usb-cable/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 24 Jan 2026 23:55:10 +0000
+- **[Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)**
+  *<p>Article URL: <a href="https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/">https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-p...*
+  📅 Sun, 25 Jan 2026 04:53:29 +0000
 
-- **[Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)**
-  *<p>Article URL: <a href="https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042">https://theconversation.com/europe-wants-to-end-its-dangerous-reliance...*
-  📅 Sat, 24 Jan 2026 23:21:37 +0000
+- **[TikTok is officially US-owned for American users, here's what's changing](https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/)**
+  *<p>Article URL: <a href="https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/">https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-america...*
+  📅 Sun, 25 Jan 2026 04:37:58 +0000
 
-- **[I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/)**
-  *<p>Article URL: <a href="https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/">https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/</a></p>
-<p>Comment...*
-  📅 Sat, 24 Jan 2026 21:49:01 +0000
+- **[The Responsibility of Intellectuals (1967)](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)**
+  *<p>Article URL: <a href="https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/">https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsib...*
+  📅 Sun, 25 Jan 2026 03:44:28 +0000
 
-- **[Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)**
-  *<p>Article URL: <a href="https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/">https://arstechnica.com/security/2026/01/wiper-malware...*
-  📅 Sat, 24 Jan 2026 21:24:13 +0000
+- **[Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)**
+  *<p>I've long wanted to harness QEMU/KVM for my desktop virtual machines, but I'm befuddled by virt-manager's lack of support for working NVIDIA 3D acceleration, dogmatic embrace of ugly XML, and the p...*
+  📅 Sun, 25 Jan 2026 03:36:38 +0000
 
-- **[The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)**
-  *<p>Article URL: <a href="https://www.metropolitanreview.org/p/the-writers-came-at-night">https://www.metropolitanreview.org/p/the-writers-came-at-night</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sat, 24 Jan 2026 21:19:35 +0000
+- **[nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)**
+  *<p>Article URL: <a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971">https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 25 Jan 2026 03:33:20 +0000
 
-- **[First Design Engineer Hire – Build Games at Gym Class (YC W22)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal">https://www.ycombinator.com/companies/gym-class-by-irl-stud...*
-  📅 Sat, 24 Jan 2026 21:01:02 +0000
+- **[Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)**
+  *<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs">https://www.windowscentral.com/micr...*
+  📅 Sun, 25 Jan 2026 03:17:43 +0000
 
 ### 📑 TechCrunch
 
@@ -101,21 +99,23 @@
 
 ### 📑 Dev.to
 
-- **[Autonomous Agents Need Trustless Infrastructure: How ROFL Enables True Agent Sovereignty](https://dev.to/savvysid/autonomous-agents-need-trustless-infrastructure-how-rofl-enables-true-agent-sovereignty-359l)**
-  *<p><em>If your autonomous agent requires users to trust the development team with private keys, the agent isn't autonomous, it's a black box pretending to be decentralized.</em></p>
-
-<p><a class="arti...*
-  📅 Sun, 25 Jan 2026 00:46:32 +0000
-
-- **[Java Finally Gets TOON Support: json-io 4.85.0](https://dev.to/john_deregnaucourt/java-finally-gets-toon-support-json-io-4850-bpp)**
+- **[How I Explained LLMs, SLMs & VLMs at Microsoft](https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h)**
   *<h2>
   
   
-  Java Finally Gets TOON Support: json-io 4.85.0
+  Why This Talk Mattered
 </h2>
 
-<p>I've seen the excellent TOON articles here on Dev.to lately (<a href="https://dev.to/akki907/toon-vs-json-the-new-format-designed-...*
-  📅 Sun, 25 Jan 2026 00:44:53 +0000
+<p>I recently had the opportunity to present my thoughts on <strong>LLMs, SLMs, and VLMs</strong> at the Microsoft office during a community event. This wasn...*
+  📅 Sun, 25 Jan 2026 06:17:47 +0000
+
+- **[Poll UI / User Vote](https://dev.to/preetha_vaishnavi_2b82358/poll-ui-user-vote-2gb3)**
+  *<p>Check out this Pen I made!</p>
+
+<p>
+
+</p>...*
+  📅 Sun, 25 Jan 2026 06:09:32 +0000
 
 </details>
 
@@ -123,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[rahvis/EB1A-Petition](https://github.com/rahvis/EB1A-Petition)** ⭐ 3
+- **[Shyam-ehh/Contact-Form-with-Gmail-Notification](https://github.com/Shyam-ehh/Contact-Form-with-Gmail-Notification)** ⭐ 18
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[Finnnnnnie/trying](https://github.com/Finnnnnnie/trying)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[rahvis/EB1A-Petition](https://github.com/rahvis/EB1A-Petition)** ⭐ 10
   ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
   This repository contains a LaTeX template for an EB-1A 
 
-- **[bad-antics/glowbarn-rs](https://github.com/bad-antics/glowbarn-rs)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  High-Performance Paranormal Detection Suite - Rust Edition
+- **[miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code)** ⭐ 7
+  ![Dockerfile](https://img.shields.io/badge/-Dockerfile-lightgrey)
+  Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent
 
-- **[Cherry5033MC/RailwayBlockAddon](https://github.com/Cherry5033MC/RailwayBlockAddon)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Added catenary wires to better construct railways. Unlike other catenary modules, it only adds blocks to prevent distance gaps.Using GNU General Public License v3.0
-
-- **[raosaiprajwal/Automated-Human-Age-Detection](https://github.com/raosaiprajwal/Automated-Human-Age-Detection)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This project estimates human age from facial images using deep learning, with applications in analytics, security, and personalization systems.
-
-- **[How2Invade/ui-redesign](https://github.com/How2Invade/ui-redesign)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[aprilpet/Tapestry](https://github.com/aprilpet/Tapestry)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A simple fabric mod to implement Lunar client's Apollo API
-
-- **[Lbaodz/Header-Builder](https://github.com/Lbaodz/Header-Builder)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Easily build stunning, custom website headers with our intuitive drag-and-drop header builder. Choose from hundreds of pre-made templates, add logos, navigation menus, buttons, and more. No coding skills required. Perfectly responsive on all devices. Upgrade your website's look instantly!
-
-- **[kumr192/oracle-ar-mcp-server](https://github.com/kumr192/oracle-ar-mcp-server)** ⭐ 1
+- **[subiksha-2006/Chatbot](https://github.com/subiksha-2006/Chatbot)** ⭐ 7
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[franceto/SkinDisease_EfficientNet_B5](https://github.com/franceto/SkinDisease_EfficientNet_B5)** ⭐ 6
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  EfficientNet-B5 skin disease classification (PyTorch) + Streamlit demo
+
+- **[princepainter/ComfyUI-PainterMultiF2V](https://github.com/princepainter/ComfyUI-PainterMultiF2V)** ⭐ 5
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A streamlined toolkit for creating cinematic multi-shot long videos from sequential keyframes and prompts.
+
+- **[ternaryop8479/aurora-rendering-engine](https://github.com/ternaryop8479/aurora-rendering-engine)** ⭐ 4
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  (开发中) 基于船新路径追踪算法的实时物理渲染引擎，由C++实现
 
 ### 📈 Weekly Trending
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,183
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,252
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 3,524
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 3,680
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,750
+- **[anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** ⭐ 2,764
   ![Python](https://img.shields.io/badge/-Python-blue)
   Anthropic's original performance take-home, now open for you to try!
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 1,351
+- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** ⭐ 1,384
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-- **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** ⭐ 1,240
+- **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** ⭐ 1,264
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** ⭐ 876
+- **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** ⭐ 886
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** ⭐ 754
+- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** ⭐ 776
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Agent Skills
 
-- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 617
+- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 631
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 25,454
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 26,057
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,183
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,252
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,156
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,191
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,207
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,267
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,671
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,678
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,927
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 8,983
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,048
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,074
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,476
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,503
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -491,59 +491,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
