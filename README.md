@@ -46,37 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[The Browser Is the Sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)**
+- **[Show HN posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)**
+  *<p>Article URL: <a href="https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/">https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Mon, 26 Jan 2026 11:16:17 +0000
+
+- **[MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)**
+  *<p>Article URL: <a href="https://maplibre.org/news/2026-01-23-mlt-release/">https://maplibre.org/news/2026-01-23-mlt-release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467...*
+  📅 Mon, 26 Jan 2026 10:19:51 +0000
+
+- **[San Francisco Graffiti](https://walzr.com/sf-graffiti)**
+  *<p>Article URL: <a href="https://walzr.com/sf-graffiti">https://walzr.com/sf-graffiti</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46763721">https://news.ycombinator.com/item...*
+  📅 Mon, 26 Jan 2026 10:02:12 +0000
+
+- **[The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)**
+  *<p>Article URL: <a href="https://github.com/quaadgras/graphics.gd/discussions/242">https://github.com/quaadgras/graphics.gd/discussions/242</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 26 Jan 2026 07:41:52 +0000
+
+- **[The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)**
   *<p>Article URL: <a href="https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/">https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/</a></p>
 <p>Comments URL: <a href="https://...*
   📅 Mon, 26 Jan 2026 05:23:01 +0000
-
-- **[Nvidia is about to challenge 'Intel Inside' with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell)**
-  *<p>Article URL: <a href="https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell">https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell</a></p>
-<p>Comments ...*
-  📅 Mon, 26 Jan 2026 05:18:03 +0000
 
 - **[Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)**
   *<p>Article URL: <a href="https://restofworld.org/2026/iran-blackout-tiered-internet/">https://restofworld.org/2026/iran-blackout-tiered-internet/</a></p>
 <p>Comments URL: <a href="https://news.ycombin...*
   📅 Mon, 26 Jan 2026 04:18:19 +0000
 
-- **[Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)**
-  *<p>Article URL: <a href="https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php">https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php</a></p>
-...*
-  📅 Mon, 26 Jan 2026 03:40:06 +0000
-
-- **[Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)**
-  *<p>Article URL: <a href="https://whythere.life">https://whythere.life</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46761547">https://news.ycombinator.com/item?id=46761547</a>...*
-  📅 Mon, 26 Jan 2026 03:31:02 +0000
-
-- **[SF Microclimates](https://microclimates.solofounders.com/)**
-  *<p>Article URL: <a href="https://microclimates.solofounders.com/">https://microclimates.solofounders.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46761219">https://news....*
-  📅 Mon, 26 Jan 2026 02:38:55 +0000
-
 ### 📑 TechCrunch
+
+- **[Synthesia hits $4B valuation, lets employees cash out](https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/)**
+  *British startup Synthesia, whose AI platform helps companies create interactive training videos, has raised a $200 million Series E round of funding that brings its valuation to $4 billion — up from $...*
+  📅 Mon, 26 Jan 2026 09:00:00 +0000
 
 - **[This founder cracked firefighting — now he’s creating an AI gold mine](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/)**
   *The nozzle is just the beginning – what company founder Sunny Sethi calls "the muscle on the ground.”...*
@@ -98,28 +102,15 @@
   *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
   📅 Sun, 25 Jan 2026 17:06:00 +0000
 
-- **[Apple will reportedly unveil its Gemini-powered Siri assistant in February](https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/)**
-  *We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google....*
-  📅 Sun, 25 Jan 2026 16:56:31 +0000
-
 ### 📑 Dev.to
 
-- **[🚀 The Algorithm Mastery Series: From Fundamentals to 2026's Cutting Edge](https://dev.to/charles_kumar_30654e10958/the-algorithm-mastery-series-from-fundamentals-to-2026s-cutting-edge-5gbg)**
-  *<h2>
-  
-  
-  A 10-Part Journey from Student to Professional Problem Solver
-</h2>
+- **[Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm)**
+  *<p>I see this pattern constantly: someone gives an LLM a task, it starts executing immediately, and halfway through you realize it's building the wrong thing. Or it gets stuck in a loop. Or it produce...*
+  📅 Mon, 26 Jan 2026 12:24:31 +0000
 
-<blockquote>
-<p><strong>"In 2026, algorithms aren't just academic exercises—they're the invisible engines powering AI,...*
-  📅 Mon, 26 Jan 2026 06:10:57 +0000
-
-- **[Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp)**
-  *<p>Most developers focus on writing clean code, improving performance, and shipping features faster—and that’s exactly how it should be. But one important aspect often gets ignored: SEO.</p>
-
-<p>SEO i...*
-  📅 Mon, 26 Jan 2026 06:10:00 +0000
+- **[[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p)**
+  *<p><a href="https://developer.apple.com/documentation/SwiftUI/List" rel="noopener noreferrer"><code>List</code></a> es un contenedor que presenta filas de datos apiladas en una sola columna, opcionalm...*
+  📅 Mon, 26 Jan 2026 12:20:46 +0000
 
 </details>
 
@@ -127,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[lingxiao69/lingxiao-ai-manager](https://github.com/lingxiao69/lingxiao-ai-manager)** ⭐ 28
+- **[lingxiao69/lingxiao-ai-manager](https://github.com/lingxiao69/lingxiao-ai-manager)** ⭐ 39
   ![Python](https://img.shields.io/badge/-Python-blue)
   🚀 Cursor + Antigravity 双IDE 账号管理工具 - 配额查询/多账号切换/机器码重置
+
+- **[lager73516c/KER-2026](https://github.com/lager73516c/KER-2026)** ⭐ 32
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  KERStealer 2026 | Github
+
+- **[YunjueTech/Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent)** ⭐ 27
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks
+
+- **[Sadhana-1607/rubiks-cube-color-detection-](https://github.com/Sadhana-1607/rubiks-cube-color-detection-)** ⭐ 26
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[sujithvarshan28/Diabetes-Prediction-System](https://github.com/sujithvarshan28/Diabetes-Prediction-System)** ⭐ 23
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Diabetes Risk Prediction System using Machine Learning and React. The project performs clinical risk assessment based on health and lifestyle inputs. Features include data preprocessing, ML classification, and a React UI with age ranges, tooltips, and risk-based outputs.
+
+- **[pBhavatharani/JOB_portal](https://github.com/pBhavatharani/JOB_portal)** ⭐ 19
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 - **[sh3rif0x/my_first_repo](https://github.com/sh3rif0x/my_first_repo)** ⭐ 18
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[pBhavatharani/JOB_portal](https://github.com/pBhavatharani/JOB_portal)** ⭐ 8
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[coleam00/custom-agent-with-skills](https://github.com/coleam00/custom-agent-with-skills)** ⭐ 8
+- **[filliptm/ComfyUI-FL-Qwen3TTS](https://github.com/filliptm/ComfyUI-FL-Qwen3TTS)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Pydantic AI agent that implements the idea of Claude Skills (progressive disclosure) with no reliance on Claude itself.
-
-- **[Zacarx/HaE_mcp](https://github.com/Zacarx/HaE_mcp)** ⭐ 7
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  HaE MCP集成是基于 HaE 扩展开发的智能安全分析工具。该工具通过 MCP 协议为 AI 助手提供结构化的敏感信息访问接口，实现自动化的安全数据分析和验证功能。
-
-- **[azurejelly/april-fools-demo](https://github.com/azurejelly/april-fools-demo)** ⭐ 6
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Shows the Minecraft demo screen when joining a server on April Fools
-
-- **[study8677/clawdbot-webchat-lite](https://github.com/study8677/clawdbot-webchat-lite)** ⭐ 5
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  一个*轻量、可国内部署、多端同步*的 Clawdbot 聊天客户端。不做新 channel，仅对接 Gateway WebSocket，保证维护成本最低。A lightweight, locally deployable, and multi-device synchronized Clawdbot chat client. It focuses solely on connecting via Gateway WebSocket rather than creating new channels, ensuring minimal maintenance overhead.
-
-- **[YunjueTech/Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks
+  Qwen3-TTS text-to-speech nodes for ComfyUI with voice cloning, voice design, and fine-tuning UI
 
 ### 📈 Weekly Trending
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 4,507
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 4,727
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** ⭐ 739
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot
-
-- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 708
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[majcheradam/ocrbase](https://github.com/majcheradam/ocrbase)** ⭐ 690
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable.
-
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 683
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 926
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 599
+- **[terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** ⭐ 738
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot
+
+- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 734
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 583
+- **[majcheradam/ocrbase](https://github.com/majcheradam/ocrbase)** ⭐ 696
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable.
+
+- **[VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills)** ⭐ 642
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The awesome collection of Clawdbot Skills
+
+- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 621
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 605
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Vue 3 development
 
-- **[flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** ⭐ 512
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A Simple Implementation of Qwen3-TTS's ComfyUI
-
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 29,366
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 30,148
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,559
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,635
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,344
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,407
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,572
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,659
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,707
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,720
   ![Python](https://img.shields.io/badge/-Python-blue)
   "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,153
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,219
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,203
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,244
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,742
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,825
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
@@ -495,8 +486,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
 | TypeScript | 🟡 Learning |
 | Go | 🔴 Beginner |
@@ -505,49 +496,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
