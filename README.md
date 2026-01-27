@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 26, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,69 +46,83 @@
 
 ### 📑 Hacker News
 
-- **[Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)**
-  *<p>Article URL: <a href="https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/">https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_...*
-  📅 Mon, 26 Jan 2026 18:05:15 +0000
+- **[Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)**
+  *<p>Article URL: <a href="https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/">https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-in...*
+  📅 Mon, 26 Jan 2026 23:32:00 +0000
 
-- **[House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)**
-  *<p>Article URL: <a href="https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html">https://www.ispreview.co.uk/index.php/2026/01/house-of-lor...*
-  📅 Mon, 26 Jan 2026 18:00:32 +0000
+- **[You have to know how tech companies work](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)**
+  *<p>Article URL: <a href="https://www.seangoedecke.com/knowing-how-to-drive-the-car/">https://www.seangoedecke.com/knowing-how-to-drive-the-car/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Mon, 26 Jan 2026 23:05:43 +0000
 
-- **[Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)**
-  *<p>Article URL: <a href="https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o">https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o</a></p>
-<p>Comments ...*
-  📅 Mon, 26 Jan 2026 17:54:20 +0000
+- **[I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip)**
+  *<p>Article URL: <a href="https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip">https://www.msn.com/en-us/news/technology/...*
+  📅 Mon, 26 Jan 2026 22:29:54 +0000
 
-- **[The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)**
-  *<p>Article URL: <a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">https://www.darioamodei.com/essay/the-adolescence-of-technology</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Mon, 26 Jan 2026 17:07:24 +0000
+- **[People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)**
+  *<p>Gift link: <a href="https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54?st=zbjngP&amp;reflink=desktopwebshare_permalink" rel="nofollow">https://www.wsj...*
+  📅 Mon, 26 Jan 2026 21:11:53 +0000
 
-- **[The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)**
-  *<p>Article URL: <a href="https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/">https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/</a></p>
-<p>Comments URL:...*
-  📅 Mon, 26 Jan 2026 16:43:30 +0000
+- **[Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)**
+  *<p>Article URL: <a href="https://visualrambling.space/dithering-part-2/">https://visualrambling.space/dithering-part-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46770274"...*
+  📅 Mon, 26 Jan 2026 19:23:54 +0000
 
-- **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)**
-  *<p>Article URL: <a href="https://twitter.com/lellouchenico/status/2015775970330882319">https://twitter.com/lellouchenico/status/2015775970330882319</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 26 Jan 2026 16:27:46 +0000
+- **[ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Jan/26/chatgpt-containers/">https://simonwillison.net/2026/Jan/26/chatgpt-containers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 26 Jan 2026 19:19:40 +0000
 
 ### 📑 TechCrunch
 
-- **[TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/)**
-  *Skylight, a TikTok alternative built on open protocols, has had a busy weekend....*
-  📅 Mon, 26 Jan 2026 18:20:48 +0000
+- **[Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/)**
+  *Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of "unlawful and intentional interception and recording of individuals’ confidential communications w...*
+  📅 Tue, 27 Jan 2026 00:43:35 +0000
 
-- **[Anthropic launches interactive Claude apps, including Slack and other workplace tools](https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/)**
-  *Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon....*
-  📅 Mon, 26 Jan 2026 18:00:00 +0000
+- **[AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/)**
+  *Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate....*
+  📅 Tue, 27 Jan 2026 00:13:15 +0000
 
-- **[Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health](https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/)**
-  *The 12-year-old firm raised $360,360,360 for its fifth fund. And there's a reason for that number....*
-  📅 Mon, 26 Jan 2026 18:00:00 +0000
+- **[Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/)**
+  *In the coming months, Meta is going to explore a premium experience on Instagram, Facebook, and WhatsApp that gives users access to special features and more control over how they share and connect, w...*
+  📅 Mon, 26 Jan 2026 23:12:33 +0000
 
-- **[TikTok attributes recent glitches to a power outage at a U.S. data center](https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/)**
-  *The timing of these outages lines up with the long-awaited creation of a separate U.S. TikTok entity last week....*
-  📅 Mon, 26 Jan 2026 17:48:50 +0000
+- **[Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence](https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/)**
+  *Many members of the international games industry are skipping the 2026 Game Developers Conference because of the growing ICE presence and other concerns....*
+  📅 Mon, 26 Jan 2026 22:47:49 +0000
 
-- **[VC firm 2150 raises €210M fund to solve cities’ climate challenges](https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/)**
-  *Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint....*
-  📅 Mon, 26 Jan 2026 17:29:35 +0000
+- **[Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting](https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/)**
+  *Unwavering Trump loyalist and VC Keith Rabois caused his colleague  and his firm's founder to distance themselves from his comments on ICE....*
+  📅 Mon, 26 Jan 2026 21:49:12 +0000
 
-- **[Saudi satirist hacked with Pegasus spyware wins damages in court battle](https://techcrunch.com/2026/01/26/saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle/)**
-  *The London High Court awarded the London-based satirist and human rights activist Ghanem Al-Masarir more than £3 million, after finding the Saudi government hacked his phone and was likely behind a ph...*
-  📅 Mon, 26 Jan 2026 17:20:07 +0000
+- **[YouTubers sue Snap for alleged copyright infringement in training its AI models](https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/)**
+  *The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models....*
+  📅 Mon, 26 Jan 2026 21:43:14 +0000
 
 ### 📑 Dev.to
 
-- **[DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164)**
-  *<p>January can be a time when we make all the resolutions to do and be better in the shiny new year. We resolve to do more... more exercise, a more rigorous diet, even more mindfulness, doggone it. Bu...*
-  📅 Mon, 26 Jan 2026 18:18:58 +0000
+- **[CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)**
+  *<p>Curlee is a safety harness for AI-generated (and human-written) code: it refuses to run a program unless it can prove your declared contracts within a small, decidable verification scope.</p>
 
-- **[Refatoração de Legados sem parar o negócio](https://dev.to/danielcamucatto/refatoracao-de-legados-sem-parar-o-negocio-3d3a)**
-  *<p>Lidar com a refatoração de sistemas legados é como trocar o pneu de um carro a 100 km/h: exige precisão, estratégia e uma boa dose de nervos de aço. O segredo não está apenas no código, mas em como...*
-  📅 Mon, 26 Jan 2026 18:15:37 +0000
+<p>I...*
+  📅 Tue, 27 Jan 2026 00:59:19 +0000
+
+- **[Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)**
+  *<h2>
+  
+  
+  FitnessEquation: Comprehensive Summary
+</h2>
+
+<h2>
+  
+  
+  The Honest Story Behind Your Fitness Platform
+</h2>
+
+<p><strong>Date:</strong> January 26, 2026<br /><br />
+<strong>Assessment:<...*
+  📅 Tue, 27 Jan 2026 00:55:52 +0000
 
 </details>
 
@@ -116,105 +130,105 @@
 
 ### 📈 Daily Trending
 
-- **[lingxiao69/lingxiao-ai-manager](https://github.com/lingxiao69/lingxiao-ai-manager)** ⭐ 39
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  🚀 Cursor + Antigravity 双IDE 账号管理工具 - 配额查询/多账号切换/机器码重置
-
-- **[YunjueTech/Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent)** ⭐ 39
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks
-
-- **[nhevers/claude-recall](https://github.com/nhevers/claude-recall)** ⭐ 36
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Persistent memory for Claude Code
-
-- **[filliptm/ComfyUI-FL-Qwen3TTS](https://github.com/filliptm/ComfyUI-FL-Qwen3TTS)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen3-TTS text-to-speech nodes for ComfyUI with voice cloning, voice design, and fine-tuning UI
-
-- **[lager73516c/KER-2026](https://github.com/lager73516c/KER-2026)** ⭐ 32
+- **[jilimiter/pjson](https://github.com/jilimiter/pjson)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  KERStealer 2026 | Github
+  GMTCK Intern`s 1st mini project
 
-- **[Anlin-Abishek/RealTime-Face-Eye-Identifier](https://github.com/Anlin-Abishek/RealTime-Face-Eye-Identifier)** ⭐ 32
+- **[mrdoob/three-quake](https://github.com/mrdoob/three-quake)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[SecureVoid/ProxyHive](https://github.com/SecureVoid/ProxyHive)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A Python-based computer vision application using OpenCV and Haar Cascades to detect faces and eyes in real-time with custom user-labeling features.
+  Automated proxy scraper & checker (HTTP, SOCKS4, SOCKS5)
 
-- **[sticpaper/moon_kernel_mirror](https://github.com/sticpaper/moon_kernel_mirror)** ⭐ 31
+- **[Kostya088/learnReact](https://github.com/Kostya088/learnReact)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  moon kernel repo
+  None
 
-- **[terausss/Polymarket-Kalshi-Arbitrage-Bot](https://github.com/terausss/Polymarket-Kalshi-Arbitrage-Bot)** ⭐ 31
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot 
+- **[ullumMM28/Portofolio-M28](https://github.com/ullumMM28/Portofolio-M28)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Hallo ini portofolio saya
+
+- **[travisnielsen/nexus](https://github.com/travisnielsen/nexus)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Nexus is a reference design for an interactive dashboard powered by AG-UI and Microsoft Agent Framework.
+
+- **[CoderMiche3012/CenEsp-Frontend](https://github.com/CoderMiche3012/CenEsp-Frontend)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[ashraf5670/cloud-data-platform-analytics-genai](https://github.com/ashraf5670/cloud-data-platform-analytics-genai)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Cloud data platform with ETL pipelines supporting analytics and GenAI workloads
 
 ### 📈 Weekly Trending
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 4,891
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 5,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,064
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,125
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills)** ⭐ 834
+- **[VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills)** ⭐ 987
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of Clawdbot Skills
 
-- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 745
+- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 749
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** ⭐ 709
+- **[terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** ⭐ 676
   ![Python](https://img.shields.io/badge/-Python-blue)
   polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot
 
-- **[majcheradam/ocrbase](https://github.com/majcheradam/ocrbase)** ⭐ 705
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable.
-
-- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 633
+- **[KKKKhazix/Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** ⭐ 635
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 617
+- **[hyf0/vue-skills](https://github.com/hyf0/vue-skills)** ⭐ 629
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Vue 3 development
 
+- **[flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** ⭐ 586
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Simple Implementation of Qwen3-TTS's ComfyUI
+
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 30,642
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 30,909
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,697
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 13,726
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,446
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,457
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,720
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 10,765
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** ⭐ 9,726
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "DeepTutor: AI-Powered Personalized Learning Assistant"
-
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,251
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,273
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,269
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,280
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,880
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 7,946
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 7,874
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
 ## 🚀 Latest Releases
 
@@ -235,13 +249,13 @@ For the complete release notes go to [Updates](...
 
 ### 📦 facebook/react
 
-**[19.2.3 (December 11th, 2025)](https://github.com/facebook/react/releases/tag/v19.2.3)** `v19.2.3`
+**[19.2.4 (January 26th, 2026)](https://github.com/facebook/react/releases/tag/v19.2.4)** `v19.2.4`
 
-📅 Released: December 11, 2025
+📅 Released: January 26, 2026
 
 ## React Server Components
 
-- Add extra loop protection to React Server Functions (@sebmarkbage [#35351](https://github.com/facebook/react/pull/35351))...
+- Add more DoS mitigations to Server Actions, and harden Server Components ([#35632](https://github.com/facebook/react/pull/35632) by @gnoff, @lubieowoce, @sebmarkbage, @...
 
 ---
 
@@ -331,16 +345,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-01-19, Version 25.4.0 (Current), @RafaelGSS](https://github.com/nodejs/node/releases/tag/v25.4.0)** `v25.4.0`
+**[2026-01-26, Version 25.5.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v25.5.0)** `v25.5.0`
 
-📅 Released: January 19, 2026
+📅 Released: January 26, 2026
 
 
 
 
 ### Notable Changes
 
-* \[[`8f6fada8f1`](https://github.com/nodejs/node/commit/8f6fada8f1)] - **cli**: add --require-module/--no-require-module (Joyee Cheung) [#60959](https://github.com/nodejs/node...
+* \[[`99a4e51f93`](https://github.com/nodejs/node/commit/99a4e51f93)] - **crypto**: update root certificates to NSS 3.119 (Node.js GitHub Bot) [#61419](https://github.com/nodej...
 
 ---
 
@@ -484,41 +498,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -526,16 +540,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
@@ -554,7 +568,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 26, 2026
+**Last Updated:** January 27, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
