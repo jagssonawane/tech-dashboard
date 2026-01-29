@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,83 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)**
-  *<p>Article URL: <a href="https://github.com/ratatui/mousefood">https://github.com/ratatui/mousefood</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46798402">https://news.ycombi...*
-  📅 Wed, 28 Jan 2026 17:20:31 +0000
+- **[Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)**
+  *<p>Article URL: <a href="https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/">https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-steve...*
+  📅 Wed, 28 Jan 2026 23:55:42 +0000
 
-- **[Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)**
-  *<p>Article URL: <a href="https://github.com/vrn21/bouvet.com">https://github.com/vrn21/bouvet.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46797895">https://news.ycombina...*
-  📅 Wed, 28 Jan 2026 16:50:43 +0000
+- **[I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)**
+  *<p>Article URL: <a href="https://github.com/Pickle-Pixel/netflix-force-4k">https://github.com/Pickle-Pixel/netflix-force-4k</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46803...*
+  📅 Wed, 28 Jan 2026 23:45:40 +0000
 
-- **[Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)**
-  *<p>Article URL: <a href="https://www.dimamik.com/posts/oban_py/">https://www.dimamik.com/posts/oban_py/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46797594">https://news.yc...*
-  📅 Wed, 28 Jan 2026 16:32:00 +0000
+- **[Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)**
+  *<p>Article URL: <a href="https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in">https://www.mcsweeneys.net/articles/please-dont-say-mea...*
+  📅 Wed, 28 Jan 2026 23:36:23 +0000
 
-- **[Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)**
-  *<p>Article URL: <a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/">https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-glo...*
-  📅 Wed, 28 Jan 2026 15:39:11 +0000
+- **[The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)**
+  *<p>Article URL: <a href="https://mahadk.com/posts/ai-skills-hub">https://mahadk.com/posts/ai-skills-hub</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46803119">https://news.yc...*
+  📅 Wed, 28 Jan 2026 23:16:12 +0000
 
-- **[Airfoil (2024)](https://ciechanow.ski/airfoil/)**
-  *<p>Article URL: <a href="https://ciechanow.ski/airfoil/">https://ciechanow.ski/airfoil/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46795908">https://news.ycombinator.com/it...*
-  📅 Wed, 28 Jan 2026 14:32:30 +0000
+- **[Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)**
+  *<p>Article URL: <a href="https://github.com/microsoft/bf-tree">https://github.com/microsoft/bf-tree</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46802210">https://news.ycombi...*
+  📅 Wed, 28 Jan 2026 22:05:05 +0000
 
-- **[Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)**
-  *<p>Article URL: <a href="https://www.himthe.dev/blog/microsoft-to-linux">https://www.himthe.dev/blog/microsoft-to-linux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46795864"...*
-  📅 Wed, 28 Jan 2026 14:28:21 +0000
+- **[Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)**
+  *<p><a href="https://archive.ph/VrEtg" rel="nofollow">https://archive.ph/VrEtg</a><p><a href="https://globe.adsbexchange.com/?icao=adfdf9&amp;lat=26.678&amp;lon=-80.030&amp;zoom=14.4&amp;showTrace=2026...*
+  📅 Wed, 28 Jan 2026 21:50:47 +0000
 
 ### 📑 TechCrunch
 
-- **[Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks](https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/)**
-  *Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users...*
-  📅 Wed, 28 Jan 2026 18:00:00 +0000
+- **[Meta burned $19 billion on VR last year, and 2026 won’t be any better](https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/)**
+  *The reported financial losses follow a series of layoffs at the VR unit....*
+  📅 Thu, 29 Jan 2026 00:20:18 +0000
 
-- **[Apple tells Patreon to move creators to in-app purchase for subscriptions by November](https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/)**
-  *Patreon isn’t happy about Apple’s new subscription billing mandate, arguing Apple’s shifting rules create uncertainty for creators....*
-  📅 Wed, 28 Jan 2026 17:45:00 +0000
+- **[Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/)**
+  *Mark Zuckerberg says 2026 will be "a big year for delivering personal super intelligence."...*
+  📅 Wed, 28 Jan 2026 23:16:02 +0000
 
-- **[Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/)**
-  *30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company....*
-  📅 Wed, 28 Jan 2026 17:30:00 +0000
+- **[Trump energy department loosens rules on nuclear safety](https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/)**
+  *The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups....*
+  📅 Wed, 28 Jan 2026 22:50:18 +0000
 
-- **[Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets](https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/)**
-  *SpaceX eyes June for IPO to align with Musk's birthday and the planets....*
-  📅 Wed, 28 Jan 2026 17:12:38 +0000
+- **[Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/)**
+  *Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth....*
+  📅 Wed, 28 Jan 2026 22:47:24 +0000
 
-- **[With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it](https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/)**
-  *Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them...*
-  📅 Wed, 28 Jan 2026 17:04:50 +0000
+- **[Tesla is killing off the Model S and Model X](https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/)**
+  *The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday....*
+  📅 Wed, 28 Jan 2026 22:40:53 +0000
 
-- **[San Francisco Police Department investigating Zoox collision with a parked car](https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/)**
-  *The investigation is looking into a January 17 crash where a Zoox robotaxi hit the driver's side door of a parked car, which Zoox said was "suddenly opened."...*
-  📅 Wed, 28 Jan 2026 17:04:12 +0000
+- **[Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’](https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/)**
+  *Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now....*
+  📅 Wed, 28 Jan 2026 22:31:20 +0000
 
 ### 📑 Dev.to
 
-- **[🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization & Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)**
-  *<p>Performance issues in backend systems rarely come from one obvious bug.</p>
+- **[Why Version Control Exists: The Pendrive Problem](https://dev.to/vicky_gupta_e97f7752abc47/why-version-control-exists-the-pendrive-problem-4boj)**
+  *<p>Firstly you might be wondering what is a <strong>VCS(Version Control System)</strong>, lets say you are writing a code and in that code you add a feature, fix a bug, then if a problem occurs after ...*
+  📅 Thu, 29 Jan 2026 00:53:58 +0000
 
-<p>In our production system, a high-traffic API showed:</p>
+- **[Building a Serverless Geofencing Engine with Go & PostGIS (to replace expensive APIs)](https://dev.to/alex_g_aeeb05ba69eee8a4fd/building-a-serverless-geofencing-engine-with-go-postgis-to-replace-expensive-apis-78i)**
+  *<p>I recently started working on a logistics side project that required real-time geofencing—specifically, detecting when assets enter or exit defined polygon zones.</p>
 
-<ul>
-<li>📉 P95 latency ~ 820ms</li>
-<li>📈 Frequent database...*
-  📅 Wed, 28 Jan 2026 18:11:30 +0000
-
-- **[Beyond Chatbots: Why 2026 is the Year of Agentic AI for Enterprise](https://dev.to/esoft_cloudtechsoltuion/beyond-chatbots-why-2026-is-the-year-of-agentic-ai-for-enterprise-2hjd)**
-  *<blockquote>
-<p>📌 <em>Originally published at <a href="https://esoftcloudtechsolutions.com" rel="noopener noreferrer">https://esoftcloudtechsolutions.com</a></em></p>
-</blockquote>
-
-<h1>
-  
-  
-  Beyon...*
-  📅 Wed, 28 Jan 2026 18:07:25 +0000
+<p>I looked at the market lea...*
+  📅 Thu, 29 Jan 2026 00:46:32 +0000
 
 </details>
 
@@ -130,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 1,022
+- **[Joinsyna-Co-Ltd/moltbot-new](https://github.com/Joinsyna-Co-Ltd/moltbot-new)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Anthony Fu's curated collection of agent skills.
+  Moltbot adds Windows version support and Chinese
 
-- **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** ⭐ 191
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Create beautiful slides on the web using Claude's frontend skills
-
-- **[S-Jaswant18/MindSense-AI-](https://github.com/S-Jaswant18/MindSense-AI-)** ⭐ 50
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+- **[emmelleppi/threejs-challenge-0](https://github.com/emmelleppi/threejs-challenge-0)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[DingTalk-Real-AI/dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector)** ⭐ 50
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应
-
-- **[op7418/Video-Wrapper-Skills](https://github.com/op7418/Video-Wrapper-Skills)** ⭐ 47
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。
-
-- **[miuda-ai/lele](https://github.com/miuda-ai/lele)** ⭐ 36
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Bare-Metal Rust Audio AI Framework
-
-- **[Madhumethra/AI-RECIPE-GENERATION](https://github.com/Madhumethra/AI-RECIPE-GENERATION)** ⭐ 35
+- **[glo26/spatial-benchmark](https://github.com/glo26/spatial-benchmark)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Recipe Generation from Food Image– Developed a CNN-based image classification model achieving 94% accuracy across 100+ ingredients.– Integrated LLM-based automation for recipe generation, reducing content creation time by 85%.– Optimized inference using TensorFlow Lite for real-time processing under 2.5 seconds.– Improved prediction precision by 35
+  None
 
-- **[karunya-ui/arduino-stress-monitor](https://github.com/karunya-ui/arduino-stress-monitor)** ⭐ 32
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A simple Arduino-based system that measures heart rate in real time and classifies user stress levels as low, normal, or high.
+- **[telegram-prime/telegram-authkey-to-session-converter-cn](https://github.com/telegram-prime/telegram-authkey-to-session-converter-cn)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TELEGRAM AUTHKEY to SESSION+JSON or TDATA CN
+
+- **[officialerictm/clawdbot-context-optimization](https://github.com/officialerictm/clawdbot-context-optimization)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Intelligent context window optimization for Clawdbot. Reduces token usage by 60-80% through smart caching and compression.
+
+- **[vandesh/moltbot-config](https://github.com/vandesh/moltbot-config)** ⭐ 1
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Configure your Clawdbot config to be tracked in Git and auto-sync your config to your repo
+
+- **[Joserd1215/Genera-numero](https://github.com/Joserd1215/Genera-numero)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[dogukani/handlebars-editor](https://github.com/dogukani/handlebars-editor)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,648
+- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,793
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,529
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,701
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,487
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,512
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,404
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,495
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,245
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,318
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 1,022
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 1,236
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** ⭐ 794
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** ⭐ 713
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  wooyun-legacy skill for claude code 
 
-- **[unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** ⭐ 765
+- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 559
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Global threat map. Learn wars, conflicts, military bases and history of nations. 
+  None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 33,508
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 33,657
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,003
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,015
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,669
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,680
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,227
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,252
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,508
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,536
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,498
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,515
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,357
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,403
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,327
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,364
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -261,14 +248,14 @@ For the complete release notes go to [Updates](...
 
 ### 📦 angular/angular
 
-**[21.1.1](https://github.com/angular/angular/releases/tag/v21.1.1)** `v21.1.1`
+**[21.1.2](https://github.com/angular/angular/releases/tag/v21.1.2)** `v21.1.2`
 
-📅 Released: January 21, 2026
+📅 Released: January 28, 2026
 
-### compiler-cli
+### forms
 | Commit | Description |
 | -- | -- |
-| [![fix - 0e1f1ed573](https://img.shields.io/badge/0e1f1ed573-fix-green)](https://github.com/angular/angular/commit/0e1f1ed5732f3bb4d5dfbd1f0ee5a...
+| [![fix - 9f99b14882](https://img.shields.io/badge/9f99b14882-fix-green)](https://github.com/angular/angular/commit/9f99b14882bc4f883aa33295856010a8bca9...
 
 ---
 
@@ -498,57 +485,57 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
 | Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
@@ -568,7 +555,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** January 28, 2026
+**Last Updated:** January 29, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
