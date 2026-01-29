@@ -46,32 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)**
-  *<p>Article URL: <a href="https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/">https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-steve...*
-  📅 Wed, 28 Jan 2026 23:55:42 +0000
+- **[Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)**
+  *<p>Article URL: <a href="https://github.com/microsoft/azurelinux">https://github.com/microsoft/azurelinux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46805841">https://news....*
+  📅 Thu, 29 Jan 2026 04:33:10 +0000
 
-- **[I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)**
-  *<p>Article URL: <a href="https://github.com/Pickle-Pixel/netflix-force-4k">https://github.com/Pickle-Pixel/netflix-force-4k</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46803...*
-  📅 Wed, 28 Jan 2026 23:45:40 +0000
+- **[We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)**
+  *<p>See also <a href="https://ibiblio.org/harris/500milemail-faq.html" rel="nofollow">https://ibiblio.org/harris/500milemail-faq.html</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Thu, 29 Jan 2026 03:58:33 +0000
 
-- **[Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)**
-  *<p>Article URL: <a href="https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in">https://www.mcsweeneys.net/articles/please-dont-say-mea...*
-  📅 Wed, 28 Jan 2026 23:36:23 +0000
+- **[Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer">https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer</a></p>
+<p>Comments ...*
+  📅 Thu, 29 Jan 2026 03:29:53 +0000
 
-- **[The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)**
-  *<p>Article URL: <a href="https://mahadk.com/posts/ai-skills-hub">https://mahadk.com/posts/ai-skills-hub</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46803119">https://news.yc...*
-  📅 Wed, 28 Jan 2026 23:16:12 +0000
+- **[DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)**
+  *<p>Article URL: <a href="https://products.vmssoftware.com/decwindowsmotif">https://products.vmssoftware.com/decwindowsmotif</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46805...*
+  📅 Thu, 29 Jan 2026 03:04:40 +0000
 
-- **[Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)**
-  *<p>Article URL: <a href="https://github.com/microsoft/bf-tree">https://github.com/microsoft/bf-tree</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46802210">https://news.ycombi...*
-  📅 Wed, 28 Jan 2026 22:05:05 +0000
+- **[Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105">https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105</a></p>
+<p>C...*
+  📅 Thu, 29 Jan 2026 02:11:42 +0000
 
-- **[Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)**
-  *<p><a href="https://archive.ph/VrEtg" rel="nofollow">https://archive.ph/VrEtg</a><p><a href="https://globe.adsbexchange.com/?icao=adfdf9&amp;lat=26.678&amp;lon=-80.030&amp;zoom=14.4&amp;showTrace=2026...*
-  📅 Wed, 28 Jan 2026 21:50:47 +0000
+- **[Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)**
+  *<p>Article URL: <a href="https://github.com/lukilabs/beautiful-mermaid">https://github.com/lukilabs/beautiful-mermaid</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46804828">h...*
+  📅 Thu, 29 Jan 2026 02:08:40 +0000
 
 ### 📑 TechCrunch
 
@@ -101,15 +105,25 @@
 
 ### 📑 Dev.to
 
-- **[Why Version Control Exists: The Pendrive Problem](https://dev.to/vicky_gupta_e97f7752abc47/why-version-control-exists-the-pendrive-problem-4boj)**
-  *<p>Firstly you might be wondering what is a <strong>VCS(Version Control System)</strong>, lets say you are writing a code and in that code you add a feature, fix a bug, then if a problem occurs after ...*
-  📅 Thu, 29 Jan 2026 00:53:58 +0000
+- **[Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)**
+  *<h2>
+  
+  
+  null vs undefined in JavaScript
+</h2>
 
-- **[Building a Serverless Geofencing Engine with Go & PostGIS (to replace expensive APIs)](https://dev.to/alex_g_aeeb05ba69eee8a4fd/building-a-serverless-geofencing-engine-with-go-postgis-to-replace-expensive-apis-78i)**
-  *<p>I recently started working on a logistics side project that required real-time geofencing—specifically, detecting when assets enter or exit defined polygon zones.</p>
+<ul>
+<li>1. undefined: Variable declared but not assigned.</li>
+<li>2. null: Variable intentionally set to no value.
+</li>
+</ul>
 
-<p>I looked at the market lea...*
-  📅 Thu, 29 Jan 2026 00:46:32 +0000
+<div class="highli...*
+  📅 Thu, 29 Jan 2026 06:28:30 +0000
+
+- **[Hoisting in JavaScript](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276)**
+  *<p>Hoisting is JavaScript’s behavior of moving declarations (not initializations) to the top of their containing scope—either a function or the global scope. This process happens during the compilatio...*
+  📅 Thu, 29 Jan 2026 06:26:21 +0000
 
 </details>
 
@@ -117,103 +131,103 @@
 
 ### 📈 Daily Trending
 
-- **[Joinsyna-Co-Ltd/moltbot-new](https://github.com/Joinsyna-Co-Ltd/moltbot-new)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Moltbot adds Windows version support and Chinese
-
-- **[emmelleppi/threejs-challenge-0](https://github.com/emmelleppi/threejs-challenge-0)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[PrakasamTK/Demand-Forecast](https://github.com/PrakasamTK/Demand-Forecast)** ⭐ 57
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[glo26/spatial-benchmark](https://github.com/glo26/spatial-benchmark)** ⭐ 1
+- **[Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper)** ⭐ 43
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  一站式Team账号管理
+
+- **[EthanScriptOn/switch](https://github.com/EthanScriptOn/switch)** ⭐ 26
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  🚀 Enterprise-grade distributed feature management platform with real-time WebSocket delivery, multi-driver support (Kafka/Webhook/Polling), and flexible factor-based rule engine. Built for dynamic configuration without restarts.
 
-- **[telegram-prime/telegram-authkey-to-session-converter-cn](https://github.com/telegram-prime/telegram-authkey-to-session-converter-cn)** ⭐ 1
+- **[hemanthkumar322/women-safety-app](https://github.com/hemanthkumar322/women-safety-app)** ⭐ 14
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  TELEGRAM AUTHKEY to SESSION+JSON or TDATA CN
+  women safety app using react native
 
-- **[officialerictm/clawdbot-context-optimization](https://github.com/officialerictm/clawdbot-context-optimization)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Intelligent context window optimization for Clawdbot. Reduces token usage by 60-80% through smart caching and compression.
-
-- **[vandesh/moltbot-config](https://github.com/vandesh/moltbot-config)** ⭐ 1
+- **[zacdcook/claude-code-semantic-memory](https://github.com/zacdcook/claude-code-semantic-memory)** ⭐ 13
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Configure your Clawdbot config to be tracked in Git and auto-sync your config to your repo
+  Persistent semantic memory system for Claude Code
 
-- **[Joserd1215/Genera-numero](https://github.com/Joserd1215/Genera-numero)** ⭐ 1
+- **[ragavendara/Bloodbank-management-system](https://github.com/ragavendara/Bloodbank-management-system)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Security Scanner for Agent Skills
+
+- **[xkatld/Cloudflare-Tools](https://github.com/xkatld/Cloudflare-Tools)** ⭐ 10
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[dogukani/handlebars-editor](https://github.com/dogukani/handlebars-editor)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  Cloudflare Tools 是一个全栈 Web 应用，提供 Cloudflare 账户的批量管理功能，包括域名、DNS、SSL、规则、缓存等多种操作，后端用 Go + Gin，前端用原生 JavaScript + Vite。
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,793
+- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 2,968
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,701
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 1,780
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,512
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
-
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,495
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
-
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,318
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Visual Causal Flow
-
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 1,236
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 1,708
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** ⭐ 713
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** ⭐ 1,540
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
+
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,525
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
+
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,403
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Visual Causal Flow
+
+- **[tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** ⭐ 841
   ![None](https://img.shields.io/badge/-None-lightgrey)
   wooyun-legacy skill for claude code 
 
-- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 559
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 707
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 33,657
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 33,964
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,015
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,055
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,680
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,712
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,252
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,289
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,536
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,574
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,515
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,543
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,403
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,440
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,364
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,400
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -486,58 +500,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
