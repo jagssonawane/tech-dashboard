@@ -46,72 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)**
-  *<p>Article URL: <a href="https://docs.pangolin.net/careers/join-us">https://docs.pangolin.net/careers/join-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46823544">https://n...*
-  📅 Fri, 30 Jan 2026 12:11:49 +0000
+- **[Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending)**
+  *<p>Article URL: <a href="https://daringfireball.net/linked/2026/01/29/amazon-melania-spending">https://daringfireball.net/linked/2026/01/29/amazon-melania-spending</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Fri, 30 Jan 2026 18:14:44 +0000
 
-- **[Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)**
-  *<p>I wrote a lightweight scripting language that runs together with C. Specifically, it's a C library, you run it through a C function call, and it can callback your own C functions. Compiles to ~250 ...*
-  📅 Fri, 30 Jan 2026 12:07:26 +0000
+- **[Microsoft Just Killed the "Cover for Me" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)**
+  *<p>Article URL: <a href="https://ztechtalk.com/microsoft-teams">https://ztechtalk.com/microsoft-teams</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46827003">https://news.ycom...*
+  📅 Fri, 30 Jan 2026 17:12:39 +0000
 
-- **[BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s)**
-  *<p>Article URL: <a href="https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s">https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s<...*
-  📅 Fri, 30 Jan 2026 12:00:12 +0000
+- **[Vcad: Free BRep CAD in the Browser](https://vcad.io)**
+  *<p>Article URL: <a href="https://vcad.io">https://vcad.io</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46826634">https://news.ycombinator.com/item?id=46826634</a></p>
+<p>Poin...*
+  📅 Fri, 30 Jan 2026 16:46:28 +0000
 
-- **[Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)**
-  *<p>Article URL: <a href="https://github.com/MSF01/TYR">https://github.com/MSF01/TYR</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46823358">https://news.ycombinator.com/item?i...*
-  📅 Fri, 30 Jan 2026 11:52:46 +0000
+- **[Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)**
+  *<p>Article URL: <a href="https://www.mdpi.com/2076-3425/16/1/94">https://www.mdpi.com/2076-3425/16/1/94</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46826017">https://news.yc...*
+  📅 Fri, 30 Jan 2026 16:03:34 +0000
 
-- **[Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)**
-  *<p>Article URL: <a href="https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/">https://electrek.co/2026/01/29/teslas-own-robotaxi-data-co...*
-  📅 Fri, 30 Jan 2026 10:14:31 +0000
+- **[Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)**
+  *<p>Article URL: <a href="https://jamieclarketype.com/case-study/wallace-and-gromit-font/">https://jamieclarketype.com/case-study/wallace-and-gromit-font/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 30 Jan 2026 15:19:28 +0000
 
-- **[GOG: Linux "the next major frontier" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)**
-  *<p>Article URL: <a href="https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/">https://www.xda-developers.com/gog-calls-linux-the-next-majo...*
-  📅 Fri, 30 Jan 2026 08:09:41 +0000
+- **[HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)**
+  *<p>Article URL: <a href="https://www.humanconsumption.live/">https://www.humanconsumption.live/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46825200">https://news.ycombinato...*
+  📅 Fri, 30 Jan 2026 15:04:36 +0000
 
 ### 📑 TechCrunch
+
+- **[Anthropic brings agentic plugins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)**
+  *The company says you can use plugins to "tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets mo...*
+  📅 Fri, 30 Jan 2026 18:00:00 +0000
+
+- **[Bluesky issues its first transparency report, noting rise in user reports and legal demands](https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/)**
+  *Bluesky's first transparency reports tackle moderation, regulatory compliance, account takedowns, and more. The number of government legal requests went up fivefold....*
+  📅 Fri, 30 Jan 2026 17:25:00 +0000
+
+- **[Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump](https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/)**
+  *Some Valley CEOs have condemned recent border patrol events, but Hoffman urges them to wield their influence more powerfully....*
+  📅 Fri, 30 Jan 2026 16:51:39 +0000
+
+- **[Russian hackers breached Polish power grid thanks to bad security, report says](https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/)**
+  *The Polish government accused a Russian government hacking group of hacking into energy facilities taking advantage of default usernames and passwords....*
+  📅 Fri, 30 Jan 2026 16:50:24 +0000
+
+- **[Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026](https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/)**
+  *Today is the last day to lock in a plus-one pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco....*
+  📅 Fri, 30 Jan 2026 15:00:00 +0000
 
 - **[How Sequoia-backed Ethos reached the public market while rivals fell short](https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/)**
   *The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets....*
   📅 Fri, 30 Jan 2026 01:33:13 +0000
 
-- **[The iPhone just had its best quarter ever](https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/)**
-  *Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever....*
-  📅 Thu, 29 Jan 2026 23:57:21 +0000
-
-- **[Guys, I don’t think Tim Cook knows how to monetize AI](https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/)**
-  *One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you....*
-  📅 Thu, 29 Jan 2026 23:51:17 +0000
-
-- **[Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports](https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/)**
-  *This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation....*
-  📅 Thu, 29 Jan 2026 22:47:42 +0000
-
-- **[Amazon is reportedly in talks to invest $50B in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/)**
-  *If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy....*
-  📅 Thu, 29 Jan 2026 22:11:09 +0000
-
-- **[Medium gives employees Friday off to participate in national strike protesting ICE](https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/)**
-  *Activists behind the general strike are calling for "no work, no school, and no shopping" amid a push to defund ICE, which has escalated raids in U.S. cities, killing several people, including two U.S...*
-  📅 Thu, 29 Jan 2026 21:49:15 +0000
-
 ### 📑 Dev.to
 
-- **[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl)**
-  *<p>Have you ever notice what happens when you type <a href="https://x.com/Kunalmadoliya" rel="noopener noreferrer">www.twitter.com</a> and hits enter.  </p>
+- **[Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)**
+  *<p>You've seen it a hundred times.</p>
 
-<p><strong>Twitter opens</strong> right ? ...*
-  📅 Fri, 30 Jan 2026 12:29:54 +0000
+<p>You tap an app icon. A logo fades in. Something animates. For a brief moment, you think, "<em>Nice. This app feels polished.</em>"</p>
 
-- **[My Portfolio – New Year New You Challenge (Google Cloud Run)](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp)**
-  *<p><strong>About My Portfolio</strong></p>
+<p>Then you try to bu...*
+  📅 Fri, 30 Jan 2026 18:21:31 +0000
 
-<p>This is my personal portfolio showcasing my skills, projects, and experience.<br />
-I deployed this portfolio using Google Cloud Run as part of the New Y...*
-  📅 Fri, 30 Jan 2026 12:20:07 +0000
+- **[# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)**
+  *<p>Expo has evolved from “managed only” to a full toolkit that can still eject to bare when needed. Here’s how I think about Expo vs bare React Native in 2025.</p>
+
+<h2>
+  
+  
+  Expo (EAS, managed or ...*
+  📅 Fri, 30 Jan 2026 18:20:14 +0000
 
 </details>
 
@@ -119,7 +128,15 @@ I deployed this portfolio using Google Cloud Run as part of the New Y...*
 
 ### 📈 Daily Trending
 
-- **[Refinath/news-event-impact-detector](https://github.com/Refinath/news-event-impact-detector)** ⭐ 31
+- **[MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Moonshot's most powerful model
+
+- **[imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills)** ⭐ 35
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+
+- **[Refinath/news-event-impact-detector](https://github.com/Refinath/news-event-impact-detector)** ⭐ 32
   ![Python](https://img.shields.io/badge/-Python-blue)
   A complete pipeline for classifying news into financial events and forecasting their impact on stock returns using FinBERT and regression models.
 
@@ -127,95 +144,87 @@ I deployed this portfolio using Google Cloud Run as part of the New Y...*
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Interactive Ohm's Law calculator with live circuit visualization. Real-time calculations update circuit diagrams instantly. No frameworks - pure HTML/CSS/JS electrical engineering tool.
 
-- **[manishkumaar2006/Reflex-Arena](https://github.com/manishkumaar2006/Reflex-Arena)** ⭐ 22
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Civilglurecapture/TF2-LMAOBOX-PROJECT](https://github.com/Civilglurecapture/TF2-LMAOBOX-PROJECT)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Versions: stable: January 21 2026 19:18 utc, beta: January 28 2026 18:27 utc
-
-- **[Screwnocollar/OSU-MAPLE](https://github.com/Screwnocollar/OSU-MAPLE)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  大須MAPLEハックとは？まあ、これはリラックス＆タイムワープの方が良いです。検出されないので、禁止されることなく好きなだけ使用できます。あなたがタイムワープを使用し、他の人があなたのリプレイを見ているとき、彼らはそれを通常の時間として見ますが、あなたはそれをスローモーションで見ます:)。リラックスするのはどうでしょうか？まあ、リラックスは完璧です、ミスクリックはありません。
-
-- **[Jeevanantham-ux/DAM-TOURISM](https://github.com/Jeevanantham-ux/DAM-TOURISM)** ⭐ 20
+- **[Jeevanantham-ux/DAM-TOURISM](https://github.com/Jeevanantham-ux/DAM-TOURISM)** ⭐ 27
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   EXPLORE OUR DAM TOURIST PLACES !!!
 
-- **[dhanusrieee23-ship-it/Registration-form](https://github.com/dhanusrieee23-ship-it/Registration-form)** ⭐ 18
+- **[dhanusrieee23-ship-it/Registration-form](https://github.com/dhanusrieee23-ship-it/Registration-form)** ⭐ 25
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[bibas-17/Expense-tracker](https://github.com/bibas-17/Expense-tracker)** ⭐ 18
+- **[TrevorS/qwen3-tts-rs](https://github.com/TrevorS/qwen3-tts-rs)** ⭐ 23
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Pure Rust implementation of Qwen3-TTS speech synthesis
+
+- **[manishkumaar2006/Reflex-Arena](https://github.com/manishkumaar2006/Reflex-Arena)** ⭐ 23
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Expense Tracker A clean, lightweight web app to track income and expenses with category tagging. Features real-time balance updates, local storage for data persistence, and a responsive UI. Built with vanilla HTML, CSS, and JavaScript.
+  None
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 3,865
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 4,049
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 3,175
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 3,574
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 2,590
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 2,792
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,339
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Anthony Fu's curated collection of agent skills.
-
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 2,218
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 2,627
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,669
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,365
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Anthony Fu's curated collection of agent skills.
+
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,693
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,608
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,637
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,123
+- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,204
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,092
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,270
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,204
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,228
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,836
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,860
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,668
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,726
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,693
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,708
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,729
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,775
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,676
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,689
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,561
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,589
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -487,59 +496,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
