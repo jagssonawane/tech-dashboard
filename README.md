@@ -46,34 +46,31 @@
 
 ### 📑 Hacker News
 
-- **[The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)**
-  *<p>Article URL: <a href="https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/">https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 30 Jan 2026 04:17:38 +0000
+- **[Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)**
+  *<p>Article URL: <a href="https://docs.pangolin.net/careers/join-us">https://docs.pangolin.net/careers/join-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46823544">https://n...*
+  📅 Fri, 30 Jan 2026 12:11:49 +0000
 
-- **[Moltbook](https://www.moltbook.com/)**
-  *<p>Article URL: <a href="https://www.moltbook.com/">https://www.moltbook.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46820360">https://news.ycombinator.com/item?id=4682...*
-  📅 Fri, 30 Jan 2026 03:55:34 +0000
+- **[Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)**
+  *<p>I wrote a lightweight scripting language that runs together with C. Specifically, it's a C library, you run it through a C function call, and it can callback your own C functions. Compiles to ~250 ...*
+  📅 Fri, 30 Jan 2026 12:07:26 +0000
 
-- **[Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze)**
-  *<p>Article URL: <a href="https://starlink.com/updates/stargaze">https://starlink.com/updates/stargaze</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46820113">https://news.ycom...*
-  📅 Fri, 30 Jan 2026 03:11:43 +0000
+- **[BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s)**
+  *<p>Article URL: <a href="https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s">https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s<...*
+  📅 Fri, 30 Jan 2026 12:00:12 +0000
 
-- **[The Importance of Diversity](https://geohot.github.io//blog/jekyll/update/2026/01/27/the-importance-of-diversity.html)**
-  *<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/01/27/the-importance-of-diversity.html">https://geohot.github.io//blog/jekyll/update/2026/01/27/the-importance-of-diversity.h...*
-  📅 Fri, 30 Jan 2026 02:42:16 +0000
+- **[Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)**
+  *<p>Article URL: <a href="https://github.com/MSF01/TYR">https://github.com/MSF01/TYR</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46823358">https://news.ycombinator.com/item?i...*
+  📅 Fri, 30 Jan 2026 11:52:46 +0000
 
-- **[Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)**
-  *<p>Article URL: <a href="https://softwarefordays.com/post/software-is-mostly-all-you-need/">https://softwarefordays.com/post/software-is-mostly-all-you-need/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Thu, 29 Jan 2026 23:06:34 +0000
+- **[Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)**
+  *<p>Article URL: <a href="https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/">https://electrek.co/2026/01/29/teslas-own-robotaxi-data-co...*
+  📅 Fri, 30 Jan 2026 10:14:31 +0000
 
-- **[Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)**
-  *<p>Article URL: <a href="https://grid.space/stem/">https://grid.space/stem/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46817813">https://news.ycombinator.com/item?id=468178...*
-  📅 Thu, 29 Jan 2026 22:38:57 +0000
+- **[GOG: Linux "the next major frontier" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)**
+  *<p>Article URL: <a href="https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/">https://www.xda-developers.com/gog-calls-linux-the-next-majo...*
+  📅 Fri, 30 Jan 2026 08:09:41 +0000
 
 ### 📑 TechCrunch
 
@@ -103,14 +100,18 @@
 
 ### 📑 Dev.to
 
-- **[Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)**
-  *<blockquote>
-<p><strong>TL;DR</strong>: My “perfectly reasonable” real-time architecture for an online party game turned into a billing horror story — first with Supabase Realtime broadcasts, then wit...*
-  📅 Fri, 30 Jan 2026 06:25:47 +0000
+- **[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl)**
+  *<p>Have you ever notice what happens when you type <a href="https://x.com/Kunalmadoliya" rel="noopener noreferrer">www.twitter.com</a> and hits enter.  </p>
 
-- **[What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13)**
-  *<p>When people talk about computer vision for container inspection, the conversation usually jumps straight to models, accuracy scores, or which framework to use. In practice, most projects succeed or...*
-  📅 Fri, 30 Jan 2026 06:24:19 +0000
+<p><strong>Twitter opens</strong> right ? ...*
+  📅 Fri, 30 Jan 2026 12:29:54 +0000
+
+- **[My Portfolio – New Year New You Challenge (Google Cloud Run)](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp)**
+  *<p><strong>About My Portfolio</strong></p>
+
+<p>This is my personal portfolio showcasing my skills, projects, and experience.<br />
+I deployed this portfolio using Google Cloud Run as part of the New Y...*
+  📅 Fri, 30 Jan 2026 12:20:07 +0000
 
 </details>
 
@@ -118,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[Refinath/news-event-impact-detector](https://github.com/Refinath/news-event-impact-detector)** ⭐ 30
+- **[Refinath/news-event-impact-detector](https://github.com/Refinath/news-event-impact-detector)** ⭐ 31
   ![Python](https://img.shields.io/badge/-Python-blue)
   A complete pipeline for classifying news into financial events and forecasting their impact on stock returns using FinBERT and regression models.
 
-- **[sharofin45-netizen/Circuit-Calculator](https://github.com/sharofin45-netizen/Circuit-Calculator)** ⭐ 25
+- **[sharofin45-netizen/Circuit-Calculator](https://github.com/sharofin45-netizen/Circuit-Calculator)** ⭐ 27
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Interactive Ohm's Law calculator with live circuit visualization. Real-time calculations update circuit diagrams instantly. No frameworks - pure HTML/CSS/JS electrical engineering tool.
 
-- **[manishkumaar2006/Reflex-Arena](https://github.com/manishkumaar2006/Reflex-Arena)** ⭐ 20
+- **[manishkumaar2006/Reflex-Arena](https://github.com/manishkumaar2006/Reflex-Arena)** ⭐ 22
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[bibas-17/Expense-tracker](https://github.com/bibas-17/Expense-tracker)** ⭐ 16
+- **[Civilglurecapture/TF2-LMAOBOX-PROJECT](https://github.com/Civilglurecapture/TF2-LMAOBOX-PROJECT)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Versions: stable: January 21 2026 19:18 utc, beta: January 28 2026 18:27 utc
+
+- **[Screwnocollar/OSU-MAPLE](https://github.com/Screwnocollar/OSU-MAPLE)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  大須MAPLEハックとは？まあ、これはリラックス＆タイムワープの方が良いです。検出されないので、禁止されることなく好きなだけ使用できます。あなたがタイムワープを使用し、他の人があなたのリプレイを見ているとき、彼らはそれを通常の時間として見ますが、あなたはそれをスローモーションで見ます:)。リラックスするのはどうでしょうか？まあ、リラックスは完璧です、ミスクリックはありません。
+
+- **[Jeevanantham-ux/DAM-TOURISM](https://github.com/Jeevanantham-ux/DAM-TOURISM)** ⭐ 20
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  EXPLORE OUR DAM TOURIST PLACES !!!
+
+- **[dhanusrieee23-ship-it/Registration-form](https://github.com/dhanusrieee23-ship-it/Registration-form)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[bibas-17/Expense-tracker](https://github.com/bibas-17/Expense-tracker)** ⭐ 18
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Expense Tracker A clean, lightweight web app to track income and expenses with category tagging. Features real-time balance updates, local storage for data persistence, and a responsive UI. Built with vanilla HTML, CSS, and JavaScript.
 
-- **[gogoduan/HKU_IDS_PROBATION](https://github.com/gogoduan/HKU_IDS_PROBATION)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Class materials, homeworks and videos for probation preparation.
-
-- **[jegadeesh24800-tech/bank-network-in-cisco-packet-tracer](https://github.com/jegadeesh24800-tech/bank-network-in-cisco-packet-tracer)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  the bank network consits of four floor and it has dedicated server room for the bank .it has routers,switches and end devices to connect to the internet and it is useful for bank to know the arhiceture of bank in logically.
-
-- **[Chunjiang-Intelligence/Parfait](https://github.com/Chunjiang-Intelligence/Parfait)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Generate market simulation data as perfect as Parfait. ✨
-
-- **[lingxiao69/linux-do-apk](https://github.com/lingxiao69/linux-do-apk)** ⭐ 7
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Linux-do的安卓apk打包项目
-
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** ⭐ 3,647
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 3,865
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
+  The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 2,776
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 3,175
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 2,399
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 2,590
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,258
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,339
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 1,679
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 2,218
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run Moltbot (formely Clawdbot) on Cloudflare Workers
+  Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,626
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,669
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,588
+- **[tldev/posturr](https://github.com/tldev/posturr)** ⭐ 1,608
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 
-- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 998
+- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,123
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 34,846
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,092
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,173
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,204
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,798
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,836
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,530
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,668
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,658
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,693
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,659
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,729
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,648
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,676
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,519
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,561
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -486,59 +487,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
