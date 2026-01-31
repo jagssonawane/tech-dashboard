@@ -46,30 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Target director's Global Entry was revoked after ICE used app to scan her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)**
-  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/">https://arstechnica.com/tech-policy/2026/01/ice-prot...*
-  📅 Sat, 31 Jan 2026 05:51:52 +0000
+- **[Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer">https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-enginee...*
+  📅 Sat, 31 Jan 2026 12:00:22 +0000
 
-- **[Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)**
-  *<p>Article URL: <a href="https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html">https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html</a></p...*
-  📅 Sat, 31 Jan 2026 05:44:49 +0000
+- **[Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/">https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Sat, 31 Jan 2026 10:34:07 +0000
 
-- **[Show HN: Phage Explorer](https://phage-explorer.org/)**
-  *<p>I got really interested in biology and genetics a few months ago, just for fun.<p>This was largely inspired by the work of Sydney Brenner, which became the basis of my brennerbot.org project.<p>In ...*
-  📅 Sat, 31 Jan 2026 05:22:03 +0000
+- **[htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)**
+  *<p>Article URL: <a href="https://htmx.org/extensions/sse/">https://htmx.org/extensions/sse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835318">https://news.ycombinator.co...*
+  📅 Sat, 31 Jan 2026 10:30:59 +0000
 
-- **[Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)**
-  *<p>Article URL: <a href="https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/">https://lareviewofbooks.org/article/foundational-anxieties-modern...*
-  📅 Sat, 31 Jan 2026 03:53:06 +0000
+- **[Automatic Programming](https://antirez.com/news/159)**
+  *<p>Article URL: <a href="https://antirez.com/news/159">https://antirez.com/news/159</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835208">https://news.ycombinator.com/item?i...*
+  📅 Sat, 31 Jan 2026 10:11:25 +0000
 
-- **[Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)**
-  *<p>Built this because tones are killing my spoken Mandarin and I can't reliably hear my own mistakes.<p>It's a 9M Conformer-CTC model trained on ~300h (AISHELL + Primewords), quantized to INT8 (11 MB)...*
-  📅 Sat, 31 Jan 2026 00:51:27 +0000
+- **[CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)**
+  *<p>Article URL: <a href="https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/">https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circu...*
+  📅 Sat, 31 Jan 2026 09:58:39 +0000
 
-- **[Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)**
-  *<p>Article URL: <a href="https://github.com/lekt9/openclaw-foundry">https://github.com/lekt9/openclaw-foundry</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46831978">https://n...*
-  📅 Sat, 31 Jan 2026 00:40:51 +0000
+- **[We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)**
+  *<p>Article URL: <a href="https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/">https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips...*
+  📅 Sat, 31 Jan 2026 09:30:05 +0000
 
 ### 📑 TechCrunch
 
@@ -99,15 +101,34 @@
 
 ### 📑 Dev.to
 
-- **[Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn)**
-  *<p>Managing test accounts efficiently during high traffic events is a critical challenge for security researchers and engineering teams alike. These accounts are vital for testing and validation but c...*
-  📅 Sat, 31 Jan 2026 06:09:29 +0000
+- **[Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)**
+  *<h2>
+  
+  
+  Solana Security: The $500M+ Lesson
+</h2>
 
-- **[I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)**
-  *<p>I recently noticed that many gamers struggle with "Stick Drift" on their PS5 and Xbox controllers, but testing it usually requires downloading heavy software like DS4Windows.</p>
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=a...*
+  📅 Sat, 31 Jan 2026 12:22:38 +0000
 
-<p>I decided to b...*
-  📅 Sat, 31 Jan 2026 06:02:16 +0000
+- **[Quark's Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)**
+  *<h1>
+  
+  
+  Quark’s Outlines: Python Built-in Methods
+</h1>
+
+<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
+
+<h2>
+  
+  
+  An Overview of Python Built-in Methods
+</h2>
+
+<h3>
+ ...*
+  📅 Sat, 31 Jan 2026 12:13:19 +0000
 
 </details>
 
@@ -115,103 +136,103 @@
 
 ### 📈 Daily Trending
 
-- **[antfu/skills-npm](https://github.com/antfu/skills-npm)** ⭐ 61
+- **[antfu/skills-npm](https://github.com/antfu/skills-npm)** ⭐ 102
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Install agent skills from npm
 
-- **[harinisrianand33-collab/Student_Result_Management](https://github.com/harinisrianand33-collab/Student_Result_Management)** ⭐ 12
+- **[skavieee/FER-IT-Workplace-Emotion-Monitor](https://github.com/skavieee/FER-IT-Workplace-Emotion-Monitor)** ⭐ 44
   ![Python](https://img.shields.io/badge/-Python-blue)
+  Real-time Facial Emotion Recognition for IT Workplace Productivity using IEEE CLCM Model. Live webcam demo with Flask + TensorFlow. Computer Vision & Machine Learning project.
+
+- **[mujocolab/anymal_c_velocity](https://github.com/mujocolab/anymal_c_velocity)** ⭐ 25
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Integrating a custom robot (ANYmal C) with mjlab's velocity task
+
+- **[jazila-begum/Privacy-Guard](https://github.com/jazila-begum/Privacy-Guard)** ⭐ 23
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Smart Protection, Seamless Redaction
+
+- **[jazila-begum/DermaDetect-AI](https://github.com/jazila-begum/DermaDetect-AI)** ⭐ 22
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  "Your skin's safety, Our prority"
+
+- **[Mohitha2508/Foreign-Safety-Tourist-Travel-Web](https://github.com/Mohitha2508/Foreign-Safety-Tourist-Travel-Web)** ⭐ 20
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[badlogic/doppelgangers](https://github.com/badlogic/doppelgangers)** ⭐ 11
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Find duplicate PRs through embedding visualization
+- **[Ponmayil/Memory-Game](https://github.com/Ponmayil/Memory-Game)** ⭐ 20
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[shuyu-labs/BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)** ⭐ 10
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
-
-- **[Mukesh007473/Design-and-Synthesis-of-a-4-Bit-Priority-Encoder-using-Verilog-HDL-in-Synopsys-Workshop](https://github.com/Mukesh007473/Design-and-Synthesis-of-a-4-Bit-Priority-Encoder-using-Verilog-HDL-in-Synopsys-Workshop)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A 4-bit Priority Encoder is a combinational circuit that converts four inputs (D3–D0) into a 2-bit output based on priority. D3 has the highest priority. A valid signal indicates active input. The design is implemented in Verilog HDL and synthesized using Synopsys Workshop.
-
-- **[Jino-JV/Design-and-Synthesis-of-a-4-Bit-Priority-Encoder-using-Verilog-HDL-in-Synopsys-Workshop](https://github.com/Jino-JV/Design-and-Synthesis-of-a-4-Bit-Priority-Encoder-using-Verilog-HDL-in-Synopsys-Workshop)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A 4-bit Priority Encoder is a combinational circuit that converts four inputs (D3–D0) into a 2-bit output based on priority. D3 has the highest priority. A valid signal indicates active input. The design is implemented in Verilog HDL and synthesized using Synopsys Workshop.
-
-- **[princepainter/ComfyUI-PainterNodes](https://github.com/princepainter/ComfyUI-PainterNodes)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A comprehensive ComfyUI toolkit for video generation, image editing, and audio-driven lip‑sync, featuring Flux, LTXV, Wan2.2 and advanced batch workflows.
-
-- **[1994qrq/QianTerminalCode](https://github.com/1994qrq/QianTerminalCode)** ⭐ 6
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  飞跃侠·CodeBridge    AI 编程助手多终端管理器 | Claude Code 最佳伴侣  *赛博朋克风格 · 多标签终端 · 移动端远程控制 · Claude Code 深度集成*
+- **[Ponmayil/Age-Calculator](https://github.com/Ponmayil/Age-Calculator)** ⭐ 19
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 4,339
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 4,532
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,019
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,222
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,103
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,293
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,035
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,213
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,406
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,430
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,717
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,739
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,283
+- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,372
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,194
+- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,232
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   All-in-one AI framework & toolkit for Claude Code & Cursor
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,516
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,846
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,251
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,265
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,885
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,908
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,793
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,836
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,732
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,743
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,819
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,845
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,726
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,750
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,630
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,655
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -483,41 +504,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -525,17 +546,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
