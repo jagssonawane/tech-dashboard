@@ -46,34 +46,44 @@
 
 ### 📑 Hacker News
 
+- **[A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)**
+  *<p>Article URL: <a href="https://twitter.com/HumanHarlan/status/2017424292548673830">https://twitter.com/HumanHarlan/status/2017424292548673830</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 31 Jan 2026 17:47:46 +0000
+
+- **[Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)**
+  *<p>Article URL: <a href="https://an.dywa.ng/carrier-gnss.html">https://an.dywa.ng/carrier-gnss.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46838597">https://news.ycombi...*
+  📅 Sat, 31 Jan 2026 17:21:34 +0000
+
+- **[Finland to end "uncontrolled human experiment" with ban on youth social media](https://yle.fi/a/74-20207494)**
+  *<p>Article URL: <a href="https://yle.fi/a/74-20207494">https://yle.fi/a/74-20207494</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46838417">https://news.ycombinator.com/item?i...*
+  📅 Sat, 31 Jan 2026 17:06:22 +0000
+
+- **[Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)**
+  *<p>Article URL: <a href="https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf">https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf</a></p>
+<p>Comments UR...*
+  📅 Sat, 31 Jan 2026 16:04:03 +0000
+
 - **[Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)**
   *<p>Article URL: <a href="https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer">https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-enginee...*
   📅 Sat, 31 Jan 2026 12:00:22 +0000
 
-- **[Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)**
-  *<p>Article URL: <a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/">https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Sat, 31 Jan 2026 10:34:07 +0000
-
-- **[htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)**
-  *<p>Article URL: <a href="https://htmx.org/extensions/sse/">https://htmx.org/extensions/sse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835318">https://news.ycombinator.co...*
-  📅 Sat, 31 Jan 2026 10:30:59 +0000
-
-- **[Automatic Programming](https://antirez.com/news/159)**
-  *<p>Article URL: <a href="https://antirez.com/news/159">https://antirez.com/news/159</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835208">https://news.ycombinator.com/item?i...*
-  📅 Sat, 31 Jan 2026 10:11:25 +0000
-
-- **[CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)**
-  *<p>Article URL: <a href="https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/">https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circu...*
-  📅 Sat, 31 Jan 2026 09:58:39 +0000
-
-- **[We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)**
-  *<p>Article URL: <a href="https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/">https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips...*
-  📅 Sat, 31 Jan 2026 09:30:05 +0000
+- **[Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)**
+  *<p>Article URL: <a href="https://nemin.hu/guix.html">https://nemin.hu/guix.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835612">https://news.ycombinator.com/item?id=46...*
+  📅 Sat, 31 Jan 2026 11:22:24 +0000
 
 ### 📑 TechCrunch
+
+- **[Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/)**
+  *Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”...*
+  📅 Sat, 31 Jan 2026 17:54:12 +0000
+
+- **[HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/)**
+  *The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use....*
+  📅 Sat, 31 Jan 2026 16:15:00 +0000
 
 - **[a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/)**
   *Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a don...*
@@ -91,44 +101,21 @@
   *The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name....*
   📅 Fri, 30 Jan 2026 23:36:34 +0000
 
-- **[Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/)**
-  *The hacker allegedly developed zero-day exploits and offensive cyber tools and sold them to several countries, including an unnamed central African government, the U.K., and the United States....*
-  📅 Fri, 30 Jan 2026 22:04:00 +0000
-
-- **[Instagram might soon let you remove yourself from someone’s Close Friends list](https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/)**
-  *Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list....*
-  📅 Fri, 30 Jan 2026 21:14:58 +0000
-
 ### 📑 Dev.to
 
-- **[Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)**
-  *<h2>
-  
-  
-  Solana Security: The $500M+ Lesson
-</h2>
+- **[Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0)**
+  *<p>Check out this Pen I made!</p>
 
-<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=a...*
-  📅 Sat, 31 Jan 2026 12:22:38 +0000
+<p>
 
-- **[Quark's Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)**
-  *<h1>
-  
-  
-  Quark’s Outlines: Python Built-in Methods
-</h1>
+</p>...*
+  📅 Sat, 31 Jan 2026 18:11:36 +0000
 
-<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
+- **[Performance Reviews, your opinion](https://dev.to/rapidreviewer_io/performance-reviews-your-opinion-428p)**
+  *<p>So I'm working on a product to try and take the pains out of performance reviews for developers. For me, it's a document I spend 2 weeks minimum on, and dread doing every year.</p>
 
-<h2>
-  
-  
-  An Overview of Python Built-in Methods
-</h2>
-
-<h3>
- ...*
-  📅 Sat, 31 Jan 2026 12:13:19 +0000
+<p>What are som...*
+  📅 Sat, 31 Jan 2026 18:11:10 +0000
 
 </details>
 
@@ -136,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[antfu/skills-npm](https://github.com/antfu/skills-npm)** ⭐ 102
+- **[antfu/skills-npm](https://github.com/antfu/skills-npm)** ⭐ 141
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Install agent skills from npm
 
-- **[skavieee/FER-IT-Workplace-Emotion-Monitor](https://github.com/skavieee/FER-IT-Workplace-Emotion-Monitor)** ⭐ 44
+- **[skavieee/FER-IT-Workplace-Emotion-Monitor](https://github.com/skavieee/FER-IT-Workplace-Emotion-Monitor)** ⭐ 53
   ![Python](https://img.shields.io/badge/-Python-blue)
   Real-time Facial Emotion Recognition for IT Workplace Productivity using IEEE CLCM Model. Live webcam demo with Flask + TensorFlow. Computer Vision & Machine Learning project.
 
-- **[mujocolab/anymal_c_velocity](https://github.com/mujocolab/anymal_c_velocity)** ⭐ 25
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Integrating a custom robot (ANYmal C) with mjlab's velocity task
-
-- **[jazila-begum/Privacy-Guard](https://github.com/jazila-begum/Privacy-Guard)** ⭐ 23
+- **[jazila-begum/Privacy-Guard](https://github.com/jazila-begum/Privacy-Guard)** ⭐ 39
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Smart Protection, Seamless Redaction
 
-- **[jazila-begum/DermaDetect-AI](https://github.com/jazila-begum/DermaDetect-AI)** ⭐ 22
+- **[jazila-begum/DermaDetect-AI](https://github.com/jazila-begum/DermaDetect-AI)** ⭐ 38
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   "Your skin's safety, Our prority"
 
-- **[Mohitha2508/Foreign-Safety-Tourist-Travel-Web](https://github.com/Mohitha2508/Foreign-Safety-Tourist-Travel-Web)** ⭐ 20
+- **[mujocolab/anymal_c_velocity](https://github.com/mujocolab/anymal_c_velocity)** ⭐ 35
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Integrating a custom robot (ANYmal C) with mjlab's velocity task
+
+- **[F1uxBox/FluxBox-Ultimate-Toolset](https://github.com/F1uxBox/FluxBox-Ultimate-Toolset)** ⭐ 33
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The #1 Open-source launcher with built-in Cheat Engine and FPS Unlocker.
+
+- **[xywml/PaperGrid](https://github.com/xywml/PaperGrid)** ⭐ 29
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  执笔为剑  - 一款基于NEXT.js的轻量化博客
 
-- **[Ponmayil/Memory-Game](https://github.com/Ponmayil/Memory-Game)** ⭐ 20
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Ponmayil/Age-Calculator](https://github.com/Ponmayil/Age-Calculator)** ⭐ 19
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[shuyu-labs/BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)** ⭐ 29
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
 
 ### 📈 Weekly Trending
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 4,532
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 4,778
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,222
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,420
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,293
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,533
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,213
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,291
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,430
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,455
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,739
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,755
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,372
+- **[m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** ⭐ 1,468
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,232
+- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,271
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   All-in-one AI framework & toolkit for Claude Code & Cursor
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 35,846
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,142
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,265
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,279
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,908
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,923
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,836
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,868
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,743
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,759
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,845
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,889
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,750
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** ⭐ 8,773
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Agent skills for Obsidian
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,655
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,686
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
@@ -504,58 +491,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
