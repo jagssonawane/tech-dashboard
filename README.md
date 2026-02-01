@@ -46,37 +46,51 @@
 
 ### 📑 Hacker News
 
-- **[How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)**
-  *<p>Article URL: <a href="https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users">https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users</a></p>
-<p>Comments URL: <a ...*
-  📅 Sun, 01 Feb 2026 11:35:32 +0000
+- **[NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)**
+  *<p>Article URL: <a href="https://computeradsfromthepast.substack.com/p/ncr-tower-1632">https://computeradsfromthepast.substack.com/p/ncr-tower-1632</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 01 Feb 2026 17:50:46 +0000
 
-- **[Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)**
-  *<p>Article URL: <a href="https://www.amigaunix.com/doku.php/home">https://www.amigaunix.com/doku.php/home</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46845244">https://news....*
-  📅 Sun, 01 Feb 2026 10:57:20 +0000
+- **[Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)**
+  *<p>Article URL: <a href="http://apple1.chez.com/Apple1project/Gallery/Gallery.htm">http://apple1.chez.com/Apple1project/Gallery/Gallery.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 01 Feb 2026 17:36:57 +0000
 
-- **[FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)**
-  *<p>Article URL: <a href="https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/">https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/</a></p>
+- **[Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)**
+  *<p>Article URL: <a href="https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html">https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html</a></p>
 <p>Comments URL: <a href="ht...*
-  📅 Sun, 01 Feb 2026 10:30:41 +0000
+  📅 Sun, 01 Feb 2026 17:33:04 +0000
 
-- **[Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)**
-  *<p>Article URL: <a href="https://netbird.io/">https://netbird.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46844870">https://news.ycombinator.com/item?id=46844870</a></p>...*
-  📅 Sun, 01 Feb 2026 09:44:01 +0000
+- **[Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)**
+  *<p>Article URL: <a href="https://failhub.substack.com/p/failhub-issue-1">https://failhub.substack.com/p/failhub-issue-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46847456"...*
+  📅 Sun, 01 Feb 2026 16:52:30 +0000
 
-- **[What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)**
-  *<p>Article URL: <a href="https://mariozechner.at/posts/2025-11-30-pi-coding-agent/">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 01 Feb 2026 09:33:46 +0000
+- **[English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)**
+  *<p>Article URL: <a href="https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings">https://yaledailynews.com/articles/english-professors-double-down-on...*
+  📅 Sun, 01 Feb 2026 15:58:23 +0000
 
-- **[The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)**
-  *<p>Article URL: <a href="https://nostarch.com/book-of-pf-4th-edition">https://nostarch.com/book-of-pf-4th-edition</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46844350">https...*
-  📅 Sun, 01 Feb 2026 07:50:51 +0000
+- **[Show HN: Voiden – an offline, Git-native API tool built around Markdown](https://github.com/VoidenHQ/voiden)**
+  *<p>Hi HN,<p>We have open-sourced Voiden.<p>Most API tools are built like platforms. They are heavy because they optimize for accounts, sync, and abstraction - not for simple, local API work.<p>Voiden ...*
+  📅 Sun, 01 Feb 2026 15:09:26 +0000
 
 ### 📑 TechCrunch
+
+- **[Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/)**
+  *Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok....*
+  📅 Sun, 01 Feb 2026 17:20:00 +0000
+
+- **[TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/)**
+  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
+  📅 Sun, 01 Feb 2026 17:05:00 +0000
+
+- **[India offers zero taxes through 2047 to lure global AI workloads](https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/)**
+  *New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India....*
+  📅 Sun, 01 Feb 2026 16:30:00 +0000
+
+- **[Bye-bye corporate conglomerates. Hello personal conglomerates.](https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/)**
+  *Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age....*
+  📅 Sun, 01 Feb 2026 15:39:08 +0000
 
 - **[Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)**
   *From Belgium to Ukraine, five fresh European unicorns were minted this January....*
@@ -86,49 +100,22 @@
   *Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion....*
   📅 Sat, 31 Jan 2026 21:56:22 +0000
 
-- **[SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/)**
-  *SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."...*
-  📅 Sat, 31 Jan 2026 21:27:25 +0000
-
-- **[Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/)**
-  *Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”...*
-  📅 Sat, 31 Jan 2026 17:54:12 +0000
-
-- **[HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/)**
-  *The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use....*
-  📅 Sat, 31 Jan 2026 16:15:00 +0000
-
-- **[a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/)**
-  *Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a don...*
-  📅 Sat, 31 Jan 2026 01:23:12 +0000
-
 ### 📑 Dev.to
 
-- **[Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca)**
-  *<h2>
+- **[A Portfolio For Fun!](https://dev.to/mohessaid/a-portfolio-for-fun-305e)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31">New Year, New You Portfolio Challenge Presented by Google AI</a></em></p>
+
+<h2>
   
   
-  Java Virtual Threads — Quick Guide
-</h2>
+  Ab...*
+  📅 Sun, 01 Feb 2026 18:12:01 +0000
 
-<blockquote>
-<p><strong>Java 21+ · Spring Boot 3.2+ · Project Loom</strong></p>
-</blockquote>
+- **[Building a Fluid, Minimalist Portfolio](https://dev.to/nadinev/building-a-fluid-minimalist-portfolio-2col)**
+  *<p>--labels dev-tutorial=devnewyear2026 </p>
 
-<p>A concise, production-focused guide to Java <st...*
-  📅 Sun, 01 Feb 2026 12:12:55 +0000
-
-- **[The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)**
-  *<h2>
-  
-  
-  Overview
-</h2>
-
-<ul>
-<li>
-<strong>Goal</strong>: Overcome the limitations of Code Coverage metrics and introduce 'Mutation Testing' to verify if test codes actually catch errors in busine...*
-  📅 Sun, 01 Feb 2026 12:04:16 +0000
+<p><em>This is a submission for the <a href="https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31">New Year, New You Portfolio Challenge Presen...*
+  📅 Sun, 01 Feb 2026 18:11:33 +0000
 
 </details>
 
@@ -136,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop)** ⭐ 106
+- **[YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop)** ⭐ 126
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms.
 
-- **[Subhatharani/neon-icu-vitals-monitor](https://github.com/Subhatharani/neon-icu-vitals-monitor)** ⭐ 23
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Real-time vitals monitoring system with neon ICU dashboard
-
-- **[sujeethk391-ai/movie-app](https://github.com/sujeethk391-ai/movie-app)** ⭐ 21
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  Personalised movie tracker app.
-
-- **[predyy/CVE-2025-2304](https://github.com/predyy/CVE-2025-2304)** ⭐ 14
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 59
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Python script to exploit Privilege Escalation in Camaleon CMS.
+  "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[htlin222/mini-claw](https://github.com/htlin222/mini-claw)** ⭐ 13
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  minimalism alternative of OpenClaw
-
-- **[Chandrika9906/AI-Resume-Screening](https://github.com/Chandrika9906/AI-Resume-Screening)** ⭐ 13
+- **[NEHANITHASUGUMARAN/HIRE-IQ](https://github.com/NEHANITHASUGUMARAN/HIRE-IQ)** ⭐ 25
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[shalinir0121/Smart-Password-Generator](https://github.com/shalinir0121/Smart-Password-Generator)** ⭐ 12
+- **[Subhatharani/neon-icu-vitals-monitor](https://github.com/Subhatharani/neon-icu-vitals-monitor)** ⭐ 24
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  Real-time vitals monitoring system with neon ICU dashboard
+
+- **[sujeethk391-ai/movie-app](https://github.com/sujeethk391-ai/movie-app)** ⭐ 23
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  Personalised movie tracker app.
+
+- **[Nith2005/Sugarcane-Disease-Detection](https://github.com/Nith2005/Sugarcane-Disease-Detection)** ⭐ 23
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A YOLOv8-powered instance segmentation system for identifying and localizing diseases infestations in sugarcane crops. Features a custom-trained model
+
+- **[ephemara/kore-lang](https://github.com/ephemara/kore-lang)** ⭐ 22
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  One language to rule them all.
+
+- **[shalinir0121/Smart-Password-Generator](https://github.com/shalinir0121/Smart-Password-Generator)** ⭐ 20
   ![Python](https://img.shields.io/badge/-Python-blue)
   🔐 Smart Password Generator – Generate strong, random passwords with custom length and save them securely. Easy, fast, and Python-powered!
 
-- **[NineThoughts0521/clash-residential-proxy-parser](https://github.com/NineThoughts0521/clash-residential-proxy-parser)** ⭐ 10
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Smart pre-processing scripts for adding residential proxies to Clash subscriptions
-
 ### 📈 Weekly Trending
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,798
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,961
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,982
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 4,567
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,351
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,363
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,502
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,520
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,806
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,816
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,442
+- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,612
   ![Python](https://img.shields.io/badge/-Python-blue)
   Advancing Open-source World Models
 
-- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,342
+- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,369
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   All-in-one AI framework & toolkit for Claude Code & Cursor
 
-- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 951
+- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 975
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,730
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,960
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,312
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,328
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,984
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,036
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,965
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,981
   ![Python](https://img.shields.io/badge/-Python-blue)
   Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,786
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,794
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,997
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,041
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,751
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,775
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,525
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,619
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
@@ -504,58 +491,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | 🟢 Proficient |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
