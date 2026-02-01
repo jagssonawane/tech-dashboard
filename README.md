@@ -46,33 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: OpenJuris – AI legal research with citations from primary sources](https://openjuris.org/)**
-  *<p>We built tooling that connects LLMs directly to case law databases with citation verification to address hallucination in legal AI. Think of it as giving the model access to actual legal sources in...*
-  📅 Sun, 01 Feb 2026 02:48:34 +0000
+- **[How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)**
+  *<p>Article URL: <a href="https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users">https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users</a></p>
+<p>Comments URL: <a ...*
+  📅 Sun, 01 Feb 2026 11:35:32 +0000
 
-- **[Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)**
-  *<p>Article URL: <a href="https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-proto...*
-  📅 Sun, 01 Feb 2026 02:25:26 +0000
+- **[Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)**
+  *<p>Article URL: <a href="https://www.amigaunix.com/doku.php/home">https://www.amigaunix.com/doku.php/home</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46845244">https://news....*
+  📅 Sun, 01 Feb 2026 10:57:20 +0000
 
-- **[List animals until failure](https://rose.systems/animalist/)**
-  *<p>Article URL: <a href="https://rose.systems/animalist/">https://rose.systems/animalist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46842603">https://news.ycombinator.com/...*
-  📅 Sun, 01 Feb 2026 01:03:23 +0000
-
-- **[Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)**
-  *<p>Article URL: <a href="http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html">http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html</a></p>
+- **[FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)**
+  *<p>Article URL: <a href="https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/">https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/</a></p>
 <p>Comments URL: <a href="ht...*
-  📅 Sun, 01 Feb 2026 01:00:07 +0000
+  📅 Sun, 01 Feb 2026 10:30:41 +0000
 
-- **[Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/">https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate...*
-  📅 Sun, 01 Feb 2026 00:00:11 +0000
+- **[Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)**
+  *<p>Article URL: <a href="https://netbird.io/">https://netbird.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46844870">https://news.ycombinator.com/item?id=46844870</a></p>...*
+  📅 Sun, 01 Feb 2026 09:44:01 +0000
 
-- **[When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)**
-  *<p>Article URL: <a href="https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/">https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-ca...*
-  📅 Sat, 31 Jan 2026 23:02:45 +0000
+- **[What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)**
+  *<p>Article URL: <a href="https://mariozechner.at/posts/2025-11-30-pi-coding-agent/">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Sun, 01 Feb 2026 09:33:46 +0000
+
+- **[The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)**
+  *<p>Article URL: <a href="https://nostarch.com/book-of-pf-4th-edition">https://nostarch.com/book-of-pf-4th-edition</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46844350">https...*
+  📅 Sun, 01 Feb 2026 07:50:51 +0000
 
 ### 📑 TechCrunch
+
+- **[Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)**
+  *From Belgium to Ukraine, five fresh European unicorns were minted this January....*
+  📅 Sun, 01 Feb 2026 07:00:00 +0000
 
 - **[Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/)**
   *Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion....*
@@ -94,19 +102,33 @@
   *Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a don...*
   📅 Sat, 31 Jan 2026 01:23:12 +0000
 
-- **[A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/)**
-  *If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he need...*
-  📅 Sat, 31 Jan 2026 00:09:54 +0000
-
 ### 📑 Dev.to
 
-- **[Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)**
-  *<p>Loss functions are the quiet engine behind every machine learning model. They serve as the critical feedback loop, translating the abstract concept of error into a value that a computer can minimiz...*
-  📅 Sun, 01 Feb 2026 06:25:57 +0000
+- **[Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca)**
+  *<h2>
+  
+  
+  Java Virtual Threads — Quick Guide
+</h2>
 
-- **[[Opinion]Today's frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)**
-  *<p><strong>Disclaimer</strong>: This post is a mixture of ranting about the complexity of the contemporary frontend, and my thought on how to solve it. I have been away from the frontend/React world f...*
-  📅 Sun, 01 Feb 2026 06:25:49 +0000
+<blockquote>
+<p><strong>Java 21+ · Spring Boot 3.2+ · Project Loom</strong></p>
+</blockquote>
+
+<p>A concise, production-focused guide to Java <st...*
+  📅 Sun, 01 Feb 2026 12:12:55 +0000
+
+- **[The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)**
+  *<h2>
+  
+  
+  Overview
+</h2>
+
+<ul>
+<li>
+<strong>Goal</strong>: Overcome the limitations of Code Coverage metrics and introduce 'Mutation Testing' to verify if test codes actually catch errors in busine...*
+  📅 Sun, 01 Feb 2026 12:04:16 +0000
 
 </details>
 
@@ -114,103 +136,103 @@
 
 ### 📈 Daily Trending
 
-- **[YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop)** ⭐ 76
+- **[YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop)** ⭐ 106
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms.
 
-- **[Subhatharani/neon-icu-vitals-monitor](https://github.com/Subhatharani/neon-icu-vitals-monitor)** ⭐ 15
+- **[Subhatharani/neon-icu-vitals-monitor](https://github.com/Subhatharani/neon-icu-vitals-monitor)** ⭐ 23
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
   Real-time vitals monitoring system with neon ICU dashboard
+
+- **[sujeethk391-ai/movie-app](https://github.com/sujeethk391-ai/movie-app)** ⭐ 21
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  Personalised movie tracker app.
+
+- **[predyy/CVE-2025-2304](https://github.com/predyy/CVE-2025-2304)** ⭐ 14
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Python script to exploit Privilege Escalation in Camaleon CMS.
+
+- **[htlin222/mini-claw](https://github.com/htlin222/mini-claw)** ⭐ 13
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  minimalism alternative of OpenClaw
+
+- **[Chandrika9906/AI-Resume-Screening](https://github.com/Chandrika9906/AI-Resume-Screening)** ⭐ 13
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[shalinir0121/Smart-Password-Generator](https://github.com/shalinir0121/Smart-Password-Generator)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🔐 Smart Password Generator – Generate strong, random passwords with custom length and save them securely. Easy, fast, and Python-powered!
 
 - **[NineThoughts0521/clash-residential-proxy-parser](https://github.com/NineThoughts0521/clash-residential-proxy-parser)** ⭐ 10
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Smart pre-processing scripts for adding residential proxies to Clash subscriptions
 
-- **[sujeethk391-ai/movie-app](https://github.com/sujeethk391-ai/movie-app)** ⭐ 5
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  Personalised movie tracker app.
-
-- **[sjcotto/opsagent](https://github.com/sjcotto/opsagent)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI-powered system monitoring daemon with automated remediation. Detects issues, analyzes with AI, and fixes them automatically.
-
-- **[ephemara/kore-lang](https://github.com/ephemara/kore-lang)** ⭐ 3
-  ![LLVM](https://img.shields.io/badge/-LLVM-lightgrey)
-  One language to rule them all.
-
-- **[hknc/claude-evolve](https://github.com/hknc/claude-evolve)** ⭐ 3
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A Claude Code plugin that captures your patterns as reusable rules, skills, and agents
-
-- **[MaesHughes/wuxing-search-mcp](https://github.com/MaesHughes/wuxing-search-mcp)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Wuxing Search MCP is a powerful, unlimited search server built on top of SearXNG. It integrates seamlessly with Claude Code via the Model Context Protocol, providing free and unlimited search capabilities by aggregating results from 100+ search engines.
-
 ### 📈 Weekly Trending
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,633
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 4,798
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,788
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 3,982
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,331
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 3,351
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,481
+- **[antfu/skills](https://github.com/antfu/skills)** ⭐ 2,502
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Anthony Fu's curated collection of agent skills.
 
-- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,787
+- **[deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** ⭐ 1,806
   ![Python](https://img.shields.io/badge/-Python-blue)
   Visual Causal Flow
 
-- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,365
+- **[Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)** ⭐ 1,442
   ![Python](https://img.shields.io/badge/-Python-blue)
   Advancing Open-source World Models
 
-- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,316
+- **[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)** ⭐ 1,342
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   All-in-one AI framework & toolkit for Claude Code & Cursor
 
-- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 925
+- **[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** ⭐ 951
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,485
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 36,730
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,298
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,312
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,953
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,939
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 11,984
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,773
+- **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** ⭐ 11,965
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,786
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,973
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 8,997
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,722
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 8,751
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,401
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 8,525
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
@@ -482,50 +504,50 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -534,7 +556,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
