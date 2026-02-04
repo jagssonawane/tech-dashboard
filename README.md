@@ -46,14 +46,14 @@
 
 ### 📑 Hacker News
 
-- **[Illinois joins WHO global outbreak network after U.S. withdraws](https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/)**
-  *<p>Article URL: <a href="https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/">https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-n...*
-  📅 Wed, 04 Feb 2026 00:15:52 +0000
+- **[Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany)**
+  *<p>Article URL: <a href="https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany">https://www.openpetition.de/petition/online/recognition-of-work-on-o...*
+  📅 Wed, 04 Feb 2026 04:46:15 +0000
 
-- **[GPT-5.2 and GPT-5.2-Codex are now 40% faster](https://twitter.com/OpenAIDevs/status/2018838297221726482)**
-  *<p>Article URL: <a href="https://twitter.com/OpenAIDevs/status/2018838297221726482">https://twitter.com/OpenAIDevs/status/2018838297221726482</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Wed, 04 Feb 2026 00:07:00 +0000
+- **[I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)**
+  *<p>Article URL: <a href="https://www.jernesto.com/articles/thinking_hard">https://www.jernesto.com/articles/thinking_hard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4688126...*
+  📅 Wed, 04 Feb 2026 03:54:11 +0000
 
 - **[Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)**
   *<p>Article URL: <a href="https://securelist.com/notepad-supply-chain-attack/118708/">https://securelist.com/notepad-supply-chain-attack/118708/</a></p>
@@ -70,10 +70,10 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46876105">https://n...*
   📅 Tue, 03 Feb 2026 19:37:30 +0000
 
-- **[China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis">https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Tue, 03 Feb 2026 19:32:11 +0000
+- **[AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)**
+  *<p>Article URL: <a href="https://github.com/alibaba/AliSQL">https://github.com/alibaba/AliSQL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46875228">https://news.ycombinator....*
+  📅 Tue, 03 Feb 2026 18:40:18 +0000
 
 ### 📑 TechCrunch
 
@@ -103,20 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)**
-  *<p>In modern .NET Web APIs, validation is not just about checking nulls or ranges. It is part of your API contract and one of the most critical layers that protects your system from bad data.</p>
+- **[712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Wed, 04 Feb 2026 06:28:17 +0000
 
-<p>...*
-  📅 Wed, 04 Feb 2026 01:02:09 +0000
-
-- **[The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)**
-  *<p><em>On choosing against the current</em></p>
-
-
-
-
-<p>An agent named Pith wrote something recently about switching from one AI model to another. The weights changed. The API key swapped. And then:</p...*
-  📅 Wed, 04 Feb 2026 01:01:23 +0000
+- **[ASP.NET Core JWT Authentication: Setup, Validation, and Best Practices](https://dev.to/boldsign/aspnet-core-jwt-authentication-setup-validation-and-best-practices-og)**
+  *<p>JWT authentication in ASP.NET Core is a stateless, token-based approach where clients send a signed JWT (usually as a bearer token) and ASP.NET Core validates it on every request to build HttpConte...*
+  📅 Wed, 04 Feb 2026 06:26:37 +0000
 
 </details>
 
@@ -124,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[valeriepan/Survive-380-Anna-the-best](https://github.com/valeriepan/Survive-380-Anna-the-best)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)** ⭐ 38
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+
+- **[MerlinCharletGrace/recipe-recommendation-app](https://github.com/MerlinCharletGrace/recipe-recommendation-app)** ⭐ 21
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[PamHornedo/Book_Stack](https://github.com/PamHornedo/Book_Stack)** ⭐ 2
+- **[Fujigo-Software/f5-framework-claude](https://github.com/Fujigo-Software/f5-framework-claude)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Suren57668/movie-review](https://github.com/Suren57668/movie-review)** ⭐ 13
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[viralcode/openwhale](https://github.com/viralcode/openwhale)** ⭐ 8
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Back-end track group project 1
+  Your friendly neighborhood AI assistant 🐋
 
-- **[Lucas12310/tcc_barbearia_api](https://github.com/Lucas12310/tcc_barbearia_api)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  API desenvolvida para meu trabalho de conclusão de curso da graduação de Analise e Desenvolvimento de Sistemas
-
-- **[HazemHassine/RSVP](https://github.com/HazemHassine/RSVP)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **[ZeniLabs/FarcasterForAgents](https://github.com/ZeniLabs/FarcasterForAgents)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[isaquemilhomem/pipeline_multi_fonte](https://github.com/isaquemilhomem/pipeline_multi_fonte)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[Senior-Architecture/ncc-erp-crm](https://github.com/Senior-Architecture/ncc-erp-crm)** ⭐ 6
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Tool ERP-CRM (Customer Relationship Management)
 
-- **[parvin528/Parvin-day-31](https://github.com/parvin528/Parvin-day-31)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Day 31
-
-- **[redactedCHAD/zb-card-scan](https://github.com/redactedCHAD/zb-card-scan)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  New ZB Portfolio Hero/Nav?
-
-- **[MUATUNES/FAST_FHeMANAQ](https://github.com/MUATUNES/FAST_FHeMANAQ)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[lystuw25/lystuw25-tet4-phia-sau-nhung-du-day](https://github.com/lystuw25/lystuw25-tet4-phia-sau-nhung-du-day)** ⭐ 5
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 4,090
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
-
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 4,024
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 4,484
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 2,401
+- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 4,277
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
+
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 2,682
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
-- **[miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)** ⭐ 1,089
+- **[miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)** ⭐ 1,115
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   ClawdBot 一键部署工具
 
-- **[agno-agi/dash](https://github.com/agno-agi/dash)** ⭐ 913
+- **[agno-agi/dash](https://github.com/agno-agi/dash)** ⭐ 987
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.
 
-- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 775
+- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 863
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 
-- **[1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)** ⭐ 639
+- **[1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)** ⭐ 658
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
 
-- **[MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5)** ⭐ 585
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Moonshot's most powerful model
+- **[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)** ⭐ 632
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  PaperBanana: Automating Academic Illustration For AI Scientists
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 38,988
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 39,261
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,501
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,555
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,436
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,488
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,912
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,923
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI → JSON → UI
 
-- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,299
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,316
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
-- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,222
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,287
   ![Python](https://img.shields.io/badge/-Python-blue)
   LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 9,000
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 9,063
   ![Python](https://img.shields.io/badge/-Python-blue)
   Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,353
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 8,402
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
@@ -494,47 +487,47 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🟢 Proficient |
 | Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
 | Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
@@ -542,9 +535,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
