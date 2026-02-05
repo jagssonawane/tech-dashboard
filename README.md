@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)**
-  *<p>Article URL: <a href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been">https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-bee...*
-  📅 Thu, 05 Feb 2026 00:28:06 +0000
+- **[When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)**
+  *<p>Article URL: <a href="https://rachelbythebay.com/w/2026/02/03/badnas/">https://rachelbythebay.com/w/2026/02/03/badnas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4689597...*
+  📅 Thu, 05 Feb 2026 05:22:36 +0000
 
-- **[Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)**
-  *<p>Article URL: <a href="https://fly.io/blog/litestream-writable-vfs/">https://fly.io/blog/litestream-writable-vfs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46893167">htt...*
-  📅 Wed, 04 Feb 2026 23:03:58 +0000
+- **[ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)**
+  *<p>Article URL: <a href="https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use">https://www.biometricupdate.com/202602/ice-seeks-industry-input...*
+  📅 Thu, 05 Feb 2026 05:02:01 +0000
 
-- **[As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)**
-  *<p>Article URL: <a href="https://evjang.com/2026/02/04/rocks.html">https://evjang.com/2026/02/04/rocks.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46893018">https://new...*
-  📅 Wed, 04 Feb 2026 22:50:34 +0000
+- **[Sam Altman Responds to Anthropic Ad Campaign](https://twitter.com/i/status/2019139174339928189)**
+  *<p>Article URL: <a href="https://twitter.com/i/status/2019139174339928189">https://twitter.com/i/status/2019139174339928189</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46895...*
+  📅 Thu, 05 Feb 2026 04:14:33 +0000
 
-- **[Debian's Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/Debian-Developers-Quiet-Away">https://www.phoronix.com/news/Debian-Developers-Quiet-Away</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Wed, 04 Feb 2026 22:34:46 +0000
+- **[A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)**
+  *<p>Article URL: <a href="https://www.taricorp.net/2026/a-few-cpu-bugs/">https://www.taricorp.net/2026/a-few-cpu-bugs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46895388">h...*
+  📅 Thu, 05 Feb 2026 03:39:43 +0000
 
-- **[A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)**
-  *<p>Article URL: <a href="https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/">https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/</a></p>
-<p>C...*
-  📅 Wed, 04 Feb 2026 21:13:17 +0000
+- **[Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)**
+  *<p>Article URL: <a href="https://jmoiron.net/blog/wirths-revenge/">https://jmoiron.net/blog/wirths-revenge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46895381">https://new...*
+  📅 Thu, 05 Feb 2026 03:38:26 +0000
 
-- **[Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)**
-  *<p>I review PRs all day and I've basically stopped reading them. Someone opens a 2000-line PR, I scroll, see it's mostly AI-generated React components, leave a comment, merge. I felt bad about it unti...*
-  📅 Wed, 04 Feb 2026 21:10:55 +0000
+- **[A tale of two flows: Metaflow and Kubeflow](https://blog.kubeflow.org/metaflow/)**
+  *<p>Article URL: <a href="https://blog.kubeflow.org/metaflow/">https://blog.kubeflow.org/metaflow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46895144">https://news.ycombina...*
+  📅 Thu, 05 Feb 2026 03:06:32 +0000
 
 ### 📑 TechCrunch
 
@@ -102,22 +103,125 @@
 
 ### 📑 Dev.to
 
-- **[I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)**
-  *<p>This recent post <a href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3">Is Learning CSS a Waste of Time in 2026?</a> (by <a class="mentioned-user" href="https://dev.to/syl...*
-  📅 Thu, 05 Feb 2026 00:43:12 +0000
+- **[Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo)**
+  *<h3>
+  
+  
+  Smarter Image Attention for Clearer City Photos and Maps
+</h3>
 
-- **[Coordination Is the Substrate: What NVIDIA's Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)**
-  *<p>Intelligence was never the threat. Coordination is. And every existing governance framework breaks at that point.</p>
+<p>Ever wondered how a phone or map can tell a road from a tree in a photo? This research shows a way to mix results from d...*
+  📅 Thu, 05 Feb 2026 06:40:18 +0000
 
-
-
-
-<p>For years, the industry has obsessed over intelligence—bigger models, mo...*
-  📅 Thu, 05 Feb 2026 00:28:47 +0000
+- **[Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p)**
+  *<p>Recently, news from Postman has caused quite a stir in the developer community. According to their official blog and emails sent to users, Postman's pricing and product plans are undergoing a major...*
+  📅 Thu, 05 Feb 2026 06:18:04 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[sanjana-packiathas/AI-Powered-Resume-Analyzer](https://github.com/sanjana-packiathas/AI-Powered-Resume-Analyzer)** ⭐ 37
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Seshaguhan/College-Fitness-Running-Progress-Tracker](https://github.com/Seshaguhan/College-Fitness-Running-Progress-Tracker)** ⭐ 23
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[gepeiyu/agentskills-proxy](https://github.com/gepeiyu/agentskills-proxy)** ⭐ 15
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A remote proxy server for Agent Skills that enables skill discovery, execution, and data management via gRPC/HTTP. This service bridges local skill capabilities to remote access, allowing AI agents to leverage various tools and capabilities through a unified interface.
+
+- **[godwin731/AG-Medical-Service](https://github.com/godwin731/AG-Medical-Service)** ⭐ 14
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A role-based clinic queue and appointment booking application
+
+- **[EvanDbg/doubao-ime-win](https://github.com/EvanDbg/doubao-ime-win)** ⭐ 9
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[moltjeff/jeff](https://github.com/moltjeff/jeff)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  726mAwUupyujR3Rm6HkUeLXJS8CZmQCPzzwRPs5mMoLT
+
+- **[javimosch/superbot](https://github.com/javimosch/superbot)** ⭐ 8
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Lightweight, fast, open-source Clawdbot alternative
+
+- **[LionyxML/gitlineage.nvim](https://github.com/LionyxML/gitlineage.nvim)** ⭐ 8
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Neovim plugin to view git history for selected lines. Select a range in visual mode and see how it evolved through commits. Navigate commits, yank SHAs, and open full diffs with diffview.nvim.
+
+### 📈 Weekly Trending
+
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 6,570
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+
+- **[gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)** ⭐ 4,801
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
+
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 3,132
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Elevate your AI research writing, no more tedious polishing ✨ 
+
+- **[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)** ⭐ 1,329
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  PaperBanana: Automating Academic Illustration For AI Scientists
+
+- **[sheeki03/tirith](https://github.com/sheeki03/tirith)** ⭐ 1,245
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+
+- **[agno-agi/dash](https://github.com/agno-agi/dash)** ⭐ 1,203
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.
+
+- **[1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)** ⭐ 729
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
+
+- **[MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5)** ⭐ 711
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Moonshot's most powerful model
+
+### 📈 Monthly Trending
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 39,989
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 14,787
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 12,663
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Browser automation CLI for AI agents
+
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 9,972
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI → JSON → UI
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 9,450
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** ⭐ 9,435
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 9,269
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+
+- **[originalankur/maptoposter](https://github.com/originalankur/maptoposter)** ⭐ 9,204
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
 ## 🚀 Latest Releases
 
@@ -387,59 +491,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
