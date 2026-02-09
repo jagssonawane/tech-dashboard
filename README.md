@@ -46,23 +46,19 @@
 
 ### 📑 Hacker News
 
-- **[Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)**
-  *<p>Article URL: <a href="https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/">https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/</a></p>
-...*
-  📅 Mon, 09 Feb 2026 05:28:15 +0000
+- **[Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2026/02/09/matrix_element_secure_chat/">https://www.theregister.com/2026/02/09/matrix_element_secure_chat/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 09 Feb 2026 11:53:13 +0000
 
-- **[A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)**
-  *<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2">https://www.wsj.com/lifestyle/careers/job-hunters-are-so-despe...*
-  📅 Mon, 09 Feb 2026 05:23:37 +0000
+- **[Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)**
+  *<p>Article URL: <a href="https://ploum.net/2026-02-09-offpunk3.html">https://ploum.net/2026-02-09-offpunk3.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46943752">https:/...*
+  📅 Mon, 09 Feb 2026 10:37:20 +0000
 
-- **[TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)**
-  *<p>Article URL: <a href="https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5">https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca...*
-  📅 Mon, 09 Feb 2026 04:38:14 +0000
-
-- **[Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)**
-  *<p>Article URL: <a href="https://harshanu.space/en/tech/ccc-vs-gcc/">https://harshanu.space/en/tech/ccc-vs-gcc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46941603">https:/...*
-  📅 Mon, 09 Feb 2026 04:30:38 +0000
+- **[Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)**
+  *<p>We're Tom and Ryan and we teamed up to build an algorithm with Rust and SIMD to exhaustively search for the longest line of sight on the planet. We can confirm that a previously speculated view bet...*
+  📅 Mon, 09 Feb 2026 10:05:55 +0000
 
 - **[Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)**
   *<p>Article URL: <a href="https://odd-lots-books.netlify.app/">https://odd-lots-books.netlify.app/</a></p>
@@ -72,6 +68,11 @@
 - **[AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)**
   *<p>Article URL: <a href="https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder">https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-pa...*
   📅 Sun, 08 Feb 2026 23:13:34 +0000
+
+- **[Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)**
+  *<p>Article URL: <a href="https://bobbiec.github.io/cistercian-font.html">https://bobbiec.github.io/cistercian-font.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46939312"...*
+  📅 Sun, 08 Feb 2026 22:39:46 +0000
 
 ### 📑 TechCrunch
 
@@ -101,15 +102,22 @@
 
 ### 📑 Dev.to
 
-- **[Power Automate - Building Readable Flows](https://dev.to/wyattdave/power-automate-building-readable-flows-dkd)**
-  *<p>They say the best code is written in a way that you don't need to add  comments, just good naming and design, and that had me thinking about Power Automate.</p>
+- **[Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)**
+  *<h2>
+  
+  
+  <strong>Create a resource group and a storage account.</strong>
+</h2>
 
-<p>Power Automate is a literal flow...*
-  📅 Mon, 09 Feb 2026 06:49:58 +0000
+<p><strong>(A)</strong>. Create and deploy a resource group to hold all your project resources</p>
 
-- **[How to Stop Burning Budget on Over-Hyped Image Models (The Selection Framework)](https://dev.to/markk40123/how-to-stop-burning-budget-on-over-hyped-image-models-the-selection-framework-2p4a)**
-  *<p>The API bill hit $400 in the first 48 hours. We were building a dynamic social asset generator-a system meant to create unique open-graph images for blog posts automatically. The logic seemed sound...*
-  📅 Mon, 09 Feb 2026 06:46:14 +0000
+<ul>
+<li><p>In t...*
+  📅 Mon, 09 Feb 2026 12:42:32 +0000
+
+- **[Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples (2026)](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg)**
+  *<p><strong>Claude Code hooks</strong> are shell commands, LLM prompts, or subagents that execute automatically at specific points in Claude Code's lifecycle. They let you enforce formatting on every f...*
+  📅 Mon, 09 Feb 2026 12:41:32 +0000
 
 </details>
 
@@ -117,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 108
+- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 216
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[Sarumathi2345/todo-cli-app](https://github.com/Sarumathi2345/todo-cli-app)** ⭐ 10
+- **[AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye)** ⭐ 49
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Simple command-line to-do list application in Python with JSON storage  Python CLI Todo App - Manage tasks from your terminal  A minimalist terminal-based task manager with persistent storage
+  None
 
-- **[elizaOS/openclaw-adapter](https://github.com/elizaOS/openclaw-adapter)** ⭐ 10
+- **[shreeneejananee/pet-feeding-system-using-rtc](https://github.com/shreeneejananee/pet-feeding-system-using-rtc)** ⭐ 21
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated pet feeding system project
+
+- **[elizaOS/openclaw-adapter](https://github.com/elizaOS/openclaw-adapter)** ⭐ 21
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run Eliza plugins inside OpenClaw — wallets, connectors, services, and more
 
-- **[LocalNest/LocalNest.tv](https://github.com/LocalNest/LocalNest.tv)** ⭐ 7
+- **[unrealsabyrka/droit-vision](https://github.com/unrealsabyrka/droit-vision)** ⭐ 16
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  Jellyfin customizations
+  Landing page for Chinese creative content platform specializing in licensed video, music, image, and vector assets for commercial use.
 
-- **[Nithiyaprakash10/IoT-Based-Smart-Garbage-Monitoring-System](https://github.com/Nithiyaprakash10/IoT-Based-Smart-Garbage-Monitoring-System)** ⭐ 5
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The IoT-Based Smart Garbage Monitoring System monitors garbage levels using an ultrasonic sensor and Arduino. When the bin becomes full, alerts are sent through WiFi to a cloud platform. This system reduces overflow, saves resources, and improves waste management efficiency in smart cities.
+- **[DragonGod9527/jinan-jobs](https://github.com/DragonGod9527/jinan-jobs)** ⭐ 16
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  济南就业黑名单
 
-- **[maokaigang/awesome-awesome](https://github.com/maokaigang/awesome-awesome)** ⭐ 4
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  A curated index of truly awesome awesome-xxx repositories.
-
-- **[nsyncxy1/youtube-subtitle-summary-skill](https://github.com/nsyncxy1/youtube-subtitle-summary-skill)** ⭐ 4
+- **[Sarumathi2345/todo-cli-app](https://github.com/Sarumathi2345/todo-cli-app)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
-  youtube视频n内容总结skill
+  Simple command-line to-do list application in Python with JSON storage  Python CLI Todo App - Manage tasks from your terminal  A minimalist terminal-based task manager with persistent storage
 
-- **[plonxyz/triagectl](https://github.com/plonxyz/triagectl)** ⭐ 4
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
+- **[Tenobrus/claude-rlm](https://github.com/Tenobrus/claude-rlm)** ⭐ 13
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Recursive Language Models for Claude Code — process arbitrarily long inputs via recursive sub-agent delegation
 
 ### 📈 Weekly Trending
 
-- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,867
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
-
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,727
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
-
-- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 1,654
+- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 1,918
   ![Nushell](https://img.shields.io/badge/-Nushell-lightgrey)
   A community trust management system based on explicit vouches to participate.
 
-- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 991
+- **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)** ⭐ 1,893
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Excalidraw MCP App
+  Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
-- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 903
+- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,780
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
+
+- **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** ⭐ 1,006
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Streamable Excalidraw MCP App
+
+- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 929
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A modern and elegant dashboard for visualizing and managing Clash network traffic.
 
-- **[eljojo/rememory](https://github.com/eljojo/rememory)** ⭐ 726
+- **[eljojo/rememory](https://github.com/eljojo/rememory)** ⭐ 750
   ![Go](https://img.shields.io/badge/-Go-cyan)
   have a plan for the worst-case scenario
 
-- **[SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl)** ⭐ 604
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 651
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+
+- **[SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl)** ⭐ 613
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
 
-- **[sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)** ⭐ 529
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Expert code review skill: SOLID, security, performance, error handling, boundary conditions
-
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 42,595
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 42,770
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,149
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,170
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 14,050
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 14,444
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 13,316
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ⭐ 13,360
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Browser automation CLI for AI agents
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 12,052
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 12,240
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,123
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,158
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI → JSON → UI
+  The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,063
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,138
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,207
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,236
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
@@ -485,11 +493,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
@@ -497,47 +505,47 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🔴 Beginner |
 | Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
