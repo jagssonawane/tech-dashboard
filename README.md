@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2512.20798">https://arxiv.org/abs/2512.20798</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46954920">https://news.ycombinator.co...*
-  📅 Tue, 10 Feb 2026 03:17:17 +0000
+- **[Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)**
+  *<p>Article URL: <a href="https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative">https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice...*
+  📅 Tue, 10 Feb 2026 12:34:18 +0000
 
-- **[Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)**
-  *<p>Article URL: <a href="https://github.com/TrevorS/voxtral-mini-realtime-rs">https://github.com/TrevorS/voxtral-mini-realtime-rs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 10 Feb 2026 01:26:42 +0000
+- **[Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock)**
+  *<p>I'm a plumber who taught himself to code. I run a plumbing company during the day and mess with my homelab at night. About a year ago I started running AI agents with full shell access and API keys...*
+  📅 Tue, 10 Feb 2026 12:04:20 +0000
 
-- **[Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)**
-  *<p>Article URL: <a href="https://github.com/antirez/voxtral.c">https://github.com/antirez/voxtral.c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46954049">https://news.ycombi...*
-  📅 Tue, 10 Feb 2026 01:17:35 +0000
+- **[Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)**
+  *<p>Article URL: <a href="https://code.idtech.space/fn/hl2">https://code.idtech.space/fn/hl2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46958231">https://news.ycombinator.co...*
+  📅 Tue, 10 Feb 2026 11:21:56 +0000
 
-- **[What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)**
-  *<p>Article URL: <a href="https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/">https://www.iankduncan.com/engineering/2026-02-09-what-functional-progr...*
-  📅 Tue, 10 Feb 2026 00:07:44 +0000
+- **[Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)**
+  *<p>Article URL: <a href="https://www.transparency.org/en/cpi/2025">https://www.transparency.org/en/cpi/2025</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46957794">https://new...*
+  📅 Tue, 10 Feb 2026 10:31:59 +0000
 
-- **[Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/">https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/</a><...*
-  📅 Mon, 09 Feb 2026 23:31:15 +0000
+- **[Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)**
+  *<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-2.0">https://qwen.ai/blog?id=qwen-image-2.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46957198">https://news.yc...*
+  📅 Tue, 10 Feb 2026 09:19:00 +0000
 
-- **[The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cddg885344do">https://www.bbc.com/news/articles/cddg885344do</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46952987"...*
-  📅 Mon, 09 Feb 2026 23:17:42 +0000
+- **[AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)**
+  *<p>Original article: <a href="https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it" rel="nofollow">https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies...</a></p>
+<hr />
+<p>Comments...*
+  📅 Tue, 10 Feb 2026 05:19:00 +0000
 
 ### 📑 TechCrunch
+
+- **[YouTube rolls out an AI playlist generator for Premium users](https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/)**
+  *YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists....*
+  📅 Tue, 10 Feb 2026 11:52:39 +0000
 
 - **[The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/)**
   *Because employees could do more, work began bleeding into lunch breaks and late evenings. The employees' to-do lists expanded to fill every hour that AI freed up, and then kept going....*
@@ -96,19 +101,23 @@
   *YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app....*
   📅 Mon, 09 Feb 2026 21:26:11 +0000
 
-- **[Bluesky finally adds drafts](https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/)**
-  *The move comes as Bluesky’s competitors, X and Threads, have long supported drafts....*
-  📅 Mon, 09 Feb 2026 21:22:08 +0000
-
 ### 📑 Dev.to
 
-- **[Сущности WordPress, свои поля и роль functions.php: нормальная модель данных без плагинов](https://dev.to/_vproger_/sushchnosti-wordpress-svoi-polia-i-rol-functionsphp-normalnaia-modiel-dannykh-biez-plaghinov-49ee)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Tue, 10 Feb 2026 06:37:54 +0000
+- **[How Developers Can Earn $5,000 Writing a Practical Technical Article](https://dev.to/mhamzap10/how-developers-can-earn-5000-writing-a-practical-technical-article-53a0)**
+  *<p>I usually ignore writing contests. Most of them feel either too marketing-heavy or too vague to be worth the effort. This one stood out because it’s clear, technical, and genuinely built around rea...*
+  📅 Tue, 10 Feb 2026 12:47:44 +0000
 
-- **[C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library](https://dev.to/amonhu/c-speech-recording-a-detailed-guide-to-implementing-voice-recording-with-the-naudio-library-2eh)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Tue, 10 Feb 2026 06:37:43 +0000
+- **[Copilot Ralph. Built a Desktop UI for GitHub Copilot.](https://dev.to/ashiqsultan/copilot-ralph-built-a-desktop-ui-for-github-copilot-59h7)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
+
+<h2>
+  
+  
+  What I Built
+</h2>
+
+<p>I built a desktop app for Copil...*
+  📅 Tue, 10 Feb 2026 12:45:30 +0000
 
 </details>
 
@@ -116,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor)** ⭐ 44
+- **[aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor)** ⭐ 91
   ![Python](https://img.shields.io/badge/-Python-blue)
   🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.
 
-- **[HKUDS/MoChat](https://github.com/HKUDS/MoChat)** ⭐ 26
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-
-- **[anombyte93/claude-session-init](https://github.com/anombyte93/claude-session-init)** ⭐ 20
+- **[anombyte93/claude-session-init](https://github.com/anombyte93/claude-session-init)** ⭐ 37
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code skill: bootstraps session context, organizes project files, generates CLAUDE.md
 
-- **[Kedreamix/Linly-Talker-Stream](https://github.com/Kedreamix/Linly-Talker-Stream)** ⭐ 12
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Linly-Talker-Stream: Real-Time Streaming Conversational Digital Human System —— Full-duplex, low-latency, real-time interactive digital human framework
+- **[HKUDS/MoChat](https://github.com/HKUDS/MoChat)** ⭐ 37
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
 
-- **[steffinraj-r/IoT-Based-Water-Leakage-Monitoring-System](https://github.com/steffinraj-r/IoT-Based-Water-Leakage-Monitoring-System)** ⭐ 9
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A smart IoT-based water leakage detection system that monitors water flow in real-time using ESP32 microcontroller. The system compares flow rates from two sensors to detect leaks and automatically shuts off the water supply when a discrepancy is detected.
+- **[blader/taskmaster](https://github.com/blader/taskmaster)** ⭐ 31
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete
 
-- **[Bhuvanesh119/Agriculture-rower-](https://github.com/Bhuvanesh119/Agriculture-rower-)** ⭐ 7
+- **[agendaless/hyperliquid-copytrading-bot](https://github.com/agendaless/hyperliquid-copytrading-bot)** ⭐ 27
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot
+
+- **[digitalknk/openclaw-runbook](https://github.com/digitalknk/openclaw-runbook)** ⭐ 21
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[themartiancompany/untrunc-colab](https://github.com/themartiancompany/untrunc-colab)** ⭐ 6
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  Use untrunc from a Google Colab instance.
+- **[venlacy0/LanChat](https://github.com/venlacy0/LanChat)** ⭐ 17
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  None
 
-- **[vivoCameraResearch/Magic-World](https://github.com/vivoCameraResearch/Magic-World)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  magicworld is an interactive video world model.
+- **[Kedreamix/Linly-Talker-Stream](https://github.com/Kedreamix/Linly-Talker-Stream)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Linly-Talker-Stream: Real-Time Streaming Conversational Digital Human System —— Full-duplex, low-latency, real-time interactive digital human framework
 
 ### 📈 Weekly Trending
 
-- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 2,334
+- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 2,387
   ![Nushell](https://img.shields.io/badge/-Nushell-lightgrey)
   A community trust management system based on explicit vouches to participate.
 
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,880
+- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,905
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 
-- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,280
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,510
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
-- **[excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)** ⭐ 1,053
+- **[excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)** ⭐ 1,084
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Fast and streamable Excalidraw MCP App
 
-- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 954
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 996
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile
+
+- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 961
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A modern and elegant dashboard for visualizing and managing Clash network traffic.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 758
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools — all from your browser / mobile
-
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 758
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 865
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 692
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-   OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. 
+- **[f/textream](https://github.com/f/textream)** ⭐ 748
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
 
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 43,132
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 43,328
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 15,356
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 15,617
   ![Python](https://img.shields.io/badge/-Python-blue)
-  "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,215
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,237
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 12,656
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 12,821
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,312
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,336
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,283
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,341
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,311
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,343
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,153
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,208
   ![Python](https://img.shields.io/badge/-Python-blue)
   The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
@@ -484,59 +493,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
+| Java | ⚪ Planned |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
