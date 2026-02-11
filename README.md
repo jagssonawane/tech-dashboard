@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 10, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,77 +46,73 @@
 
 ### 📑 Hacker News
 
-- **[Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)**
-  *<p>Hi HN, I'm Arsalan, founder of LiveDocs (<a href="https://livedocs.com">https://livedocs.com</a>). We're building an AI-native data workspace that lets teams ask questions of their real data and ha...*
-  📅 Tue, 10 Feb 2026 18:09:14 +0000
+- **[The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)**
+  *<p>Article URL: <a href="https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/">https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</a></p>
+<p>Comments URL: <a href...*
+  📅 Tue, 10 Feb 2026 22:20:40 +0000
 
-- **[Show HN: Showboat and Rodney, so agents can demo what they've built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Feb/10/showboat-and-rodney/">https://simonwillison.net/2026/Feb/10/showboat-and-rodney/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Tue, 10 Feb 2026 17:52:46 +0000
+- **[The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)**
+  *<p>Article URL: <a href="https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel">https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-ca...*
+  📅 Tue, 10 Feb 2026 20:42:20 +0000
 
-- **[Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)**
-  *<p>Article URL: <a href="https://github.com/taf2/mdvi">https://github.com/taf2/mdvi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46963865">https://news.ycombinator.com/item?i...*
-  📅 Tue, 10 Feb 2026 17:51:10 +0000
+- **[Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)**
+  *<p>Hi HN — cofounder Michael here.<p>We've been building Tambo for about a year, and just released our 1.0.<p>We make are making it easier to register React components with Zod schemas, a build an age...*
+  📅 Tue, 10 Feb 2026 20:16:12 +0000
 
-- **[Google Handed ICE Student Journalist's Bank and Credit Card Numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)**
-  *<p>Article URL: <a href="https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/">https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/</a></p>
-<p>Comments UR...*
-  📅 Tue, 10 Feb 2026 17:48:05 +0000
+- **[Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)**
+  *<p>Sol LeWitt was a conceptual artist who never touched his own walls.<p>He wrote instructions and other people executed them, the original prompt engineer!<p>I bookmarked a project called "Solving So...*
+  📅 Tue, 10 Feb 2026 20:02:05 +0000
 
-- **[ClawHub](https://clawhub.ai/)**
-  *<p>Article URL: <a href="https://clawhub.ai/">https://clawhub.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46963691">https://news.ycombinator.com/item?id=46963691</a></p>...*
-  📅 Tue, 10 Feb 2026 17:40:55 +0000
+- **[How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052">https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Tue, 10 Feb 2026 19:25:55 +0000
 
-- **[London's Most Controversial Cyclist](https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/)**
-  *<p>Article URL: <a href="https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/">https://www.the-londoner.co.uk/jeremy-vine-loves-him-motor...*
-  📅 Tue, 10 Feb 2026 17:39:24 +0000
+- **[Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)**
+  *<p>I work on real-time voice/video AI at Tavus and for the past few years, I’ve mostly focused on how machines respond in a conversation.<p>One thing that’s always bothered me is that almost all conve...*
+  📅 Tue, 10 Feb 2026 18:58:35 +0000
 
 ### 📑 TechCrunch
 
-- **[Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/)**
-  *The fake goods crisis cuts two ways. Luxury brands lose more than $30 billion a year to counterfeits, while buyers in the booming $210 billion second-hand market have no reliable way to verify that wh...*
-  📅 Tue, 10 Feb 2026 16:30:00 +0000
+- **[Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/)**
+  *A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies....*
+  📅 Tue, 10 Feb 2026 23:16:28 +0000
 
-- **[Singapore says China-backed hackers targeted its four largest phone companies](https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/)**
-  *The Singaporean government said the China-backed hackers gained "limited access to critical systems" run by the country's top four telecommunication giants, but said they did not disrupt services or s...*
-  📅 Tue, 10 Feb 2026 16:19:39 +0000
+- **[An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)**
+  *Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism....*
+  📅 Tue, 10 Feb 2026 22:31:13 +0000
 
-- **[Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/)**
-  *Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats....*
-  📅 Tue, 10 Feb 2026 16:00:00 +0000
+- **[Boston Dynamics CEO Robert Playter steps down after 30 years at the company](https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/)**
+  *Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO....*
+  📅 Tue, 10 Feb 2026 21:20:10 +0000
 
-- **[What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)**
-  *Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop....*
-  📅 Tue, 10 Feb 2026 15:56:21 +0000
+- **[VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/)**
+  *After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain....*
+  📅 Tue, 10 Feb 2026 21:07:44 +0000
 
-- **[Google expands tools to let users remove sensitive data about themselves from Search](https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/)**
-  *Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery....*
-  📅 Tue, 10 Feb 2026 15:54:48 +0000
+- **[Google sent personal and financial information of student journalist to ICE](https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/)**
+  *The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena power...*
+  📅 Tue, 10 Feb 2026 20:41:21 +0000
 
-- **[Trump EPA reportedly seeks to revoke landmark air pollution rule](https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/)**
-  *EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 "endangerment finding" that underpins U.S. climate regulatory efforts....*
-  📅 Tue, 10 Feb 2026 15:47:13 +0000
+- **[Nearly half of xAI’s founding team has now left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)**
+  *Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before....*
+  📅 Tue, 10 Feb 2026 20:31:51 +0000
 
 ### 📑 Dev.to
 
-- **[🦓 The Tale of the Humbled Process Engineer —  Episode II: The Summoning of the Zebra 🕸️](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-ii-the-summoning-of-the-zebra-35ae)**
-  *<h2>
-  
-  
-  Scene 1 – The Desert of Tasks
-</h2>
+- **[🚨 The Hidden Problem Most Developers Face When Building Projects](https://dev.to/totylabs1/the-hidden-problem-most-developers-face-when-building-projects-29jc)**
+  *<p>Most developers don’t fail because they can’t code.<br />
+They fail because they build without structure.<br />
+You’ve probably felt this:<br />
+You start a project excited.<br />
+You ship fast.<br...*
+  📅 Wed, 11 Feb 2026 01:21:18 +0000
 
-<p><em>Illusions perish in sunlight, so they assign someone to control the dawn.</em></p>
+- **[Stop Configuring Nginx: The Easiest Way to Deploy Go & React with HTTPS](https://dev.to/alex_g_aeeb05ba69eee8a4fd/stop-configuring-nginx-the-easiest-way-to-deploy-go-react-with-https-51ma)**
+  *<p><strong>The "It Works on My Machine" Trap</strong></p>
 
-<p>The sun over <strong>Automora</strong> was merciless tha...*
-  📅 Tue, 10 Feb 2026 18:46:16 +0000
-
-- **[How to Run OpenClaw with DigitalOcean](https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb)**
-  *<p><a href="https://openclaw.ai/" rel="noopener noreferrer">OpenClaw</a> (formerly known as Moltbot and Clawdbot) is an open-source, self-hosted personal AI assistant that can run directly on your com...*
-  📅 Tue, 10 Feb 2026 18:45:07 +0000
+<p>We have all been there. You spend weeks building a robust application. Your Go backend is blazing fast, your React frontend is snappy, and...*
+  📅 Wed, 11 Feb 2026 01:19:16 +0000
 
 </details>
 
@@ -124,103 +120,103 @@
 
 ### 📈 Daily Trending
 
-- **[aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor)** ⭐ 140
+- **[Neros0/defillama-watchdog](https://github.com/Neros0/defillama-watchdog)** ⭐ 3
   ![Python](https://img.shields.io/badge/-Python-blue)
-  🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.
+  Proactive DeFi sentinel for OpenClaw. Monitors TVL drops, protocol hacks, and capital flows via DeFiLlama with intelligent risk-chaining and automated alerts.
 
-- **[blader/taskmaster](https://github.com/blader/taskmaster)** ⭐ 61
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete
-
-- **[anombyte93/claude-session-init](https://github.com/anombyte93/claude-session-init)** ⭐ 52
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Claude Code skill: bootstraps session context, organizes project files, generates CLAUDE.md
-
-- **[yan5xu/code-relay](https://github.com/yan5xu/code-relay)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI Coding Agent 工作协议 — 跨会话记忆、多仓库全局视野、结构化上下文管理
-
-- **[HKUDS/MoChat](https://github.com/HKUDS/MoChat)** ⭐ 42
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-
-- **[agendaless/hyperliquid-copytrading-bot](https://github.com/agendaless/hyperliquid-copytrading-bot)** ⭐ 33
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot hyperliquid copy trade bot  aster dex bot perps bot hyperliquid copytrading bot
-
-- **[iamzifei/bookmark-is-learned](https://github.com/iamzifei/bookmark-is-learned)** ⭐ 30
+- **[renancavichi/backend-api-express-1sem2026](https://github.com/renancavichi/backend-api-express-1sem2026)** ⭐ 2
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃
+  API Backend com Express, Prisma ORM e Zod.
 
-- **[mixoshirewna/ExitLag-5.19.0-Lab](https://github.com/mixoshirewna/ExitLag-5.19.0-Lab)** ⭐ 28
+- **[gaomingzhao666/clippy](https://github.com/gaomingzhao666/clippy)** ⭐ 2
+  ![Svelte](https://img.shields.io/badge/-Svelte-lightgrey)
+  None
+
+- **[FidelBarria/Equipment_Rental_Management_System](https://github.com/FidelBarria/Equipment_Rental_Management_System)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[likangcai/shadow_ai_cases](https://github.com/likangcai/shadow_ai_cases)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Scout-DJ/merkle-notary](https://github.com/Scout-DJ/merkle-notary)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Client-side document notarization using Merkle trees, SHA-256 proofs, and Ethereum wallet signatures
+
+- **[unciv-loof/Loof-_-Exponential-Tech-Costs-V2](https://github.com/unciv-loof/Loof-_-Exponential-Tech-Costs-V2)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  ExitLag | 5.19.0 | Version | Pro |
+  Increases G&K tech costs exponentially towards the end game. Minimal early game impact. Useful on large maps, or to place more emphasis on domination- and cultural victory types. Tech tree is based on version 4.18.14. This version slows down the end game more than V1.
+
+- **[CaponeCrD09/Projeto_integrador_Fiado](https://github.com/CaponeCrD09/Projeto_integrador_Fiado)** ⭐ 1
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 2,441
+- **[mitchellh/vouch](https://github.com/mitchellh/vouch)** ⭐ 2,479
   ![Nushell](https://img.shields.io/badge/-Nushell-lightgrey)
   A community trust management system based on explicit vouches to participate.
 
-- **[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** ⭐ 1,923
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
-
-- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,549
+- **[op7418/CodePilot](https://github.com/op7418/CodePilot)** ⭐ 1,585
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
-- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,212
+- **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)** ⭐ 1,340
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile
+  Open-source Claude Code Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
 
-- **[excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)** ⭐ 1,136
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Fast and streamable Excalidraw MCP App
-
-- **[sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)** ⭐ 1,005
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Expert code review skill: SOLID, security, performance, error handling, boundary conditions
-
-- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 974
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A modern and elegant dashboard for visualizing and managing Clash network traffic.
-
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 972
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 1,090
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
+- **[foru17/clash-master](https://github.com/foru17/clash-master)** ⭐ 978
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A modern and elegant dashboard for visualizing and managing Clash network traffic.
+
+- **[f/textream](https://github.com/f/textream)** ⭐ 889
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
+
+- **[antirez/voxtral.c](https://github.com/antirez/voxtral.c)** ⭐ 882
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Pure C inference of Mistral Voxtral Realtime 4B speech to text model
+
+- **[TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)** ⭐ 776
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+   OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. 
+
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 43,460
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 43,664
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 15,844
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 16,000
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,252
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,266
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 12,966
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 13,066
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,352
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** ⭐ 10,367
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The framework for User-Generated Interfaces
 
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,390
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** ⭐ 9,431
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source alternative to Claude Cowork, powered by opencode
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,364
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,378
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,268
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ⭐ 8,311
   ![Python](https://img.shields.io/badge/-Python-blue)
   The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
@@ -314,9 +310,9 @@ Please refer...
 
 ### 📦 kubernetes/kubernetes
 
-**[Kubernetes v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0)** `v1.35.0`
+**[v1.35.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.1)** `v1.35.1`
 
-📅 Released: December 17, 2025
+📅 Released: February 10, 2026
 
 
 See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
@@ -493,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
@@ -562,7 +558,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** February 10, 2026
+**Last Updated:** February 11, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
