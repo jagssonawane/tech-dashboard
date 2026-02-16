@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 15, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-February 16, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,72 +46,86 @@
 
 ### 📑 Hacker News
 
-- **[Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)**
-  *<p>Article URL: <a href="https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/">https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/</a...*
-  📅 Sun, 15 Feb 2026 17:37:10 +0000
+- **[Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)**
+  *<p>Article URL: <a href="https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality">https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu...*
+  📅 Mon, 16 Feb 2026 00:35:12 +0000
 
-- **[LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)**
-  *<p>Article URL: <a href="https://github.com/TechPaula/LT6502">https://github.com/TechPaula/LT6502</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47025399">https://news.ycombina...*
-  📅 Sun, 15 Feb 2026 17:12:35 +0000
+- **[Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)**
+  *<p>Article URL: <a href="https://dlants.me/agi-not-imminent.html">https://dlants.me/agi-not-imminent.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47028923">https://news....*
+  📅 Sun, 15 Feb 2026 23:34:18 +0000
 
-- **[EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)**
-  *<p>Article URL: <a href="https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en">https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction...*
-  📅 Sun, 15 Feb 2026 17:10:18 +0000
+- **[Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)**
+  *<p>Article URL: <a href="https://srcreigh.ca/posts/error-payloads-in-zig/">https://srcreigh.ca/posts/error-payloads-in-zig/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47028...*
+  📅 Sun, 15 Feb 2026 23:08:43 +0000
 
-- **[Palantir vs. the "Republik": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)**
-  *<p>Article URL: <a href="https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html">https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analyti...*
-  📅 Sun, 15 Feb 2026 16:51:17 +0000
+- **[Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)**
+  *<p>Article URL: <a href="https://huggingface.co/blog/continuous_batching">https://huggingface.co/blog/continuous_batching</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4702854...*
+  📅 Sun, 15 Feb 2026 22:47:26 +0000
 
-- **[Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)**
-  *<p>Article URL: <a href="https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/">https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-d...*
-  📅 Sun, 15 Feb 2026 16:19:51 +0000
+- **[Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)**
+  *<p>Article URL: <a href="https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/">https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</a></p>
+<p>C...*
+  📅 Sun, 15 Feb 2026 22:17:10 +0000
 
-- **[An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)**
-  *<p>Article URL: <a href="https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/">https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/</a></p...*
-  📅 Sun, 15 Feb 2026 15:53:13 +0000
+- **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)**
+  *<p>Article URL: <a href="https://steipete.me/posts/2026/openclaw">https://steipete.me/posts/2026/openclaw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47028013">https://news....*
+  📅 Sun, 15 Feb 2026 21:54:15 +0000
 
 ### 📑 TechCrunch
+
+- **[As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)**
+  *C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers....*
+  📅 Mon, 16 Feb 2026 01:00:00 +0000
+
+- **[Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure](https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/)**
+  *Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates....*
+  📅 Mon, 16 Feb 2026 00:30:00 +0000
+
+- **[OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/)**
+  *OpenAI said OpenClaw will live on as an open source project....*
+  📅 Sun, 15 Feb 2026 22:28:02 +0000
+
+- **[Longtime NPR host David Greene sues Google over NotebookLM voice](https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/)**
+  *The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him....*
+  📅 Sun, 15 Feb 2026 22:07:51 +0000
+
+- **[Anthropic and the Pentagon are reportedly arguing over Claude usage](https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/)**
+  *The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons....*
+  📅 Sun, 15 Feb 2026 21:11:28 +0000
 
 - **[India has 100M weekly active ChatGPT users, Sam Altman says](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/)**
   *OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide....*
   📅 Sun, 15 Feb 2026 18:00:00 +0000
 
-- **[The enterprise AI land grab is on. Glean is building the layer beneath the interface.](https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/)**
-  *In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI....*
-  📅 Sun, 15 Feb 2026 17:30:00 +0000
-
-- **[TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 15 Feb 2026 17:05:00 +0000
-
-- **[What the Epstein files reveal about EV startups and Silicon Valley](https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/)**
-  *Will the Epstein revelations lead to broader fallout in Silicon Valley?...*
-  📅 Sun, 15 Feb 2026 16:54:12 +0000
-
-- **[How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/)**
-  *TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program....*
-  📅 Sun, 15 Feb 2026 15:53:53 +0000
-
-- **[Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)**
-  *Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement....*
-  📅 Sun, 15 Feb 2026 15:41:16 +0000
-
 ### 📑 Dev.to
 
-- **[The Codex App: A New Era in Autonomous AI Coding](https://dev.to/alifar/openai-codex-app-are-we-entering-the-era-of-autonomous-software-development-3kho)**
-  *<p>AI coding assistants are not new. Autocomplete, inline suggestions, and quick refactors have been standard for years.</p>
+- **[Special Valentine love cards for secret messaging](https://dev.to/vasilisskourtisdev/special-valentine-love-cards-for-secret-messaging-1073)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
 
-<p>The OpenAI Codex app is different.</p>
+<h2>
+  
+  
+  What I Built
+</h2>
 
-<p>It does not just suggest cod...*
-  📅 Sun, 15 Feb 2026 18:17:15 +0000
+<p><strong>Valentine Love Heart Ca...*
+  📅 Mon, 16 Feb 2026 01:13:17 +0000
 
-- **[How to design a Simple URL Shortener(TinyURL)](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m)**
-  *<p>TinyURL is often called the “Hello World” of system design because it has minimal requirements but forces us to think about scalability, caching, ID generation, and bottlenecks.</p>
+- **[Dev Process Tracker: Local Service Management with a CLI + TUI](https://dev.to/tawe/dev-process-tracker-local-service-management-with-a-cli-tui-9dm)**
+  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
 
-<p>Let’s desig...*
-  📅 Sun, 15 Feb 2026 18:16:36 +0000
+<h2>
+  
+  
+  <strong>What I Built</strong>
+</h2>
+
+<p>I built <stron...*
+  📅 Mon, 16 Feb 2026 01:10:56 +0000
 
 </details>
 
@@ -119,103 +133,103 @@
 
 ### 📈 Daily Trending
 
-- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** ⭐ 50
+- **[Manav02012002/SchrodingersSandbox](https://github.com/Manav02012002/SchrodingersSandbox)** ⭐ 2
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  Native C++17 quantum chemistry workbench — interactive 3D visualisation of atomic and molecular orbitals computed from first principles using GPU ray marching
+
+- **[bemoregt/Training_Resnet_Using_FrFTLossFunction](https://github.com/bemoregt/Training_Resnet_Using_FrFTLossFunction)** ⭐ 1
   ![Python](https://img.shields.io/badge/-Python-blue)
+  Fractional Fourier Transform Loss Function
+
+- **[rhino-linux/lomiri-default-settings](https://github.com/rhino-linux/lomiri-default-settings)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Rhino theming for Lomiri Desktop
+
+- **[Frankesy95/Guide-on-Base-Learn-Roles.](https://github.com/Frankesy95/Guide-on-Base-Learn-Roles.)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Guides on Base Learn Roles.
+
+- **[aleostudio/andromeda](https://github.com/aleostudio/andromeda)** ⭐ 1
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Smart home assistant completely offline using openWakeWord for wake word, Whisper for STT, Piper for TTS and Ollama for LLM model inference with tool calling
+
+- **[wsafight/gpui-rsx](https://github.com/wsafight/gpui-rsx)** ⭐ 1
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[Companysadenote/Lossless-Scaling-v.3.22-Tools](https://github.com/Companysadenote/Lossless-Scaling-v.3.22-Tools)** ⭐ 47
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Lossless Scaling 3.22 — free AI tool to boost FPS in games.
-
-- **[apxutekror94stonnfi/Exit-Lag-Tool-2026](https://github.com/apxutekror94stonnfi/Exit-Lag-Tool-2026)** ⭐ 47
+- **[chrisperazaru/lag-free-performance-boost](https://github.com/chrisperazaru/lag-free-performance-boost)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  ExitLag | Exit-Lag | Pro | Version | Vers | 5.19.0 | 2026 | Free |
+  A powerful tool designed to enhance gaming performance without lag.
 
-- **[MrFadiAi/openclaw-one-click-installer](https://github.com/MrFadiAi/openclaw-one-click-installer)** ⭐ 44
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenClaw One Click Installer - A desktop manager for OpenClaw
-
-- **[dontbesilent2025/extract-getnote-articles](https://github.com/dontbesilent2025/extract-getnote-articles)** ⭐ 43
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章
-
-- **[MindTrackRampart41/rgfcx](https://github.com/MindTrackRampart41/rgfcx)** ⭐ 39
+- **[chrisperazaru/game-fps-maximizer-free](https://github.com/chrisperazaru/game-fps-maximizer-free)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Apex Legends tools
-
-- **[lumlums-100ueg/ExpressVPN-Pro-2026](https://github.com/lumlums-100ueg/ExpressVPN-Pro-2026)** ⭐ 39
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ExpressVPN Pro encrypts internet traffic with AES‑256, routes connections through a network of 3,000+ servers in 94 countries, supports split tunneling, kill switch, and simultaneous connections on up to five devices, and provides DNS leak protection.
-
-- **[krithiksha2006/password-checker](https://github.com/krithiksha2006/password-checker)** ⭐ 34
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Java based password strength checker that validates input using predefined security constraints
+  Optimize your gaming experience with Game FPS Maximizer Free.
 
 ### 📈 Weekly Trending
 
-- **[theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** ⭐ 3,567
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 3,962
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   claw done right 🦀
 
-- **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ⭐ 2,103
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
-
-- **[jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)** ⭐ 1,673
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  TinyClaw is a team of personal agents that collaborate with each other
-
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,528
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,543
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,119
+- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,129
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   A verified tool that works on any potato computer that will let you bypass discord verification
 
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 928
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 952
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Pre-submission compliance scanner for the Apple App Store
 
-- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** ⭐ 885
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  GLM-5: From Vibe Coding to Agentic Engineering
-
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 693
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 737
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 734
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  VSCode theme based off the new Jetbrains islands theme 
+
+- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 645
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
+
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 645
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  FastCode: Accelerating and Streamlining Your Code Understanding
+
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,439
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,569
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,342
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,535
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,457
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,466
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Algorithm powering the For You feed on X
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,352
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,419
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 10,214
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 10,955
   ![Go](https://img.shields.io/badge/-Go-cyan)
   picoclaw
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,716
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,736
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,475
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,544
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,726
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,737
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -484,28 +498,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | ⚪ Planned |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
 | Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
@@ -513,29 +527,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
@@ -554,7 +568,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** February 15, 2026
+**Last Updated:** February 16, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
