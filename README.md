@@ -46,14 +46,19 @@
 
 ### 📑 Hacker News
 
-- **[Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)**
-  *<p>Article URL: <a href="https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality">https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu...*
-  📅 Mon, 16 Feb 2026 00:35:12 +0000
+- **[Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)**
+  *<p>Hope some find this post interesting on my experience with parallel coding agents.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47031268">https://news.ycombinator.com/i...*
+  📅 Mon, 16 Feb 2026 05:38:51 +0000
 
-- **[Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)**
-  *<p>Article URL: <a href="https://dlants.me/agi-not-imminent.html">https://dlants.me/agi-not-imminent.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47028923">https://news....*
-  📅 Sun, 15 Feb 2026 23:34:18 +0000
+- **[Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)**
+  *<p>Article URL: <a href="https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business">https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip...*
+  📅 Mon, 16 Feb 2026 02:36:14 +0000
+
+- **[JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)**
+  *<p>Article URL: <a href="https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/">https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compati...*
+  📅 Mon, 16 Feb 2026 00:26:23 +0000
 
 - **[Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)**
   *<p>Article URL: <a href="https://srcreigh.ca/posts/error-payloads-in-zig/">https://srcreigh.ca/posts/error-payloads-in-zig/</a></p>
@@ -69,11 +74,6 @@
   *<p>Article URL: <a href="https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/">https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</a></p>
 <p>C...*
   📅 Sun, 15 Feb 2026 22:17:10 +0000
-
-- **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)**
-  *<p>Article URL: <a href="https://steipete.me/posts/2026/openclaw">https://steipete.me/posts/2026/openclaw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47028013">https://news....*
-  📅 Sun, 15 Feb 2026 21:54:15 +0000
 
 ### 📑 TechCrunch
 
@@ -103,7 +103,7 @@
 
 ### 📑 Dev.to
 
-- **[Special Valentine love cards for secret messaging](https://dev.to/vasilisskourtisdev/special-valentine-love-cards-for-secret-messaging-1073)**
+- **[Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g)**
   *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
 
 <h2>
@@ -112,20 +112,14 @@
   What I Built
 </h2>
 
-<p><strong>Valentine Love Heart Ca...*
-  📅 Mon, 16 Feb 2026 01:13:17 +0000
+<p>I built <strong>Vero</strong> (...*
+  📅 Mon, 16 Feb 2026 06:40:50 +0000
 
-- **[Dev Process Tracker: Local Service Management with a CLI + TUI](https://dev.to/tawe/dev-process-tracker-local-service-management-with-a-cli-tui-9dm)**
-  *<p><em>This is a submission for the <a href="https://dev.to/challenges/github-2026-01-21">GitHub Copilot CLI Challenge</a></em></p>
+- **[🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Window)](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff)**
+  *<p>This is a very common coding interview problem that teaches how to distribute items fairly.</p>
 
-<h2>
-  
-  
-  <strong>What I Built</strong>
-</h2>
-
-<p>I built <stron...*
-  📅 Mon, 16 Feb 2026 01:10:56 +0000
+<p>In this blog, we will understand the problem from zero level and then solve it step-by-step using...*
+  📅 Mon, 16 Feb 2026 06:39:24 +0000
 
 </details>
 
@@ -133,103 +127,103 @@
 
 ### 📈 Daily Trending
 
-- **[Manav02012002/SchrodingersSandbox](https://github.com/Manav02012002/SchrodingersSandbox)** ⭐ 2
-  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
-  Native C++17 quantum chemistry workbench — interactive 3D visualisation of atomic and molecular orbitals computed from first principles using GPU ray marching
-
-- **[bemoregt/Training_Resnet_Using_FrFTLossFunction](https://github.com/bemoregt/Training_Resnet_Using_FrFTLossFunction)** ⭐ 1
+- **[0xinit/web3-godmode-config](https://github.com/0xinit/web3-godmode-config)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Fractional Fourier Transform Loss Function
+  my personal claude code config of a chad crypto engineer.
 
-- **[rhino-linux/lomiri-default-settings](https://github.com/rhino-linux/lomiri-default-settings)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Rhino theming for Lomiri Desktop
-
-- **[Frankesy95/Guide-on-Base-Learn-Roles.](https://github.com/Frankesy95/Guide-on-Base-Learn-Roles.)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Guides on Base Learn Roles.
-
-- **[aleostudio/andromeda](https://github.com/aleostudio/andromeda)** ⭐ 1
+- **[shamantht4u-dot/V5-PIDCODE-99719Z](https://github.com/shamantht4u-dot/V5-PIDCODE-99719Z)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Smart home assistant completely offline using openWakeWord for wake word, Whisper for STT, Piper for TTS and Ollama for LLM model inference with tool calling
+  This code gives inexperienced coders a better chance at autonomous with precise turns and accurate scoring for their event with a PID. Programmers in vex can now focus on other aspects of their code rather than spending too much time on mitigating drift and inaccurate turns
 
-- **[wsafight/gpui-rsx](https://github.com/wsafight/gpui-rsx)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
+- **[obra/cc-plugin-decision-log](https://github.com/obra/cc-plugin-decision-log)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[chrisperazaru/lag-free-performance-boost](https://github.com/chrisperazaru/lag-free-performance-boost)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A powerful tool designed to enhance gaming performance without lag.
+- **[thebalaa/book-of-claw](https://github.com/thebalaa/book-of-claw)** ⭐ 6
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
 
-- **[chrisperazaru/game-fps-maximizer-free](https://github.com/chrisperazaru/game-fps-maximizer-free)** ⭐ 1
+- **[KSPARMESH/Car_Showroom_Database](https://github.com/KSPARMESH/Car_Showroom_Database)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[gshipley/Klay](https://github.com/gshipley/Klay)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A game launcher native to KDE based upon the great Cartridges app for gnome
+
+- **[annamalai2912/EDA](https://github.com/annamalai2912/EDA)** ⭐ 4
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Resources for Exploratory data analysis
+
+- **[liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)** ⭐ 4
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Optimize your gaming experience with Game FPS Maximizer Free.
+  Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
 
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 3,962
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 4,514
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   claw done right 🦀
 
-- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,543
+- **[xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** ⭐ 1,549
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   automatically verify your age on discord, twitch, kick, quora and more (k-id)
 
-- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,129
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A verified tool that works on any potato computer that will let you bypass discord verification
-
-- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 952
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Pre-submission compliance scanner for the Apple App Store
-
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 737
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Watch SQL traffic in real-time with a TUI
-
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 734
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 1,160
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the new Jetbrains islands theme 
 
-- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 645
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
+- **[promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** ⭐ 1,134
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A verified tool that works on any potato computer that will let you bypass discord verification
 
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 645
+- **[RevylAI/greenlight](https://github.com/RevylAI/greenlight)** ⭐ 981
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Pre-submission compliance scanner for the Apple App Store
+
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 751
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Watch SQL traffic in real-time with a TUI
+
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 684
   ![Python](https://img.shields.io/badge/-Python-blue)
   FastCode: Accelerating and Streamlining Your Code Understanding
 
+- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 673
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
+
 ### 📈 Monthly Trending
 
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,569
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** ⭐ 46,682
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,535
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 19,705
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,466
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Algorithm powering the For You feed on X
-
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,419
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 15,518
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 10,955
+- **[xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)** ⭐ 15,469
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Algorithm powering the For You feed on X
+
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 11,499
   ![Go](https://img.shields.io/badge/-Go-cyan)
   picoclaw
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,736
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,749
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,544
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 8,606
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,737
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,745
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -498,21 +492,21 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
 | Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -520,8 +514,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
@@ -529,19 +523,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
@@ -549,8 +543,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
