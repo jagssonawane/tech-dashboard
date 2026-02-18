@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 30 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,76 +46,75 @@
 
 ### 📑 Hacker News
 
-- **[Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/zep-ai/jobs">https://www.ycombinator.com/companies/zep-ai/jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=470...*
-  📅 Wed, 18 Feb 2026 12:00:50 +0000
+- **[Activeloop (YC S18) Is Hiring Back End Engineer (Go)](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)**
+  *<p>Article URL: <a href="https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f">https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f</a></p>
+<p>Comments UR...*
+  📅 Wed, 18 Feb 2026 18:09:27 +0000
 
-- **[Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)**
-  *<p>Article URL: <a href="https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/">https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-i...*
-  📅 Wed, 18 Feb 2026 10:29:30 +0000
+- **[Disney trip turned into immigration detention](https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story)**
+  *<p>Article URL: <a href="https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story">https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story</a></p>
+<p>Comments URL: <a ...*
+  📅 Wed, 18 Feb 2026 18:08:17 +0000
 
-- **[Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)**
-  *<p>Article URL: <a href="https://asahilinux.org/2026/02/progress-report-6-19/">https://asahilinux.org/2026/02/progress-report-6-19/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Wed, 18 Feb 2026 10:00:11 +0000
+- **[Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/)**
+  *<p>Article URL: <a href="https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/">https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Wed, 18 Feb 2026 17:56:08 +0000
 
-- **[If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)**
-  *<p>Article URL: <a href="https://annas-archive.li/blog/llms-txt.html">https://annas-archive.li/blog/llms-txt.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058219">https...*
-  📅 Wed, 18 Feb 2026 07:18:50 +0000
+- **[Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app)**
+  *<p>Article URL: <a href="https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app">https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app</a></p...*
+  📅 Wed, 18 Feb 2026 17:38:46 +0000
 
-- **[Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration">https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-suc...*
-  📅 Wed, 18 Feb 2026 07:01:28 +0000
+- **[Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models](https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion">https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-f...*
+  📅 Wed, 18 Feb 2026 17:18:50 +0000
 
-- **[A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)**
-  *<p>Article URL: <a href="https://github.com/taleshape-com/shaper">https://github.com/taleshape-com/shaper</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47057879">https://news....*
-  📅 Wed, 18 Feb 2026 06:29:36 +0000
+- **[Weave (YC W25) Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47063338">https://news.ycombinato...*
+  📅 Wed, 18 Feb 2026 17:10:18 +0000
 
 ### 📑 TechCrunch
 
-- **[DG Matrix raises $60M to make data center power smarter](https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/)**
-  *The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks....*
-  📅 Wed, 18 Feb 2026 12:30:00 +0000
+- **[Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
+  *Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects....*
+  📅 Wed, 18 Feb 2026 18:27:10 +0000
 
-- **[U.S. court bars OpenAI from using ‘Cameo’](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/)**
-  *OpenAI has renamed its feature in Sora from "Cameo" to "Characters."...*
-  📅 Wed, 18 Feb 2026 06:40:59 +0000
+- **[Mastodon, a decentralized alternative to X, plans to target creators with new features](https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/)**
+  *Mastodon is looking to grow its open source, decentralized social network with new features aimed at creators....*
+  📅 Wed, 18 Feb 2026 18:19:14 +0000
 
-- **[Tesla dodges 30-day suspension in California after removing ‘Autopilot’](https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/)**
-  *The decision comes a month after Tesla discontinued Autopilot, its basic driver-assistance system....*
-  📅 Wed, 18 Feb 2026 04:07:15 +0000
+- **[Data breach at fintech giant Figure affects close to a million customers](https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/)**
+  *The Figure data breach allowed hackers to steal customer names, dates of birth, physical addresses, phone numbers, and email addresses....*
+  📅 Wed, 18 Feb 2026 18:14:07 +0000
 
-- **[Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says](https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/)**
-  *Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola....*
-  📅 Wed, 18 Feb 2026 00:01:00 +0000
+- **[World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)**
+  *The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases....*
+  📅 Wed, 18 Feb 2026 18:07:16 +0000
 
-- **[Jack Altman joins Benchmark as GP](https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/)**
-  *Jack Altman and Benchmark announced today that he would be joining the firm as a general partner....*
-  📅 Tue, 17 Feb 2026 23:54:55 +0000
+- **[Google debuts $499 Pixel 10a](https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/)**
+  *The smartphone is available for preorder now with shipments starting March 5.  It comes in Lavender, Berry, Fog, and Obsidian....*
+  📅 Wed, 18 Feb 2026 17:41:46 +0000
 
-- **[Ford turns to F1 and bounties to build a $30,000 electric truck](https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/)**
-  *A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency....*
-  📅 Tue, 17 Feb 2026 23:43:21 +0000
+- **[Audible’s new ‘Read & Listen’ feature syncs your Kindle ebooks with audiobooks](https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/)**
+  *The feature will require customers to buy both versions of the title, but at a discounted price....*
+  📅 Wed, 18 Feb 2026 16:20:09 +0000
 
 ### 📑 Dev.to
 
-- **[GStreamer](https://dev.to/sagar_saini/gstreamer-5bo8)**
-  *<p>Today is about empowering you to build more sophisticated multimedia applications, giving you the tools to manipulate and process media streams in powerful new ways. Let's dive in!</p>
-
-<h1>
+- **[Alerta para Desarrolladores: Trae IDE y el Riesgo Real con el Código de tus Clientes](https://dev.to/leuzga/alerta-para-desarrolladores-trae-ide-y-el-riesgo-real-con-el-codigo-de-tus-clientes-1cgg)**
+  *<h2>
   
   
-...*
-  📅 Wed, 18 Feb 2026 12:36:38 +0000
+  El IDE gratuito que te cuesta más de lo que crees
+</h2>
 
-- **[The packaging bugs I kept shipping (and the tool I built to stop)](https://dev.to/girigirianish/the-packaging-bugs-i-kept-shipping-and-the-tool-i-built-to-stop-lkh)**
-  *<p>I've published TypeScript packages that passed all my tests, built cleanly, and had types resolving perfectly in my editor then broke for consumers.</p>
+<p>Imagina esto: estás trabajando en el sistema core de pagos de un banco. Tu IDE, de forma silenciosa y en segundo plano, está ab...*
+  📅 Wed, 18 Feb 2026 18:35:35 +0000
 
-<p>The bug was always in the <code>exports<...*
-  📅 Wed, 18 Feb 2026 12:33:00 +0000
+- **[Building FridgeChef: What I Learned Training a Custom Computer Vision Model with Roboflow](https://dev.to/jnastaskin/building-fridgechef-what-i-learned-training-a-custom-computer-vision-model-with-roboflow-kp7)**
+  *<p>I spend too much time staring at my fridge trying to figure out what to make for dinner. So I built an app to solve it: take a photo of your fridge, detect what's inside, and get recipe suggestions...*
+  📅 Wed, 18 Feb 2026 18:35:08 +0000
 
 </details>
 
@@ -123,105 +122,71 @@
 
 ### 📈 Daily Trending
 
-- **[DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)** ⭐ 55
+- **[DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)** ⭐ 127
   ![Go](https://img.shields.io/badge/-Go-cyan)
   A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support.
 
-- **[mayfer/electrobun-macos-native-blur](https://github.com/mayfer/electrobun-macos-native-blur)** ⭐ 51
+- **[mayfer/electrobun-macos-native-blur](https://github.com/mayfer/electrobun-macos-native-blur)** ⭐ 85
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Enable background blur like a native app in Electrobun
 
-- **[donghuixin/AI-Vibe-Writing-Skills](https://github.com/donghuixin/AI-Vibe-Writing-Skills)** ⭐ 49
+- **[donghuixin/AI-Vibe-Writing-Skills](https://github.com/donghuixin/AI-Vibe-Writing-Skills)** ⭐ 73
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Using AI for high quality writing
 
-- **[Team-intN18-SoybeanSeclab/prtstrike](https://github.com/Team-intN18-SoybeanSeclab/prtstrike)** ⭐ 15
+- **[writetoaniketparihar-collab/claude-spend](https://github.com/writetoaniketparihar-collab/claude-spend)** ⭐ 28
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  一个基于Go编写的轻便、小巧、快速的C&C框架
+  None
 
-- **[sdwolf4103/opencode-working-memory](https://github.com/sdwolf4103/opencode-working-memory)** ⭐ 14
+- **[GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)** ⭐ 27
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Command Your AI Agent Empire from the CEO Desk — Local-first AI agent office simulator turning Claude Code, Codex CLI, Gemini CLI, OpenCode into a virtual company of autonomous agents
+
+- **[sdwolf4103/opencode-working-memory](https://github.com/sdwolf4103/opencode-working-memory)** ⭐ 20
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Four-tier memory architecture for OpenCode AI agents: persistent core memory, session working memory, smart pruning, and pressure monitoring
 
-- **[bluzir/radius](https://github.com/bluzir/radius)** ⭐ 12
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Deterministic security controls for AI agents. No LLM in the decision loop.
-
-- **[huantt/clean-stack](https://github.com/huantt/clean-stack)** ⭐ 11
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[Rakshan-32/LOGIN-PAGE](https://github.com/Rakshan-32/LOGIN-PAGE)** ⭐ 9
+- **[Team-intN18-SoybeanSeclab/prtstrike](https://github.com/Team-intN18-SoybeanSeclab/prtstrike)** ⭐ 19
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  一个基于Go编写的轻便、小巧、快速的C&C框架
+
+- **[yibie/FileTypeGuard](https://github.com/yibie/FileTypeGuard)** ⭐ 19
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Keep your files opening your way.
 
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,849
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 12,732
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,571
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,601
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 1,921
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 2,348
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 1,327
+- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 1,695
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Let coding agents diagnose and fix your React code
 
-- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 986
+- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 1,059
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Replace port numbers with stable, named .localhost URLs. For humans and agents.
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 888
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 894
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 820
+- **[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** ⭐ 888
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The first AI that can earn its own existence, replicate, and evolve — without needing a human
+
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 836
   ![Python](https://img.shields.io/badge/-Python-blue)
   "FastCode: Accelerating and Streamlining Your Code Understanding"
-
-- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 756
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
-
-### 📈 Monthly Trending
-
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 21,186
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  "🐈 nanobot: The Ultra-Lightweight OpenClaw"
-
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,460
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
-
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 15,305
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
-
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,849
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,225
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,901
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,886
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
-
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,506
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 ## 🚀 Latest Releases
 
@@ -488,51 +453,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
 | CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
@@ -540,7 +505,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
