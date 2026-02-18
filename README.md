@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)**
-  *<p>Article URL: <a href="https://nvie.com/posts/15-years-later/">https://nvie.com/posts/15-years-later/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47057829">https://news.yc...*
-  📅 Wed, 18 Feb 2026 06:20:13 +0000
-
-- **[Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)**
-  *<p>Article URL: <a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire">https://www.sceneandheardnu.com/content/halt-and-catch-fire</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 18 Feb 2026 02:18:29 +0000
-
-- **[It's not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)**
-  *<p>Article URL: <a href="https://9to5google.com/2026/02/17/youtube-outage-february-2026/">https://9to5google.com/2026/02/17/youtube-outage-february-2026/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Wed, 18 Feb 2026 02:00:52 +0000
-
-- **[Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)**
-  *<p>Article URL: <a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-rob...*
-  📅 Wed, 18 Feb 2026 01:40:52 +0000
-
-- **[Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)**
-  *<p>Article URL: <a href="https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3">https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 18 Feb 2026 01:05:33 +0000
-
-- **[Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)**
-  *<p>Article URL: <a href="https://github.com/lopespm/zig-minimal-kernel-x86">https://github.com/lopespm/zig-minimal-kernel-x86</a></p>
+- **[Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/zep-ai/jobs">https://www.ycombinator.com/companies/zep-ai/jobs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=470...*
-  📅 Wed, 18 Feb 2026 00:02:06 +0000
+  📅 Wed, 18 Feb 2026 12:00:50 +0000
+
+- **[Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)**
+  *<p>Article URL: <a href="https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/">https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-i...*
+  📅 Wed, 18 Feb 2026 10:29:30 +0000
+
+- **[Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)**
+  *<p>Article URL: <a href="https://asahilinux.org/2026/02/progress-report-6-19/">https://asahilinux.org/2026/02/progress-report-6-19/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Wed, 18 Feb 2026 10:00:11 +0000
+
+- **[If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)**
+  *<p>Article URL: <a href="https://annas-archive.li/blog/llms-txt.html">https://annas-archive.li/blog/llms-txt.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058219">https...*
+  📅 Wed, 18 Feb 2026 07:18:50 +0000
+
+- **[Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration">https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-suc...*
+  📅 Wed, 18 Feb 2026 07:01:28 +0000
+
+- **[A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)**
+  *<p>Article URL: <a href="https://github.com/taleshape-com/shaper">https://github.com/taleshape-com/shaper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47057879">https://news....*
+  📅 Wed, 18 Feb 2026 06:29:36 +0000
 
 ### 📑 TechCrunch
+
+- **[DG Matrix raises $60M to make data center power smarter](https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/)**
+  *The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks....*
+  📅 Wed, 18 Feb 2026 12:30:00 +0000
 
 - **[U.S. court bars OpenAI from using ‘Cameo’](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/)**
   *OpenAI has renamed its feature in Sora from "Cameo" to "Characters."...*
@@ -97,27 +100,22 @@
   *A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency....*
   📅 Tue, 17 Feb 2026 23:43:21 +0000
 
-- **[Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use](https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/)**
-  *An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more inclined to overuse social media....*
-  📅 Tue, 17 Feb 2026 20:45:33 +0000
-
 ### 📑 Dev.to
 
-- **[How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4)**
-  *<p>You've migrated your Node.js project to <strong>pnpm</strong>. Locally, everything works well — faster installs, cleaner <code>node_modules</code>, a strict lockfile.</p>
+- **[GStreamer](https://dev.to/sagar_saini/gstreamer-5bo8)**
+  *<p>Today is about empowering you to build more sophisticated multimedia applications, giving you the tools to manipulate and process media streams in powerful new ways. Let's dive in!</p>
 
-<p>Then you deploy to <st...*
-  📅 Wed, 18 Feb 2026 06:43:47 +0000
-
-- **[Finding the Sequence of Strings Appeared on the Screen](https://dev.to/iammastercraft/finding-the-sequence-of-strings-appeared-on-the-screen-145c)**
-  *<h1>
+<h1>
   
   
-  Problem Summary
-</h1>
+...*
+  📅 Wed, 18 Feb 2026 12:36:38 +0000
 
-<p>The problem requires us to find all the strings that appear on the screen as Alice types a <code>target</code> string. Alice uses a special keyboard with two key...*
-  📅 Wed, 18 Feb 2026 06:40:24 +0000
+- **[The packaging bugs I kept shipping (and the tool I built to stop)](https://dev.to/girigirianish/the-packaging-bugs-i-kept-shipping-and-the-tool-i-built-to-stop-lkh)**
+  *<p>I've published TypeScript packages that passed all my tests, built cleanly, and had types resolving perfectly in my editor then broke for consumers.</p>
+
+<p>The bug was always in the <code>exports<...*
+  📅 Wed, 18 Feb 2026 12:33:00 +0000
 
 </details>
 
@@ -125,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[donghuixin/AI-Vibe-Writing-Skills](https://github.com/donghuixin/AI-Vibe-Writing-Skills)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Using AI for high quality writing
+- **[DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)** ⭐ 55
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support.
 
-- **[mayfer/electrobun-macos-native-blur](https://github.com/mayfer/electrobun-macos-native-blur)** ⭐ 17
+- **[mayfer/electrobun-macos-native-blur](https://github.com/mayfer/electrobun-macos-native-blur)** ⭐ 51
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Enable background blur like a native app in Electrobun
 
-- **[sdwolf4103/opencode-working-memory](https://github.com/sdwolf4103/opencode-working-memory)** ⭐ 6
+- **[donghuixin/AI-Vibe-Writing-Skills](https://github.com/donghuixin/AI-Vibe-Writing-Skills)** ⭐ 49
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Using AI for high quality writing
+
+- **[Team-intN18-SoybeanSeclab/prtstrike](https://github.com/Team-intN18-SoybeanSeclab/prtstrike)** ⭐ 15
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  一个基于Go编写的轻便、小巧、快速的C&C框架
+
+- **[sdwolf4103/opencode-working-memory](https://github.com/sdwolf4103/opencode-working-memory)** ⭐ 14
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Four-tier memory architecture for OpenCode AI agents: persistent core memory, session working memory, smart pruning, and pressure monitoring
 
-- **[ganeshkumaarb/password_manager](https://github.com/ganeshkumaarb/password_manager)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[bluzir/radius](https://github.com/bluzir/radius)** ⭐ 12
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Deterministic security controls for AI agents. No LLM in the decision loop.
+
+- **[huantt/clean-stack](https://github.com/huantt/clean-stack)** ⭐ 11
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[Rakshan-32/LOGIN-PAGE](https://github.com/Rakshan-32/LOGIN-PAGE)** ⭐ 5
+- **[Rakshan-32/LOGIN-PAGE](https://github.com/Rakshan-32/LOGIN-PAGE)** ⭐ 9
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[LisaLoopBot/lisa-loop](https://github.com/LisaLoopBot/lisa-loop)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  EehwFP4EDzfXkz4Sz4wzHd4ydCJ2V7vCMEsh43iopump
-
-- **[marty0678/Messenger-Desktop](https://github.com/marty0678/Messenger-Desktop)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Electron wrapper around the Facebook Messenger site
-
-- **[Bittoku/bsv-sdk-rust](https://github.com/Bittoku/bsv-sdk-rust)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Rust implementation of the BSV SDK and node
-
 ### 📈 Weekly Trending
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,004
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,849
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,456
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** ⭐ 3,571
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   VSCode theme based off the easemate IDE and Jetbrains islands theme
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 1,729
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 1,921
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 963
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Replace port numbers with stable, named .localhost URLs. For humans and agents.
-
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 963
+- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 1,327
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Let coding agents diagnose and fix your React code
 
-- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 883
+- **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ⭐ 986
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Replace port numbers with stable, named .localhost URLs. For humans and agents.
+
+- **[mickamy/sql-tap](https://github.com/mickamy/sql-tap)** ⭐ 888
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Watch SQL traffic in real-time with a TUI
 
-- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 802
+- **[HKUDS/FastCode](https://github.com/HKUDS/FastCode)** ⭐ 820
   ![Python](https://img.shields.io/badge/-Python-blue)
   "FastCode: Accelerating and Streamlining Your Code Understanding"
 
-- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 744
+- **[vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐ 756
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 21,072
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 21,186
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,374
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** ⭐ 16,460
   ![None](https://img.shields.io/badge/-None-lightgrey)
   The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 15,017
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 15,305
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,004
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 11,849
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,192
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 9,225
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,884
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 8,901
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,864
+- **[QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** ⭐ 7,886
   ![Python](https://img.shields.io/badge/-Python-blue)
   Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,504
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** ⭐ 7,506
   ![Python](https://img.shields.io/badge/-Python-blue)
   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
@@ -490,11 +488,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
@@ -502,18 +500,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -522,27 +520,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🔴 Beginner |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
