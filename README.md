@@ -46,33 +46,38 @@
 
 ### 📑 Hacker News
 
-- **[Psychology suggests making a shopping list is a sign of sharper thinking](https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr)**
-  *<p>Article URL: <a href="https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr">...*
-  📅 Tue, 24 Feb 2026 00:37:26 +0000
+- **[Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)**
+  *<p>Article URL: <a href="https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/">https://serverhost.com/blog/firefox-148-launches-with-exciting-ai...*
+  📅 Tue, 24 Feb 2026 05:47:23 +0000
 
-- **[Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)**
-  *<p>Article URL: <a href="https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album">https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-sta...*
-  📅 Tue, 24 Feb 2026 00:33:06 +0000
+- **[Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)**
+  *<p>Article URL: <a href="https://github.com/GreatScott/enveil">https://github.com/GreatScott/enveil</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47133055">https://news.ycombi...*
+  📅 Tue, 24 Feb 2026 05:04:50 +0000
 
-- **[I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)**
-  *<p>Article URL: <a href="https://dork.dev/posts/2026-02-20-ported-coreboot/">https://dork.dev/posts/2026-02-20-ported-coreboot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Mon, 23 Feb 2026 23:58:45 +0000
+- **[Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)**
+  *<p>Article URL: <a href="https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html">https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.htm...*
+  📅 Tue, 24 Feb 2026 04:04:19 +0000
 
-- **[AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)**
-  *<p>Article URL: <a href="https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380">https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-la...*
-  📅 Mon, 23 Feb 2026 22:55:08 +0000
+- **[The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=pWZBQMRmW7k">https://www.youtube.com/watch?v=pWZBQMRmW7k</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47132650">https...*
+  📅 Tue, 24 Feb 2026 03:51:18 +0000
 
-- **[Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)**
-  *<p>Article URL: <a href="https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/">https://writings.stephenwolfram.com/2026/02/making-wolfram-tec...*
-  📅 Mon, 23 Feb 2026 22:11:34 +0000
+- **[Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)**
+  *<p>Article URL: <a href="https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html">https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</a...*
+  📅 Tue, 24 Feb 2026 03:10:16 +0000
 
-- **[You are not supposed to install OpenClaw on your personal computer](https://twitter.com/i/status/2025987544853188836)**
-  *<p>Article URL: <a href="https://twitter.com/i/status/2025987544853188836">https://twitter.com/i/status/2025987544853188836</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47129...*
-  📅 Mon, 23 Feb 2026 22:05:27 +0000
+- **[Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)**
+  *<p>Article URL: <a href="https://lyra.horse/x86css/">https://lyra.horse/x86css/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47132102">https://news.ycombinator.com/item?id=47...*
+  📅 Tue, 24 Feb 2026 02:27:14 +0000
 
 ### 📑 TechCrunch
+
+- **[Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments](https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/)**
+  *Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million....*
+  📅 Tue, 24 Feb 2026 05:30:00 +0000
 
 - **[A Meta AI security researcher said an OpenClaw agent ran amok on her inbox](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)**
   *The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent....*
@@ -94,26 +99,17 @@
   *Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress....*
   📅 Mon, 23 Feb 2026 19:57:27 +0000
 
-- **[Uber wants to be a Swiss Army Knife for robotaxis](https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/)**
-  *Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business....*
-  📅 Mon, 23 Feb 2026 19:54:22 +0000
-
 ### 📑 Dev.to
 
-- **[Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)](https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8)**
-  *<p>Manually bumping a package version is one of those low-value chores that's easy to forget, easy to mess up, and just annoying enough to interrupt your flow. You change <code>package.json</code>, re...*
-  📅 Tue, 24 Feb 2026 01:10:00 +0000
+- **[How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04)**
+  *<p><a href="https://forums.developer.huawei.com/forumPortal/en/topic/0203193990053570022?ha_source=dev-shequ&amp;ha_sourceId=89000192" rel="noopener noreferrer">Read the original article：How can diffe...*
+  📅 Tue, 24 Feb 2026 06:44:00 +0000
 
-- **[How to Track Coding Time Using GitHub Commits (Without Manual Timers)](https://dev.to/jvbalcita/why-developers-still-struggle-to-track-their-actual-coding-time-23pm)**
-  *<p>Developers measure everything.</p>
+- **[Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3)**
+  *<p>Every AI coding tool invented its own context file:</p>
 
-<p>Performance metrics.<br /><br />
-Test coverage.<br /><br />
-CI pipelines.<br /><br />
-Deployment frequency.  </p>
-
-<p>But one thing many developers still stru...*
-  📅 Tue, 24 Feb 2026 01:06:34 +0000
+<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor...*
+  📅 Tue, 24 Feb 2026 06:43:02 +0000
 
 </details>
 
@@ -121,103 +117,103 @@ Deployment frequency.  </p>
 
 ### 📈 Daily Trending
 
-- **[Claudescape/Claudescape](https://github.com/Claudescape/Claudescape)** ⭐ 6
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Runescape automation library, optimized for Claude Opus 4.6
+- **[rebane2001/x86CSS](https://github.com/rebane2001/x86CSS)** ⭐ 55
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.
 
-- **[haruiz/agents_advanced_course](https://github.com/haruiz/agents_advanced_course)** ⭐ 3
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Relaxo-dev/Relaxo](https://github.com/Relaxo-dev/Relaxo)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Relaxo
-
-- **[abdurrafur402-cyber/Rafur](https://github.com/abdurrafur402-cyber/Rafur)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[dennisbajouse17/kingdom-salvation-power-.org](https://github.com/dennisbajouse17/kingdom-salvation-power-.org)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Kingdom Salvation Power Church and School is a Christ-centered ministry committed to transforming lives . Qualified and dedicated teachers work with parents to create a supportive and nurturing learning environment. Modern teaching methods, structured extracurricular activities, and character-building programs help students develop confidence  
-
-- **[yurismo1111/Grisel-castro-](https://github.com/yurismo1111/Grisel-castro-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Misterio
-
-- **[Escuhlade/data-governance-pipeline](https://github.com/Escuhlade/data-governance-pipeline)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  End-to-end data governance pipeline with embedded DQ validation framework — ETL, lineage tracking, and governance artifacts for NYC 311 public dataset.
-
-- **[FrancisZamora/agentic-wallet-guard](https://github.com/FrancisZamora/agentic-wallet-guard)** ⭐ 1
+- **[jesselau76/cigen](https://github.com/jesselau76/cigen)** ⭐ 39
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Open-source security framework that protects AI agent crypto wallets from prompt injection and unauthorized transactions. 9 security layers including human-in-the-loop approval, address allowlists, rate limits, HMAC file integrity, and a kill switch. Built for Coinbase AgentKit, designed to be wallet-agnostic.
+  Interactive root/affix vocabulary memory web app
+
+- **[PinchToDebug/EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch)** ⭐ 29
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  None
+
+- **[hiragram/claude-docker](https://github.com/hiragram/claude-docker)** ⭐ 28
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
+
+- **[ufclu/stanno](https://github.com/ufclu/stanno)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[HKUSTDial/LiteCoST](https://github.com/HKUSTDial/LiteCoST)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🔥[ICLR'26] Official repository for the paper "Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs"
+
+- **[prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook)** ⭐ 10
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  CLI tool that ingests Claude Code sessions, generates LLM summaries, and serves a browsable engineering journal
+
+- **[alvdansen/klippbok](https://github.com/alvdansen/klippbok)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Video dataset curation toolkit
 
 ### 📈 Weekly Trending
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,238
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,256
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 921
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 1,002
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
 
-- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 721
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 735
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
-- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 692
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 676
+- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 716
   ![Python](https://img.shields.io/badge/-Python-blue)
   reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 
-- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 579
+- **[CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** ⭐ 683
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ⭐ 596
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   File-driven AI trading agent engine for crypto and securities markets
 
-- **[Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** ⭐ 510
+- **[Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** ⭐ 517
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 488
+- **[Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** ⭐ 496
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 23,848
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 24,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 18,794
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 19,016
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 17,743
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 18,020
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 13,270
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 13,475
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,136
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,144
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,454
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,525
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 6,779
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 6,819
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 6,769
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** ⭐ 6,788
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
@@ -485,8 +481,8 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🟢 Proficient |
 | Go | 🟢 Proficient |
 
@@ -494,30 +490,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -525,18 +521,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
