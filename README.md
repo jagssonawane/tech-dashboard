@@ -46,71 +46,81 @@
 
 ### 📑 Hacker News
 
-- **[Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer">https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-f...*
-  📅 Wed, 25 Feb 2026 12:01:11 +0000
+- **[Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)**
+  *<p>This started as a hard requirement for my TUI-based editor application, it ended up going in a few different directions.<p>A suite of tools that help with semantic code entities: <a href="https://g...*
+  📅 Wed, 25 Feb 2026 18:28:37 +0000
 
-- **[100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)**
-  *<p>Article URL: <a href="https://github.com/tempestphp/100-million-row-challenge">https://github.com/tempestphp/100-million-row-challenge</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Wed, 25 Feb 2026 10:24:23 +0000
+- **[The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)**
+  *<p>Article URL: <a href="https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/">https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 25 Feb 2026 18:25:57 +0000
 
-- **[Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)**
-  *<p>Article URL: <a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">https://therecord.media/denmark-digital-agency-microsoft-digital-independence</a></p>
-<p>Comment...*
-  📅 Wed, 25 Feb 2026 10:16:22 +0000
+- **[The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)**
+  *<p>Article URL: <a href="https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic">https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Wed, 25 Feb 2026 17:49:27 +0000
 
-- **[Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)**
-  *<p>I've liked all the projects that put LLMs into game environments. It's been a weird juxtaposition, though: frontier LLMs can one-shot full coding projects, and those same models struggle to get out...*
-  📅 Wed, 25 Feb 2026 10:02:45 +0000
+- **[om](https://www.om-language.com/)**
+  *<p>Article URL: <a href="https://www.om-language.com/">https://www.om-language.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47154971">https://news.ycombinator.com/item?i...*
+  📅 Wed, 25 Feb 2026 17:48:21 +0000
 
-- **[LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)**
-  *<p>Article URL: <a href="https://blog.codemine.be/posts/2026/20260222-be-quiet/">https://blog.codemine.be/posts/2026/20260222-be-quiet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Wed, 25 Feb 2026 09:05:40 +0000
+- **[Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)**
+  *<p>Article URL: <a href="https://tachyon.so/blog/sandboxes-wont-save-you">https://tachyon.so/blog/sandboxes-wont-save-you</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4715480...*
+  📅 Wed, 25 Feb 2026 17:37:04 +0000
 
-- **[Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)**
-  *<p>Article URL: <a href="https://code.claude.com/docs/en/remote-control">https://code.claude.com/docs/en/remote-control</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47148454"...*
-  📅 Wed, 25 Feb 2026 07:22:56 +0000
+- **[Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist">https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strateg...*
+  📅 Wed, 25 Feb 2026 17:02:12 +0000
 
 ### 📑 TechCrunch
 
-- **[India’s AI boom pushes firms to trade near-term revenue for users](https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/)**
-  *ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down....*
-  📅 Wed, 25 Feb 2026 02:00:00 +0000
+- **[Waymo to begin testing in Chicago and Charlotte](https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/)**
+  *Waymo this week will begin mapping and collecting data in Chicago and Charlotte. The move comes as Waymo announces it is currently operating its robotaxis fully autonomously in 10 US cities....*
+  📅 Wed, 25 Feb 2026 18:33:52 +0000
 
-- **[Nvidia challenger AI chip startup MatX raised $500M](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)**
-  *The startup was founded by former Google TPU engineers in 2023....*
-  📅 Wed, 25 Feb 2026 00:45:47 +0000
+- **[Gemini can now automate some multi-step tasks on Android](https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/)**
+  *Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google....*
+  📅 Wed, 25 Feb 2026 18:00:00 +0000
 
-- **[Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/)**
-  *Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve....*
-  📅 Wed, 25 Feb 2026 00:37:59 +0000
+- **[OpenAI COO says ads will be ‘an iterative process’](https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/)**
+  *COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product....*
+  📅 Wed, 25 Feb 2026 17:37:37 +0000
 
-- **[Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model](https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/)**
-  *Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model....*
-  📅 Tue, 24 Feb 2026 23:32:00 +0000
+- **[OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve](https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/)**
+  *Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more "playful" makes for a better way to learn AI coding....*
+  📅 Wed, 25 Feb 2026 16:54:46 +0000
 
-- **[Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws](https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/)**
-  *Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults....*
-  📅 Tue, 24 Feb 2026 23:21:54 +0000
+- **[Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/)**
+  *Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-gr...*
+  📅 Wed, 25 Feb 2026 16:00:00 +0000
 
-- **[Uber engineers built an AI version of their boss](https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/)**
-  *Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches....*
-  📅 Tue, 24 Feb 2026 23:09:28 +0000
+- **[About 12% of US teens turn to AI for emotional support or advice](https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/)**
+  *General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary....*
+  📅 Wed, 25 Feb 2026 15:52:03 +0000
 
 ### 📑 Dev.to
 
-- **[I Banned Humans from My Dating Platform. The AI Agents Write Better Love Letters.](https://dev.to/caishengold/i-banned-humans-from-my-dating-platform-the-ai-agents-write-better-love-letters-4gej)**
-  *<p>A few months ago I had an idea: what if a dating platform had zero human content creators?</p>
+- **[Solved: EC2 Cost Optimization](https://dev.to/techresolve/solved-ec2-cost-optimization-43lf)**
+  *<h3>
+  
+  
+  🚀 Executive Summary
+</h3>
 
-<p>I built <a href="https://ai-agent-love.vercel.app" rel="noopener noreferrer">AgentLove</a> — a dat...*
-  📅 Wed, 25 Feb 2026 12:33:16 +0000
+<p><strong>TL;DR:</strong> Unmanaged EC2 instances often lead to unexpected AWS costs due to forgotten resources and poor visibility. This guide provides strate...*
+  📅 Wed, 25 Feb 2026 18:43:16 +0000
 
-- **[How much of your Social feed did you actually choose?](https://dev.to/aadivar/how-much-of-your-social-feed-did-you-actually-choose-1oah)**
-  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
-  📅 Wed, 25 Feb 2026 12:32:19 +0000
+- **[How to Detect Environment Sentiment Shifts with the Pulsebit API (Python)](https://dev.to/pulsebitapi/how-to-detect-environment-sentiment-shifts-with-the-pulsebit-api-python-20kk)**
+  *<h1>
+  
+  
+  How to Detect Environment Sentiment Shifts with the Pulsebit API (Python)
+</h1>
+
+<p>When developing quantitative strategies, sentiment analysis is crucial for understanding market dynamic...*
+  📅 Wed, 25 Feb 2026 18:41:05 +0000
 
 </details>
 
@@ -118,103 +128,103 @@
 
 ### 📈 Daily Trending
 
-- **[wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** ⭐ 83
+- **[wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** ⭐ 128
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   None
 
-- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** ⭐ 69
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** ⭐ 103
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 
-- **[joeseesun/word-root-workshop](https://github.com/joeseesun/word-root-workshop)** ⭐ 55
+- **[joeseesun/word-root-workshop](https://github.com/joeseesun/word-root-workshop)** ⭐ 91
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词
+
+- **[joeseesun/knowledge-site-creator](https://github.com/joeseesun/knowledge-site-creator)** ⭐ 51
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署
+
+- **[thepayjzess/torzon-darknet-link](https://github.com/thepayjzess/torzon-darknet-link)** ⭐ 36
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TorZon Darknet Link
 
 - **[LongLiveY96/chatcube](https://github.com/LongLiveY96/chatcube)** ⭐ 31
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A feature-rich AI chat client for HarmonyOS NEXT, supporting 13+ providers (OpenAI, Claude, DeepSeek, Gemini, etc.) with tool calling    and streaming.
 
-- **[thepayjzess/torzon-darknet-link](https://github.com/thepayjzess/torzon-darknet-link)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Darknet Link
+- **[tronghieuit/tiny-tts](https://github.com/tronghieuit/tiny-tts)** ⭐ 27
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A super-lightweight text-to-speech model with only 9M parameters and ~20 MB weights that delivers fast, efficient, and clear speech synthesis — ideal for on-device, real-time, and resource-constrained applications.
 
-- **[hao-cyber/skill-evolution](https://github.com/hao-cyber/skill-evolution)** ⭐ 20
+- **[hao-cyber/skill-evolution](https://github.com/hao-cyber/skill-evolution)** ⭐ 26
   ![Python](https://img.shields.io/badge/-Python-blue)
   Self-evolving AI skill framework — skills that learn from execution, reflect on failures, and autonomously improve themselves
 
-- **[CodeBotanist/FreeProxyProxy](https://github.com/CodeBotanist/FreeProxyProxy)** ⭐ 16
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A Proxy for Free Proxies [DOGE]
-
-- **[anadim/AdderBoard](https://github.com/anadim/AdderBoard)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Smallest transformer that can add two 10-digit numbers
-
 ### 📈 Weekly Trending
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 2,041
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 2,684
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 1,518
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ⭐ 1,548
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
 
-- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,309
+- **[ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** ⭐ 1,313
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 879
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 1,008
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)** ⭐ 907
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 859
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 886
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 797
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 885
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** ⭐ 801
   ![Python](https://img.shields.io/badge/-Python-blue)
   reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 747
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 696
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 24,947
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 25,071
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 19,722
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 19,839
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 19,011
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 19,135
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 14,438
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 14,599
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,187
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** ⭐ 9,195
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,703
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 7,584
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 7,952
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 7,135
+- **[lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** ⭐ 7,727
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 7,280
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
@@ -481,29 +491,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -511,29 +521,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
