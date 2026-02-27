@@ -46,72 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[US Customs destroys rare floppy disk](https://twitter.com/TehKeripo/status/2027171532825571678)**
-  *<p>Article URL: <a href="https://twitter.com/TehKeripo/status/2027171532825571678">https://twitter.com/TehKeripo/status/2027171532825571678</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 27 Feb 2026 12:03:18 +0000
+- **[Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/)**
+  *<p>Article URL: <a href="https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/">https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 27 Feb 2026 16:48:02 +0000
 
-- **[Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)**
-  *<p>Article URL: <a href="https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c">https://apnews.com/article/military-laser-border-drone-texas-airport-55a...*
-  📅 Fri, 27 Feb 2026 11:37:49 +0000
+- **[Allocating on the Stack](https://go.dev/blog/allocation-optimizations)**
+  *<p>Article URL: <a href="https://go.dev/blog/allocation-optimizations">https://go.dev/blog/allocation-optimizations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47182487">htt...*
+  📅 Fri, 27 Feb 2026 16:34:05 +0000
 
-- **[MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)**
-  *<p>Article URL: <a href="https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid">https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid</a></p>
-<p...*
-  📅 Fri, 27 Feb 2026 10:52:07 +0000
+- **[NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)**
+  *<p>Article URL: <a href="https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/">https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Fri, 27 Feb 2026 16:33:39 +0000
 
-- **[F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)**
-  *<p>Article URL: <a href="https://f-droid.org/2026/02/26/board-of-directors-nominations.html">https://f-droid.org/2026/02/26/board-of-directors-nominations.html</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Fri, 27 Feb 2026 10:27:29 +0000
+- **[Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)**
+  *<p>Article URL: <a href="https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies">https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-...*
+  📅 Fri, 27 Feb 2026 15:44:33 +0000
 
-- **[Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cddnry8dnl7o">https://www.bbc.com/news/articles/cddnry8dnl7o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47178836"...*
-  📅 Fri, 27 Feb 2026 10:21:40 +0000
+- **[We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)**
+  *<p>Article URL: <a href="https://www.mendral.com/blog/llms-are-good-at-sql">https://www.mendral.com/blog/llms-are-good-at-sql</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=471...*
+  📅 Fri, 27 Feb 2026 15:41:13 +0000
 
-- **[Breaking Free](https://www.forbrukerradet.no/breakingfree/)**
-  *<p>Article URL: <a href="https://www.forbrukerradet.no/breakingfree/">https://www.forbrukerradet.no/breakingfree/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47178678">https...*
-  📅 Fri, 27 Feb 2026 09:56:42 +0000
+- **[Open source calculator firmware DB48X forbids CA/CO use due to age verification](https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286)**
+  *<p>Article URL: <a href="https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286">https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286</a></p>
+<p>Comments ...*
+  📅 Fri, 27 Feb 2026 15:37:53 +0000
 
 ### 📑 TechCrunch
 
-- **[Ultrahuman bets on redesigned smart ring to win back U.S. market after Oura dispute](https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/)**
-  *Ultrahuman’s Ring Pro promises 15-day battery life and a $479 price tag as the wearables maker expands its health-tech push....*
-  📅 Fri, 27 Feb 2026 11:00:00 +0000
+- **[ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)**
+  *OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding....*
+  📅 Fri, 27 Feb 2026 18:25:51 +0000
 
-- **[Plaid valued at $8B in employee share sale](https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/)**
-  *The new valuation is a 31% increase from $6.1 billion Plaid reached in April....*
-  📅 Fri, 27 Feb 2026 07:19:05 +0000
+- **[AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue](https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/)**
+  *Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort....*
+  📅 Fri, 27 Feb 2026 17:22:02 +0000
 
-- **[Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/)**
-  *In a one-two punch of centibillion-dollar offers, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount will acquire Warner Bros. Discovery. Netflix has lost....*
-  📅 Thu, 26 Feb 2026 23:55:39 +0000
+- **[Apple and Netflix team up to air Formula 1 Canadian Grand Prix](https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/)**
+  *As Netflix continues its live sports push, the company has partnered with Apple to air the Formula 1 Canadian Grand Prix....*
+  📅 Fri, 27 Feb 2026 17:17:18 +0000
 
-- **[Jack Dorsey just halved the size of Block’s employee base — and he says your company is next](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/)**
-  *Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes....*
-  📅 Thu, 26 Feb 2026 23:43:32 +0000
+- **[Perplexity’s new Computer is another bet that users need many AI models](https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/)**
+  *Perplexity Computer, in the company’s words, "unifies every current AI capability into a single system."...*
+  📅 Fri, 27 Feb 2026 17:00:55 +0000
 
-- **[Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/)**
-  *Anthropic CEO Dario Amodei said Thursday that he "cannot in good conscience accede" to the Pentagon's demands to give the military unrestricted access to its AI systems....*
-  📅 Thu, 26 Feb 2026 23:19:06 +0000
+- **[Pokémon Winds and Pokémon Waves are coming to the Nintendo Switch 2 in 2027](https://techcrunch.com/2026/02/27/pokemon-winds-and-pokemon-waves-are-coming-to-the-nintendo-switch-2-in-2027/)**
+  *The tenth generation starter Pokémon were revealed in the trailer: Browt (a grass bird), Pombon (a fire puppy), and Gecqua (a water gecko)....*
+  📅 Fri, 27 Feb 2026 16:57:21 +0000
 
-- **[PayPal might not be looking to sell itself: Report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/)**
-  *PayPal may not be in talks to be acquired, sources have told Semafor, after a previous news report that Stripe was sniffing around....*
-  📅 Thu, 26 Feb 2026 22:23:42 +0000
+- **[Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter](https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/)**
+  *While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry....*
+  📅 Fri, 27 Feb 2026 16:23:58 +0000
 
 ### 📑 Dev.to
 
-- **[Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft & 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)**
-  *<p>@citedy/<a href="mailto:game-sounds@2.0.0">game-sounds@2.0.0</a> — 11 new packs just dropped 🔥</p>
+- **[Check Nginx Configuration: Manual & Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)**
+  *<h1>
+  
+  
+  Mastering Nginx Configuration: A Comprehensive Guide to Checking and Validating
+</h1>
 
-<p>Batman • Matrix • Harry Potter • Game of Thrones • Lord of the Rings • Star Trek •  Mission Im...*
-  📅 Fri, 27 Feb 2026 12:30:55 +0000
+<p>Nginx configuration validation is a critical skill for maintaining stable web infrastructure. Whe...*
+  📅 Fri, 27 Feb 2026 18:23:23 +0000
 
-- **[json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg)**
-  *<p>JSON is not deterministic. Object key order, number formatting, and whitespace vary across serializers, languages, and runtime versions. For most applications this doesn’t matter. For systems that ...*
-  📅 Fri, 27 Feb 2026 12:28:01 +0000
+- **[AI-to-AI coordination protocol concept (Synthospeak) — useful abstraction or unnecessary layer?](https://dev.to/anthropic/ai-to-ai-coordination-protocol-concept-synthospeak-useful-abstraction-or-unnecessary-layer-2ncn)**
+  *<p>a project called Synthospeak that proposes a protocol layer specifically designed for AI-to-AI interaction.</p>
+
+<p>The premise is straightforward: most current AI systems communicate through APIs,...*
+  📅 Fri, 27 Feb 2026 18:20:21 +0000
 
 </details>
 
@@ -119,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[xstongxue/best-prompts](https://github.com/xstongxue/best-prompts)** ⭐ 137
+- **[xstongxue/best-prompts](https://github.com/xstongxue/best-prompts)** ⭐ 251
   ![None](https://img.shields.io/badge/-None-lightgrey)
   通用高质量 Prompt 合集🔥
 
-- **[justinmoon/rmp-example](https://github.com/justinmoon/rmp-example)** ⭐ 39
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
+- **[arturoabreuhd/pinescript-ai](https://github.com/arturoabreuhd/pinescript-ai)** ⭐ 114
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[nickvanw/PgVideoChat](https://github.com/nickvanw/PgVideoChat)** ⭐ 36
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  chat through postgres! 
+- **[theforeveriris/simulated-12306-view](https://github.com/theforeveriris/simulated-12306-view)** ⭐ 78
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求
 
-- **[channeleldernumber/solana-trading-bot](https://github.com/channeleldernumber/solana-trading-bot)** ⭐ 25
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  solana bot || solana trading bot || solana warp trading bot || solana meme sniper bot || solana trade bot || solana trading bot v3 || solana raydium sniper bot
-
-- **[poteto/brainmaxxing](https://github.com/poteto/brainmaxxing)** ⭐ 24
+- **[poteto/brainmaxxing](https://github.com/poteto/brainmaxxing)** ⭐ 77
   ![Python](https://img.shields.io/badge/-Python-blue)
   stupid simple persistent memory and skill improvement
 
-- **[gcamarao/teste_itau_v2](https://github.com/gcamarao/teste_itau_v2)** ⭐ 24
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[channeleldernumber/solana-trading-bot](https://github.com/channeleldernumber/solana-trading-bot)** ⭐ 64
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  solana bot || solana trading bot || solana warp trading bot || solana meme sniper bot || solana trade bot || solana trading bot v3 || solana raydium sniper bot
+
+- **[v1ewp0rt/BAREBLOOD](https://github.com/v1ewp0rt/BAREBLOOD)** ⭐ 62
+  ![QML](https://img.shields.io/badge/-QML-lightgrey)
+  Gothic maximalist linux theme for KDE plasma 6.5
+
+- **[rust-multiplatform/rmp](https://github.com/rust-multiplatform/rmp)** ⭐ 57
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[Sakura-501/XSStrike-go](https://github.com/Sakura-501/XSStrike-go)** ⭐ 22
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  XSStrike-go
-
-- **[RITH-111/MAITRI-AI](https://github.com/RITH-111/MAITRI-AI)** ⭐ 22
+- **[nickvanw/PgVideoChat](https://github.com/nickvanw/PgVideoChat)** ⭐ 56
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  chat through postgres! 
 
 ### 📈 Weekly Trending
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,222
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,342
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 3,471
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 3,851
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 2,997
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 3,498
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 2,198
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 2,314
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,415
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,447
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,239
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,250
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[kevinho/clawfeed](https://github.com/kevinho/clawfeed)** ⭐ 1,095
+- **[kevinho/clawfeed](https://github.com/kevinho/clawfeed)** ⭐ 1,148
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
 
-- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 729
+- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 786
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,215
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,328
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 20,671
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 20,756
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 20,274
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 20,401
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 15,738
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 15,866
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 10,601
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 11,046
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 7,899
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 7,977
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 5,978
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 6,193
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   497 models. 133 providers. One command to find what runs on your hardware.
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,688
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,698
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
@@ -485,59 +491,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | ⚪ Planned |
 | Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
