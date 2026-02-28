@@ -46,37 +46,47 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)**
-  *<p>Hi HN,<p>I built SplatHash. It's a lightweight image placeholder generator I wrote to be a simpler, faster alternative to BlurHash and ThumbHash.<p>Repo: <a href="https://github.com/junevm/splathas...*
-  📅 Sat, 28 Feb 2026 11:24:45 +0000
+- **[CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)**
+  *<p>Article URL: <a href="https://www.kayssel.com/newsletter/issue-20/">https://www.kayssel.com/newsletter/issue-20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47198099">htt...*
+  📅 Sat, 28 Feb 2026 17:43:22 +0000
 
-- **[OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)**
-  *<p>Article URL: <a href="https://help.openai.com/en/articles/6378407-how-to-delete-your-account">https://help.openai.com/en/articles/6378407-how-to-delete-your-account</a></p>
+- **[Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)**
+  *<p>Article URL: <a href="https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00">https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00</a></p>
 <p>Comments URL: <a href...*
-  📅 Sat, 28 Feb 2026 10:41:55 +0000
+  📅 Sat, 28 Feb 2026 16:58:54 +0000
 
-- **[Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)**
-  *<p>Article URL: <a href="https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs">https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sat, 28 Feb 2026 08:56:33 +0000
-
-- **[Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)**
-  *<p>Article URL: <a href="https://dspace.networks.imdea.org/handle/20.500.12761/2011">https://dspace.networks.imdea.org/handle/20.500.12761/2011</a></p>
+- **[The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)**
+  *<p>Article URL: <a href="https://garymarcus.substack.com/p/the-whole-thing-was-scam">https://garymarcus.substack.com/p/the-whole-thing-was-scam</a></p>
 <p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 28 Feb 2026 07:45:36 +0000
+  📅 Sat, 28 Feb 2026 16:51:49 +0000
 
-- **[US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)**
-  *<p><a href="https://archive.ph/VqSqj" rel="nofollow">https://archive.ph/VqSqj</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47191232">https://news.ycombinator.com/item?...*
-  📅 Sat, 28 Feb 2026 06:34:07 +0000
+- **[Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)**
+  *<p>Article URL: <a href="https://help.obsidian.md/sync/headless">https://help.obsidian.md/sync/headless</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47197267">https://news.yc...*
+  📅 Sat, 28 Feb 2026 16:31:53 +0000
 
-- **[Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)**
-  *<p>Article URL: <a href="https://computer.rip/2026-02-27-ibm-atm.html">https://computer.rip/2026-02-27-ibm-atm.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47190806">htt...*
-  📅 Sat, 28 Feb 2026 05:21:21 +0000
+- **[Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet)**
+  *<p>Hey HN! We posted Rivet Actors here previously [1] as an open-source alternative to Cloudflare Durable Objects.<p>Today we've released SQLite storage for actors (Apache 2.0).<p>Every actor gets its...*
+  📅 Sat, 28 Feb 2026 16:11:58 +0000
+
+- **[Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)**
+  *<p>Article URL: <a href="https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/">https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-compreh...*
+  📅 Sat, 28 Feb 2026 15:39:10 +0000
 
 ### 📑 TechCrunch
+
+- **[OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/)**
+  *OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic....*
+  📅 Sat, 28 Feb 2026 16:17:36 +0000
+
+- **[Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank](https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/)**
+  *We round up everything Xiaomi announced at its Mobile World Congress event....*
+  📅 Sat, 28 Feb 2026 15:09:03 +0000
+
+- **[Why China’s humanoid robot industry is winning the early market](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/)**
+  *China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market....*
+  📅 Sat, 28 Feb 2026 15:00:00 +0000
 
 - **[India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/)**
   *India, one of Supabase’s biggest markets, is seeing patchy access after a government block order....*
@@ -90,52 +100,19 @@
   *"We don't need it, we don't want it, and will not do business with them again," the president wrote in the post....*
   📅 Fri, 27 Feb 2026 21:53:14 +0000
 
-- **[Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/)**
-  *In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images....*
-  📅 Fri, 27 Feb 2026 19:42:00 +0000
-
-- **[Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/)**
-  *Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...*
-  📅 Fri, 27 Feb 2026 19:11:04 +0000
-
-- **[ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)**
-  *OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding....*
-  📅 Fri, 27 Feb 2026 18:25:51 +0000
-
 ### 📑 Dev.to
 
-- **[IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9)**
-  *<h2>
-  
-  
-  Summary
-</h2>
+- **[Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fupl...*
+  📅 Sat, 28 Feb 2026 18:19:28 +0000
 
-<h3>
-  
-  
-  English
-</h3>
+- **[After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07)**
+  *<p>I shipped swisscontract.ai in a weekend. Told the story. Thought I was done.</p>
 
-<p>AI-Assisted Zephyr RTOS Development Environment Setup</p>
+<p>Then Monday happened.</p>
 
-<p>Successfully set up a Zephyr development environment for STM32 Nucleo-L433RC-P ...*
-  📅 Sat, 28 Feb 2026 12:19:31 +0000
-
-- **[Quark's Outlines: Python Customizing Attribute Access](https://dev.to/mike-vincent/quarks-outlines-python-customizing-attribute-access-l)**
-  *<h1>
-  
-  
-  Quark’s Outlines: Python Customizing Attribute Access
-</h1>
-
-<p><em>Overview, Historical Timeline, Problems &amp; Solutions</em></p>
-
-<h2>
-  
-  
-  An Overview of Python Customizing Attrib...*
-  📅 Sat, 28 Feb 2026 12:13:13 +0000
+<p>Turns out a contract analyser that can't read scanned PDFs, only speaks English, a...*
+  📅 Sat, 28 Feb 2026 18:18:02 +0000
 
 </details>
 
@@ -143,103 +120,103 @@
 
 ### 📈 Daily Trending
 
+- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 430
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
+
 - **[adysec/CForum](https://github.com/adysec/CForum)** ⭐ 127
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing.
 
-- **[star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills)** ⭐ 77
+- **[star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills)** ⭐ 125
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Day1Global Skills Share
 
-- **[carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain)** ⭐ 42
+- **[carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain)** ⭐ 80
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI instead of generic output.
 
-- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 39
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
+- **[34306/vphone-aio](https://github.com/34306/vphone-aio)** ⭐ 73
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  1 script run the vphone
 
-- **[vova-zhuravlkv/onion-torzon-link-market](https://github.com/vova-zhuravlkv/onion-torzon-link-market)** ⭐ 27
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Onion TorZon Link Market
-
-- **[junyuw2289-svg/voicepaste](https://github.com/junyuw2289-svg/voicepaste)** ⭐ 26
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[veucsel/market-url-torzon](https://github.com/veucsel/market-url-torzon)** ⭐ 19
+- **[veucsel/market-url-torzon](https://github.com/veucsel/market-url-torzon)** ⭐ 65
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Market URL TorZon
 
-- **[v4ka-odess/torzon-marketplace](https://github.com/v4ka-odess/torzon-marketplace)** ⭐ 18
+- **[vova-zhuravlkv/onion-torzon-link-market](https://github.com/vova-zhuravlkv/onion-torzon-link-market)** ⭐ 63
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  TorZon Marketplace
+  Onion TorZon Link Market
+
+- **[junyuw2289-svg/voicepaste](https://github.com/junyuw2289-svg/voicepaste)** ⭐ 58
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 4,766
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 4,664
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 5,221
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,606
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 4,835
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,658
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 2,785
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 2,997
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,550
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 1,461
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 1,880
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,303
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,596
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,325
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 859
+- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** ⭐ 878
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,757
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 26,858
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,036
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,091
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 20,924
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,086
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,294
+- **[qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)** ⭐ 16,491
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 12,574
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 12,968
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 8,125
+- **[Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** ⭐ 8,179
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Elevate your AI research writing, no more tedious polishing ✨ 
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 6,647
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 6,807
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   497 models. 133 providers. One command to find what runs on your hardware.
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,866
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 5,896
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
@@ -509,51 +486,51 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -561,7 +538,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Blockchain | 🟡 Learning |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
