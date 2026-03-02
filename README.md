@@ -46,33 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)**
-  *<p>Article URL: <a href="https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts">https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts</a></p>
-<p>Comments URL: <...*
-  📅 Mon, 02 Mar 2026 05:39:36 +0000
+- **[Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/)**
+  *<p>Hi HN,<p>I’ve been working on a browser-based tool for exploring and debugging Web Audio API graphs.<p>Web Audio Studio lets you write real Web Audio API code, run it, and see the runtime graph it ...*
+  📅 Mon, 02 Mar 2026 11:47:44 +0000
 
-- **[Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)**
-  *<p>Article URL: <a href="https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/">https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 02 Mar 2026 04:23:53 +0000
+- **[Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)**
+  *<p>Article URL: <a href="https://karanbansal.in/blog/claude-code-lsp/">https://karanbansal.in/blog/claude-code-lsp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47216765">htt...*
+  📅 Mon, 02 Mar 2026 11:47:16 +0000
 
-- **[How to record and retrieve anything you've ever had to look up twice](https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase)**
-  *<p>Article URL: <a href="https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase">https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase</a...*
-  📅 Mon, 02 Mar 2026 04:15:16 +0000
+- **[Microsoft bans the word "Microslop" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/)**
+  *<p>Article URL: <a href="https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/">https://www.windowslatest.com/20...*
+  📅 Mon, 02 Mar 2026 10:23:06 +0000
 
-- **[Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae)**
-  *<p>Article URL: <a href="https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae">https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25a...*
-  📅 Mon, 02 Mar 2026 04:06:00 +0000
+- **[Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)**
+  *<p>Article URL: <a href="https://commerce.jolla.com/products/jolla-phone-sept-26">https://commerce.jolla.com/products/jolla-phone-sept-26</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Mon, 02 Mar 2026 10:21:24 +0000
 
-- **[Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)**
-  *<p>Article URL: <a href="https://github.com/kossisoroyce/timber">https://github.com/kossisoroyce/timber</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47212576">https://news.yc...*
-  📅 Mon, 02 Mar 2026 00:57:40 +0000
+- **[U.S. science agency moves to restrict foreign scientists from its labs](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs)**
+  *<p>Article URL: <a href="https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs">https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-lab...*
+  📅 Mon, 02 Mar 2026 09:20:06 +0000
 
-- **[If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)**
-  *<p>Article URL: <a href="https://github.com/mandel-macaque/memento">https://github.com/mandel-macaque/memento</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47212355">https://n...*
-  📅 Mon, 02 Mar 2026 00:27:52 +0000
+- **[/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)**
+  *<p>Article URL: <a href="https://e.foundation/e-os/">https://e.foundation/e-os/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47215489">https://news.ycombinator.com/item?id=47...*
+  📅 Mon, 02 Mar 2026 09:09:44 +0000
 
 ### 📑 TechCrunch
 
@@ -102,23 +101,15 @@
 
 ### 📑 Dev.to
 
-- **[Designing AI Policy Engines & Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)**
-  *<p><strong>Defining the AI Policy Engine</strong></p>
+- **[Add an Audit Trail to Your API in Minutes with HazelJS](https://dev.to/arslan_mecom/add-an-audit-trail-to-your-api-in-minutes-with-hazeljs-3akn)**
+  *<p><strong>Who did what, when, and with what outcome?</strong> If your API needs to answer that for compliance, security, or debugging, you need a structured audit trail. This post shows how to get on...*
+  📅 Mon, 02 Mar 2026 12:32:45 +0000
 
-<p>An AI Policy Engine is a centralized governance layer that intercepts requests and responses to enforce organizational, safety, and operationa...*
-  📅 Mon, 02 Mar 2026 06:40:57 +0000
+- **[.NET: CopyToAsync vs WriteAsync: The Benchmark You Didn’t Know You Needed](https://dev.to/gramli/net-copytoasync-vs-writeasync-the-benchmark-you-didnt-know-you-needed-1g39)**
+  *<p>I had a task where one small part involved writing a byte array to a <code>MemoryStream</code>.</p>
 
-- **[built a free DevOps error search engine — here's why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)**
-  *<h2>
-  
-  
-  It's 2 AM. A pod is crashing. You have no idea why.
-</h2>
-
-<p>You open Stack Overflow. The top answer is from 2019 and the commands don't work anymore.</p>
-
-<p>You ask ChatGPT. It gives y...*
-  📅 Mon, 02 Mar 2026 06:37:16 +0000
+<p>Since this was a trivial task, I let Copilot generate the code. But Copilot used <code>CopyTo...*
+  📅 Mon, 02 Mar 2026 12:31:27 +0000
 
 </details>
 
@@ -126,105 +117,105 @@
 
 ### 📈 Daily Trending
 
-- **[LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)** ⭐ 94
+- **[LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)** ⭐ 286
   ![Python](https://img.shields.io/badge/-Python-blue)
   🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai
 
-- **[0xsline/short-drama](https://github.com/0xsline/short-drama)** ⭐ 60
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[TriangleMagistrate/DeepSeek-Claw](https://github.com/TriangleMagistrate/DeepSeek-Claw)** ⭐ 48
+- **[TriangleMagistrate/DeepSeek-Claw](https://github.com/TriangleMagistrate/DeepSeek-Claw)** ⭐ 130
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[LeoYeAI/openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)** ⭐ 27
+- **[LeoYeAI/openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)** ⭐ 98
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai
 
-- **[xiayu519/Tyou](https://github.com/xiayu519/Tyou)** ⭐ 21
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  CocosCreator 3.8.7 基础框架 比较适合unity转型ccc的使用者 参考了unity开源框架 TEngine 和 YouYouFrameWork 以及 cocoscreator一些开源框架
-
-- **[Picrew/OpenRAG-Skill](https://github.com/Picrew/OpenRAG-Skill)** ⭐ 9
+- **[0xsline/short-drama](https://github.com/0xsline/short-drama)** ⭐ 83
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Prompt-only RAG with strict citations for in-context documents | 面向上下文内文档的纯 Prompt 引用型 RAG Skill
+  专业的短剧剧本创作skill,从选题立项到分集撰写、质量自检、合规审核、海外出海，覆盖短剧剧本生产全流程。
 
-- **[optimistengineer/remoat](https://github.com/optimistengineer/remoat)** ⭐ 8
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Control your AI code editor from anywhere — right from Telegram.
+- **[i1kazantsev/claude-code-spinner](https://github.com/i1kazantsev/claude-code-spinner)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Замена фраз спиннера клод-кода для уважаемых вайбкодеров.
 
-- **[xiamuceer-j/EasyProxiesV2](https://github.com/xiamuceer-j/EasyProxiesV2)** ⭐ 7
+- **[LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)** ⭐ 42
   ![Go](https://img.shields.io/badge/-Go-cyan)
-  二开项目，基于jasonwong1991佬的easy_proxies项目
+  ARM64 ELF Virtual Machine Protection System
+
+- **[slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide)** ⭐ 35
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.
+
+- **[yjib6o2ev/torzon-market-mirror](https://github.com/yjib6o2ev/torzon-market-mirror)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  TorZon Market Mirror
 
 ### 📈 Weekly Trending
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 8,150
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 8,722
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 4,996
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** ⭐ 5,078
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
-- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 4,046
+- **[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)** ⭐ 4,637
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,593
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** ⭐ 3,713
   ![Python](https://img.shields.io/badge/-Python-blue)
   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 1,985
+- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** ⭐ 2,317
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,724
+- **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)** ⭐ 1,751
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,423
+- **[Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)** ⭐ 1,450
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)** ⭐ 1,099
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
+- **[ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** ⭐ 1,226
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 
 ### 📈 Monthly Trending
 
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,427
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** ⭐ 27,636
   ![Python](https://img.shields.io/badge/-Python-blue)
   "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 21,893
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** ⭐ 22,080
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,438
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** ⭐ 21,534
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 15,055
+- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** ⭐ 15,417
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A community collection of OpenClaw use cases for making life easier.
 
-- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 8,150
+- **[RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)** ⭐ 8,722
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Open-source Agent Operating System
 
-- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 7,930
+- **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** ⭐ 8,445
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Hundreds of models & providers. One command to find what runs on your hardware.
 
-- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,021
+- **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** ⭐ 6,062
   ![Python](https://img.shields.io/badge/-Python-blue)
   "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** ⭐ 5,120
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Let coding agents diagnose and fix your React code
+- **[anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** ⭐ 5,144
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -492,59 +483,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
 | Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
 | Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
